@@ -1,0 +1,14 @@
+public/
+.env
+.env.markfile
+node_modules/
+.DS_Store
+\.idea/
+\.firebase/
+resources/
+
+data/auth\.yaml
+
+\.env\.makefile
+
+.log

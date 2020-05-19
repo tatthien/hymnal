@@ -1,0 +1,26 @@
+<footer id="colophon" class="site-footer">
+  <nav role="navigation" class="site-footer__nav">
+    {{ range .Site.Menus.footer }}
+    <a href="{{ .URL }}" class="sub-color">{{ .Title }}</a>
+    {{ end }}
+  </nav>
+  <p>Đóng góp trên <a href="https://github.com/12bitvn/12bit.vn" rel="noreferrer" target="_blank">GitHub</a></p>
+</footer><!-- #colophon -->
+</div>
+<!-- #wrap -->
+
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4" defer></script>
+{{ $search := resources.Get "js/search.js"}}
+{{ $searchJs := $search | resources.Minify | resources.Fingerprint}}
+<script src="{{ $searchJs.RelPermalink }}" defer></script>
+
+{{ $app := resources.Get "js/app.js"}}
+
+{{ $js := $app | resources.Minify | resources.Fingerprint}}
+<script src="{{ $js.RelPermalink }}" defer></script>
+
+{{ if eq (getenv "HUGO_ENV") "production" }}
+{{ template "_internal/google_analytics_async.html" . }}
+{{ end }}
+</body>
+</html>

@@ -1,0 +1,12 @@
+{{ partial "header" . }}
+{{ $pages := where .Site.RegularPages "Type" "hymn" }}
+{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+<main id="content" class="site-content index list">
+  <div>
+    {{ range $paginator.Pages }}
+    {{ partial "article/list-item" . }}
+    {{ end }}
+  </div>
+{{ template "_internal/pagination.html" . }}
+</main><!-- #content -->
+{{ partial "footer" . }}

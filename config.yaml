@@ -1,0 +1,69 @@
+languageCode: vi-vn
+copyright: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+title: 12bit.vn
+description: write and share to learn
+baseURL: https://12bit.vn/
+theme: hymn
+paginate: 40
+outputs:
+  home:
+  - HTML
+  - RSS
+  - Algolia
+params:
+  description: write and share to learn
+  favicon: img/icon/favicon.png
+  images:
+    - img/index.png
+  algolia:
+    vars: ["title", "content", "summary", "date", "publishdate", "permalink"]
+    params: ["category", "sub_category"]
+
+outputFormats:
+  Algolia:
+    baseName: algolia
+    isPlainText: true
+    mediaType: application/json
+    notAlternative: true
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+menu:
+  main:
+  - identifier: about
+    title: Giới thiệu
+    url: /pages/about
+  - identifier: chat
+    title: Chat
+    url: https://discord.gg/uMJxpXB
+  - identifier: News
+    title: News
+    url: https://news.12bit.vn
+  footer:
+    - identifier: 0
+      title: Series
+      url: /series/
+    - identifier: 1
+      title: References
+      url: /references/
+    - identifier: 2
+      title: Donate
+      url:  https://www.buymeacoffee.com/12bitvn
+    - identifier: 3
+      title: RSS
+      url: /index.xml
