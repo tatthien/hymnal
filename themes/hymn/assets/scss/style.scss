@@ -221,14 +221,17 @@ sub, sup {
       &:hover {	
         background-color: rgba($color-primary, .1);	
       }	
-      h3 {	
+      .title, .summary {	
         margin: 0;	
         color: $color-dark;	
         @include font-size(1);	
         em {
           background-color: rgba($color-primary, .3);	
         }	
-      }	
+      }
+      .summary {
+        color: rgba($color-dark, .8);
+      }
     }
   }	
   .na {	

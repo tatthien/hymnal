@@ -62,6 +62,7 @@ search.addWidget(
 const itemTemplate = `
 <a class="search-result-item-{{type}} search-result-item" href="{{ relpermalink }}">
   <h3 class="title">{{#isTag}}#{{/isTag}}{{{ _highlightResult.title.value }}}</h3>
+  <div class="summary">{{{ _highlightResult.summary.value }}}</div>
 </a>`
 
 // initialize hits widget
