@@ -251,7 +251,9 @@ sub, sup {
     margin-top: 0;
     margin-bottom: 0;
     font-weight: $font-weight-bold;
-    color: $color-primary;
+    a {
+      color: $color-dark;
+    }
   }
   &__intro {
     color: $color-light;
@@ -271,6 +273,14 @@ sub, sup {
   &__content {
     margin-top: 30px;
     margin-bottom: 50px;
+  }
+  &__category {
+    display: flex;
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 0 0.5rem;
+    }
   }
 }
 

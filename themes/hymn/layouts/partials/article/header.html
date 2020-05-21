@@ -1,3 +1,11 @@
 <header>
   <h1 class="article__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+  <div class="article__category">
+    <span>Chủ đề</span>
+    <ul>
+      {{ range (.GetTerms "categories") }}
+          <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
 </header>

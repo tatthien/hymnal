@@ -1,11 +1,11 @@
-{{ $related := .Site.RegularPages.Related . | first 5 }}
-{{ with $related }}
 <section class="single-section related-section">
-  <h1 class="single-section__title">Đọc thêm</h1>
-  <ul>
+  {{ $hymns := where (where .Site.Pages "Type" "hymn") ".Params.categories" "intersect" .Params.categories }}
+  {{ with $hymns }}
+  <h1 class="single-section__title">Cùng chủ đề</h1>
+  <ol>
     {{ range . }}
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
-  </ul>
+  </ol>
+  {{ end }}
 </section>
-{{ end }}
