@@ -2,7 +2,7 @@ languageCode: vi-vn
 copyright: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 title: The Vietnamese Christian Hymnal
 description: The Vietnamese Christian Hymnal
-baseURL: https://hymn.thien.dev/
+baseURL: https://hymnal.thien.dev/
 theme: hymn
 paginate: 40
 outputs:
