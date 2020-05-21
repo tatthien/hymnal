@@ -1,8 +1,7 @@
 ---
 title: 478. Chúa Jêsus Là Nơi Yên Nghỉ Tôi
 weight: 478
-categories: Đời Tín Đồ
-sub-categories: Bình An
+categories: Bình An
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Chúa cho linh hồn vui sướng nghỉ ngơi, <br/>Xin chỉ đi theo tìm nơi; <br/>Há tôi nay còn vui vẻ đâu nữa? <br/>Chắc hẳn Jê-sus đưa hồn tôi. <br/>Đi trong nẻo Jê-sus soi sáng; <br/>Ấy bởi Chúa thương tôi lai láng. <br/>Jê-sus dẫn tôi đến Chúa Cha, <br/>Đường xa thay! thế mà không xa. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa Jê-sus là nơi yên nghỉ tôi, <br/>Tôi chỉ nương nơi Ngài thôi. <br/>Há tôi nay còn mong mỏi chi nữa? <br/>Có chỗ Jê-sus yên lòng thôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Chúa tha tội rồi, tôi khỏi khổ cay, <br/>Yên nghỉ thay cho hồn tôi; <br/>Chúa hy sinh rồi, thay lỗi tôi hết. <br/>Huyết đổ ra cho tôi lòng trong; <br/>Xin dâng cả thân tôi cho Chúa, <br/>Dưới bóng Chúa tôi xin giao phó. <br/>Jê-sus biết tôi yếu đuối thay, <br/>Ngài thương tôi tớ Ngài không thôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa Jê-sus là nơi yên nghỉ tôi, <br/>Tôi chỉ nương nơi Ngài thôi. <br/>Há tôi nay còn mong mỏi chi nữa? <br/>Có chỗ Jê-sus yên lòng thôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Chúa Jê-sus hộ tôi qua chỗ nguy, <br/>Tôi vững thay trong lòng tôi; <br/>Quỷ Sa-tan tài chi khỏi tay Chúa, <br/>Chúa giữ tôi luôn, tôi mừng thay! <br/>Jê-sus giữ tôi nên tôi thắng, <br/>Rất đáng kính khen thay danh Chúa. <br/>Trong khi chết, tôi chẳng khiếp kinh, <br/>Lòng vui thay, cứ nhờ Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa Jê-sus là nơi yên nghỉ tôi, <br/>Tôi chỉ nương nơi Ngài thôi. <br/>Há tôi nay còn mong mỏi chi nữa? <br/>Có chỗ Jê-sus yên lòng thôi. </em></dd></dl>

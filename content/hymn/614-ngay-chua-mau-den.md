@@ -1,8 +1,7 @@
 ---
 title: 614. Ngày Chúa Mau Đến
 weight: 614
-categories: Chúa Jêsus Christ
-sub-categories: Tái Lâm
+categories: Tái Lâm
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tội nhân than khóc trong bóng tối đen triền miên, <br/>Khát vọng ánh dương rạng ngời soi sáng trong đêm. <br/>Họ chưa nghe đến danh Chúa Đấng yêu tội nhân. <br/>Chúa cần cứu ngay bao người đau đớn đang trầm luân. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngày Ngài mau đến, khi khắp nơi nghe Tin Lành. <br/>Bình an yên nghỉ thay nhọc nhằn, thay lo lắng. <br/>Ngài truyền ta tới ngàn phương rao ra ơn Chúa. <br/>Đến khi các dân tộc cùng được nghe tiếng vui: <br/>Jê-sus cứu mọi tội nhân. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tội nhân hư mất trong bóng tối đen triền miên; <br/>Chúa thương lắng nghe người người rên siết trong đêm. <br/>Ngài sai ta đến đem ánh sáng khơi niềm tin. <br/>Dắt người cách xa quay về bên Chúa vui nghỉ yên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngày Ngài mau đến, khi khắp nơi nghe Tin Lành. <br/>Bình an yên nghỉ thay nhọc nhằn, thay lo lắng. <br/>Ngài truyền ta tới ngàn phương rao ra ơn Chúa. <br/>Đến khi các dân tộc cùng được nghe tiếng vui: <br/>Jê-sus cứu mọi tội nhân. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Quyền lực Sa-tan vây hãm tấn công tội nhân; <br/>Tháng ngày ngẩn ngơ, lo âu, kinh khiếp, phân vân. <br/>Nào ai vui mang danh Chúa báo tin bình an. <br/>Góp phần cứu bao linh hồn đang sống trong lầm than. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngày Ngài mau đến, khi khắp nơi nghe Tin Lành. <br/>Bình an yên nghỉ thay nhọc nhằn, thay lo lắng. <br/>Ngài truyền ta tới ngàn phương rao ra ơn Chúa. <br/>Đến khi các dân tộc cùng được nghe tiếng vui: <br/>Jê-sus cứu mọi tội nhân. </em></dd></dl>

@@ -1,8 +1,7 @@
 ---
 title: 495. Mệt Mỏi Được Yên Nghỉ
 weight: 495
-categories: Thiên Đàng
-sub-categories: 
+categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Thật vui thay, chỗ vinh quang Chúa, <br/>Xưa đã hứa sắm tôi một nhà; <br/>Vậy nên vui vẻ trông mau đến, <br/>Khá kíp mau lên chốn bình yên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thật là nơi rất vui bấy! <br/>Vinh hiển, sáng chói, yên vui thay! <br/>Chúa hứa cho kẻ yếu đuối đây, <br/>Thì ngươi ở đó luôn. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Jê-sus đi sắm cho ta trước, <br/>Sau sẽ rước chúng ta về cùng, <br/>Đặng ngao du chốn yên vui thánh, <br/>Chỗ rất vinh quang đến đời đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thật là nơi rất vui bấy! <br/>Vinh hiển, sáng chói, yên vui thay! <br/>Chúa hứa cho kẻ yếu đuối đây, <br/>Thì ngươi ở đó luôn. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Vậy nơi tôi ở không hư nát, <br/>Nơi ấy hớn hở vui lạ kỳ; <br/>Được giao thông mãi nơi ngôi Chúa, <br/>Khá kíp bôn ba đến tận nơi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thật là nơi rất vui bấy! <br/>Vinh hiển, sáng chói, yên vui thay! <br/>Chúa hứa cho kẻ yếu đuối đây, <br/>Thì ngươi ở đó luôn. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Vậy anh em đáng nên khen hát, <br/>Nay đã thắng quỷ ma trọn rồi, <br/>Kìa, thiên nên mở cho ta đến, <br/>Quả hẳn trong đây phước nhiều thay! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thật là nơi rất vui bấy! <br/>Vinh hiển, sáng chói, yên vui thay! <br/>Chúa hứa cho kẻ yếu đuối đây, <br/>Thì ngươi ở đó luôn. </em></dd></dl>

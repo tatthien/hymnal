@@ -1,8 +1,7 @@
 ---
 title: 109. Trái Đầu Mùa
 weight: 109
-categories: Chúa Jêsus Christ
-sub-categories: Phục Sinh
+categories: Phục Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Khá hướng tâm lên trời tụng ca, <br/>Hòa giọng chúc tán ca ngợi Chúa rày, <br/>Dâng lên Ngài thi ca mừng thay. <br/>Ngài đã vì mục đích cứu chúng sinh, <br/>Thân cao quý phải chịu gai đinh, <br/>Là Vua hiển vinh oai nghi muôn đời, <br/>Chết ba ngày sống lại lên trời. </dd><dt>Câu 2:</dt><dd data-verse="2">Christ lại sống, vinh thay cho thiên đình! <br/>Trái chín trước nhất trong đồng linh, <br/>Là đồng sẽ trổ hoa màu rất dào, <br/>Trong khi Ngài quang lâm từ cao. <br/>Điệp điệp trùng trùng những lúa trổ bông, <br/>Trông như biển sóng gợn mênh mông, <br/>Nhờ vinh hiển Chúa tỏa muôn tia hồng, <br/>Lúa trong ruộng thánh vàng rực đồng. </dd><dt>Câu 3:</dt><dd data-verse="3">Christ lại sống, ta nay phục hoạt rồi <br/>Chúa hỡi ban thiên ân, Ngài ôi! <br/>Đầy đồng lúa móc mưa nhuộm ánh vàng, <br/>Bởi muôn hào quang nơi Thần nhan. <br/>Cho môn đồ hằng hướng đến nước Cha, <br/>Trên đất kết rất nhiều hoa thơm, <br/>Rồi đây các thiên binh vui gặt về, <br/>Nơi Cha cùng vĩnh lạc mọi bề. </dd><dt>Câu 4:</dt><dd data-verse="4">Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Đức Chúa Cha danh rạng gần xa: <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Chúc tôn Ngài tấu khải hoàn ca! <br/>Ha-lê-lu-gia! Chúc tán Thánh Linh, <br/>Nguồn nhân ái khiến lòng sạch tinh <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Ba Ngôi một thể hồng ân lòa. </dd></dl>

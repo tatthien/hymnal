@@ -1,8 +1,7 @@
 ---
 title: 266. Hồn Tôi Chỉ Quyết Neo Trong Huyết Jêsus
 weight: 266
-categories: Đời Tín Đồ
-sub-categories: Bền Lòng Tin Cậy
+categories: Bền Lòng Tin Cậy
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Hồn tôi chỉ quyết neo luôn trong nơi, <br/>Công nghĩa với huyết Jê-sus mà thôi; <br/>Thật tôi không dám ỷ sở năng tôi, <br/>Duy đứng vững chắc trên Jê-sus thôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nương trên Jê-sus như tảng đá khối, <br/>Các chỗ đứng khác dường cát lún thôi, <br/>Thật bao nơi kia giống như sa bồi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Dầu khi bóng tối khuất lấp Thiên nhan, <br/>Tôi quyết đứng vững trên ơn Ngài ban; <br/>Dầu gặp giông tố phong ba kinh thiên, <br/>Tôi quyết nắm chắc lấy neo bình yên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nương trên Jê-sus như tảng đá khối, <br/>Các chỗ đứng khác dường cát lún thôi, <br/>Thật bao nơi kia giống như sa bồi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nhờ giao ước với huyết báu tuôn rơi, <br/>Tôi đứng vững giữa cơn ba đào sôi; <br/>Trời kia tuy cuốn, đất kia tiêu tan, <br/>Tôi núp bóng Chúa luôn luôn bình an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nương trên Jê-sus như tảng đá khối, <br/>Các chỗ đứng khác dường cát lún thôi, <br/>Thật bao nơi kia giống như sa bồi. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Kìa khi Chúa đến với tiếng loa vang, <br/>Tôi sẽ đứng với Chúa trong hào quang; <br/>Mình tôi khoác áo trắng Chúa ban cho, <br/>Đứng trước Đấng Thánh tôi không sợ lo. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nương trên Jê-sus như tảng đá khối, <br/>Các chỗ đứng khác dường cát lún thôi, <br/>Thật bao nơi kia giống như sa bồi. </em></dd></dl>

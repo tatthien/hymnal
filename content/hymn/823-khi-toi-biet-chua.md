@@ -1,8 +1,7 @@
 ---
 title: 823. Khi Tôi Biết Chúa
 weight: 823
-categories: Đời Tín Đồ
-sub-categories: Đức Tin
+categories: Đức Tin
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tình yêu Chúa cao sâu <br/>giúp tôi đi trên đường Ngài, <br/>Bàn tay Cha dẫn dắt <br/>tôi băng qua muôn lối. <br/>Tình yêu Chúa vô biên <br/>dưỡng tâm tôi an bình, <br/>mặc cho bao sóng cuồng, <br/>bóng đêm vây quanh tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ban mai tươi mới, ánh sáng nào soi lối. <br/>Ấy Chúa Chí Thánh tôi luôn hằng yêu mến. <br/>Nguyện theo Chúa muôn noi, Chúa yêu thương cao vời, <br/>lòng xin Chúa dắt dìu suốt mãi trên linh trình.ơ </em></dd><dt>Câu 2:</dt><dd data-verse="2">Giờ đây cúi xin Cha, <br/>Chúa yêu thương luôn nhân từ. <br/>Ngài luôn mở lối <br/>cứu bao người còn hư mất. <br/>Tình yêu Chúa ban cho, <br/>thỏa vui trong tâm hồn, <br/>Ngài như dòng suối hiền, <br/>biển yêu thương tuôn tràn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ban mai tươi mới, ánh sáng nào soi lối. <br/>Ấy Chúa Chí Thánh tôi luôn hằng yêu mến. <br/>Nguyện theo Chúa muôn nơi, Chúa yêu thương cao vời, <br/>lòng xin Chúa dắt dìu suốt mãi trên linh trình. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lòng tôi biết Jê-sus <br/>luôn chăm xem tôi đêm ngày, <br/>dầu khi tôi vấp ngã <br/>trong cuộc đời vô nghĩa. <br/>Ngài đưa bước chân tôi <br/>đến bên Cha uy quyền, <br/>là nơi tôi bắt đầu <br/>sống khiêm cung bên Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ban mai tươi mới, ánh sáng nào soi lối. <br/>Ấy Chúa Chí Thánh tôi luôn hằng yêu mến. <br/>Nguyện theo Chúa muôn nơi, Chúa yêu thương cao vời, <br/>lòng xin Chúa dắt dìu suốt mãi trên linh trình. </em></dd></dl>

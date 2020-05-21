@@ -1,8 +1,7 @@
 ---
 title: 311. Ca-Lép Trông Chúa
 weight: 311
-categories: Đời Tín Đồ
-sub-categories: Đức Tin
+categories: Đức Tin
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Nhìn người giềng giàng hiên ngang, <br/>Mấy gã kia hoang mang; <br/>Ca-lép trông Chúa linh năng, <br/>Đức tin thêm khăng khăng; <br/>Chúa hứa tuyên há vô bằng, <br/>Quyết không còn lưỡng lự, <br/>Vì lời từ miệng Giê-hô-va chẳng đáng tin ư? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mỗi một bước ta không ly, <br/>Vững lòng tiến lên đi; <br/>Một xua gấp ngàn vỡ tan, <br/>Hai rượt đuổi dư vạn. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Người nào gìn vẹn đức tin, <br/>Giống Ca-lép như in, <br/>Thực hành lời Chúa ban sai, <br/>Không nghi nan như ai, <br/>Ắt Chúa ban phước lâu dài, <br/>Chúng ta được hưởng hoài, <br/>Vì Ngài phù trợ cho ai vâng ý thánh không sai. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mỗi một bước ta không ly, <br/>Vững lòng tiến lên đi; <br/>Một xua gấp ngàn vỡ tan, <br/>Hai rượt đuổi dư vạn. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Phàm người nào còn phân tâm, <br/>Chẳng nếm ơn cao thâm, <br/>Còn người theo Chúa tín trung, <br/>Cha ban ơn dinh sung, <br/>Phước Chúa vui hưởng vô cùng, <br/>Cả thân hồn thấm nhuần, <br/>Đời đời được Ngài ban thiên ân quí báu vô ngần. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mỗi một bước ta không ly, <br/>Vững lòng tiến lên đi; <br/>Một xua gấp ngàn vỡ tan, <br/>Hai rượt đuổi dư vạn. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Hầu việc một Giê-hô-va, <br/>Sống thỏa tâm Vua ta, <br/>Nhìn một mục đích chăm chăm, <br/>Không đi theo tư tâm, <br/>Chúa dẫn ta chẳng sai lầm, <br/>Chuẩn tiêu đặt trước mình, <br/>Hầu việc trọn vẹn, vui tươi duy Chúa đáng tôn vinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mỗi một bước ta không ly, <br/>Vững lòng tiến lên đi; <br/>Một xua gấp ngàn vỡ tan, <br/>Hai rượt đuổi dư vạn. </em></dd></dl>

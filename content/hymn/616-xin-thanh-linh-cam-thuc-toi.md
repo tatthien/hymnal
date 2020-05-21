@@ -1,8 +1,7 @@
 ---
 title: 616. Xin Thánh Linh Cảm Thúc Tôi
 weight: 616
-categories: Đức Thánh Linh
-sub-categories: 
+categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Bên đường huyên náo ấy, tôi dừng chân bỗng thấy <br/>bao người xao xuyến với đớn đau ngược xuôi. <br/>Tôi nguyện năng lực Ngài dẫy đầy trong lòng này, <br/>xin tình yêu từ trời tràn tuôn nơi nơi. <br/>Cho dù tôi yếu đuối nhưng Ngài ban sức mới <br/>Khi bàn chân bước tới đức tin cậy trông. <br/>Đêm ngày tôi nguyện cầu Thánh Linh Chúa Jê-sus <br/>khiến tôi ích lợi cho bao người kia. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nhanh, qua nhanh ôi biết bao cơ hội nay đã qua rồi; <br/>chần chờ mãi chẳng ai cứu nguy họ thoát nơi khổ hình! <br/>Dẫu nhân gian coi tôi hèn khinh, mỉa mai tôi, tôi không ngại chi. <br/>Đường khiêm nhu cùng Jê-sus tôi bước đi theo Ngài rao ra tình yêu. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nông trường hay xưởng máy đô thành hay núi thẳm, <br/>Tin Lành loan khắp chốn Chúa yêu tội nhân. <br/>Tôi truyền danh Jê-sus hy vọng cho mọi người, <br/>cứu ân đến từ trời bình an vui tươi. <br/>Không nề chi khốn khó, không sợ chi áp bức, <br/>vui mừng đem ánh sáng đến cho mọi nơi. <br/>Đêm ngày tôi nguyện cầu Thánh Linh Chúa Jê-sus <br/>khiến tôi ích lợi cho bao người kia. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nhanh, qua nhanh ôi biết bao cơ hội nay đã qua rồi; <br/>chần chờ mãi chẳng ai cứu nguy họ thoát nơi khổ hình! <br/>Dẫu nhân gian coi tôi hèn khinh, mỉa mai tôi, tôi không ngại chi. <br/>Đường khiêm nhu cùng Jê-sus tôi bước đi theo Ngài rao ra tình yêu. </em></dd></dl>

@@ -1,8 +1,7 @@
 ---
 title: 608. Ngày Jê-Sus Đến
 weight: 608
-categories: Chúa Jêsus Christ
-sub-categories: Tái Lâm
+categories: Tái Lâm
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tôi chăm xem vinh quang diệu kỳ <br/>ngày Jê-sus đến chói sáng mênh mông, <br/>Nơi tay Ngài lạnh lùng vung lên <br/>thanh gươm trừng phạt tiến vô trần gian. <br/>Trên không trung phong ba mịt mù <br/>cuồng sôi như cuốn thế giới hư vong. <br/>Khi Chúa tiến vô trần gian. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Ngày vinh quang trời mây sáng huy hoàng, <br/>muôn phương bình an, Ha-lê-lu-gia! <br/>Khi Chúa tiến vô trần gian. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ôi! bao nhiêu anh em một lòng <br/>tận trung theo Chúa thức suốt canh đêm. <br/>Luôn chong đèn đợi chờ Jê-sus <br/>dù cho đêm dài tăm tối triền miên. <br/>Tôi hân hoan trông mong công bình Ngài <br/>vươn lên giữa ánh sáng đức tin. <br/>Khi Chúa tiến vô trần gian. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Ngày vinh quang trời mây sáng huy hoàng, <br/>muôn phương bình an, Ha-lê-lu-gia! <br/>Khi Chúa tiến vô trần gian. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Tôi mong qua bên kia bờ vàng mừng vui <br/>chiêm ngưỡng Cứu Chúa vinh quang, <br/>Bông hoa huệ đời đời xinh tươi <br/>mùi hương tuyệt vời biến thay đời tôi. <br/>Tôi mong đem tin vui cho người <br/>để không ai chết dưới chốn tối tăm. <br/>Khi Chúa tiến vô trần gian. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Ngày vinh quang trời mây sáng huy hoàng, <br/>muôn phương bình an, Ha-lê-lu-gia! <br/>Khi Chúa tiến vô trần gian. </em></dd></dl>

@@ -1,8 +1,7 @@
 ---
 title: 862. Chúa Mong Anh Về
 weight: 862
-categories: Trọng Trách Hội Thánh
-sub-categories: Truyền Giảng
+categories: Truyền Giảng
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Jê-sus yêu thương công bình, <br/>Cứu Chúa đã đến để cứu thế nhân <br/>đang đau thương trong lầm than. <br/>Đem tin vui cho muôn người <br/>biết đến Jê-sus Đấng yêu thương <br/>chết thay cho người. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Yêu người, Ngài xuống trần gian; <br/>Thay người Ngài chết đau thương <br/>cho muôn dân biết tình yêu Cứu Chúa vô biên. <br/>Đấng yêu thương hiển vinh muôn đời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Jê-sus oai nghi, nhân từ, <br/>Cứu Chúa chí ái Chúa quá xót thương <br/>cho nhân gian trong tội ô. <br/>Gô-gô-tha xưa Con Trời đã chết thay tôi. <br/>Chúa ôi con quyết tin nơi Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Yêu người, Ngài xuống trần gian; <br/>Thay người Ngài chết đau thương <br/>cho muôn dân biết tình yêu Cứu Chúa vô biên. <br/>Đấng yêu thương hiển vinh muôn đời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Sao hôm nay anh chưa về <br/>với Chúa chí ái, Đấng chết <br/>thế anh trên Gô-gô-tha ngày xưa? <br/>Dang tay yêu thương đang chờ, <br/>Chúa vẫn mong anh. <br/>Hãy mau mau tiếp nghinh Con Trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Yêu người, Ngài xuống trần gian; <br/>Thay người Ngài chết đau thương <br/>cho muôn dân biết tình yêu Cứu Chúa vô biên. <br/>Đấng yêu thương hiển vinh muôn đời. </em></dd></dl>

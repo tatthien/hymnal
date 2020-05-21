@@ -1,8 +1,7 @@
 ---
 title: 297. Thật Hạnh Vinh Thay!
 weight: 297
-categories: Đời Tín Đồ
-sub-categories: Giao Thông Cùng Chúa
+categories: Giao Thông Cùng Chúa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Thật hạnh vinh khi đi bên Đấng mua chuộc tôi bởi huyết quí báu bấy, <br/>Khiến tôi luôn luôn vui tươi thỏa lòng nầy; <br/>Trọn đời tôi luôn luôn vui vẻ thiên thượng vì Chúa ở với sớm tối, <br/>Ngợi khen Đấng ban vinh hạnh đời sống tôi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thật hạnh vinh đồng đi cùng Chân Chúa tôi, <br/>Thật hạnh vinh đồng đi bên Chúa chẳng thôi; <br/>Ngài gìn chân tôi đi trung chính, <br/>Vượt hầm sâu lên nơi sơn đỉnh, <br/>Phước bấy cho tôi đi cùng Thần vĩnh sinh! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Thật hạnh vinh khi trong tăm tối tôi nhận biết có Cứu Chúa ở với, <br/>Phước bấy tâm đơn sơ tin Chúa trọn đời; <br/>Mừng vui khi không gian tươi sáng tưng bừng, tôi ẩn dưới cánh Chúa thánh, <br/>Thật tôi ở trong Jê-sus đầy hiển vinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thật hạnh vinh đồng đi cùng Chân Chúa tôi, <br/>Thật hạnh vinh đồng đi bên Chúa chẳng thôi; <br/>Ngài gìn chân tôi đi trung chính, <br/>Vượt hầm sâu lên nơi sơn đỉnh, <br/>Phước bấy cho tôi đi cùng Thần vĩnh sinh! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Thật hạnh vinh khi tôi đến thiên đàng, đi với Chúa bước sáng láng, <br/>Chúa với tôi đi song song chỗ bờ vàng; <br/>Thật hạnh vinh cho tôi trong nước trên trời được sống với Chúa thỏa bấy, <br/>Ngài luôn ở bên tôi, thật hạnh phước thay! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thật hạnh vinh đồng đi cùng Chân Chúa tôi, <br/>Thật hạnh vinh đồng đi bên Chúa chẳng thôi; <br/>Ngài gìn chân tôi đi trung chính, <br/>Vượt hầm sâu lên nơi sơn đỉnh, <br/>Phước bấy cho tôi đi cùng Thần vĩnh sinh! </em></dd></dl>

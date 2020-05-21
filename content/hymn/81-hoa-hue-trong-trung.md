@@ -1,8 +1,7 @@
 ---
 title: 81. Hoa Huệ Trong Trũng
 weight: 81
-categories: Chúa Jêsus Christ
-sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
+categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Bạn thân tôi, ấy Jê-sus Christ, lo lắng cho tôi trọn đời, <br/>Ngài đẹp xinh, vui tươi thay, quán quân trong muôn người; <br/>Thật tôi xem Chúa như Hoa Huệ trong trũng, hương thơm nhẹ nhàng, <br/>Ngài thay đổi ác tâm này nên trắng trong vẹn toàn; <br/>Hồi bi ai Jê-sus an ủi, lúc bối rối cho bình an. <br/>Bảo rằng “Mọi điều sầu thống nên giao Ta mang.” </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thật Jê-sus Christ như Hoa Huệ, như chính Sao Mai rạng ngời, <br/>Ngài vui tươi bấy, xinh đẹp thay, quán quân muôn người! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Jê-sus Christ gánh bi thương tôi, lau ráo bao châu lụy trào, <br/>Là ngọn tháp che tôi khi quỷ ma xâm phạm vào; <br/>Vì Christ tôi bỏ muôn muôn sự, xa ném bao nhiêu tượng hình, <br/>Lòng tôi đây Chúa đem quyền linh giữ cho an bình; <br/>Dầu khi nhân gian khinh chê chán, lắm lúc Sa-tan gạt tôi. <br/>Chỉ nhờ Jê-sus đạt đích an ninh vô hồi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thật Jê-sus Christ như Hoa Huệ, như chính Sao Mai rạng ngời, <br/>Ngài vui tươi bấy, xinh đẹp thay, quán quân muôn người! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Hồi tôi đây sống bởi đức tin, vâng ý Ba Ngôi trọn tình, <br/>Ngài thật không xa tôi không bỏ tôi đi một mình; <br/>Lửa linh bao phủ xung quanh tôi, nên bổn tâm không bồi hồi, <br/>Nhờ ma-na Chúa ban, hồn đang đói thấy no rồi; <br/>Rồi tôi bay lên nơi vinh quý thấy rõ thiên nhan đẹp xinh, <br/>Chỗ nguồn cực lạc đầy dẫy tua ra muôn hình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thật Jê-sus Christ như Hoa Huệ, như chính Sao Mai rạng ngời, <br/>Ngài vui tươi bấy, xinh đẹp thay, quán quân muôn người! </em></dd></dl>

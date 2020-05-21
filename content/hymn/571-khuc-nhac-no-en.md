@@ -1,8 +1,7 @@
 ---
 title: 571. Khúc Nhạc Nô-Ên
 weight: 571
-categories: Chúa Jêsus Christ
-sub-categories: Giáng Sinh
+categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1"> Giữa đêm yên lặng, đàn ai ngân vang, <br/>tiếng ca êm dịu hòa trong không gian, <br/>điệu nhạc nào rung tim này xao xuyến! <br/>Hỡi thiên binh ca vang trên mây trời, <br/>lòng tôi vui nghe Tin Lành <br/>được rao báo cho người, <br/>bữa nay Jê-sus ra đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cùng hát khúc nhạc Nô-ên, <br/>mừng Chúa Cứu Thế ra đời. <br/>Người ơi hát cho niềm vui lan khắp nơi. <br/>Cùng hát khúc nhạc du dương, <br/>hòa theo tiếng ca thiên thần <br/>chiều nào vang lừng trong lúc trời đông. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ánh sao chan hòa trời đông Bê-lem, <br/>Chúa sinh ra rồi, nhạc ru êm êm. <br/>Người mục đồng ca vang ngoài sương gió, <br/>tiếng ca chơi vơi trong đêm u huyền, <br/>làm bầy chiên bỗng dưng <br/>cùng ngừng ăn ngẩn ngơ nhìn, <br/>lắng nghe khúc ca êm đềm. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cùng hát khúc nhạc Nô-ên, <br/>mừng Chúa Cứu Thế ra đời. <br/>Người ơi hát cho niềm vui lan khắp nơi. <br/>Cùng hát khúc nhạc du dương, <br/>hòa theo tiếng ca thiên thần <br/>chiều nào vang lừng trong lúc trời đông. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Có ai mơ về chuồng chiên năm xưa, <br/>Chúa sinh ra đời nằm trong rơm khô, <br/>mùi rơm khô thơm như mùi hương lúa. <br/>Nhớ đêm Nô-ên năm xưa xa vời, <br/>ngàn thiên binh với anh mục đồng <br/>vui hát vang trời; bữa nay có ai mơ Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cùng hát khúc nhạc Nô-ên, <br/>mừng Chúa Cứu Thế ra đời. <br/>Người ơi hát cho niềm vui lan khắp nơi. <br/>Cùng hát khúc nhạc du dương, <br/>hòa theo tiếng ca thiên thần <br/>chiều nào vang lừng trong lúc trời đông. </em></dd></dl>

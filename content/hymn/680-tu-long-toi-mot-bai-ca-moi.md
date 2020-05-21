@@ -1,8 +1,7 @@
 ---
 title: 680. Từ Lòng Tôi Một Bài Ca Mới
 weight: 680
-categories: Đời Tín Đồ
-sub-categories: Cảm Tạ
+categories: Cảm Tạ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Khốn khó với gánh đau thương trên vai, tôi lê thân trên đường. <br/>Mang bao tội tình sống kiếp cô đơn, đôi mi giọt lệ vương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Từ lòng tôi một bài ca mới du dương lướt không gian xa vời. <br/>Từ lòng tôi một bài ca mới dâng lên Chúa yêu thương trên trời. <br/>Từ lòng tôi một bài ca mới Jê-sus Christ buông tha tội lỗi. <br/>Ban yên nghỉ cho tôi, thêm sức sống vui tươi cho đời tôi một bài ca mới. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Chúa đã cất gánh đau thương hôm nay, tôi thong dong trên đường. <br/>Đi sâu vào đời sống mới yên vui, tương giao cùng Ngài luôn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Từ lòng tôi một bài ca mới du dương lướt không gian xa vời. <br/>Từ lòng tôi một bài ca mới dâng lên Chúa yêu thương trên trời. <br/>Từ lòng tôi một bài ca mới Jê-sus Christ buông tha tội lỗi. <br/>Ban yên nghỉ cho tôi, thêm sức sống vui tươi cho đời tôi một bài ca mới. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Với tiếng hát cất cao không thôi, tôi tôn vinh Vua muôn đời. <br/>Loan cho mọi người biết rõ công ơn Jê-sus chuộc tội tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Từ lòng tôi một bài ca mới du dương lướt không gian xa vời. <br/>Từ lòng tôi một bài ca mới dâng lên Chúa yêu thương trên trời. <br/>Từ lòng tôi một bài ca mới Jê-sus Christ buông tha tội lỗi. <br/>Ban yên nghỉ cho tôi, thêm sức sống vui tươi cho đời tôi một bài ca mới. </em></dd></dl>

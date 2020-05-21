@@ -1,8 +1,7 @@
 ---
 title: 301. Ôi Tình Thương
 weight: 301
-categories: Đời Tín Đồ
-sub-categories: Được Chúa Yêu
+categories: Được Chúa Yêu
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Thần nhân Jê-sus thương yêu chúng sinh vô ngần, <br/>Lìa ngôi cao sang, vui giáng sanh nơi hồng trần, <br/>Đền tội cho ta, thân Chúa phải cam hy sinh, <br/>Hỡi ôi huyết thánh tràn tuôn láng lai ở trên thập hình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi tình thương! Ôi tình thương! <br/>Tình thương khiến Chúa hy sinh, <br/>Thế tôi thân Chúa đầy thương, <br/>Cam chết trên thập hình. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nguyện yêu Jê-sus nhân Chúa trước đã thương tôi, <br/>Nhờ Ngài nay tôi thoát tử vong ô tội rồi, <br/>Cùng ban thêm ơn, vui vẻ, thỏa thích, an bình, <br/>Chúa ôi, phước ấy từ hông lũng thân Chúa trên thập hình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi tình thương! Ôi tình thương! <br/>Tình thương khiến Chúa hy sinh, <br/>Thế tôi thân Chúa đầy thương, <br/>Cam chết trên thập hình. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lạy Jê-sus ôi, tôi nay đáng chi Chúa yêu, <br/>Mà Ngài hy sinh, thân báu phải đau thương nhiều, <br/>Trời cao bao nhiêu, nhân ái của Chúa bấy nhiêu, <br/>Cứu tôi nên Chúa chịu gai, giáo, đinh khổ đau trăm chiều. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi tình thương! Ôi tình thương! <br/>Tình thương khiến Chúa hy sinh, <br/>Thế tôi thân Chúa đầy thương, <br/>Cam chết trên thập hình. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Kìa nợ yêu thương, ta há dám lánh gian lao, <br/>Truyền rao công lao của Chúa ra cho đồng bào, <br/>Hầu ai tin theo danh Chúa cả sáng hiển vinh, <br/>Chút lòng báo đáp tình thương <br/>Chúa xưa phải mang thập hình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi tình thương! Ôi tình thương! <br/>Tình thương khiến Chúa hy sinh, <br/>Thế tôi thân Chúa đầy thương, <br/>Cam chết trên thập hình. </em></dd></dl>

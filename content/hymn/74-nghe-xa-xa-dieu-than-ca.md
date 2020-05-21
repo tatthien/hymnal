@@ -1,8 +1,7 @@
 ---
 title: 74. Nghe Xa Xa Điệu Thần Ca
 weight: 74
-categories: Chúa Jêsus Christ
-sub-categories: Giáng Sinh
+categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1"> Ồ lạ lùng dường nào! nghe xa xa, <br/>Du dương bổng trầm điệu Thần ca; <br/>Rền bầu trời giai vận thánh thót thay: <br/>"Ha-lê-lu-gia" trời vang dậy. <br/>Lặng yên nghe thiên binh cất tiếng thanh, <br/>Hoan ca Cứu Chúa Christ giáng sinh: <br/>"Ngợi khen Chúa! Danh vinh hiển lớn lao, <br/>Chói sáng mãi mãi trên trời cao." </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kia thiên thượng danh Cha thánh hiển vang, <br/>Nầy, địa hạ khắp nơi bình an. <br/>Đây nhân loại từ nay hưởng phước thánh, <br/>Thỏa thay vui thay ngày Jê-sus giáng sinh. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Rày toàn cầu được bình an vui thay, <br/>Muôn dân hưởng ân trạch từ nay; <br/>Hồn được chuộc, muôn tội thứ tha ngay, <br/>Đồn ra khắp tin mừng vui nầy: <br/>Mừng Jê-sus hôm nay đã giáng sinh, <br/>Khắp đất hãy ca tụng Chúa mình, <br/>Hoan nghinh Đấng Cha ban xuống thế gian, <br/>Để cứu bách tánh được bình an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kia thiên thượng danh Cha thánh hiển vang, <br/>Nầy, địa hạ khắp nơi bình an. <br/>Đây nhân loại từ nay hưởng phước thánh, <br/>Thỏa thay vui thay ngày Jê-sus giáng sinh. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Cùng họp lại thờ Ngài anh em ta, <br/>Tôn vinh Chúa vì tội được tha; <br/>Giờ được gặp mặt Ngài trên thiên cung <br/>Rồi ta sẽ khen Ngài vô cùng. <br/>Vậy ta nên hâm mộ tích Thánh Anh, <br/>Chiếu ánh sáng thánh cho chúng sanh; <br/>Cùng đi khắp rao Tin Lành cứu ân: <br/>Ấy Chúa Christ bữa nay thành nhân. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kia thiên thượng danh Cha thánh hiển vang, <br/>Nầy, địa hạ khắp nơi bình an. <br/>Đây nhân loại từ nay hưởng phước thánh, <br/>Thỏa thay vui thay ngày Jê-sus giáng sinh. </em></dd></dl>

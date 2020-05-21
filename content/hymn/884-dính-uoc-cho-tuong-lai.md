@@ -1,8 +1,7 @@
 ---
 title: 884. Đính Ước Cho Tương Lai
 weight: 884
-categories: Biệt Lễ Ca
-sub-categories: Hôn Lễ
+categories: Hôn Lễ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Lời nguyện cầu trình dâng lên Cứu Chúa <br/>chứng cho ngày đính ước hôm nay. <br/>Nguyện rằng tình yêu trong sáng <br/>và trọn đời không thay đổi, <br/>hai con xin trình cho Chúa. <br/>Dù đường đời nhiều đam mê cám dỗ, <br/>vẫn một lòng mãi mãi yêu nhau. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin cho tình yêu luôn bền lâu <br/>năm tháng không phai tàn; <br/>Vui trong tương lai <br/>hai tâm hồn liên kết nhau. <br/>Xin cho ngày mai khi hôn nhân <br/>đôi lứa nên duyên lành; <br/>Đi theo ơn Cha vui <br/>trọn đời luôn có nhau. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Thầm mong rằng dù nhân gian biến đổi, <br/>vẫn nhớ lời đính ước thiêng liêng. <br/>Nguyện một lòng luôn son sắt, <br/>trọn tâm hồn dâng lên Chúa, <br/>trao cho nhau lời tha thiết! <br/>Cùng đợi chờ ngày vui mau sớm đến <br/>với đôi bạn đính ước hôm nay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin cho tình yêu luôn bền lâu <br/>năm tháng không phai tàn; <br/>Vui trong tương lai <br/>hai tâm hồn liên kết nhau. <br/>Xin cho ngày mai khi hôn nhân <br/>đôi lứa nên duyên lành; <br/>Đi theo ơn Cha vui <br/>trọn đời luôn có nhau. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Rồi một ngày dìu nhau trong lễ cưới <br/>khi cung đàn thánh thót ngân vang. <br/>Vào nhà thờ bên ngôi thánh, <br/>quỳ nguyện cầu xin ban phuớc <br/>cho hôn nhân đầy ơn Chúa! <br/>Thật tuyệt vời, tình yêu trong Đấng Christ <br/>mãi vang hòa tiếng hát tươi vui. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin cho tình yêu luôn bền lâu <br/>năm tháng không phai tàn; <br/>Vui trong tương lai <br/>hai tâm hồn liên kết nhau. <br/>Xin cho ngày mai khi hôn nhân <br/>đôi lứa nên duyên lành; <br/>Đi theo ơn Cha vui <br/>trọn đời luôn có nhau. </em></dd></dl>

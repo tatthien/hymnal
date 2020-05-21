@@ -1,8 +1,7 @@
 ---
 title: 103. Christ Phục Sinh
 weight: 103
-categories: Chúa Jêsus Christ
-sub-categories: Phục Sinh
+categories: Phục Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1"> Chôn sâu dưới mả u minh, Jê-sus Cứu Chúa tôi! <br/>Chờ đợi đến phút quang vinh, Chúa Jê-sus tôi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vượt từ phần mộ Ngài phục sinh, <br/>Phục sinh hiển vinh thắng bao quân thù mình; <br/>Ngài phục sinh đem oai quyền ra đánh tan tử thần, <br/>Và Ngài còn đời đời để thống trị cùng chư thánh; <br/>Ngài lại sống! Chúa lại sống! <br/>Ha-lê-lu-gia! Christ phục sinh! </em></dd><dt>Câu 2:</dt><dd data-verse="2"> Niêm phong mả Chúa dư công, Jê-sus Cứu Chúa tôi! <br/>Thật canh mả Chúa hư không, Chúa Jê-sus tôi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vượt từ phần mộ Ngài phục sinh, <br/>Phục sinh hiển vinh thắng bao quân thù mình; <br/>Ngài phục sinh đem oai quyền ra đánh tan tử thần, <br/>Và Ngài còn đời đời để thống trị cùng chư thánh; <br/>Ngài lại sống! Chúa lại sống! <br/>Ha-lê-lu-gia! Christ phục sinh! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Âm ti giữ Chúa vô năng, Jê-sus Cứu Chúa tôi! <br/>Ngài đã bẻ khóa tung then, Chúa Jê-sus tôi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vượt từ phần mộ Ngài phục sinh, <br/>Phục sinh hiển vinh thắng bao quân thù mình; <br/>Ngài phục sinh đem oai quyền ra đánh tan tử thần, <br/>Và Ngài còn đời đời để thống trị cùng chư thánh; <br/>Ngài lại sống! Chúa lại sống! <br/>Ha-lê-lu-gia! Christ phục sinh! </em></dd></dl>

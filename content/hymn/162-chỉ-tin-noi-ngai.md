@@ -1,8 +1,7 @@
 ---
 title: 162. Chỉ Tin Nơi Ngài
 weight: 162
-categories: Tin Lành
-sub-categories: Lời Mời
+categories: Lời Mời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Người tội nên vội quay bước bữa nay, <br/>Chạy đến với Jêsus ngay, <br/>Tin quyết Chúa đã thay anh lâm hình, <br/>Lòng liền được Chúa tái sinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chỉ tin nơi Ngài, duy nhờ cậy Ngài, <br/>Đừng bê trễ rày mai; <br/>Chúa chắc cứu anh, anh đừng ngại rày, <br/>Ngài vui cứu anh ngay. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ngài đành dâng mình tuôn huyết báu ra, <br/>Diệu pháp cứu rỗi hồn ta; <br/>Kia, suối huyết báu mau mau gieo mình, <br/>Lòng sạch như tuyết tinh anh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chỉ tin nơi Ngài, duy nhờ cậy Ngài, <br/>Đừng bê trễ rày mai; <br/>Chúa chắc cứu anh, anh đừng ngại rày, <br/>Ngài vui cứu anh ngay. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngài là lẽ thật, sự sống, lối đi, <br/>Dìu dắt đến chốn trường hy; <br/>Nên hãy kíp đến tin danh Jê-sus, <br/>Gội nhuần hạnh phước muôn thu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chỉ tin nơi Ngài, duy nhờ cậy Ngài, <br/>Đừng bê trễ rày mai; <br/>Chúa chắc cứu anh, anh đừng ngại rày, <br/>Ngài vui cứu anh ngay. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Nguyền cùng gia nhập Hội Thánh khiết cao, <br/>Đồng tiến đến chốn lạc daoc <br/>Chung sống cảnh thú vui nơi thiên đàng, <br/>Đời đời được phước vẻ vang. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chỉ tin nơi Ngài, duy nhờ cậy Ngài, <br/>Đừng bê trễ rày mai; <br/>Chúa chắc cứu anh, anh đừng ngại rày, <br/>Ngài vui cứu anh ngay. </em></dd></dl>

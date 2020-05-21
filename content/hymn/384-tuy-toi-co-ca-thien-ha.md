@@ -1,8 +1,7 @@
 ---
 title: 384. Tuy Tôi Có Cả Thiên Hạ
 weight: 384
-categories: Đơn Ca - Song Ca
-sub-categories: 
+categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tuy tôi có cả thiên hạ nhưng mất Jê-sus, <br/>Vui chăng sống bơ vơ một ngày vô chủ? <br/>Tâm khao khát an ninh và yên ủi đêm ngày, <br/>Nhưng trong thế gian đây tìm được gì nay? <br/>Nếu có thế gian mà mất Chúa muôn muôn thì, <br/>Vinh hoa ấy đâu cần đời tranh đấu nhỉ? <br/>Các thú vui trong trần thế há đem so bằng <br/>Đôi giây phút yên vui đời đầy Christ chăng? </dd><dt>Câu 2:</dt><dd data-verse="2">Tuy tôi có trong tay đầy châu báu ngọc ngà, <br/>Trăm muôn kẻ yêu, danh vọng lừng vang cả, <br/>Nhưng thân bách vô hy vọng cập bến thiên hà, <br/>Linh đinh mãi trông thiên ngạn mịt mù xa. <br/>Nếu có thế gian mà mất chính Vua thiên đàng <br/>Xưa lưu huyết thay tôi, thập hình không quản, <br/>Thử hỏi cả thiên hạ há thấy nơi an bằng <br/>Cho tôi núp khi ba đào lôi cuốn chăng? </dd><dt>Câu 3:</dt><dd data-verse="3">Nay tôi sống ở trên đời gian ác ưu sầu, <br/>Ôi không có Jê-sus thật là mộng ảo! <br/>Tương lai đến nơi vô tận thăm thẳm đen mù, <br/>Đau thương, khóc than, ân hận nghìn nghìn thu. <br/>Có thể nay sanh hoạt thiếu Jê-sus Con Trời, <br/>Nhưng trong phút lâm chung rồi ra sao hỡi; <br/>Đứng trước cảnh đen mờ có Jê-sus đâu nào, <br/>Ôi, không Chúa muôn thu rùng rợn biết bao! </dd><dt>Câu 4:</dt><dd data-verse="4">Vui thay có muôn muôn sự trong Chúa bây giờ, <br/>Đây phương thuốc linh thiêng rịt lòng tan vỡ; <br/>Không gian ác chi Jê-sus không thể tha rày, <br/>Jê-sus cảm thương hết mọi lòng sầu cay. <br/>Nếu có Jê-sus thật có Chúa Jê-sus rồi, <br/>Không chi đáng kể trong cuộc đời mây nổi, <br/>Lúc ấy muôn muôn sự có cả trong Jê-sus, <br/>Vui thay thỏa thay, thân hồn phỉ phu. </dd></dl>

@@ -1,8 +1,7 @@
 ---
 title: 507. Đêm Thánh Thay!
 weight: 507
-categories: Biệt Lễ Ca
-sub-categories: Nô-Ên
+categories: Nô-Ên
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Đêm thánh thay, rực rỡ quang minh! <br/>Ấy con hiển vinh lâm phàm, <br/>Thương thế gian, từ bỏ Ngôi cao, <br/>Đành cam giáng sinh nơi hèn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa chí thánh, Đấng Christ, <br/>Con trời hôm nay sinh cứu ta. <br/>Hát, hát, hát, hát xướng <br/>kính tôn danh Ngài, là Vua Chúa ta. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Thiên sứ rao cùng kẻ chăn chiên <br/>Thức đêm giữ canh chiên mình, <br/>Con trẻ thơ nằm máng cỏ kia <br/>là Cha Chí tôn Thiên đình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa chí thánh, Đấng Christ, <br/>Con trời hôm nay sinh cứu ta. <br/>Hát, hát, hát, hát xướng <br/>kính tôn danh Ngài, là Vua Chúa ta. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngôi Sao Mai dìu dắt bác sĩ <br/>Đến nơi Con Trai lạ lùng, <br/>Tôn quý Con, quỳ xuống lễ dâng <br/>thành tâm với Đấng Mưu luận. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa chí thánh, Đấng Christ, <br/>Con trời hôm nay sinh cứu ta. <br/>Hát, hát, hát, hát xướng <br/>kính tôn danh Ngài, là Vua Chúa ta. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ân điển lưu truyền khắp thế gian, <br/>Sáng danh Chúa Cha đại quyền. <br/>Hãy giáng sinh rồi sẽ tái lâm <br/>làm Vua thiên niên thái bình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa chí thánh, Đấng Christ, <br/>Con trời hôm nay sinh cứu ta. <br/>Hát, hát, hát, hát xướng <br/>kính tôn danh Ngài, là Vua Chúa ta. </em></dd></dl>

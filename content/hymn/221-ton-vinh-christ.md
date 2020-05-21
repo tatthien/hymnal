@@ -1,8 +1,7 @@
 ---
 title: 221. Tôn Vinh Christ
 weight: 221
-categories: Đời Tín Đồ
-sub-categories: Ngợi Khen Vì Được Cứu
+categories: Ngợi Khen Vì Được Cứu
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Khi trước tôi là tội nhơn, <br/>đâu đáng gì Chúa ban ơn. <br/>Xưa đã chất chứa biết bao tội tình, <br/>tôi đáng chết mất ở trong tội mình, <br/>mà Jê-sus Christ chí nhân <br/>cứu tôi ra khỏi trầm luân. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi Chúa, tôi tôn vinh Ngài, <br/>Jê-sus là Chúa chí tôn chân ái, <br/>sống bao lâu tôi tôn vinh Chúa mãi, <br/>quyết chí nhất tâm theo Ngài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ôi Chúa, tôi là tội nhân, <br/>mỗi phút cần Chúa ban ơn, <br/>tôi chẳng đủ sức bước đi một mình, <br/>xin Chúa dẫn dắt tôi trên thiên trình. <br/>Lần theo chân Chúa tín trung, <br/>dẫu cho đất chuyển trời rung. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi Chúa, tôi tôn vinh Ngài, <br/>Jê-sus là Chúa chí tôn chân ái, <br/>sống bao lâu tôi tôn vinh Chúa mãi, <br/>quyết chí nhất tâm theo Ngài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ơn Chúa vô lượng vô biên, <br/>tôi nỡ nào sống ý riêng; <br/>Xin Cha sai khiến, con lo việc Ngài, <br/>Con xin vâng ý thánh Cha dạy hoài; <br/>Dầu cho lao khổ, đắng cay, <br/>tớ trung chuyên giữ lòng ngay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi Chúa, tôi tôn vinh Ngài, <br/>Jê-sus là Chúa chí tôn chân ái, <br/>sống bao lâu tôi tôn vinh Chúa mãi, <br/>quyết chí nhất tâm theo Ngài. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ôi, giấc kê vàng mau tan, <br/>đâu sánh kịp phước Chúa ban. <br/>Tôi trông mong Chúa rước lên thiên đàng, <br/>mau mau xa cảnh thống bi, cơ hàn. <br/>Cùng nhau lên chốn vĩnh an, <br/>sướng vui thay cảnh buồn than. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi Chúa, tôi tôn vinh Ngài, <br/>Jê-sus là Chúa chí tôn chân ái, <br/>sống bao lâu tôi tôn vinh Chúa mãi, <br/>quyết chí nhất tâm theo Ngài. </em></dd></dl>

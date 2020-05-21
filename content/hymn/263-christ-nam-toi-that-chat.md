@@ -1,8 +1,7 @@
 ---
 title: 263. Christ Nắm Tôi Thật Chặt
 weight: 263
-categories: Đời Tín Đồ
-sub-categories: Bền Lòng Tin Cậy
+categories: Bền Lòng Tin Cậy
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Khi đức tin vì sợ hóa sờn, <br/>Christ nắm tôi thật chặt; <br/>Tuy Satan mưu hại lắm cơn, <br/>Ngài luôn gìn tôi chắc. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Christ nắm tôi thật chặt, <br/>Christ nắm tôi thật chặt, <br/>Ngài yêu thương tôi rất thiết that <br/>Ngài nắm tôi thật chặt. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Khi thấy khôn bề tự bảo thân, <br/>Christ nắm tôi thật chặt, <br/>Tuy ái tâm tôi nguội xuống lần, <br/>Ngài luôn gìn tôi chắc. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Christ nắm tôi thật chặt, <br/>Christ nắm tôi thật chặt, <br/>Ngài yêu thương tôi rất thiết tha, <br/>Ngài nắm tôi thật chặt. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Do Chúa tôi được trọng quí thay, <br/>Christ nắm tôi thật chặt, <br/>Bao kẻ Christ mua đẹp ý Ngài, <br/>Ngài luôn gìn tôi chắc. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Christ nắm tôi thật chặt, <br/>Christ nắm tôi thật chặt, <br/>Ngài yêu thương tôi rất thiết tha, <br/>Ngài nắm tôi thật chặt. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Christ chẳng buông hồn nầy đắm trôi, <br/>Christ nắm tôi thật chặt, <br/>Đem giá mua tôi cả trọn rồi <br/>Ngài luôn gìn tôi chắcn </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Christ nắm tôi thật chặt, <br/>Christ nắm tôi thật chặt, <br/>Ngài yêu thương tôi rất thiết tha, <br/>Ngài nắm tôi thật chặt. </em></dd></dl>

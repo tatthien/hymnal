@@ -1,8 +1,7 @@
 ---
 title: 583. Jê-Sus Vui Gánh Đau Thương
 weight: 583
-categories: Chúa Jêsus Christ
-sub-categories: Chịu Khổ Và Chết
+categories: Chịu Khổ Và Chết
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Chiều hôm ấy mây trắng trôi xa, <br/>hoàng hôn buông trên đỉnh Gô-tha! <br/>Đồi hoang vắng sương gió lưới qua, <br/>Nhìn ngàn cây in bóng trong u buồn. <br/>Không gian u ám thê lương, <br/>Jê-sus vui gánh đau thương. <br/>Ôi sao cay đắng trăm đường, <br/>Ngài đành vì thế nhân chịu hình. </dd><dt>Câu 2:</dt><dd data-verse="2">Rồi họ đem Con Thánh đóng đinh, <br/>thập hình kia nhục nhã xem khinh. <br/>Chịu đau đớn cho đến hy sinh, <br/>Jê-sus ôi, sao đớn đau muôn nghìn. <br/>Bao nhiêu thương khó vui mang, <br/>Tay chân hông Chúa huyết chan. <br/>Nhưng Jê-sus chẳng kêu than, <br/>Ngài bằng lòng gánh thay cho người. </dd><dt>Câu 3:</dt><dd data-verse="3">Giờ khi nghe nhạc thánh ngân đưa, <br/>Lòng bâng khuâng con nhớ năm xưa. <br/>Tình Thiên Chúa cao lớn vô biên, <br/>Ngài yêu con, con kể sao cho vừa, <br/>Jê-sus đau đớn thay con, <br/>Jê-sus tuôn huyết cứu con. <br/>Con xin vui sống cho Ngài, <br/>Lòng nay nguyện tín trung trọn đời. </dd><dt>Câu 4:</dt><dd data-verse="4">Rồi ngày kia khi tiếng loa vang, <br/>từ trời cao trong ánh vinh quang! <br/>Ngài ngự trên mây giữa không gian, <br/>Để cùng ai trung tín đi gặp Ngài, <br/>Bao nhiêu con Chúa trung kiên, <br/>bay mau lên chốn cung thiên. <br/>Vinh thay vui với Tân lang, <br/>cùng dự tiệc cưới trên thiên đàng. </dd></dl>

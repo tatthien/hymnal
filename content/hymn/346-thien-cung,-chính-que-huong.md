@@ -1,8 +1,7 @@
 ---
 title: 346. Thiên Cung, Chính Quê Hương
 weight: 346
-categories: Cõi Lai Sanh
-sub-categories: Thiên Đàng
+categories: Thiên Đàng
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Kìa, trông lên thiên cung, chính quê hương, <br/>Gần bên sông lưu ly soi sáng như gương, <br/>Là nơi các thánh sống mãi vui phi thương, <br/>Khoác áo trắng xóa thiên quốc hội đường. <br/>Ồ bên kia, kìa bên ấy, <br/>Mơ tưởng bước đến nơi chính quê ta; <br/>Ở bên kia, lúc qua bờ chính chỗ ấy, <br/>Ước mong sao ta mau bước vô nhà. </dd><dt>Câu 2:</dt><dd data-verse="2">Kìa, xem bao anh em chí thân ta. <br/>Tạm chia tay vinh quy vui bước bôn ba, <br/>Họ luôn thỏa mãn hát khúc vui sum hòa, <br/>Chính chỗ ấy Chúa Cha thiết ngự tòa. <br/>Ồ, bên kia, kìa bên ấy, <br/>Khi nhớ đến cố nhân đã quy thiên; <br/>Cố nhân ta, ở thiên đàng, cảnh phước bấy, <br/>Nhớ kẻ bước trước ta ước về liền. </dd><dt>Câu 3:</dt><dd data-verse="3">Giờ đây trên thiên cung có Christ ta, <br/>Bạn thân ta luôn an cư mãi xướng ca, <br/>Nguyện ta lánh cảnh khổ ải bao gian tà, <br/>Hớn hở cất cánh lên thẳng quê nhà. <br/>Ồ bên kia, kìa bên ấy, <br/>Nay ở chỗ đó đương có Christ ta; <br/>Có Christ ta, ở bên kìa, cảnh phước bấy, <br/>Cảnh phước bấy khiến ta hưởng quê nhà. </dd><dt>Câu 4:</dt><dd data-verse="4">Nhà trên thiên cung ta đến nay mai, <br/>Đời nầy qua, ta vô ngay nước tương lai, <br/>Bà con, thiết hữu chốn ấy mãi sum vầy, <br/>Vẫn thức để ngóng trông chúng ta đây. <br/>Ồ bên kia, kìa bên ấy, <br/>Ta sẽ đến chính quê đó không lâu; <br/>Chính quê ta, nơi thiên đàng, cảnh phước bấy, <br/>Thỏa thích bước đến quê thánh sang giàu. </dd></dl>

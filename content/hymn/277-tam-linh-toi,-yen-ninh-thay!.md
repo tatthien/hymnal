@@ -1,8 +1,7 @@
 ---
 title: 277. Tâm Linh Tôi, Yên Ninh Thay!
 weight: 277
-categories: Đời Tín Đồ
-sub-categories: Bình An Vui Vẻ
+categories: Bình An Vui Vẻ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Khi tôi được bình tịnh dường sông chảy theo đường đời, <br/>Hoặc lắm thống bi như ba đào sôi, <br/>Hoàn cảnh dẫu ra sao, Christ khuyên cứ nói sắt đinh: <br/>“Linh hồn ôi, ta yên ninh thật yên ninh!” </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tâm linh tôi, yên ninh thay! <br/>Lòng tôi nay bình an thay, bình an thay! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Sa-tan luôn giày đạp, đời tôi trải cơn tập rèn, <br/>Tôi vẫn vững tâm luôn không hề quên, <br/>Rằng Christ biết tôi đây vô phương sách để thắng hơn, <br/>Tuôn dòng huyết cứu rỗi bởi lòng khoan nhơn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tâm linh tôi, yên ninh thay! <br/>Lòng tôi nay bình an thay, bình an thay! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Vinh thay tư niệm nầy, thật tôi thỏa vui mực nào <br/>Christ xóa hết, không lưu một tội nao <br/>Nhờ Chúa đóng đinh xưa, nay tôi thoát khỏi ách ma <br/>Linh hồn hỡi, chúc tán Chúa, chuộc mua ta! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tâm linh tôi, yên ninh thay! <br/>Lòng tôi nay bình an thay, bình an thay! </em></dd><dt>Câu 4:</dt><dd data-verse="4">Tôi mong mau được nhìn điều lòng vẫn tin xưa rày <br/>Khi cuốn đám mây đen trên đời nay <br/>Kèn trổi tiếng trên không, Jêsus Christ tái lâm ngay <br/>Linh hồn hát: “An ninh thay, bình an thay!” </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tâm linh tôi, yên ninh thay! <br/>Lòng tôi nay bình an thay, bình an thay! </em></dd></dl>

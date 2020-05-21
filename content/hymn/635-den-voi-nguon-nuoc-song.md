@@ -1,8 +1,7 @@
 ---
 title: 635. Đến Với Nguồn Nước Sống
 weight: 635
-categories: Tin Lành
-sub-categories: Lời Mời
+categories: Lời Mời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Cuộc đời hư vô nên tâm tư luôn khát khao trông mong, <br/>đợi chờ bao năm không chi thỏa vui lòng tôi. <br/>Nhờ tình yêu thương Cha đưa tôi đi đến Jê-sus ngay, <br/>được cùng anh em vui hưởng nếp sống Thiên Đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đến với suối nước sống Cha ban cho tuôn tràn. <br/>Lòng hân hoan tươi vui, trọn đời có Chúa dẫn lối. <br/>Đến uống suối nước sống Christ tuôn ra dư dật. <br/>Thật hồng ân Cha ban cho lớn lao vô cùng. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Thật dịu êm thay khi bên tôi luôn có Cha yêu thương, <br/>Ngài làm cho tâm tôi tươi mát như mùa xuân. <br/>Ngọt ngào thay khi Jê-sus cho tôi uống nước thiêng liêng; <br/>hằng ngày tôi ca vang mãi tán dương danh Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đến với suối nước sống Cha ban cho tuôn tràn. <br/>Lòng hân hoan tươi vui, trọn đời có Chúa dẫn lối. <br/>Đến uống suối nước sống Christ tuôn ra dư dật. <br/>Thật hồng ân Cha ban cho lớn lao vô cùng. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nầy bạn, hôm nay sao không đi ngay đến Gô-gô-tha, <br/>là nguồn tuôn ra ơn phước Chúa sâu rộng thay! <br/>Mời bạn nhanh chân đến uống nước sống Chúa ban cho không; <br/>nhiều hồn linh xưa khao khát đã thấy thỏa lòng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đến với suối nước sống Cha ban cho tuôn tràn. <br/>Lòng hân hoan tươi vui, trọn đời có Chúa dẫn lối. <br/>Đến uống suối nước sống Christ tuôn ra dư dật. <br/>Thật hồng ân Cha ban cho lớn lao vô cùng. </em></dd></dl>

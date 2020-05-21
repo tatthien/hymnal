@@ -1,8 +1,7 @@
 ---
 title: 256. Chúa Ôi, Xin Dừng Chân Lại Gần Tôi
 weight: 256
-categories: Đời Tín Đồ
-sub-categories: Tỉnh Thức, Cầu Nguyện
+categories: Tỉnh Thức, Cầu Nguyện
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Chúa, xin đừng lìa con phận cùng nhân, <br/>Đang kêu cầu van khẩn; <br/>Lúc bao người được thăm gọi mừng vui, <br/>Mong Ngài nhớ đến tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cứu Chúa! Hỡi Ngài! <br/>Nguyện nghe tiếng cầu tôi, <br/>Lúc bao người được thăm gọi mừng vui, <br/>Mong Ngài nhớ đến tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Chúa, tôi luôn nguyện nơi ngôi hồng ân <br/>Tâm linh được hưng phấn <br/>Trước ngôi hiền từ ăn năn, cầu xin <br/>Mong Ngài giúp đức tin. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cứu Chúa! Hỡi Ngài! <br/>Nguyện nghe tiếng cầu tôi <br/>Lúc bao người được thăm gọi mừng vui <br/>Mong Ngài nhớ đến tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Chúa, tôi duy cậy công Ngài chuộc mua <br/>Trông mong gặp mặt Chúa <br/>Vết đau thương lòng tôi mong lành nay <br/>Duy nhờ cứu ân Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cứu Chúa! Hỡi Ngài! <br/>Nguyện nghe tiếng cầu tôi <br/>Lúc bao người được thăm gọi mừng vui <br/>Mong Ngài nhớ đến tôi. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Chúa Jê-sus nguồn ủy lạo đời con <br/>Con yêu Ngài vô đối <br/>Ở trong đời này hay tại trời cao <br/>Duy Ngài có ai nào. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cứu Chúa! Hỡi Ngài! <br/>Nguyện nghe tiếng cầu tôi <br/>Lúc bao người được thăm gọi mừng vui <br/>Mong Ngài nhớ đến tôi. </em></dd></dl>

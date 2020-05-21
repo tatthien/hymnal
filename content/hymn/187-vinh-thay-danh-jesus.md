@@ -1,8 +1,7 @@
 ---
 title: 187. Vinh Thay Danh Jêsus
 weight: 187
-categories: Tin Lành
-sub-categories: Huyết Của Christ
+categories: Huyết Của Christ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Chính chỗ thập tự xưa Jê-sus treo mình, <br/>Nay tôi xin Chúa xóa muôn tội trắng tinh. <br/>Bởi huyết Chiên Con tâm thanh sạch an bình; <br/>Kính ngợi Chúa Jê-sus! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vinh thay danh Jê-sus! <br/>Vinh thay danh Jê-sus! <br/>Bởi huyết Chiên Con tôi thanh sạch, an bình. <br/>Kính ngợi Chúa Jê-sus! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Chúa cứu tôi, ôi, ơn sâu rộng vô cùng! <br/>Tâm linh tôi có Chúa vui ngự thủy chung, <br/>Chúa với tôi nơi thập tự kia nghinh phùng; <br/>Kính ngợi Chúa Jê-sus! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vinh thay danh Jê-sus! <br/>Vinh thay danh Jê-sus! <br/>Bởi huyết Chiên Con tôi thanh sạch, an bình. <br/>Kính ngợi Chúa Jê-sus! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Suối huyết tha tội kia linh nghiệm vô cùng, <br/>Vui thay trong suối ấy tôi gội tắm xong. <br/>Chỉ suối huyết kia mong rửa sạch nhơ lòng. <br/>Kính ngợi Jê-sus! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vinh thay danh Jê-sus! <br/>Vinh thay danh Jê-sus! <br/>Bởi huyết Chiên Con tôi thanh sạch, an bình. <br/>Kính ngợi Chúa Jê-sus! </em></dd><dt>Câu 4:</dt><dd data-verse="4">Hãy đến nơi mạch huyết Jê-sus tuôn tràn, <br/>Đem dâng cho Chúa cả tâm hồn vỡ tan, <br/>Chúa giúp anh nay luôn luôn được an toàn; <br/>Kính ngợi Chúa Jê-sus! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vinh thay danh Jê-sus! <br/>Vinh thay danh Jê-sus! <br/>Bởi huyết Chiên Con tôi thanh sạch, an bình. <br/>Kính ngợi Chúa Jê-sus! </em></dd></dl>

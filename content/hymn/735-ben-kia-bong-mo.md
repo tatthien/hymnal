@@ -1,8 +1,7 @@
 ---
 title: 735. Bên Kia Bóng Mờ
 weight: 735
-categories: Đời Tín Đồ
-sub-categories: Bền Lòng Tin Cậy
+categories: Bền Lòng Tin Cậy
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Trong những phiền ưu ta, <br/>hào quang Chúa soi lòa, <br/>Dù lệ tràn trên má, <br/>đức tin không nhòa. <br/>Dù phong ba tối trời <br/>khi sóng xô tơi bời, <br/>Trong Chúa muôn điều <br/>ấy sẽ như hoa cười. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mặt trời hằng sáng soi <br/>trên tầng mây tối. <br/>Lời nghẹn ngào vướng môi, <br/>Chúa đã nghe rồi. <br/>Người ơi! Nâng đức tin <br/>nhìn lên Thiên Chúa, <br/>Vì bên kia bóng mờ, <br/>tay Ngài dẫn đưa. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Trong bóng mờ gian nan, <br/>đầy giông tố phũ phàng, <br/>Lòng thường nghe êm ấm <br/>tiếng Vua thiên đàng. <br/>Ngài xua giông tố tan <br/>ban đức tin can trường, <br/>Trong khó nguy thử thách <br/>Chúa luôn luôn gần. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mặt trời hằng sáng soi <br/>trên tầng mây tối. <br/>Lời nghẹn ngào vướng môi, <br/>Chúa đã nghe rồi. <br/>Người ơi! Nâng đức tin <br/>nhìn lên Thiên Chúa, <br/>Vì bên kia bóng mờ, <br/>tay Ngài dẫn đưa. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Đêm tối đầy thương đau, <br/>lệ hoen mắt u sầu, <br/>Đều cùng nhau qua hết <br/>lúc ban mai về. <br/>Ngày vinh quang bất tận <br/>sẽ đến trong huy hoàng, <br/>Sung sướng ta cùng Chúa <br/>sống nơi thiên đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mặt trời hằng sáng soi <br/>trên tầng mây tối. <br/>Lời nghẹn ngào vướng môi, <br/>Chúa đã nghe rồi. <br/>Người ơi! Nâng đức tin <br/>nhìn lên Thiên Chúa, <br/>Vì bên kia bóng mờ, <br/>tay Ngài dẫn đưa. </em></dd></dl>

@@ -1,8 +1,7 @@
 ---
 title: 506. Mừng Thay Nô-Ên!
 weight: 506
-categories: Biệt Lễ Ca
-sub-categories: Nô-Ên
+categories: Nô-Ên
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Mừng thay Nô-ên, đêm thánh Đấng Christ giáng sinh, <br/>Đồng thinh thiên binh thiên sứ hát rao Tin Lành. <br/>Mừng thay Nô-ên, đêm thánh Đấng Christ giáng sinh. <br/>Ấy đêm Thánh Chúa tìm ta giải nguy, thoát ly khổ hình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em> Thanh bình thay! Vui mừng thay! <br/>Mừng thay Chúa thánh chí tôn, <br/>Đoái thương nhân thế lầm than, <br/>Bỏ ngôi hiển vinh, lâm phàm. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Mừng thay Nô-ên, Con Thánh bữa nay giáng lâm, <br/>Tại Bết-lê-hem nơi máng cỏ kia Christ nằm. <br/>Mừng thay Nô-ên, Con Thánh bữa nay giáng lâm, <br/>Thánh thay, Chúa tể toàn năng bỏ ngôi hiển vinh, lâm phàm. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em> Thanh bình thay! Vui mừng thay! <br/>Mừng thay Chúa thánh chí tôn, <br/>Đoái thương nhân thế lầm than, <br/>Bỏ ngôi hiển vinh, lâm phàm. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Bọn chăn chiên kia bôn ba tới máng cỏ hoang; <br/>Lần theo Sao Mai, bác sĩ viếng thăm Nhi Đồng. <br/>Lòng tôn kính Con đem quý lễ dâng trước chân. <br/>Xót thương Con Thánh vì ai giáng lâm ở nơi đê hèn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em> Thanh bình thay! Vui mừng thay! <br/>Mừng thay Chúa thánh chí tôn, <br/>Đoái thương nhân thế lầm than, <br/>Bỏ ngôi hiển vinh, lâm phàm. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Mừng thay Nô-ên, Đêm Thánh chiếu sáng vinh quang; <br/>Hạnh thay muôn dân, vinh hiển thay Vua thiên đàng; <br/>Mừng thay Nô-ên, đêm thánh chiếu sáng vinh quang, <br/>Ấy đêm ân điển bình an, thế gian hưởng ân Thiên Đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em> Thanh bình thay! Vui mừng thay! <br/>Mừng thay Chúa thánh chí tôn, <br/>Đoái thương nhân thế lầm than, <br/>Bỏ ngôi hiển vinh, lâm phàm. </em></dd></dl>

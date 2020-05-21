@@ -1,8 +1,7 @@
 ---
 title: 563. Cùng Hát Ha-Lê-Lu-Gia
 weight: 563
-categories: Chúa Jêsus Christ
-sub-categories: Giáng Sinh
+categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ca lên đi cây xanh núi cao sông dài, <br/>hòa cùng ngàn nhịp sóng trên đại dương, <br/>ngân vang dâng lên Chúa yêu thương lời ca Ha-lê-lu-gia. <br/>Ca lên đi muôn thiên sứ nơi thiên đàng <br/>hòa cùng lòng người bốn phương trên mặt địa cầu, <br/>nhịp nhàng hát vang bao lời ca Ha-lê-lu-gia. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta vui hát Ha-lê-lu-gia, <br/>cùng hát Ha-lê-lu-gia, <br/>dâng tiếng Ha-lê-lu-gia <br/>tôn vinh Chúa muôn đời. <br/>Ta vui hát Ha-lê-lu-gia <br/>cùng hát Ha-lê-lu-gia, <br/>nhạc khúc Ha-lê-lu-gia <br/>du dương lướt trời xa. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Đêm Nô-ên năm xưa Chúa sinh ra đời chuộc tội loài người, <br/>khắp khung trời cao thiên binh tung bay hát vang lên lời ca Ha-lê-lu-gia. <br/>Đêm Nô-ên năm xưa quán kia đông người nhộn nhịp ồn ào <br/>có ai đâu ngờ Jêsus vào đời lúc muôn thiên thần ca Ha-lê-lu-gia. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta vui hát Ha-lê-lu-gia, <br/>cùng hát Ha-lê-lu-gia, <br/>dâng tiếng Ha-lê-lu-gia <br/>tôn vinh Chúa muôn đời. <br/>Ta vui hát Ha-lê-lu-gia <br/>cùng hát Ha-lê-lu-gia, <br/>nhạc khúc Ha-lê-lu-gia <br/>du dương lướt trời xa. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Đêm Nô-ên năm xưa có ba vua từ ngàn dặm tìm Ngài, <br/>ngắm theo vì sao băng qua non cao, suối sâu, <br/>chung lời ca Ha-lê-lu-gia. <br/>Đêm Nô-ên năm xưa có anh chăn bầy lạnh lùng ngoài đồng vắng <br/>nghe tin mừng Ngài vào cuộc đời, hát vui bao lời ca Ha-lê-lu-gia. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta vui hát Ha-lê-lu-gia, <br/>cùng hát Ha-lê-lu-gia, <br/>dâng tiếng Ha-lê-lu-gia <br/>tôn vinh Chúa muôn đời. <br/>Ta vui hát Ha-lê-lu-gia <br/>cùng hát Ha-lê-lu-gia, <br/>nhạc khúc Ha-lê-lu-gia <br/>du dương lướt trời xa. </em></dd></dl>

@@ -1,8 +1,7 @@
 ---
 title: 858. Phải Nhìn Thấy Chúa Trong Anh
 weight: 858
-categories: Trọng Trách Hội Thánh
-sub-categories: Truyền Giảng
+categories: Truyền Giảng
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Trên đường trần gian tối tăm tội đầy <br/>và người người đều ngó xem ta. <br/>Luôn gìn sạch trong thân hồn đều thánh <br/>để thế nhân nhìn Chúa trong lòng anh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Người khác phải nhìn thấy Chúa trong anh. <br/>Người khác phải nhìn thấy Chúa trong anh. <br/>Hằng ngày kể ra tích chân thật và thương yêu Chúa. <br/>Để thế nhân nhìn Chúa trong lòng anh. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Mỗi ngày đời ta sống theo lời Ngài, <br/>sống sao đẹp lòng sáng danh Cha. <br/>Đưa mọi người thân đến con đường sống <br/>để thế nhân nhìn Chúa trong lòng anh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Người khác phải nhìn thấy Chúa trong anh. <br/>Người khác phải nhìn thấy Chúa trong anh. <br/>Hằng ngày kể ra tích chân thật và thương yêu Chúa. <br/>Để thế nhân nhìn Chúa trong lòng anh. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ta tìm được nơi ở cõi tuyệt vời <br/>khi cuộc đời này chóng qua thôi. <br/>Mau truyền danh Cha cho mọi người biết <br/>để thế nhân nhìn Chúa trong lòng anh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Người khác phải nhìn thấy Chúa trong anh. <br/>Người khác phải nhìn thấy Chúa trong anh. <br/>Hằng ngày kể ra tích chân thật và thương yêu Chúa. <br/>Để thế nhân nhìn Chúa trong lòng anh. </em></dd></dl>

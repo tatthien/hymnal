@@ -1,8 +1,7 @@
 ---
 title: 206. Gặp Được Thiết Hữu
 weight: 206
-categories: Đời Tín Đồ
-sub-categories: Vui Vẻ Vì Được Cứu
+categories: Vui Vẻ Vì Được Cứu
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Gặp được thiết hữu, thỏa thích tôi thay! <br/>Khi chưa nhận Ngài, Ngài đã thương; <br/>Lòng lành hấp dẫn tôi đến gần Ngài, <br/>Jê-sus buộc tôi vào Ngài luôn. <br/>Lòng vẫn kết liên cùng Chúa tôi nay, <br/>Dây buộc kia không dứt mối liên; <br/>Lòng nầy của Chúa, Chúa của lòng nầy, <br/>Muôn đời Jê-sus hằng còn nguyên. </dd><dt>Câu 2:</dt><dd data-verse="2">Gặp được thiết hữu thỏa thích tâm tôi! <br/>Do tôi Ngài liều mình ngọc châu; <br/>Kìa, dòng huyết báu thay giá chuộc rồi, <br/>Tâm hồn sạch trong, còn tội đâu. <br/>Mọi sở hữu tôi nào dám giữ chi, <br/>Xin hoàn lại cho Cứu Chúa tôi; <br/>Nào lòng, trí, sức, của cải, gì gì, <br/>Tôi nguyện trọn dâng Jê-sus thôi. </dd><dt>Câu 3:</dt><dd data-verse="3">Gặp được thiết hữu thỏa thích tâm tôi! <br/>Jê-sus nhận được mọi quyền năng, <br/>Hành trình tới chốn vinh hiển đời đời, <br/>Do Ngài đưa tôi vào bình an. <br/>Được mãi mãi vinh diệu ở thiên cung, <br/>Quan niệm này giục giã bản tâm. <br/>Từ giờ tỉnh thức, chiến đấu bền lòng, <br/>Sau được bình an ngàn ngàn năm. </dd><dt>Câu 4:</dt><dd data-verse="4">Gặp được thiết hữu thỏa thích tâm tôi! <br/>Khoan nhân, thành thật và hiền nhu, <br/>Là vị Thống Soái Mưu Sĩ trọn đời, <br/>Binh vực tôi như một trạng sư. <br/>Ngài trìu mến tôi nồng thắm khôn phai, <br/>Không quyền nào chia rẽ Chúa, tôi: <br/>Địa ngục, sống, chết, cả vũ trụ nầy, <br/>Không hề! Đời tôi thuộc Ngài thôi. </dd></dl>

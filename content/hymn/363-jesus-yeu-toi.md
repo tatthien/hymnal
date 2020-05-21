@@ -1,8 +1,7 @@
 ---
 title: 363. Jêsus Yêu Tôi
 weight: 363
-categories: Thiếu Nhi
-sub-categories: 
+categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Chúa yêu tôi lòng tôi vui thay! <br/>Kia, Kinh Thánh đã tỏ cho hay: <br/>Các con thơ thuộc Jê-sus đây, <br/>Chúng yếu, nhưng Ngài khỏe mạnh nầy. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus yêu tôi lắm, <br/>Phải, tôi được Chúa yêu; <br/>Jê-sus yêu tôi lắm; <br/>Chính trong Lời Chúa dạy nhiều. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Chúa yêu tôi Ngài hằng yêu đương, <br/>Tuy tôi yếu đuối, vẫn yêu thương; <br/>Nơi thập tự Ngài chịu hy sinh, <br/>Để cứu tôi sạch hết tội tình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus yêu tôi lắm, <br/>Phải, tôi được Chúa yêu; <br/>Jê-sus yêu tôi lắm; <br/>Chính trong Lời Chúa dạy nhiều. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Huyết Jê-sus vì yêu tôi tuôn, <br/>Thiên môn bởi đó mở toang luôn; <br/>Tuổi thơ tin nhận Ngài hôm nay, <br/>Chúa khiến bao tội lỗi sạch rày. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus yêu tôi lắm, <br/>Phải, tôi được Chúa yêu; <br/>Jê-sus yêu tôi lắm; <br/>Chính trong Lời Chúa dạy nhiều. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Chúa yêu tôi, hằng ngự bên tôi, <br/>Luôn nâng đỡ, dẫn dắt không thôi, <br/>Bởi tôi xưa Ngài chịu gai đinh, <br/>Quyết nhất sinh hầu Chúa trung thành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus yêu tôi lắm, <br/>Phải, tôi được Chúa yêu; <br/>Jê-sus yêu tôi lắm; <br/>Chính trong Lời Chúa dạy nhiều. </em></dd></dl>

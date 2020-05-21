@@ -1,8 +1,7 @@
 ---
 title: 47. Chúa Giấu Tôi
 weight: 47
-categories: Thờ Phượng
-sub-categories: Gìn Giữ, Dẫn Dắt
+categories: Gìn Giữ, Dẫn Dắt
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Giữa giông tố, sóng biển kia bổ dồn, <br/>Dậy vang đất mưa quỉ gió ôn, <br/>Chính tôi kiếm ngay được nơi núp hồn <br/>Tại trong cánh Thiên Phụ độc tôn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài che kín tôi, Ngài che kín thay <br/>Thật yên ổn không họa tai chuyển lay, <br/>Ngài che kín tôi, thật an thái thay, <br/>Ở trong bóng cánh linh năng Ngài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nguyền theo ý Chúa, dẫu gặp khổ nàn, <br/>Càng giục tôi mong đến thiên đàng; <br/>Ngài yêu, thét luyện hầu cao tuổi vàng, <br/>Nào đâu phải cơn giận Ngài chan. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài che kín tôi, Ngài che kín thay <br/>Thật yên ổn không họa tai chuyển lay, <br/>Ngài che kín tôi, thật an thái thay, <br/>Ở trong bóng cánh linh năng Ngài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Dầu tôi phải kẻ ác vây khổ hành, <br/>Quỉ Sa-tan giăng lưới chung quanh, <br/>Thì Chân Chúa thay đổi cơn khốn nàn <br/>Trở nên phước miên trường hân hoan. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài che kín tôi, Ngài che kín thay <br/>Thật yên ổn không họa tai chuyển lay, <br/>Ngài che kín tôi, thật an thái thay, <br/>Ở trong bóng cánh linh năng Ngài. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Vậy, trong lúc phải vác thập giá mình, <br/>Gặp phong ba tôi vẫn an bình, <br/>Vì Chúa giúp cho hồn tôi vững bằng; <br/>Là con Chúa, ai hại được chăng? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài che kín tôi, Ngài che kín thay <br/>Thật yên ổn không họa tai chuyển lay, <br/>Ngài che kín tôi, thật an thái thay, <br/>Ở trong bóng cánh linh năng Ngài. </em></dd></dl>

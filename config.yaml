@@ -12,7 +12,6 @@ outputs:
   - Algolia
 taxonomies:
   categories: categories
-  sub-categories: sub-categories
 params:
   description: The Vietnamese Christian Hymnal
   favicon: img/icon/favicon.png
@@ -20,7 +19,7 @@ params:
     - img/index.png
   algolia:
     vars: ["title", "content", "summary", "date", "publishdate", "permalink"]
-    params: ["category", "sub_category"]
+    params: ["categories"]
 
 outputFormats:
   Algolia:

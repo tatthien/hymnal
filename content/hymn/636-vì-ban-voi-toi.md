@@ -1,8 +1,7 @@
 ---
 title: 636. Vì Bạn Với Tôi
 weight: 636
-categories: Tin Lành
-sub-categories: Lời Mời
+categories: Lời Mời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Một đoàn đông hung hăng vây bắt Chúa <br/>trong khu vườn Ngài hay tới lui, <br/>Họ xô nhau quanh bên Chúa giỡn cười. <br/>Mà sao Jê-sus không tiếng nói, <br/>khi bao người nhạo khinh diễu chơi; <br/>Thập tự treo thân Jê-sus Đấng vô tội. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa có thể khiến các sứ thánh xuống trần, <br/>tiêu tan muôn ác nhân xua bao tối tăm. <br/>Chúa có thể khiến lửa cháy giáng xuống người, <br/>mà Ngài liều thân chết vì bạn với tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Đầu Jê-sus gai kia đâm rướm máu. <br/>Ôi thân Ngài chịu bao đớn đau. <br/>Bàn tay đôi chân đinh đóng thảm sầu. <br/>Và hông Jê-sus thêm mũi giáo <br/>đâm tim Ngài lòng tan vỡ mau; <br/>Một mình Jê-sus thay ta gánh đau sầu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa có thể khiến các sứ thánh xuống trần, <br/>tiêu tan muôn ác nhân xua bao tối tăm. <br/>Chúa có thể khiến lửa cháy giáng xuống người, <br/>mà Ngài liều thân chết vì bạn với tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Đồi Gô-tha ban trưa vương bóng tối, <br/>mây đen mịt mù giăng khắp nơi, <br/>giờ đau thương Jê-sus chết thế người. <br/>Ngài dang tay yêu thương thế giới, <br/>tha muôn tội nhờ hông huyết rơi. <br/>Mọi sự xong xuôi Jê-sus trút hơi rồi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa có thể khiến các sứ thánh xuống trần, <br/>tiêu tan muôn ác nhân xua bao tối tăm. <br/>Chúa có thể khiến lửa cháy giáng xuống người, <br/>mà Ngài liều thân chết vì bạn với tôi. </em></dd></dl>

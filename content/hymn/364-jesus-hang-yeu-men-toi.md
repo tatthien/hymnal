@@ -1,8 +1,7 @@
 ---
 title: 364. Jêsus Hằng Yêu Mến Tôi
 weight: 364
-categories: Thiếu Nhi
-sub-categories: 
+categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Hằng ngày lòng nầy thật mừng vì Cha minh chánh, <br/>Ơn yêu thương cao sâu Ngài Sách Thánh ghi tường; <br/>Mọi điều lạ lùng từng tìm được trong Kinh Thánh, <br/>Duy Jê-sus yêu tôi là quí báu phi thường. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus yêu tôi, Chúa mến tôi trọn đời, <br/>Ngài đầy lòng yêu, Ngài yêu tôi mãi: <br/>Jê-sus yêu tôi, khiến tôi vui mừng hoài, <br/>Jê-sus hằng yêu mến tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lòng thường dặn lòng đừng bồi hồi nào quên yêu Chúa, <br/>Nhơn Jê-sus yêu tôi đành chết thế cho tôi rồi; <br/>Ngài vì loài người chịu nhục hình trên cây gỗ; <br/>Ôi, Jê-sus yêu tôi, Ngài cứ mến yêu hoài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus yêu tôi, Chúa mến tôi trọn đời, <br/>Ngài đầy lòng yêu, Ngài yêu tôi mãi: <br/>Jê-sus yêu tôi, khiến tôi vui mừng hoài, <br/>Jê-sus hằng yêu mến tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Dầu lòng nầy từng bội bạc, lìa xa Chân Chúa, <br/>Tuy bao phen tôi lưu lạc Chúa cứ yêu hoài; <br/>Giờ mà lòng nầy hồi niệm tình yêu muôn thuở, <br/>Tôi vui quay ngay nương dựa dưới cánh tay Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus yêu tôi, Chúa mến tôi trọn đời, <br/>Ngài đầy lòng yêu, Ngài yêu tôi mãi: <br/>Jê-sus yêu tôi, khiến tôi vui mừng hoài, <br/>Jê-sus hằng yêu mến tôi. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Lòng thầm nguyện chọn một bài về Cha nhân ái, <br/>Khi trong vinh quang tôi được thấy chính mặt Ngài; <br/>Nầy là bài mà đời đời lòng hoan ca mãi <br/>Ôi! Sao Jê-sus yêu được kẻ khốn nạn nầy. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus yêu tôi, Chúa mến tôi trọn đời, <br/>Ngài đầy lòng yêu, Ngài yêu tôi mãi: <br/>Jê-sus yêu tôi, khiến tôi vui mừng hoài, <br/>Jê-sus hằng yêu mến tôi. </em></dd></dl>

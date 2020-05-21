@@ -1,8 +1,7 @@
 ---
 title: 588. Này Anh Thấy Không?
 weight: 588
-categories: Chúa Jêsus Christ
-sub-categories: Chịu Khổ Và Chết
+categories: Chịu Khổ Và Chết
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Này anh thấy không, nơi toà Phi-lát, <br/>Jê-sus đứng yên dẫu quân thù kêu. <br/>Họ mưu với nhau, xin Ngài quan án <br/>đừng tha Jê-sus, đóng đinh người đi. <br/>Nầy anh thấy không? Kìa anh thấy không? <br/>Anh thấy họ tát má Jê-sus kìa. <br/>Họ cho mão gai bảo Vua đội đi. <br/>Anh, anh, anh ơi! Kìa anh thấy không nào? <br/>Chúa vác thánh giá bước lên đồi kia kìa. <br/>Nơi đó quân thù đóng đinh Jê-sus! <br/>Chúa mang hình thay cho tôi với anh. <br/>Anh, anh, anh ơi! Kìa thân Chúa trên đồi. <br/>Huyết Chúa thấm ướt đồi Gô-gô-tha, <br/>Xin Cha Ngài tha thứ cho con, con được ơn cứu, <br/>Xin Jê-sus yêu dấu vô tâm hồn con đây. </dd><dt>Câu 2:</dt><dd data-verse="2">Nầy anh có hay nơi đồi Gô-tha, <br/>họ treo Jê-sus để bia là Vua. <br/>Họ cho lính canh như là tên cướp, <br/>Ngài không tiếng than, khẩn xin cùng Cha. <br/>Nầy Cha Thánh ôi! Cầu xin Chúa Cha, <br/>tha thứ người đã giết con trên đồi, <br/>Họ không biết chi, hỡi Cha thượng thiên! <br/>Anh, kìa anh ơi! Jê-sus tắt hơi rồi! <br/>Lính gác thánh giá giáo đâm vào hông Ngài. <br/>Ôi Chúa sao chịu đớn đau vô cùng, <br/>Bởi tôi Ngài mang đau thương thế kia. <br/>Anh, anh, anh ơi! Còn chi sánh thiên tình. <br/>Chúa muốn cứu vớt tội cho anh đó! <br/>Xin Cha Ngài tha thứ cho tôi, anh được ơn cứu. <br/>Xin Jê-sus yêu dấu vô tâm hồn con đây! </dd></dl>

@@ -1,8 +1,7 @@
 ---
 title: 49. Chúa Sẽ Lo Toan
 weight: 49
-categories: Thờ Phượng
-sub-categories: Gìn Giữ, Dẫn Dắt
+categories: Gìn Giữ, Dẫn Dắt
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Giờ bạn gặp gian truân chớ hoang mang, <br/>Nhờ Chúa lo liệu châu toàn; <br/>Bạn cần dựa nương trong cánh yêu đang, <br/>Nhờ Chúa lo liệu bảo an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa sẽ luôn luôn lo toan, <br/>Trong mỗi năm, ngày, qua cả đời nầy; <br/>Ngài lo chu cấp thích đáng, <br/>Chúa sẽ lo sẵn từng giây. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bạn gặp hồi gian lao khiến nản tâm, <br/>Nhờ Chúa lo liệu châu toàn; <br/>Dọc đường bạn gặp tai ách nhiễu xâm, <br/>Nhờ Chúa lo liệu bảo an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa sẽ luôn luôn lo toan, <br/>Trong mỗi năm, ngày, qua cả đời nầy; <br/>Ngài lo chu cấp thích đáng, <br/>Chúa sẽ lo sẵn từng giây. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Mọi điều cần nhu do Chúa cấp chu, <br/>Nhờ Chúa lo liệu châu toàn; <br/>Bạn hằng cậy trông Chúa ắt phỉ phu, <br/>Nhờ Chúa lo liệu bảo an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa sẽ luôn luôn lo toan, <br/>Trong mỗi năm, ngày, qua cả đời nầy; <br/>Ngài lo chu cấp thích đáng, <br/>Chúa sẽ lo sẵn từng giây. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Dầu bạn bè phân ly phải cố đan, <br/>Nhờ Chúa lo liệu châu toàn; <br/>Ngài rịt lành sầu tâm đã vỡ tan, <br/>Nhờ Chúa lo liệu bảo an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa sẽ luôn luôn lo toan, <br/>Trong mỗi năm, ngày, qua cả đời nầy; <br/>Ngài lo chu cấp thích đáng, <br/>Chúa sẽ lo sẵn từng giây. </em></dd><dt>Câu 5:</dt><dd data-verse="5">Dầu gặp rèn thử đau đớn đến đâu, <br/>Nhờ Chúa lo liệu châu toàn; <br/>Bạn mệt, dựa ngực chân Chúa mau mau, <br/>Nhờ Chúa lo liệu bảo an. <dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa sẽ luôn luôn lo toan, <br/>Trong mỗi năm, ngày, qua cả đời nầy; <br/>Ngài lo chu cấp thích đáng, <br/>Chúa sẽ lo sẵn từng giây. </em></dd></dl>

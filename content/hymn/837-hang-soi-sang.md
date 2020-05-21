@@ -1,8 +1,7 @@
 ---
 title: 837. Hằng Soi Sáng
 weight: 837
-categories: Đời Tín Đồ
-sub-categories: Phục Sự Chúa, Cứu Tội Nhân
+categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Giống tháp hải đăng xây trên thạch bàn. <br/>Giữa hải đảo muôn thu soi dịu dàng. <br/>Trong cơn phong ba kinh khiếp <br/>luôn luôn chiếu huy hoàng. <br/>Cũng thế ấy Thánh Kinh luôn hằng còn. <br/>Cứ đứng vững trên lời chân kinh đây <br/>Đưa ai lướt sóng gió ô tội vào thiên cung ngay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hằng chiếu, lòa soi vào <br/>tận nơi trần gian tăm tối. <br/>Hằng chiếu lòa soi tận <br/>khi giông tố kia an tịnh. <br/>Hằng chiếu, lòa soi tận <br/>ngày quang lâm Chúa an bình. <br/>Hằng chiếu, hằng chiếu, chiếu luôn. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Khá giữ tháp đăng soi luôn đừng mờ. <br/>Để thủy thủ an nhiên noi vào bờ. <br/>Âm u hay phong ba thấy luôn tia sáng soi loà. <br/>Suối cứu rỗi ta do Jê-sus Christ. <br/>Ánh sáng của ta là Jê-sus Christ. <br/>Ta không để khuất lấp song mọi giờ nên quang huy. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hằng chiếu, lòa soi vào <br/>tận nơi trần gian tăm tối. <br/>Hằng chiếu lòa soi tận <br/>khi giông tố kia an tịnh. <br/>Hằng chiếu, lòa soi tận <br/>ngày quang lâm Chúa an bình. <br/>Hằng chiếu, hằng chiếu, chiếu luôn. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Do căn nguyên ánh vinh quang rạng ngời. <br/>Do nơi Cha Đấng yêu thương đời đời. <br/>Ban cho tôi Con yêu dấu hy sinh chẳng ai tày. <br/>Duy chăm xem chi bởi trong thần quyền. <br/>Cứ mỗi phút mỗi giờ chung quanh ta. <br/>Ta nên tỏ Đấng Christ đang ngự trị trong ta luôn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hằng chiếu, lòa soi vào <br/>tận nơi trần gian tăm tối. <br/>Hằng chiếu lòa soi tận <br/>khi giông tố kia an tịnh. <br/>Hằng chiếu, lòa soi tận <br/>ngày quang lâm Chúa an bình. <br/>Hằng chiếu, hằng chiếu, chiếu luôn. </em></dd></dl>

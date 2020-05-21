@@ -1,8 +1,7 @@
 ---
 title: 87. Kìa, Chín Mươi Chín Con
 weight: 87
-categories: Chúa Jêsus Christ
-sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
+categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1"> Kìa chín mươi chín con nằm bình yên, <br/>Trong bốn vách tường ràn chiên, <br/>Một con bơ vơ nơi dốc núi xa, <br/>Xa cách cửa vàng nhà Cha: <br/>Ngơ Ngác quẩn quanh non núi gốc gai, <br/>Vắng bóng Cứu Chúa, Người chăn êm ái, <br/>Vắng bóng Cứu Chúa dìu dắt đêm ngày. </dd><dt>Câu 2:</dt><dd data-verse="2">"Còn chín mươi chín chiên kìa đẹp bao, <br/>Ôi, Chúa chẳng hài lòng sao? <br/>Lệ tuôn Jêsus quay đáp thiết tha, <br/>Con đó đã lìa ràn ta", <br/>Lên dốc, xuống đường, bao quản khó gay, <br/>Quyết sống chết kiếm một con chiên ấy, <br/>Quyết sống chết kiếm tìm con chiên này! </dd><dt>Câu 3:</dt><dd data-verse="3">Tuyệt nhiên không ai đo dò cạn sâu, <br/>Sông, suối, Chúa từng vượt đâu, <br/>Hoặc đêm âm u tâm Chúa chẳng yên, <br/>Nôn nả cố tìm gặp chiên. <br/>Trong núi Chúa nghe chiên ré thảm thương, <br/>Ốm yếu sắp chết nào ai cấp dưỡng, <br/>Ốm yếu sắp chết nào kẻ am tường. </dd><dt>Câu 4:</dt><dd data-verse="4">"Lạy Jê-sus sao trên đường thượng sơn, <br/>In dấu huyết từng bàn chân?" <br/>"Vì chiên kia nên ta đổ huyết ra, <br/>Khi kiếm nó dọc rừng xa" <br/>"Tay Chúa cớ sao lưu dấu vết đây?" <br/>"Ấy lúc bóng tối bị gai đâm bấy, <br/>Trong đêm tối tăm bị xước tay này." </dd><dt>Câu 5:</dt><dd data-verse="5">Điệu ca nghe như lôi đình dội vang, <br/>Rung núi lớn, dậy rừng hoang, <br/>Vượt qua không trung lên đến thánh môn, <br/>"Vui quá đã tìm được con!" <br/>Thiên sứ đứng quanh bên Chúa xướng ca <br/>"Cứu Chúa đã kiếm được chiên vui quá, <br/>Cứu Chúa đã kiếm được chiên vô nhà!" </dd></dl>

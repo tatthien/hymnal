@@ -1,8 +1,7 @@
 ---
 title: 634. Thiết Tha
 weight: 634
-categories: Tin Lành
-sub-categories: Lời Mời
+categories: Lời Mời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Đời cô lữ khiến tâm tư ưu sầu, <br/>hay lo buồn vấn vương lòng anh? <br/>Mời anh đến với tôi theo Jê-sus; <br/>bao ưu phiền khó khăn tan liền. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính Chúa giúp đời anh sống an bình, <br/>Ngài dắt đưa trên đường ơn phước. <br/>Ước mong chi Chúa cho thỏa lòng, <br/>nhờ Ngài ban niềm vui hạnh phúc. <br/>Anh hỡi! Hãy đến mau theo Ngài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nợ ân điển Chúa ban cho nhân loại, <br/>nên tim Ngài vỡ tan, vì anh. <br/>Thập tự giá Chúa chan hòa huyết đào, <br/>cứu muôn người thoát ly ma quyền. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính Chúa giúp đời anh sống an bình, <br/>Ngài dắt đưa trên đường ơn phước. <br/>Ước mong chi Chúa cho thỏa lòng, <br/>nhờ Ngài ban niềm vui hạnh phúc. <br/>Anh hỡi! Hãy đến mau theo Ngài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngày xưa có lúc tôi hay u buồn, <br/>khi chưa tìm thấy con đường ngay. <br/>Nhờ ơn Chúa cứu tôi về với Ngài, <br/>nay trọn đời sống trong vui mừng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính Chúa giúp đời anh sống an bình, <br/>Ngài dắt đưa trên đường ơn phước. <br/>Ước mong chi Chúa cho thỏa lòng, <br/>nhờ Ngài ban niềm vui hạnh phúc. <br/>Anh hỡi! Hãy đến mau theo Ngài. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Đừng suy nghĩ vẩn vơ theo ý mình, <br/>hay mưu cầu lối riêng trần gian. <br/>Tình yêu Chúa thiết tha luôn tỏ bày, <br/>đang khuyên mời chính anh theo Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính Chúa giúp đời anh sống an bình, <br/>Ngài dắt đưa trên đường ơn phước. <br/>Ước mong chi Chúa cho thỏa lòng, <br/>nhờ Ngài ban niềm vui hạnh phúc. <br/>Anh hỡi! Hãy đến mau theo Ngài. </em></dd></dl>

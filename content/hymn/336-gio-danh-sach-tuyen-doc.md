@@ -1,8 +1,7 @@
 ---
 title: 336. Giờ Danh Sách Tuyên Đọc
 weight: 336
-categories: Cõi Lai Sanh
-sub-categories: Sống Lại Và Chịu Phán Xét
+categories: Sống Lại Và Chịu Phán Xét
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Thời gian sẽ chấm dứt lúc tiếng loa rao tin Chúa lai lâm từ trời, <br/>Bình minh sẽ chiếu ánh mãi mãi sáng choang đẹp tươi; <br/>Mọi dân đắc cứu dưới đất, lúc bay lên vui nhóm bên kia bờ rồi, <br/>Giờ danh sách khởi xướng, mừng nghe Jê-sus gọi tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Giờ danh sách tuyên đọc, vui quá vui! <br/>Khi danh sách tuyên đọc, vui quá vui! <br/>Giờ danh sách xướng lên thật mừng vui! <br/>Lúc danh sách khởi xướng mừng nghe Jê-sus gọi tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bình minh sáng rỡ lúc kẻ chết trong Jê-sus sống bước ra mộ phần, <br/>Được vinh hiển giống Chúa đã sống chẳng sai một phân; <br/>Mọi con cái Chúa cứu, thảy nhóm nhau hân hoan ở thiên cung rạng ngời, <br/>Giờ danh sách khởi xướng, mừng nghe Jê-sus gọi tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Giờ danh sách tuyên đọc, vui quá vui! <br/>Khi danh sách tuyên đọc, vui quá vui! <br/>Giờ danh sách xướng lên thật mừng vui! <br/>Lúc danh sách khởi xướng mừng nghe Jê-sus gọi tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Từ mai sớm đến lúc sẩm tối ta luôn hăng hái chăm lo việc Ngài, <br/>Truyền ra ái đức Chúa đoái đến chúng ta lạ thay; <br/>Đời nay kết thúc, ấy lúc chấm dứt công lao khiến bao phen lệ nhòa, <br/>Giờ danh sách khởi xướng, mừng nghe Jê-sus gọi tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Giờ danh sách tuyên đọc, vui quá vui! <br/>Khi danh sách tuyên đọc, vui quá vui! <br/>Giờ danh sách xướng lên thật mừng vui! <br/>Lúc danh sách khởi xướng mừng nghe Jê-sus gọi tôi. </em></dd></dl>

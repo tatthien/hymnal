@@ -1,8 +1,7 @@
 ---
 title: 627. Trong Tay Chúa
 weight: 627
-categories: Tin Lành
-sub-categories: Lời Mời
+categories: Lời Mời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Chìm ngập trong hôn mê bao năm <br/>và cuộc sống thiếu vắng ý nghĩa khi <br/>tôi chưa quen chưa yêu mến Jê-sus; <br/>Rồi khi tôi ăn năn kêu xin, <br/>Ngài cầm tay nâng đưa tôi lên, <br/>trong yêu thương Chúa xóa tan buồn đau. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài như tia nắng, rạng lòa soi, <br/>Tôi yêu Jê-sus, Chúa tôi nhân từ. <br/>Rồi từ đây, và ngàn năm, <br/>tay trong tay Chúa dắt dìu tôi đi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Chuyện tôi nghe qua bao câu ca: <br/>vì yêu tôi Chúa đã giáng thế, <br/>sinh trong cô đơn chết trong nỗi nhọc nhằn. <br/>Ngài là Vua trên muôn muôn vua, <br/>lời Ngài phán sóng gió khép tiếng, <br/>nhưng sao Chúa phải chết trên đồi xưa? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài như tia nắng, rạng lòa soi, <br/>Tôi yêu Jê-sus, Chúa tôi nhân từ. <br/>Rồi từ đây, và ngàn năm, <br/>tay trong tay Chúa dắt dìu tôi đi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nầy bạn đang cô đơn lang thang <br/>nhìn ngày tháng sóng bổ gió cuốn, <br/>nghe chăng hôm nay tiếng tha thiết ân cần. <br/>Trở về bên chân Jê-sus ngay, <br/>Ngài sẽ lau ráo hết nước mắt, <br/>bao nhiêu đau khổ sẽ nên mừng vui. </dd><dt>Điệp khúc:</dt><dd data-chorus="2"><em>Ngài như ánh sáng, rọi đêm tối, <br/>Jê-sus yêu ơi, Chúa quá cao vời. <br/>Và từ đây, rồi mãi mãi, <br/>Tôn vinh Jê-sus muôn đời không thôi. </em></dd></dl>

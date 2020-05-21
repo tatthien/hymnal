@@ -1,8 +1,7 @@
 ---
 title: 419. Hồn Ta Hằng Khen Chúa
 weight: 419
-categories: Hợp Ca
-sub-categories: Nam Nữ Ban
+categories: Nam Nữ Ban
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Hồn ta hằng khen Chúa, hồn ta hằng khen Chúa, <br/>Chớ quên các ân huệ Ngài. Tội ngươi Chúa tha sạch rồi, <br/>Đau ốm Chúa cho mạnh lành, Hưởng ân hồng trường sinh. <br/>Đức khoan nhân rộng, dài, Chớ nên quên ân huệ Ngài: <br/>Hưởng phước mới chẳng thể đếm, Tuổi tác cứ phới phới xuân. <br/>Chúa chí thánh vốn có tâm từ mẫn, <br/>Luôn ban ân phước quý báu xuống khắp chốn thế gian, <br/>Chậm giận, sẵn tha, tuôn ra suối ơn nhân từ lai láng. <br/>Mọi tội ác, Giê-hô-va chẳng chấp trách ngươi, <br/>Dầu giận nhưng Thánh Chúa chẳng ghi nhớ hoài; <br/>Giê-hô-va không chiếu lỗi ngươi gia hình, <br/>Không khứng lấy ác trả ác theo nhân tình. <br/>Ngài chí nhơn! <br/>Trời dẫu cao, đức ái nhân Ngài nghìn trùng hơn; <br/>Ô! Trông lên vùng không bát ngát bao la, kìa, <br/>Sông ái đức Chúa rộng so gấp mấy kia. <br/>Kìa, lòng nhân Chúa đối với kẻ kính sợ Ngài cao lớn thay, <br/>Chúa ném ác uế khỏi chúng khác chi đông xa đoài. <br/>Thật dường như Cha xót thương con mình, <br/>Hẳn Chúa quí mến suốt nhứt sinh, Để ta nương cánh Ngài hết lòng, <br/>Phải, ta tôn kính danh Ngài thủy chung. <br/>Hồn ta hằng khen Chúa! Hồn ta hằng khen Chúa; <br/>Kẻ kính mến Chúa ắt không lay chuyển, <br/>Chúa thương dắt đưa châu tuyền, <br/>Cả đến cháu chít phước ân vui hưởng, <br/>Chúng dâng thân, hồn kính mến Vua miên trường. </dd></dl>

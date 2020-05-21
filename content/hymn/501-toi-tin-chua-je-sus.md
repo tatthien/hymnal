@@ -1,8 +1,7 @@
 ---
 title: 501. Tôi Tin Chúa Jê-Sus
 weight: 501
-categories: Lễ Nghi
-sub-categories: Tiệc Thánh
+categories: Tiệc Thánh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Trong đời nay không tay nào giúp đỡ, <br/>Song nhờ Cha giải cứu tôi; <br/>Thảm thiết tôi thay, chẳng biết đi đâu, <br/>Nếu Christ đi quá khỏi tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trong lòng tôi nay tin cậy quả quyết, <br/>Christ vì tôi đổ huyết ra; <br/>Miễn nhớ luôn luôn bửu huyết Jê-sus, <br/>Lỗi của tôi ắt rửa xong. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Con độc sanh thay tôi chịu khốn khổ, <br/>Linh hồn tôi sẽ sống luôn; <br/>Trước lúc tôi sinh Chúa đã thương tôi, <br/>Bởi cớ tôi, Chúa khổ thay! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trong lòng tôi nay tin cậy quả quyết, <br/>Christ vì tôi đổ huyết ra; <br/>Miễn nhớ luôn luôn bửu huyết Jê-sus, <br/>Lỗi của tôi ắt rửa xong. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Khi lòng tôi đau thương liền ngước mắt, <br/>Linh hồn tôi phải khát khao; <br/>Hỡi Chúa, căn nguyên của đức tin tôi, <br/>Bổ đức tin, cứu rỗi tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trong lòng tôi nay tin cậy quả quyết, <br/>Christ vì tôi đổ huyết ra; <br/>Miễn nhớ luôn luôn bửu huyết Jê-sus, <br/>Lỗi của tôi ắt rửa xong. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Bây giờ xin cho tôi được thấy Chúa, <br/>Vui mừng thay, thỏa chí tôi; <br/>Hỡi Chúa, cho tôi hiểu tiếng Christ luôn, <br/>Hẳn nếm ơn Chúa chẳng thôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trong lòng tôi nay tin cậy quả quyết, <br/>Christ vì tôi đổ huyết ra; <br/>Miễn nhớ luôn luôn bửu huyết Jê-sus, <br/>Lỗi của tôi ắt rửa xong. </em></dd></dl>

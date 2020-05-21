@@ -1,8 +1,7 @@
 ---
 title: 62. Hỡi Bết-Lê-Hem, Tiểu Thôn Cô Quạnh
 weight: 62
-categories: Chúa Jêsus Christ
-sub-categories: Giáng Sinh
+categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Hỡi Bết-lê-hem tiểu thôn cô quạnh, <br/>Bình yên bấy trong vùng ngươi! <br/>Người đang ngủ mê, đất đang an tịnh, <br/>Nhặt thưa ánh sao trên trời. <br/>Phố lều thưa thớt đắm trong giấc nồng, <br/>Ánh sáng thiên thượng bật ra <br/>Nghìn xưa khiếp kinh cách xa hy vọng <br/>Giờ nay giữa người chung hòa. </dd><dt>Câu 2:</dt><dd data-verse="2">Trời khuya, thế gian ngủ mê đâu ngờ, <br/>Giờ Ma-ri sinh Jê-sus, <br/>Kìa thiên sứ đang nhóm nhau tôn thờ, <br/>Chờ xem ái tâm Thiên Phụ. <br/>Các vì tinh tú ứng thanh chung lời, <br/>Báo cáo Con Trời vừa sinh <br/>Hòa thanh tán dương Thánh Vương ra đời <br/>Trần gian hưởng ơn thanh bình. </dd><dt>Câu 3:</dt><dd data-verse="3">Thật yên tĩnh thay Chúa ban ơn lành, <br/>Từ nay phước ban cùng nơi, <br/>Là Ngôi chí tôn ở trên thiên thành, <br/>Lặng yên giáng cư tâm người. <br/>Dưới đời chan chứa xấu xa hư hoại, <br/>Mấy ai khen ngợi Ngài nay? <br/>Hễ ai biết khiêm tốn hoan nghinh Ngài <br/>Christ vô ở trong tâm rày. </dd><dt>Câu 4:</dt><dd data-verse="4">Nguyện Con Trẻ Bết-lê-hem đêm này, <br/>Ngự vô chính nơi lòng đây; <br/>Trục tăm tối ra, thổi tan mây vầy, <br/>Cầu Christ giáng sinh tâm này. <br/>Sứ trời rao vang phước âm chi tày, <br/>Christ sinh như người lạ thay! <br/>Em-ma-nu-ên hỡi, tôi xin Ngài <br/>Ngự luôn ở tâm tôi rày. </dd></dl>

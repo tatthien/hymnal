@@ -1,8 +1,7 @@
 ---
 title: 66. Đêm Thánh
 weight: 66
-categories: Chúa Jêsus Christ
-sub-categories: Giáng Sinh
+categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Kìa, vùng trời đông ngôi sao Tin Lành soi thánh quang <br/>Con Trời tự hạ thành nhân giữa đêm huy hoàng; <br/>Vì lòng Ngài yêu nhân thế đắm chìm nơi bến mê, <br/>Ra đời làm giá cao quý cứu chúng sinh về; <br/>Bao năm cảnh đời như giữa đêm ác tội khiếp kinh, <br/>Hôm nay khắp trời trông rõ quang cảnh diệu vinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa sinh giờ đây, <br/>Ðêm thánh vinh quang vui vẻ bấy! <br/>Ðêm phước hạnh đấy, <br/>Ðêm hòa bìnhh đêm an ninh, <br/>Ðêm Chúa từ ái, <br/>Chínhhđêm Jê-sus giáng sinh. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Mục đồng gặp ngay <br/>Anh Nhi trong chuồng chiên đáng thương, <br/>Ðơn thành thờ lạy thần nhân hiển vinh lạ thường; <br/>Tìm thờ lạy Vua! Xưa bác sĩ nhìn sao ruổi dong, <br/>Nay ta thành kính cùng tôn Chúa cách hết lòng; <br/>Jê-sus trải trường đau khổ thương cảm nhược điểm ta, <br/>Ban ơn giữ gìn ta khỏi mưu quỷ quyền ma. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa sinh giờ đây, <br/>Ðêm thánh vinh quang vui vẻ bấy! <br/>Ðêm phước hạnh đấy, <br/>Ðêm hòa bình, đêm an ninh, <br/>Ðêm Chúa từ ái, <br/>Chính đêm Jê-sus giáng sinh. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngài từng dạy ta nên yêu thương cùng nhau chớ phai, <br/>Yêu là luật Ngài, bình an ấy Tin Lành Ngài; <br/>Ngài vì tội nô nên bẻ xích xiềng ma quỷ kia, <br/>Danh Ngài truyền đến, bao áp chế thảy xa lìa; <br/>Ta nên hết lòng tôn kính danh Ðấng vừa giáng sinh, <br/>Dâng lên khúc thần ca cảm ơn Chúa diệu vinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa sinh giờ đây, <br/>Ðêm thánh vinh quang vui vẻ bấy! <br/>Ðêm phước hạnh đấy, <br/>Ðêm hòa bình, đêm an ninh, <br/>Ðêm Chúa từ ái, <br/>Chính đêm Jê-sus giáng sinh. </em></dd></dl>

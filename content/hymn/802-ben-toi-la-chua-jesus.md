@@ -1,8 +1,7 @@
 ---
 title: 802. Bên Tôi Là Chúa Jêsus
 weight: 802
-categories: Đời Tín Đồ
-sub-categories: Yêu Mến Chúa
+categories: Yêu Mến Chúa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Một người bạn đường thân mật, một bạn đường yêu dấu, <br/>Ở luôn bên cạnh tôi, Sẻ chia bao buồn vui. <br/>Một người đầy lòng nhân từ, tràn đầy lòng thương xót, <br/>Ở luôn bên cạnh tôi chính là Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Luôn luôn bên cạnh tô là Cứu Chúa Jê-sus, <br/>Luôn luôn bên cạnh tôi Chúa ban niềm vui. <br/>Bao nhiêu ô tội tôi, Chúa đã gánh thay rồi, <br/>Yêu thương tôi trọn đời là Chúa Jê-sus. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ngài làm ngừng trận ba đào, Ngài làm ngừng cơn bão, <br/>Chúa đưa tay quyền năng. Giữ tôi trong bình an. <br/>Hồi gặp hoạn nạn lo buồn, Ngài dịu dàng nâng đỡ. <br/>Ở luôn bên cạnh tôi chính là Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Luôn luôn bên cạnh tô là Cứu Chúa Jê-sus, <br/>Luôn luôn bên cạnh tôi Chúa ban niềm vui. <br/>Bao nhiêu ô tội tôi, Chúa đã gánh thay rồi, <br/>Yêu thương tôi trọn đời là Chúa Jê-sus. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Trọn đời lòng này lòng tôn thờ, Trọn đời ngợi ca Chúa, <br/>Hát lên câu tình thương, Tiếng ca vang ngàn phương. <br/>Rồi ngày nào về thiên đàng, Đời đời còn vui hát. <br/>Ở luôn bên cạnh tôi chính là Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Luôn luôn bên cạnh tô là Cứu Chúa Jê-sus, <br/>Luôn luôn bên cạnh tôi Chúa ban niềm vui. <br/>Bao nhiêu ô tội tôi, Chúa đã gánh thay rồi, <br/>Yêu thương tôi trọn đời là Chúa Jê-sus. </em></dd></dl>

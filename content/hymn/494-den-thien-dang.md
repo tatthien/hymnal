@@ -1,8 +1,7 @@
 ---
 title: 494. Đến Thiên Đàng
 weight: 494
-categories: Thiên Đàng
-sub-categories: 
+categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Jê-sus yêu rất kỳ lạ, nên hát khen Ngài, <br/>Cho ta ân hậu, ngoài ra chẳng có ai; <br/>Trong nước Chúa ta ơn phước hiển vinh, <br/>Nơi Chúa sắm sẵn cho ở mãi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngày tôi bước đến cửa thiên thành, <br/>Vui thay, Chúa đổ phước thượng thiên xuống, <br/>Là khi thấy Jê-sus rồi, <br/>ca ngợi Chúa Cứu Thế vinh hiển mãi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Đương nay nơi thế hạ mà xem chốn thiên đàng, <br/>Mây che đen kịch trời kia chẳng vẻ vang, <br/>Khi đã tới thiên môn nước hiển vang, <br/>Nơi sáng láng sẽ vui thỏa mãn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngày tôi bước đến cửa thiên thành, <br/>Vui thay, Chúa đổ phước thượng thiên xuống, <br/>Là khi thấy Jê-sus rồi, <br/>ca ngợi Chúa Cứu Thế vinh hiển mãi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Đem tâm can quyết định hằng ăn ở ngay lành, <br/>Nên luôn luôn trọng đạo vững giữ nghĩa danh; <br/>Khi thấy Chúa trong nơi quý báu kia, <br/>Vui thấy Chúa thưởng cho của báu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngày tôi bước đến cửa thiên thành, <br/>Vui thay, Chúa đổ phước thượng thiên xuống, <br/>Là khi thấy Jê-sus rồi, <br/>ca ngợi Chúa Cứu Thế vinh hiển mãi. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Nên đi luôn để được phần ban thưởng trên nầy, <br/>Không bao lâu mặt Ngài ta cũng thấy ngay; <br/>Lâu nữa mở toang ra cửa bích châu, <br/>Ta rất vui sẽ đi cửa ấy. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngày tôi bước đến cửa thiên thành, <br/>Vui thay, Chúa đổ phước thượng thiên xuống, <br/>Là khi thấy Jê-sus rồi, <br/>ca ngợi Chúa Cứu Thế vinh hiển mãi. </em></dd></dl>

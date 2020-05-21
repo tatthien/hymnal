@@ -1,8 +1,7 @@
 ---
 title: 36. Bóng Xế Sắp Khuất
 weight: 36
-categories: Thờ Phượng
-sub-categories: Buổi Tối
+categories: Buổi Tối
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Bóng xế sắp khuất non đoài nay, <br/>Cả hải võ trông an tịnh thay, <br/>Đèn trời kia tinh tú nhấp nháy, <br/>Chúc tán hoan ca Chúa nhân ái, <br/>Thảy tôn vinh Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thánh thay, thánh thay, thánh thay, <br/>Chúa duy tôn rày! <br/>Bao hàm trên trời tột phương đất, <br/>Thiên địa nhân cùng hoà thanh hát, <br/>Chúa tể vạn quân! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Giữa cảnh sắc dưới khung trời cao, <br/>Chỗ Chúa ở tốt tươi dường bao, <br/>Cầu Ngài họp bầy chiên ngơ ngáo, <br/>Ẵm mãi trong tay để chỉ giáo, <br/>Chẳng xa khi nào. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thánh thay, thánh thay, thánh thay, <br/>Chúa duy tôn rày! <br/>Bao hàm trên trời tột phương đất, <br/>Thiên địa nhân cùng hoà thanh hát, <br/>Chúa tể vạn quân! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Giữa lúc tối tăm đêm quạnh hiu; <br/>Chúa ẵm chúng tôi trong tình yêu; <br/>Vượt trời cao ngàn sao lấp lánh, <br/>Chốn hiển vinh do ân điển thánh, <br/>Chúa Cha nhân lành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thánh thay, thánh thay, thánh thay, <br/>Chúa duy tôn rày! <br/>Bao hàm trên trời tột phương đất, <br/>Thiên địa nhân cùng hoà thanh hát, <br/>Chúa tể vạn quân! </em></dd><dt>Câu 4:</dt><dd data-verse="4"> Lúc sắp tách bước xa trần gian, <br/>Thảy thảy ánh trăng, sao đều tan, <br/>Nguyện được trông ban mai tươi sáng, <br/>Bóng tối tăm kia bỗng tiêu tán, <br/>Sống trên thiên đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thánh thay, thánh thay, thánh thay, <br/>Chúa duy tôn rày! <br/>Bao hàm trên trời tột phương đất, <br/>Thiên địa nhân cùng hoà thanh hát, <br/>Chúa tể vạn quân! </em></dd></dl>

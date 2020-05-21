@@ -1,8 +1,7 @@
 ---
 title: 179. Kìa! Cửa Cứu Rỗi
 weight: 179
-categories: Tin Lành
-sub-categories: Tin Nhận Tin Lành
+categories: Tin Nhận Tin Lành
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Kìa cửa cứu rỗi ta vào tự do, <br/>Cần chi mong chờ đêm ngày kêu gõ, <br/>Vì cửa ấy sẵn mở toan từ lâu, <br/>Đang đợi trông bạn đây bước vào mau. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa, sông sanh mạng tuôn chảy bốn mùa, <br/>Người đến uống không cần mua; <br/>Dòng nước ấy vốn phát nguyên từ trên rồi, <br/>Mời bạn mau lại đây uống cùng tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ta chẳng phải khẩn xin quyền lực chi, <br/>Giờ đây đem lòng tin vào ngay đi; <br/>Phục thánh ý Chúa, Chúa ban Thần Linh, <br/>Cho lòng trong sạch vui hưởng trường sinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa, sông sanh mạng tuôn chảy bốn mùa, <br/>Người đến uống không cần mua; <br/>Dòng nước ấy vốn phát nguyên từ trên rồi, <br/>Mời bạn mau lại đây uống cùng tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Đừng nghĩ Chúa có nghe lời ta chăng, <br/>Lòng thêm nghi hoặc đêm ngày băn khoăn, <br/>Vì Chúa phán hễ ai tin Ngài rày, <br/>Xin thì cho, tìm đi ắt gặp ngay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa, sông sanh mạng tuôn chảy bốn mùa, <br/>Người đến uống không cần mua; <br/>Dòng nước ấy vốn phát nguyên từ trên rồi, <br/>Mời bạn mau lại đây uống cùng tôi. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Vậy, khá đổi tiếng xin thành lời ca, <br/>Nhận tin như lời Jê-sus tuyên ra; <br/>Rằng hễ kẻ lấy danh ta cầu nguyện, <br/>Nhận đầy phước hạnh, ân điển thượng thiên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa, sông sanh mạng tuôn chảy bốn mùa, <br/>Người đến uống không cần mua; <br/>Dòng nước ấy vốn phát nguyên từ trên rồi, <br/>Mời bạn mau lại đây uống cùng tôi. </em></dd></dl>

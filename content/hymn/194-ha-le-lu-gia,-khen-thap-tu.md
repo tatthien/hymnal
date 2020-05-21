@@ -1,8 +1,7 @@
 ---
 title: 194. Ha-Lê-Lu-Gia, Khen Thập Tự
 weight: 194
-categories: Tin Lành
-sub-categories: Thập Tự Giá
+categories: Thập Tự Giá
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Đáng ngợi thập tự bàn an, <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Chống cự nộ đào cuồng lan, <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Dầu âm ty phun tố giông, <br/>Trần gian ghen tuông tấn công, <br/>Thập giá chẳng chút nao núng, <br/>Ha-lê-lu-gia, khen thập tự! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia, Ha-lê-lu-gia, <br/>Ngày đêm luôn ca xướng thập giá! <br/>Ha-lê-lu-gia, Ha-lê-lu-gia, <br/>Đắc thắng luôn luôn giữa chúng ta! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Muôn đời thập tự còn nguyên, <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Chỗ này rạng lòa ân điển, <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Thần tử đổ huyết cứu ta, <br/>Vậy ta nên rao giảng ra, <br/>Sự đắc thắng của thập giá, <br/>Ha-lê-lu-gia, khen thập tự! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia, Ha-lê-lu-gia, <br/>Ngày đêm luôn ca xướng thập giá! <br/>Ha-lê-lu-gia, Ha-lê-lu-gia, <br/>Đắc thắng luôn luôn giữa chúng ta! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Chốn này nợ đền, tội tha, <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Gánh tội Ngài chịu vì ta, <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Tại đây ta nay đứng quanh, <br/>Tụng ca Chiên con tế sanh, <br/>Là Chúa sống, chính Vua Thánh, <br/>Ha-lê-lu-gia, khen thập tự! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia, Ha-lê-lu-gia, <br/>Ngày đêm luôn ca xướng thập giá! <br/>Ha-lê-lu-gia, Ha-lê-lu-gia, <br/>Đắc thắng luôn luôn giữa chúng ta! </em></dd></dl>

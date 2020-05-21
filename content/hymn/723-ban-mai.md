@@ -1,8 +1,7 @@
 ---
 title: 723. Ban Mai
 weight: 723
-categories: Đời Tín Đồ
-sub-categories: Bền Lòng Tin Cậy
+categories: Bền Lòng Tin Cậy
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Có bao lần bầu trời u ám, <br/>mây sầu giăng che đi tia sáng, <br/>chúng ta nao nao không biết <br/>sao lo sợ vấn vương. <br/>Có bao lần màn chiều buông xuống, <br/>tâm thần như hoa trôi trên sóng, <br/>Chúa đến bên ban cho <br/>chúng ta nghỉ yên vô cùng. <br/>Ban mai đến sẽ đổi mới <br/>không vương ưu sầu, <br/>dù non cao nhưng không quá cao lắm đâu. <br/>Chính trong giờ nguyện cầu nơi Chúa <br/>bao buồn lo xưa còn đâu nữa? <br/>Ấm êm thay sau bóng đêm <br/>ta mừng đón ban ngày. </dd><dt>Câu 2:</dt><dd data-verse="2">Những khi lòng buồn đừng than vãn, <br/>hãy nhìn chăm lên ngai Thiên Chúa. <br/>Nhớ chăng xưa gian nguy <br/>Chúa không khi nào tránh xa. <br/>Suốt đêm Ngài cầu nguyện tha thiết <br/>trên đồi Ô-li-ve tươm huyết; <br/>chính do yêu thương ta, <br/>Chúa không bỏ ta bao giờ. <br/>Ban mai đến sẽ đổi mới <br/>không vương ưu phiền, <br/>bình an như chiên <br/>bên Chúa sau giấc đêm. <br/>Chớ đi nằm dù trời khuya vắng <br/>khi điều sai ta chưa thay đúng. <br/>Nhớ cho ban mai vẫn luôn luôn <br/>làm mới muôn phần. </dd><dt>Câu 3:</dt><dd data-verse="3">Biết đâu vào một ngày đang tới, <br/>ta được nghe êm êm bên gối, <br/>Chúa yêu thương kêu ta <br/>thoát nơi gian trần đớn đau. <br/>Khốn nguy đầy đường đời khi trước, <br/>bây giờ tiêu tan khi ta bước đến nơi <br/>vinh quang bên Chúa cao vút trên mây trời. <br/>Ban mai đến sẽ đổi mới khi ta am tường, <br/>mọi nguyên do đau thương có trên thế gian. <br/>Chúa cho người nụ cười tươi thắm <br/>khi Ngài dang tay ra nghênh đón. <br/>Nhớ cho ban mai vẫn luôn luôn <br/>làm mới tâm hồn. </dd></dl>

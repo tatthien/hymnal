@@ -1,8 +1,7 @@
 ---
 title: 313. Phước Âm Jêsus Muôn Thuở Còn Nguyên
 weight: 313
-categories: Đời Tín Đồ
-sub-categories: Can Đảm, Trung Tín
+categories: Can Đảm, Trung Tín
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Phước âm Jê-sus muôn thuở còn nguyên, <br/>Lửa, gươm, lao, tù không hề lay chuyển, <br/>Mối hoan tâm tôi chi sánh kịp đây, <br/>Khi nghe ai truyền rõ Thánh đạo nầy. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hát khúc phước âm muôn thu đẹp sao, <br/>Dẫu chết ta nguyền trung tín giảng rao! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Thánh dân xưa tuy lao lý, đòn roi, <br/>Lương tâm thanh sạch, tinh thần khoan khoái, <br/>Chúng ta hôm nay con cháu thuộc linh, <br/>Ước như họ được chết cho Tin Lành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hát khúc phước âm muôn thu đẹp sao, <br/>Dẫu chết ta nguyền trung tín giảng rao! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Bởi phước âm ta tranh đấu hiện nay, <br/>Không phân bạn, thù, yêu thương thay thảy, <br/>Phướcoâm ta nay yêu mến truyền ra, <br/>Nói năng ôn hòa, ở ăn thật thà. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hát khúc phước âm muôn thu đẹp sao, <br/>Dẫu chết ta nguyền trung tín giảng rao! </em></dd><dt>Câu 4:</dt><dd data-verse="4">Phước âm ta nguyện tranh đấu truyền rao, <br/>Khiến muôn dân đều nghe tin loan báo, <br/>Chỉ do nơi nguồn chân lý Trời ban, <br/>Cả nhân loại được phóng thích vẹn toàn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hát khúc phước âm muôn thu đẹp sao, <br/>Dẫu chết ta nguyền trung tín giảng rao! </em></dd></dl>

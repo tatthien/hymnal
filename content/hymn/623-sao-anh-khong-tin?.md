@@ -1,8 +1,7 @@
 ---
 title: 623. Sao Anh Không Tin?
 weight: 623
-categories: Tin Lành
-sub-categories: Lời Mời
+categories: Lời Mời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Kìa muôn hoa xinh đẹp, <br/>cánh bướm đang bay lượn <br/>chim líu lo trên cành <br/>đùa trong nắng mai. <br/>Từ nơi Đức Chúa Trời, <br/>Chúa của muôn muôn loài, <br/>trong mỗi vật sống động <br/>Ngài chăm sóc luôn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Sao anh không tin? <br/>Chúa vẫn yêu thương <br/>linh hồn chúng ta <br/>trên mỗi bước đường. <br/>Chúa luôn dắt dìu, <br/>mặc bao hiểm nguy <br/>Cứu Chúa biết rõ. <br/>Hãy vững tâm luôn <br/>bên Ngài mỗi nơi, <br/>dẫu đêm mờ tối <br/>nào lo lắng chi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Trời đêm khuya tuyệt vời, <br/>lóng lánh muôn sao ngời <br/>xanh thẳm trên khung trời <br/>tình yêu Chúa tôi. <br/>Vì yêu thương con người, <br/>Chúa đến với con người, <br/>hy sinh sự sống Ngài <br/>vì anh với tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Sao anh không tin? <br/>Chúa vẫn yêu thương <br/>linh hồn chúng ta <br/>trên mỗi bước đường. <br/>Chúa luôn dắt dìu, <br/>mặc bao hiểm nguy <br/>Cứu Chúa biết rõ. <br/>Hãy vững tâm luôn <br/>bên Ngài mỗi nơi, <br/>dẫu đêm mờ tối <br/>nào lo lắng chi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Dầu anh luôn nghi ngờ, <br/>Chúa vẫn không thay dời <br/>trong mỗi nơi mỗi giờ <br/>Ngài luôn nhớ anh. <br/>Và mong anh quay về, <br/>sống thảnh thơi bên Ngài, <br/>bao vấn vương cõi đời <br/>Ngài mang thế anh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Sao anh không tin? <br/>Chúa vẫn yêu thương <br/>linh hồn chúng ta <br/>trên mỗi bước đường. <br/>Chúa luôn dắt dìu, <br/>mặc bao hiểm nguy <br/>Cứu Chúa biết rõ. <br/>Hãy vững tâm luôn <br/>bên Ngài mỗi nơi, <br/>dẫu đêm mờ tối <br/>nào lo lắng chi. </em></dd></dl>

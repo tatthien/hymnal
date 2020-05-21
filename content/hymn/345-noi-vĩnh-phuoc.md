@@ -1,8 +1,7 @@
 ---
 title: 345. Nơi Vĩnh Phước
 weight: 345
-categories: Cõi Lai Sanh
-sub-categories: Thiên Đàng
+categories: Thiên Đàng
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Jê-sus nhân ái, từ bi vô ngần, <br/>Ta nên khen ngợi ân điển Ngài, <br/>Nay Chúa sắm dành trên chốn phước ân, <br/>Nhà sáng láng cho ta ở mãi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hồi dân thánh thảy cất lên trời, <br/>Là ngày ta thong dong vui tươi đầy sung sướng; <br/>Cùng chiêm bái Vua muôn đời, <br/>Khải hoàn ca reo vang đền Thiên Vương. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nay ta hăng hái lần lên thiên trình, <br/>Tuy mây đen mịt giăng khắp trời; <br/>Nhưng hết thánh trình, Chân Chúa tiếp nghinh, <br/>Từ đây không than phiền tăm tối. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hồi dân thánh thảy cất lên trời, <br/>Là ngày ta thong dong vui tươi đầy sung sướng; <br/>Cùng chiêm bái Vua muôn đời, <br/>Khải hoàn ca reo vang đền Thiên Vương. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ta nên tin Chúa tận trung, chân thành, <br/>Chuyên tâm hầu việc luôn mỗi ngày; <br/>Khi thoáng thấy Jê-sus, Đấng hiển vinh, <br/>Bù đắp nỗi lao lực đời nay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hồi dân thánh thảy cất lên trời, <br/>Là ngày ta thong dong vui tươi đầy sung sướng; <br/>Cùng chiêm bái Vua muôn đời, <br/>Khải hoàn ca reo vang đền Thiên Vương. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ta nên bươn tới phần thưởng thiên đàng, <br/>Nay mai nhìn mặt vinh hiển Ngài; <br/>Kìa, cửa bích ngọc thiên quốc mở toang, <br/>Cùng nhau lên đường vàng khoan thai. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hồi dân thánh thảy cất lên trời, <br/>Là ngày ta thong dong vui tươi đầy sung sướng; <br/>Cùng chiêm bái Vua muôn đời, <br/>Khải hoàn ca reo vang đền Thiên Vương. </em></dd></dl>

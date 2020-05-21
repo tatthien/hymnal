@@ -1,8 +1,7 @@
 ---
 title: 424. Xin Cha Đưa Anh
 weight: 424
-categories: Hợp Ca
-sub-categories: Nam Ban
+categories: Nam Ban
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Xin Cha đưa anh khi mưa, nắng, hè, đông. <br/>Cứ dẫn dắt, cứ giáo huấn thủy chung. <br/>Nguyền Ngài dắt anh kịp khi ta trùng phùng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Từ rày cho đến lúc tương phùng anh em, <br/>Dưới chân Christ chúng ta trùng phùng. <br/>Từ rày cho đến lúc tương phùng anh em, <br/>Chúa dẫn đưa anh tận khi ta trùng phùng. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Xin Cha đưa anh khi mưa, nắng, hè, đông. <br/>Giơ tay linh năng luôn che anh cùng. <br/>Ban cho Ma-na no nê vui lòng, <br/>Nguyền Ngài dắt anh kịp khi ta trùng phùng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Từ rày cho đến lúc tương phùng anh em, <br/>Dưới chân Christ chúng ta trùng phùng. <br/>Từ rày cho đến lúc tương phùng anh em, <br/>Chúa dẫn đưa anh tận khi ta trùng phùng. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Xin Cha đưa anh khi mưa, nắng, hè, đông. <br/>Khi lâm tai ương xui anh nao lòng. <br/>Xin tay Cha linh năng luôn ôm bồng, <br/>Nguyền Ngài dắt anh kịp khi ta trùng phùng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Từ rày cho đến lúc tương phùng anh em, <br/>Dưới chân Christ chúng ta trùng phùng. <br/>Từ rày cho đến lúc tương phùng anh em, <br/>Chúa dẫn đưa anh tận khi ta trùng phùng. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Xin Cha đưa anh khi mưa, nắng, hè, đông. <br/>Phá sóng biển chết rúng nhác hãm xông. <br/>Đem yêu thương tung ra như hương nồng, <br/>Nguyền Ngài dắt anh kịp khi ta trùng phùng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Từ rày cho đến lúc tương phùng anh em, <br/>Dưới chân Christ chúng ta trùng phùng. <br/>Từ rày cho đến lúc tương phùng anh em, <br/>Chúa dẫn đưa anh tận khi ta trùng phùng. </em></dd></dl>

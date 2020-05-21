@@ -1,8 +1,7 @@
 ---
 title: 68. Đêm Chúa Trời Ban Ơn Lành
 weight: 68
-categories: Chúa Jêsus Christ
-sub-categories: Giáng Sinh
+categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Nầy đêm Chúa Trời ban ơn lành, <br/>Xưa chưa hề có trong trần gian, <br/>Truyền Con Thánh Ngài lìa thiên đàng, <br/>Đem thân vàng xuống cõi lầm than. <br/>Dẫu Bết-lê-hem tiểu ty thành, <br/>Máng cỏ hiu quạnh chiên quanh ràn; <br/>Mà vinh hiển trời rạng muôn hình, <br/>Đang đêm mục tử sợ hoang mang. </dd><dt>Câu 2:</dt><dd data-verse="2">Kìa, xem ánh hào quang soi ngời, <br/>Bao thiên thần xướng ca dậy vang, <br/>Mừng nay phước trạch cho muôn người, <br/>Vinh danh trời, đất được bình an. <br/>Hỡi các kẻ chăn chớ run rời, <br/>Hãy vững tâm thần nghe ta truyền: <br/>“Thành Đa-vít Thần Nhi ra đời, <br/>Tin vui mừng lớn cho nhân gian.” </dd><dt>Câu 3:</dt><dd data-verse="3">Miền đông chói rạng sao huy hoàng, <br/>Tia vui mừng bác sĩ nhận ra, <br/>Cùng nhau sắm một dược, hương, vàng, <br/>Xông pha nào quản dặm đường xa. <br/>Ngửa mắt ngắm sao cứ băng chừng, <br/>Muốn yết Vua nại bao sơn hà, <br/>Vào dâng lễ vật nơi sao dừng, <br/>Anh Nhi nầy hẳn Quân Vương ta. </dd><dt>Câu 4:</dt><dd data-verse="4">Mừng đêm ấy thật đêm phước thần, <br/>Thiên ca mừng rỡ ta hòa thinh, <br/>Rằng xưa Chúa chịu thân ti bần, <br/>Đưa ta vào nước Vua Thần Minh. <br/>Kíp giảng phước âm khắp xa gần, <br/>Tỉnh thức ai còn trong tục tình, <br/>Ngàn xưa nhớ lại đêm phước thần, <br/>Thiên dân mừng chúc Vua hạ sinh. </dd></dl>

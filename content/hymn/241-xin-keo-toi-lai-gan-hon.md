@@ -1,8 +1,7 @@
 ---
 title: 241. Xin Kéo Tôi Lại Gần Hơn
 weight: 241
-categories: Đời Tín Đồ
-sub-categories: Nguyện Vọng
+categories: Nguyện Vọng
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Nghe tiếng Jê-sus tuyên, yêu mến tôi vẹn tuyền, <br/>Tôi nay thuộc về Ngài như nguyền; Tay đức tin giơ cao <br/>tôi quyết không sờn nào, càng gần Chúa phước hạnh dường bao. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin hãy kéo tôi, <br/>kéo tôi cho càng gần nơi thập tự xưa Chúa xả thân; <br/>Cho tôi khắng khít, khắng khít, khít nơi hông trào huyết, <br/>khít hông trào dòng huyết bất tuyệt. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ôi Chúa, xin ban sai, tôi quyết lo việc Ngài, <br/>do năng quyền từ hồng ân hoài; Tôi ngước chăm chăm đây, <br/>mong ước linh hồn nầy, phục theo ý Chúa trọn đời nay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin hãy kéo tôi, <br/>kéo tôi cho càng gần nơi thập tự xưa Chúa xả thân; <br/>Cho tôi khắng khít, khắng khít, khít nơi hông trào huyết, <br/>khít hông trào dòng huyết bất tuyệt. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Giây phút tươi vui thay, tinh khiết không gì tày. <br/>Trước ngôi Ngài lòng được giãi bày. <br/>Tôi, Chúa luôn giao thân, đem khúc nôi tường trần, <br/>dường như thỏ thẻ cùng bạn thân. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin hãy kéo tôi, <br/>kéo tôi cho càng gần nơi thập tự xưa Chúa xả thân; <br/>Cho tôi khắng khít, khắng khít, khít nơi hông trào huyết, <br/>khít hông trào dòng huyết bất tuyệt. </em></dd><dt>Câu 4:</dt><dd data-verse="3">Sâu bấy đức yêu thương tôi chẳng sao dò lường, <br/>qua tử hà rồi lòng sẽ tường; <br/>Bao thú vui siêu cao, chưa nếm qua phần nào, <br/>cho đến lúc bước vào lạc giao. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin hãy kéo tôi, <br/>kéo tôi cho càng gần nơi thập tự xưa Chúa xả thân; <br/>Cho tôi khắng khít, khắng khít, khít nơi hông trào huyết, <br/>khít hông trào dòng huyết bất tuyệt. </em></dd></dl>

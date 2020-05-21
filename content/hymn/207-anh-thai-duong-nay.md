@@ -1,8 +1,7 @@
 ---
 title: 207. Ánh Thái Dương Này
 weight: 207
-categories: Đời Tín Đồ
-sub-categories: Vui Vẻ Vì Được Cứu
+categories: Vui Vẻ Vì Được Cứu
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tại cõi lòng nầy dương quang đương chói, <br/>Sáng rỡ muôn màu tỏa soi; <br/>Sự sáng đời nay không sao so sánh, <br/>Bởi Jê-sus Chân Quang thánh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ánh thái dương nầy, ánh vinh hạnh đầy, <br/>luồng bình tịnh tươi thắm cả tâm linh đây. <br/>Lúc Jê-sus Christ vui mỉm miệng cười, <br/>Lòng tôi tắm ánh dương quang ngời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Hòa khúc nhạc lòng tôi nay cao xướng, <br/>Chúc tán Jê-sus Thánh Vương. <br/>Còn khúc thần diệu tuy tôi khôn tấu, <br/>Duy một Jê-sus nghe thấu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ánh thái dương nầy, ánh vinh hạnh đầy, <br/>luồng bình tịnh tươi thắm cả tâm linh đây. <br/>Lúc Jê-sus Christ vui mỉm miệng cười, <br/>Lòng tôi tắm ánh dương quang ngời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Hiện cảnh mùa xuân trong tôi phơi phới, <br/>Lúc Chúa đang gần gũi tôi. <br/>Linh điểu bình an trong tôi đương hát, <br/>Với hoa thiên ân thơm ngát. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ánh thái dương nầy, ánh vinh hạnh đầy, <br/>luồng bình tịnh tươi thắm cả tâm linh đây. <br/>Lúc Jê-sus Christ vui mỉm miệng cười, <br/>Lòng tôi tắm ánh dương quang ngời. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Hiện cõi lòng đầy yêu thương, vui sướng, <br/>Kính mến hy vọng, tán dương, <br/>Bởi phước hiện tại tâm tôi lai láng, <br/>Với vui tương lai tươi sáng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ánh thái dương nầy, ánh vinh hạnh đầy, <br/>luồng bình tịnh tươi thắm cả tâm linh đây. <br/>Lúc Jê-sus Christ vui mỉm miệng cười, <br/>Lòng tôi tắm ánh dương quang ngời. </em></dd></dl>

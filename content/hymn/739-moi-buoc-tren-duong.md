@@ -1,8 +1,7 @@
 ---
 title: 739. Mỗi Bước Trên Đường
 weight: 739
-categories: Đời Tín Đồ
-sub-categories: Chúa Dẫn Đưa
+categories: Chúa Dẫn Đưa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Đường đi quanh co, từng bước tôi nhìn xem Chúa, <br/>Ngài đưa cánh tay yêu thương dìu tôi suốt đàng. <br/>Dù nơi hoang vu, bền vững tin cậy nơi Chúa; <br/>dẫu nắng mưa, vẫn yên lòng không âu lo. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mỗi bước trên đường, lòng biết Chúa luôn luôn đi cùng, <br/>yêu thương chăm nom gìn giữ đỡ nâng linh hồn. <br/>Ngày mai tươi sáng, lúc tôi lìa xa chốn thế gian, <br/>Bước cuối hát vang: “Tôi đã đến nơi thiên đàng.” </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nhiều khi đau thương làm đức tin chợt nao núng; <br/>Sầu vương lối đi mênh mông buồn se sắt lòng. <br/>Rồi lên thiên cung tìm thấy bao niềm vui sống, <br/>Vững bước chân suốt trong hành trình xa xăm. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mỗi bước trên đường, lòng biết Chúa luôn luôn đi cùng, <br/>yêu thương chăm nom gìn giữ đỡ nâng linh hồn. <br/>Ngày mai tươi sáng, lúc tôi lìa xa chốn thế gian, <br/>Bước cuối hát vang: “Tôi đã đến nơi thiên đàng.” </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngài ban cho tôi sự sống muôn đời tươi mới, <br/>Ngài luôn bước đi bên tôi ngày đêm chẳng rời. <br/>Ngài cầm trong tay chìa khóa thiên đàng vinh hiển, <br/>Chốn ấm êm Chúa đang dìu tôi đi lên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mỗi bước trên đường, lòng biết Chúa luôn luôn đi cùng, <br/>yêu thương chăm nom gìn giữ đỡ nâng linh hồn. <br/>Ngày mai tươi sáng, lúc tôi lìa xa chốn thế gian, <br/>Bước cuối hát vang: “Tôi đã đến nơi thiên đàng.” </em></dd></dl>

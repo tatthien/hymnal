@@ -1,8 +1,7 @@
 ---
 title: 10. Nguyện Tụng Ngợi Chiên Con Thánh
 weight: 10
-categories: Thờ Phượng
-sub-categories: Ngợi Khen Jêsus Christ
+categories: Ngợi Khen Jêsus Christ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Nguyện tụng ngợi Chiên Con thánh, <br/>Hiến vương miện kể muôn ngàn, <br/>Cùng reo vang khúc hoan ca hòa thanh, <br/>Lấp bao bản hát thế gian; <br/>Khá hát lên linh hồn hỡi, <br/>Chúc Đấng thay người chịu chết, <br/>Chúc tán Thánh Vương quân lâm mọi nơi, <br/>Hát khúc hoan ca bất tuyệt. </dd><dt>Câu 2:</dt><dd data-verse="2">Nguyện tụng ngợi Vua nhân ái, <br/>Hiến vương miện rất huy hoàng; <br/>Kìa, xem thương tích tay, chân hòa hai, <br/>Chiếu ra ánh sáng hiển vang! <br/>Những dấu đinh kia lòa chói, <br/>Khiến mắt thiên binh đều quáng, <br/>Trước ánh sáng thánh vết thương bật soi, <br/>Cúi xuống che mặt phục toàn. </dd><dt>Câu 3:</dt><dd data-verse="3">Nguyện tụng ngợi Vua an thới, <br/>Hiến vương miện rất huy hoàng; <br/>Ngài dẹp yên chiến tranh trong mọi nơi, <br/>Đất ca xướng Chúa vĩnh an! <br/>Nước Chúa ta lâu dài bấy, <br/>hãy hát chung quanh bệ thánh. <br/>Hoa trổ ở vết đinh chân Ngài đây, <br/>Tỏa ngát hương thơm thiên thành. </dd><dt>Câu 4:</dt><dd data-verse="4">Nguyện tụng ngợi Vua muôn thuở, <br/>Hiến vương miện Chúa niên thì, <br/>Dựng nên tinh tú, yên định địa cơ, <br/>Chẳng ai tả nổi đức uy! <br/>Cứu Chúa thay tôi chịu chết, <br/>Ấy Đấng muôn vật tụng tán, <br/>Vinh hiển, oai danh ai hay thuật hết, <br/>Suốt muôn thu không suy tàn. </dd></dl>

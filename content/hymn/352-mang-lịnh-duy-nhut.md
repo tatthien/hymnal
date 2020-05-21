@@ -1,8 +1,7 @@
 ---
 title: 352. Mạng Lịnh Duy Nhứt
 weight: 352
-categories: Trọng Trách Hội Thánh
-sub-categories: Truyền Giáo Khắp Nơi
+categories: Truyền Giáo Khắp Nơi
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Mạng lịnh duy nhất do Chân Thần. <br/>Bảo ta truyền đạo cho các dân; <br/>Người người say đắm trong mộng trần, <br/>Đời tăm tối khổ đau muôn phần; <br/>Miệt mài đường mê xa lẽ chân, <br/>Bao người quan tâm đến cứu ân; <br/>Nhất quyết ta dâng mình cho Chúa, <br/>Vực tội nhân, trả xong nợ nần. </dd><dt>Câu 2:</dt><dd data-verse="2">Nhiệm vụ ta lãnh nơi tay Ngài, <br/>Dưới trên nặng nề cả hai vai; <br/>Nguyện rền chuông tỉnh mê hồn dậy, <br/>Cùng khua mỏ thức ai lạc loài; <br/>Tội càng tràn lan gây thảm tai, <br/>Nhân loại càng thêm khổ thống thay; <br/>Nếu chúng ta không truyền ơn Chúa, <br/>Thời bị mang huyết oan hồn ấy. </dd><dt>Câu 3:</dt><dd data-verse="3">Nguyện truyền ơn Chúa khắp xa gần, <br/>Tấm thân hèn mọn xin quyết dâng; <br/>Trèo đèo, leo núi đâu ngại ngần, <br/>Vượt sông, lướt biển không nao thần; <br/>Tội tù, đòn roi, bao quản thân, <br/>Tuy gặp thời hay không cứ vâng; <br/>Nhất quyết mang Tin Lành rao khắp, <br/>Làm trọn thiên chức nơi hồng trần. </dd><dt>Câu 4:</dt><dd data-verse="4">Nghiệm lời Kinh ứng linh hiện thời, <br/>Dấu Tin Lành truyền ra khắp nơi; <br/>Ngày Jê-sus tái lâm gần rồi, <br/>Kèn thiên sứ sẽ vang trên trời; <br/>Ai là tôi con trung tín nay, <br/>Kim miện tương lai lãnh trước ngai; <br/>Muốn chóng ứng nghiệm lời Kinh Thánh, <br/>Nguyền cùng nhau giảng rao đạo Ngài. </dd></dl>

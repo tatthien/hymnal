@@ -1,8 +1,7 @@
 ---
 title: 200. Mắt Ta Hằng Dắt Ngươi
 weight: 200
-categories: Tin Lành
-sub-categories: Ứng Hứa Và Ân Ban
+categories: Ứng Hứa Và Ân Ban
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Nầy là kim ngôn Chúa hứa đời đời, <br/>Cùng ai đang đi đường mê mỏi. <br/>Từ nhân gian lên thiên quốc sáng tươi, <br/>“Mắt Ta nhìn và dìu chân người”. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính Ta đưa đường, dìu dắt bước ngươi, <br/>Ta lấy mắt đưa ngươi nào lơi; <br/>Từ nhân gian lên thiên cung tươi mới, <br/>Mắt Ta hằng dắt ngươi trọn đời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Dầu khi thua mưu cám dỗ buồn phiền, <br/>Bạn thân không yêu thương thăm viếng, <br/>Mau nghe câu kim ngôn lánh lánh khuyên: <br/>“Mắt Ta nhìn và dìu chân ngươi”. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính Ta đưa đường, dìu dắt bước ngươi, <br/>Ta lấy mắt đưa ngươi nào lơi; <br/>Từ nhân gian lên thiên cung tươi mới, <br/>Mắt Ta hằng dắt ngươi trọn đời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Điều thâm tâm ngươi mong ước hằng ngày <br/>Bị hư không, tiêu tán thay thảy. <br/>Nghe câu Chúa hứa được vững chí ngay, <br/>“Mắt Ta nhìn và dìu chân ngươi.” </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính Ta đưa đường, dìu dắt bước ngươi, <br/>Ta lấy mắt đưa ngươi nào lơi; <br/>Từ nhân gian lên thiên cung tươi mới, <br/>Mắt Ta hằng dắt ngươi trọn đời. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Hồi ngươi nghe hơi thở đã gần tàn, <br/>Kìa, vị Hoa Tiêu vẫn tuyên phán, <br/>Bằng câu kim ngôn ân ái chứa chan: <br/>“Mắt Ta nhìn và dìu chân ngươi”. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính Ta đưa đường, dìu dắt bước ngươi, <br/>Ta lấy mắt đưa ngươi nào lơi; <br/>Từ nhân gian lên thiên cung tươi mới, <br/>Mắt Ta hằng dắt ngươi trọn đời. </em></dd></dl>

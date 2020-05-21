@@ -1,8 +1,7 @@
 ---
 title: 594. Chúa Sống Trong Tôi
 weight: 594
-categories: Chúa Jêsus Christ
-sub-categories: Phục Sinh
+categories: Phục Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Lìa Chúa yêu thương tôi đi lạc đường, <br/>màn đêm tìm đâu ánh dương. <br/>Thánh Kinh cho tôi chân lý rạng ngời, <br/>Soi sáng cho đường lối tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nay Chúa sống trong tôi <br/>cho đến luôn muôn đời <br/>Ồ! Đời tôi có Jê-sus rồi. <br/>Vui hát tôn Ngài chẳng thôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Rực rỡ muôn hoa trong ánh mặt trời, <br/>Tình yêu Ngài ban khắp nơi. <br/>Tỏa soi đem bao sự sống cho đời <br/>và Chúa trong đời sống tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nay Chúa sống trong tôi <br/>cho đến luôn muôn đời <br/>Ồ! Đời tôi có Jê-sus rồi. <br/>Vui hát tôn Ngài chẳng thôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Sự sống ban cho hoa trái trong vườn, <br/>Đẹp xinh, ngọt ngon, ngát hương. <br/>Chúc tôn Cha yêu thương đến muôn đời <br/>Và Thánh Linh, sự sống tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nay Chúa sống trong tôi <br/>cho đến luôn muôn đời <br/>Ồ! Đời tôi có Jê-sus rồi. <br/>Vui hát tôn Ngài chẳng thôi. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Đầy dẫy trong tôi ơn Chúa tuôn tràn. <br/>Quyền năng từ nơi Chúa ban. <br/>Đổi thay cho tôi được giống như Ngài, <br/>Vì Chúa không hề chuyển lay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nay Chúa sống trong tôi <br/>cho đến luôn muôn đời <br/>Ồ! Đời tôi có Jê-sus rồi. <br/>Vui hát tôn Ngài chẳng thôi. </em></dd></dl>

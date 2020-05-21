@@ -1,8 +1,7 @@
 ---
 title: 609. Sẽ Không Còn Bóng Tối
 weight: 609
-categories: Chúa Jêsus Christ
-sub-categories: Tái Lâm
+categories: Tái Lâm
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Màn đêm sẽ tàn, Jê-sus trở lại vinh quang. <br/>Một ngày bình an khắp nơi bóng tối tiêu tan. <br/>Màn đêm sẽ tàn, Jê-sus trở lại vinh quang, <br/>gọi ta bước vào cõi thiên đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài đưa ta lên đến nhà Cha, <br/>Ngài bên ta mãi không cách xa. <br/>Nơi ấy đâu còn bóng tối <br/>Ngài gọi tên ta lìa dương thế <br/>cùng Chúa vô nhà. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bình minh sáng ngời, chẳng còn buồn rầu lo âu. <br/>Ngày mai Jêsus tái lâm xóa hết thương đau. <br/>Bình minh sáng ngời, Jê-sus trở lại vinh quang, <br/>gọi ta bước vào cõi thiên đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài đưa ta lên đến nhà Cha, <br/>Ngài bên ta mãi không cách xa. <br/>Nơi ấy đâu còn bóng tối <br/>Ngài gọi tên ta lìa dương thế <br/>cùng Chúa vô nhà. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Mùa ơn phước về, chẳng còn lệ sầu hoen mi. <br/>Ngày mai Jê-sus tái lâm nước mắt khô đi. <br/>Mùa ơn phước về, Jê-sus trở lại vinh quang, <br/>gọi ta bước vào cõi thiên đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài đưa ta lên đến nhà Cha, <br/>Ngài bên ta mãi không cách xa. <br/>Nơi ấy đâu còn bóng tối <br/>Ngài gọi tên ta lìa dương thế <br/>cùng Chúa vô nhà. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ngàn câu hát mừng Jê-sus trở lại vinh quang. <br/>Một ngày bình an khắp nơi tiếng hát vang vang. <br/>Lòng vui đón mừng Jê-sus trở lại vinh quang, <br/>gọi ta bước vào cõi thiên đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài đưa ta lên đến nhà Cha, <br/>Ngài bên ta mãi không cách xa. <br/>Nơi ấy đâu còn bóng tối <br/>Ngài gọi tên ta lìa dương thế <br/>cùng Chúa vô nhà. </em></dd></dl>

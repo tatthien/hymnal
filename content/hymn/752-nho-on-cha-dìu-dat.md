@@ -1,8 +1,7 @@
 ---
 title: 752. Nhờ Ơn Cha Dìu Dắt
 weight: 752
-categories: Đời Tín Đồ
-sub-categories: Chúa Dẫn Đưa
+categories: Chúa Dẫn Đưa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Nhờ ơn Cha dìu dắt suốt linh trình, <br/>Bước theo Ngài lòng thỏa vui thay! <br/>Được yêu thương và nếm trải ơn lành, <br/>Phước Chúa ban cho tôi tràn tuôn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tâm linh tôi thỏa vui, bình an; <br/>Vững đức tin, sống với Thánh Kinh. <br/>Đi theo Chúa, hầu việc luôn tín trung; <br/>Dắt đưa người đến với Tin Lành. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Đường trần gian nhiều thử thách vây mình, <br/>Khó khăn nhiều lòng chẳng lo âu. <br/>Dù chông gai và cám dỗ bên mình, <br/>Vẫn vững tâm đi bên Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tâm linh tôi thỏa vui, bình an; <br/>Vững đức tin, sống với Thánh Kinh. <br/>Đi theo Chúa, hầu việc luôn tín trung; <br/>Dắt đưa người đến với Tin Lành. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Hầu việc Cha bằng tất cả năng lực, <br/>Hiến dâng Ngài trọn cả tâm linh. <br/>Nhờ tình yêu, hạnh phước Chúa tuôn tràn, <br/>Mãi hát ca tôn vinh Ngài luôn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tâm linh tôi thỏa vui, bình an; <br/>Vững đức tin, sống với Thánh Kinh. <br/>Đi theo Chúa, hầu việc luôn tín trung; <br/>Dắt đưa người đến với Tin Lành. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Thầm nguyện xin được sống với Jê-sus, <br/>Chết theo Ngài hạnh phước vô biên. <br/>Được cùng đi, cùng sống trong ơn lành, <br/>Chúa chở che dưới tay toàn năng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tâm linh tôi thỏa vui, bình an; <br/>Vững đức tin, sống với Thánh Kinh. <br/>Đi theo Chúa, hầu việc luôn tín trung; <br/>Dắt đưa người đến với Tin Lành. </em></dd></dl>

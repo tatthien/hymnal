@@ -1,8 +1,7 @@
 ---
 title: 818. Khi Tình Yêu Thương Chúa Ngự Vào Lòng
 weight: 818
-categories: Đời Tín Đồ
-sub-categories: Được Chúa Yêu
+categories: Được Chúa Yêu
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tôi ngày trước vốn đi trong ô tội. <br/>Mãi buông tuồng theo lối cũ thôi. <br/>Nhưng nhờ ánh yêu thương Cha soi đường. <br/>Nay lòng này sung sướng vui tươi lạ thường. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòng tôi sao thuật ra được ơn lớn lao Ngài, <br/>Vì yêu tôi Ngài cam đành mang mão gai. <br/>Ái tâm Ngài cao, sâu ô! Quá bể khơi hơn Trời, <br/>thẳm khắp nơi nơi. Vì yêu tôi Ngài vui lìa xa cảnh thiên đình. <br/>Hồn tôi nay hằng vui mừng do Thánh Linh, <br/>Tôi vui lòng dâng cho Chúa Jê-sus cả tâm thần nầy <br/>Trong cánh Cha an bình. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ơn Ngài giáng xuống cho muôn muôn người. <br/>Ơn Ngài gìn đời chúng thắm tươi. <br/>Năng quyền Chúa tẩy thanh tâm tôi rồi. <br/>Tôi nguyện thuộc về Chúa Jê-sus cả đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòng tôi sao thuật ra được ơn lớn lao Ngài, <br/>Vì yêu tôi Ngài cam đành mang mão gai. <br/>Ái tâm Ngài cao, sâu ô! Quá bể khơi hơn Trời, <br/>thẳm khắp nơi nơi. Vì yêu tôi Ngài vui lìa xa cảnh thiên đình. <br/>Hồn tôi nay hằng vui mừng do Thánh Linh, <br/>Tôi vui lòng dâng cho Chúa Jê-sus cả tâm thần nầy <br/>Trong cánh Cha an bình. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Mau truyền bá khắp nơi tin vui này. <br/>Bao linh hồn mong Chúa đổi thay. <br/>Nhân từ Chúa vẫn ban cho ai tin. <br/>Vui quy phục thập giá ăn năn tội mình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòng tôi sao thuật ra được ơn lớn lao Ngài, <br/>Vì yêu tôi Ngài cam đành mang mão gai. <br/>Ái tâm Ngài cao, sâu ô! Quá bể khơi hơn Trời, <br/>thẳm khắp nơi nơi. Vì yêu tôi Ngài vui lìa xa cảnh thiên đình. <br/>Hồn tôi nay hằng vui mừng do Thánh Linh, <br/>Tôi vui lòng dâng cho Chúa Jê-sus cả tâm thần nầy <br/>Trong cánh Cha an bình. </em></dd></dl>

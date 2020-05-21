@@ -1,8 +1,7 @@
 ---
 title: 543. Cung Kính Thờ Chúa
 weight: 543
-categories: Thờ Phượng
-sub-categories: Thờ Kính
+categories: Thờ Kính
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Lạy Cứu Chúa thánh khiết, <br/>Đấng con tôn thờ và ngợi ca, <br/>hát với cả thiết tha thành tín. <br/>Lạy Cứu Chúa sáng thế, <br/>Đấng đã gây dựng cuộc đời con, <br/>bằng nguồn tình yêu khoan dung nhân ái. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lạy Cứu Chúa, chúng con một lòng thành tâm, <br/>thờ kính Chúa hiến dâng trọn cuộc đời con. <br/>Duy nhất Đấng con tôn thờ là Jê-sus, <br/>vì Ngài là tình yêu vô đối. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lạy Cứu Chúa chí ái <br/>đã bỏ ngai vàng từ trời cao, <br/>đến với thế giới đang lạc mất. <br/>Ngài giáng thế để gánh vác <br/>bao ô tội loài người mang <br/>và đành chịu hy sinh trên thập giá. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lạy Cứu Chúa, chúng con một lòng thành tâm, <br/>thờ kính Chúa hiến dâng trọn cuộc đời con. <br/>Duy nhất Đấng con tôn thờ là Jê-sus, <br/>vì Ngài là tình yêu vô đối. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Toàn thế giới khá biết Chúa <br/>đang cai trị đầy quyền năng, <br/>Đấng Cứu Thế đến ban hạnh phước. <br/>Và chính Chúa cũng đã cứu <br/>bao con người còn lầm than, <br/>còn chìm ngập trong đau thương hư mất. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lạy Cứu Chúa, chúng con một lòng thành tâm, <br/>thờ kính Chúa hiến dâng trọn cuộc đời con. <br/>Duy nhất Đấng con tôn thờ là Jê-sus, <br/>vì Ngài là tình yêu vô đối. </em></dd></dl>

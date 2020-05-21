@@ -1,8 +1,7 @@
 ---
 title: 459. Đi Đến Si-Ôn
 weight: 459
-categories: Thờ Phượng
-sub-categories: Ngợi Khen Đức Chúa Trời
+categories: Ngợi Khen Đức Chúa Trời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Yêu Chúa, ta hiệp chung nhau, <br/>Ca hát, mừng kính khen Vua. <br/>Xin hãy vui nhóm để ca tụng Ngài <br/>Xin hãy vui nhóm để ca tụng Ngài; <br/>Thờ Jê-sus chánh đáng thay! <br/>Hẳn Jê-sus đáng thờ thay! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hỡi chúng lên Si-ôn rày, <br/>Chỗ ấy là chỗ hiển vinh đẹp đẽ; <br/>Tới Si-ôn kia, nước của Thánh Chúa; <br/>Hát, hát, hát ca tụng Ngài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Thơ thánh dân ngoại không vui, <br/>Nhân bởi người chẳng biết Christ. <br/>Song những con cái của Vua tại trời, <br/>Song những con cái của Vua tại trời; <br/>Lòng vui thay, hát xướng luôn. <br/> Hát khen Chân Chúa độc tôn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hỡi chúng lên Si-ôn rày, <br/>Chỗ ấy là chỗ hiển vinh đẹp đẽ; <br/>Tới Si-ôn kia, nước của Thánh Chúa; <br/>Hát, hát, hát ca tụng Ngài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nay chúng ta được yêu thương, <br/>Ta nếm ngàn món linh lương. <br/>Chưa ở nơi hớn hở trên ngự đường, <br/>Chưa ở nơi hớn hở trên ngự đường, <br/>Dầu chưa lên cõi vẻ vang, <br/>Cũng luôn luôn nếm ngọt ngon. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hỡi chúng lên Si-ôn rày, <br/>Chỗ ấy là chỗ hiển vinh đẹp đẽ; <br/>Tới Si-ôn kia, nước của Thánh Chúa; <br/>Hát, hát, hát ca tụng Ngài. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Nên chúng ta ngợi khen vui, <br/>Con mắt đừng nhỏ châu rơi; <br/>Nay vẫn đang ruổi bước lên thiên thành, <br/>Nay vẫn đang ruổi bước lên thiên thành, <br/>Thiệt khi sau sẽ đến ngay, <br/> Chốn vinh quang Chúa dành cho. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hỡi chúng lên Si-ôn rày, <br/>Chỗ ấy là chỗ hiển vinh đẹp đẽ; <br/>Tới Si-ôn kia, nước của Thánh Chúa; <br/>Hát, hát, hát ca tụng Ngài. </em></dd></dl>

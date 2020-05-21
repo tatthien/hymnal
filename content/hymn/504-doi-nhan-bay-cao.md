@@ -1,8 +1,7 @@
 ---
 title: 504. Đôi Nhạn Bay Cao
 weight: 504
-categories: Biệt Lễ Ca
-sub-categories: Hôn Lễ
+categories: Hôn Lễ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Lời Thánh Chúa trong vườn Ê-đen, <br/>Hiệp uyên ương, cánh liền cánh. <br/>Kết ước nên duyên, hãy hát mừng <br/>Ơn cao quý Chúa ban luôn. </dd><dt>Câu 2:</dt><dd data-verse="2"> Hiện có Đấng Chân Thần Ba Ngôi, <br/>Cũng cho đôi lứa hưởng phước <br/>Kết ước đinh ninh, nghĩa đá vàng <br/>Muôn năm vững chắc, không phai. </dd><dt>Câu 3:</dt><dd data-verse="3">Dầu đá nát, chứng đạo phu thê, <br/>Tình yêu thương tốt đẹp mãi. <br/>Khóm quế xinh tươi với gốc hòe <br/>Rung rinh trước gió xuân vui. </dd><dt>Câu 4:</dt><dd data-verse="4"> Lạy Đức Chúa Cha, này tân nương <br/>Cùng tân lang trước mặt Chúa: <br/>Dưới bóng oai nghi, Chúa giữ gìn <br/>Nhân duyên thánh khiết, cao siêu. </dd><dt>Câu 5:</dt><dd data-verse="5">Lạy Đức Chúa Con, này hai tay <br/>Cùng đưa lên khấn nguyện Chúa; <br/>Chúa nắm hai tay, chúc phước lành, <br/>Cho gương tiết nghĩa nêu cao. </dd><dt>Câu 6:</dt><dd data-verse="6">Lạy Đức Thánh Linh, cặp uyên ương <br/>Quỳ xin ơn Chúa phủ khắp! <br/>Chín trái thiêng liêng rất tốt lành, <br/>Như hương thắm suốt gia môn. </dd><dt>Câu 7:</dt><dd data-verse="7">Nguyện cánh Chúa nhân từ bao phủ! <br/>Hiển minh xóa bóng mờ tối! <br/>Bước đến đền thờ Đấng Chí thiện, <br/>Phu thê chiêm ngưỡng thiên ân. </dd><dt>Câu 8:</dt><dd data-verse="8">Vợ hiến trái tim vàng cho Cha, <br/>Chồng hy sinh, sống vì Chúa! <br/>Dốc chí đi theo Đấng cứu mình. <br/>Mai sau đến nước vinh quang. </dd></dl>

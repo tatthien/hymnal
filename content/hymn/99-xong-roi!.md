@@ -1,8 +1,7 @@
 ---
 title: 99. Xong Rồi!
 weight: 99
-categories: Chúa Jêsus Christ
-sub-categories: Chịu Khổ Và Chết
+categories: Chịu Khổ Và Chết
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1"> Lời ân điển với yêu thương chan hòa, <br/>Dội vang ra từ Gô-gô-tha; <br/>Làm rung đất, tối tăm cả bầu trời, <br/>Vầng đá kia bỗng nhiên nứt rời. <br/>“Việc cứu rỗi đã xong rồi, xong rồi!” <br/>Lời Jê-sus lúc trút linh hồn; <br/>“Việc cứu rỗi đã xong rồi, xong rồi!” <br/>Lời Jê-sus kêu khi trút hồn. </dd><dt>Câu 2:</dt><dd data-verse="2">Diệu thay, tiếng Jê-sus kêu “Xong rồi!” <br/>Làm vui thỏa lòng ta chẳng thôi; <br/>Từ Chân Chúa phước ân kia tuôn tràn, <br/>Giục giã ta tiến lên vững vàng. <br/>“Việc cứu rỗi đã xong rồi, xong rồi!” <br/>Lời ban trối, thánh dân ghi lòng; <br/>“Việc cứu rỗi đã xong rồi, xong rồi!” <br/>Lời trối kia, thánh dân ghi lòng. </dd><dt>Câu 3:</dt><dd data-verse="3">Mọi hình bóng đến nay đã xong rồi, <br/>Trọn nghi lễ từ trước các đời; <br/>Lời tuyên hứa cổ lai đã trọn rồi, <br/>Ngục chết tan, tử vương suy đồi. <br/>“Việc cứu rỗi đã xong rồi, xong rồi!” <br/>Lời yên ủi thánh dân muôn đời; <br/>“Việc cứu rỗi đã xong rồi, xong rồi!” <br/>Lời ủy lạo thánh dân suốt đời. </dd><dt>Câu 4:</dt><dd data-verse="4">Sê-ra-phin, hãy lên dây kim cầm, <br/>Hòa âm với giọng ca bỗng trầm; <br/>Trời nên hát, đất hoan ca vang rền, <br/>Tụng mỹ danh Em-ma-nu-ên. <br/>“Ha-lê-lu-gia! Ha-lê-lu-gia!” <br/>Ngợi khen Chiên Con huyết chan hòa; <br/>“Ha-lê-lu-gia! Ha-lê-lu-gia!” <br/>Thật hiển vinh Chiên Con huyết lòa. </dd></dl>

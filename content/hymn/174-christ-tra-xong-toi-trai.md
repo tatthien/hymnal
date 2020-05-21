@@ -1,8 +1,7 @@
 ---
 title: 174. Christ Trả Xong Tội Trái
 weight: 174
-categories: Tin Lành
-sub-categories: Sự Ăn Năn, Sự Tha Tội
+categories: Sự Ăn Năn, Sự Tha Tội
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tôi nghe tiếng Christ đang truyền: <br/>“Lực con trăm phần ương yếu, <br/>Thì nên thức canh, tâm nguyền, <br/>Tìm trong chính Ta mọi điều.” </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Christ trả xong tội trái, <br/>Nay chính tôi nợ Ngài; <br/>Christ tẩy tâm dường tuyết chẳng sai, <br/>Dẫu tội đỏ như son mài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Rày tôi thấy trong tâm thần <br/>Quyền năng Christ thật vô đối. <br/>Bịnh phung chữa cho sạch ngần. <br/>Lòng đá đánh tiêu tan rồi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Christ trả xong tội trái, <br/>Nay chính tôi nợ Ngài; <br/>Christ tẩy tâm dường tuyết chẳng sai, <br/>Dẫu tội đỏ như son mài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lòng tôi chứa bao tội trần, <br/>Nhận ơn trên trời vô giá; <br/>Dầm huyết, áo tôi tinh ngần, <br/>Nhờ Chiên ở Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Christ trả xong tội trái, <br/>Nay chính tôi nợ Ngài; <br/>Christ tẩy tâm dường tuyết chẳng sai, <br/>Dẫu tội đỏ như son mài. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Rồi đây ở trước ngai trời, <br/>Hồn, thân trong Christ tươi mới. <br/>Miệng tôi nhắc luôn luôn lời: <br/>“Thập giá cứu phương muôn đời!” </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Christ trả xong tội trái, <br/>Nay chính tôi nợ Ngài; <br/>Christ tẩy tâm dường tuyết chẳng sai, <br/>Dẫu tội đỏ như son mài. </em></dd></dl>

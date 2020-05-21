@@ -1,8 +1,7 @@
 ---
 title: 903. Thành Thánh
 weight: 903
-categories: Hợp Ca
-sub-categories: Nam Nữ Ban
+categories: Nam Nữ Ban
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Một đêm kia trong mơ mông lung, <br/>giấc mơ êm ái vô cùng. <br/>Gần tường thành xưa Giê-ru-sa-lem, <br/>Tại đền thờ tôi đứng xem, <br/>chợt nghe bao em thơ ca vang, <br/>tiếng ca bay tới thiên đàng, <br/>Nơi muôn thiên thần bay rất cao, <br/>lời tung hô rung ngàn sao. <br/>Nghe như muôn tiếng hát thiên thần <br/>xướng ca dư âm rộn ràng. <br/>Giê-ru-sa-lem! Giê-ru-sa-lem! <br/>Tung hô ngợi khen Chúa Cha! <br/>Hô-sa-na! Từ nơi cao sáng ngời. <br/>Hô-sa-na! Muôn lời dâng ngất trời. <br/>Rồi trong đêm mơ khung trời đổi dời, <br/>tiếng ca bỗng thoáng im lời và ngàn lời reo: <br/>Hô-sa-na! Chợt nghe bay lên chốn xa. <br/>Trời đang xanh xanh bỗng thành mịt mờ, <br/>tối tăm che khuất mặt trời. <br/>Trong âm u tôi chợt trông thoáng <br/>trên đồi xa bóng cây thập giá. <br/>Trong âm u thoáng bóng cây thập tự <br/>đứng im cô đơn trên đồi. <br/>Giê-ru-sa-lem! Giê-ru-sa-lem! <br/>Tung hô ngợi khen Chúa Cha. <br/>Hô-sa-na! Từ nơi cao sáng ngời. <br/>Hô-sa-na! Muôn lời dâng ngất trời. <br/>Dần dần mờ mờ cảnh kia tan đi. <br/>Trời mới đất mới hiện ra. <br/>Gần bờ đại dương xanh bao la <br/>ánh sáng chiếu soi chan hòa. <br/>Bầu trời rạng ngời, hào quang lung linh, <br/>thiên cung muôn nơi mở toang nơi đây tưng bừng, <br/>Lối đi thênh thang, thánh dân bước lên vui mừng. <br/>Thành không trăng sao soi lối ban đêm, <br/>ngày không vầng dương vẫn sáng. <br/>Nơi đây huy hoàng Giê-ru-sa-lem! <br/>Thành không bao giờ đổ nát. <br/>Nơi đây thành mới Giê-ru-sa-lem <br/>đếm muôn năm không phai tàn. <br/>Giê-ru-sa-lem! Giê-ru-sa-lem! <br/>Ca lên vì đêm đã qua. <br/>Hô-sa-na! Từ nơi cao sáng ngời <br/>Hô-sa-na! Ca vang lừng cõi trời. <br/>Hô-sa-na! Từ trời cao ngất. <br/>Hô-sa-na! Muôn lời dâng suốt đời. </dd></dl>

@@ -1,8 +1,7 @@
 ---
 title: 38. Tuần Vừa Qua
 weight: 38
-categories: Thờ Phượng
-sub-categories: Ngày Chúa Nhật
+categories: Ngày Chúa Nhật
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tuần vừa qua thay thảy chúng tôi <br/>Được bình an bởi Chúa cho rồi; <br/>Ngày nay xin Chân Chúa Ba Ngôi <br/>Đổ các phước thiêng liêng từ trời. <br/>Chính bữa nay phước nhất trong tuần, <br/>Tượng trưng cảnh bình thái tương lai, <br/>Chính bữa nay phước nhất trong tuần, <br/>Tượng trưng cảnh an thái lâu dài. </dd><dt>Câu 2:</dt><dd data-verse="2">Rày nhân danh Chân Chúa chúng tôi, <br/>Cầu Ngài tha thứ cả muôn tội; <br/>Nguyện Ngài đem gian ác xóa bôi, <br/>Tỏ vẻ khoan nhân Cha đời đời. <br/>Ước bữa nay nghỉ an trong Ngài, <br/>Không lo lắng sự thế mảy may, <br/>Ước bữa nay nghỉ an trong Ngài, <br/>Không lo lắng ở thế gian rày </dd><dt>Câu 3:</dt><dd data-verse="3">Cùng tôn vinh danh Chúa chúng tôi, <br/>Nguyền được xem Thánh nhan rạng ngời; <br/>Nhà Ngài đây ai nấy chúng tôi <br/>Ước thấy vinh quang Cha đời đời. <br/>Ước bữa nay chúng tôi vui mừng, <br/>Tiệc thiên quốc toàn hưởng nay mai, <br/>Ước bữa nay chúng tôi vui mừng <br/>Tiệc thiên quốc sẽ hưởng lâu dài. </dd><dt>Câu 4:</dt><dd data-verse="4">Nguyện mọi nơi vang tiếng Phước âm, <br/>Vực tội nhân cứu chiên lạc lầm; <br/>Nguyện linh hoa, ân quả nẩy đâm, <br/>Tán cảnh đau thương, tiêu lụy trầm. <br/>Ước chúng tôi nếm luôn an nhật, <br/>Tận khi đến thành thánh muôn đời, <br/>Ước chúng tôi nếm luôn an nhật, <br/>Kịp vô cõi thánh ở trên trời. </dd></dl>

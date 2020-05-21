@@ -1,8 +1,7 @@
 ---
 title: 101. Tán Mỹ Jêsus
 weight: 101
-categories: Chúa Jêsus Christ
-sub-categories: Chịu Khổ Và Chết
+categories: Chịu Khổ Và Chết
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1"> Đồng lòng ca tụng tán mỹ Jê-sus, <br/>Xưa bị chính dân mình khinh lờn; <br/>Ngài vì nhân loại chết cách đớn đau, <br/>Chuộc cứu nhưng không mọi tội nhân. <br/>Hát chúc Đấng mang sầu khổ ưu phiền, <br/>Thay ta gánh ô nhục ác gian; <br/>Nhờ đại công Ngài, lãnh đủ ơn thiêng, <br/>Sự sống bởi danh Ngài được ban. </dd><dt>Câu 2:</dt><dd data-verse="2"> Đồng lòng ca tụng tán mỹ Chiên Con, <br/>Cha chọn thế ta chịu cực hình; <br/>Ngài được xức đầu bởi Đấng Chí tôn, <br/>Làm tế lễ một lần vẹn tinh. <br/>Thiên dân muôn tội được tha vẹn toàn, <br/>Do hông huyết Chiên Con chảy tuôn; <br/>Nhờ Ngài thiên đàng cửa đã mở toang, <br/>Người với Chúa được thuận hòa luôn </dd><dt>Câu 3:</dt><dd data-verse="3"> Đồng lòng ca tụng, tán mỹ Jê-sus, <br/>Ngôi vàng Chúa vẻ vang trường tồn; <br/>Hiện Ngài đang ngồi cánh hữu Thiên Phụ, <br/>Được các thánh, thiên thần, thờ tôn. <br/>Jê-sus thay cho tội nhân kêu cầu, <br/>Sắm chỗ ở chúng ta tương lai; <br/>Hằng vì con Ngài khẩn đảo trên cao, <br/>Tận lúc tiếp ta xa trần ai. </dd><dt>Câu 4:</dt><dd data-verse="4">Thờ phượng, năng lực, hiển hách, tôn vinh, <br/>Duy thuộc Chúa Jê-sus muôn đời; <br/>Đồng lòng ca tụng Đấng đã hy sinh, <br/>Cùng lớn tiếng khen ngợi không thôi. <br/>Hỡi các thánh trên trời, khá chung hòa, <br/>Thiên ca tán mỹ reo lớn lên, <br/>Rập ràng ca tụng Cứu Chúa chúng ta, <br/>Tụng mỹ Đấng Em-ma-nu-ên. </dd><dt>Câu 5:</dt><dd data-verse="5">Này bầy chiên Ngài sắp hiển vinh thay, <br/>Vui thuật các ân huệ thiên thượng; <br/>Điệu nhạc vui mừng hát lớn tiếng nay, <br/>Về Chúa bởi ta từng bị thương. <br/>Trên thiên cung nay kim mão huy hoàng, <br/>Thay ta khẩn xin Cha thiết tha, <br/>Nhìn mặt Jê-sus Christ rất vinh quang, <br/>Thờ kính Chúa dâng điệu trường ca. </dd></dl>

@@ -1,8 +1,7 @@
 ---
 title: 175. Tiện Danh Đã Chép Chưa Ngài?
 weight: 175
-categories: Tin Lành
-sub-categories: Sự Ăn Năn, Sự Tha Tội
+categories: Sự Ăn Năn, Sự Tha Tội
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Làm giàu tôi không ham Chúa ôi, <br/>Bạc vàng phù vân đấy thôi; <br/>Lòng nay mong sao cho biết thấu <br/>Sẽ đến thiên đàng lúc sau. <br/>Được điền danh trong sách vĩnh sinh, <br/>Tờ tờ thật trong trắng tinh. <br/>Jê-sus, hỡi Chúa, Vua thiên đài, <br/>Tiện danh đã chép chưa Ngài? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tiện danh đã chép chưa Ngài, <br/>Vào trang thiên thơ quý thay? <br/>Trong thiên quốc hiển vinh chi tày, <br/>Tiện danh đã chép chưa Ngài? </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tội tình tôi đây như hải sa, <br/>Thật nặng nề thay, hỡi Cha! <br/>Nhờ Jê-sus tuôn huyết quý báu, <br/>Đã tẩy tâm hồn trắng phau; <br/>Vì lời Chân Kinh chép chẳng ngoa, <br/>Từ miệng Ngài ban hứa ra: <br/>“Dầu ngươi ác uế như son rày, <br/>Nầy Ta phiếu tuyết khôn tày". </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tiện danh đã chép chưa Ngài, <br/>Vào trang thiên thơ quý thay? <br/>Trong thiên quốc hiển vinh chi tày, <br/>Tiện danh đã chép chưa Ngài? </em></dd><dt>Câu 3:</dt><dd data-verse="3">Kìa thành nguy nga xinh quá xinh, <br/>Đền ngọc lầu son quý vinh: <br/>Nhiều thiên binh thiên sứ chói ánh, <br/>Áo xống phô màu trắng tinh. <br/>Thành tuyệt không gian ác, đớn đau, <br/>Làm mờ màu xinh tốt đâu, <br/>Muôn thiên sứ ngóng trông đêm ngày, <br/>Tiện danh quả đã chép rày. </dd><dt>Điệp khúc:</dt><dd data-chorus="2"><em>Tiện danh quả đã chép rày <br/>Vào trang thiên thơ quý thay. <br/>Trong thiên quốc hiển vinh chi tày, <br/>Tiện danh quả đã chép rày. </em></dd></dl>

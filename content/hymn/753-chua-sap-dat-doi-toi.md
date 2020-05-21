@@ -1,8 +1,7 @@
 ---
 title: 753. Chúa Sắp Đặt Đời Tôi
 weight: 753
-categories: Đời Tín Đồ
-sub-categories: Chúa Dẫn Đưa
+categories: Chúa Dẫn Đưa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Dù trần gian tối tăm hay lừa dối, <br/>đường đời đôi lúc lẻ loi, <br/>Tôi tin có Chúa lo cho đời tôi, <br/>đưa tay dắt dìu bước đi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôi ca ngợi Jê-sus, dù khó khăn nào, <br/>Có Chúa lo toan không còn vương vấn. <br/>Tâm tư này xin dâng trọn Chúa bây giờ; <br/>Chúc tán danh Cha suốt đời! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tương lai tươi sáng hơn đang chờ đón, <br/>mịt mờ tăm tối sẽ tan. <br/>Buồn phiền cay đắng nay không còn đâu, <br/>nhờ Cha vẫn hằng giúp tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôi ca ngợi Jê-sus, dù khó khăn nào, <br/>Có Chúa lo toan không còn vương vấn. <br/>Tâm tư này xin dâng trọn Chúa bây giờ; <br/>Chúc tán danh Cha suốt đời! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngài hằng dẫn dắt tôi đi từng bước, <br/>dù đường cô đơn, hiểm nguy. <br/>Hành trình tôi buớc có Cha dìu dắt, <br/>đưa tôi tới ngày hiển vinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôi ca ngợi Jê-sus, dù khó khăn nào, <br/>Có Chúa lo toan không còn vương vấn. <br/>Tâm tư này xin dâng trọn Chúa bây giờ; <br/>Chúc tán danh Cha suốt đời! </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ngày dài tươi sáng vinh quang chờ đón, <br/>từ rày xa bóng tối tăm. <br/>Lòng này sung sướng theo Cha từng bước, <br/>nhờ Cha sắp đặt bước đi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôi ca ngợi Jê-sus, dù khó khăn nào, <br/>Có Chúa lo toan không còn vương vấn. <br/>Tâm tư này xin dâng trọn Chúa bây giờ; <br/>Chúc tán danh Cha suốt đời! </em></dd></dl>

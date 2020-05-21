@@ -1,8 +1,7 @@
 ---
 title: 744. Nguyện Chúa Nắm Tay Tôi
 weight: 744
-categories: Đời Tín Đồ
-sub-categories: Chúa Dẫn Đưa
+categories: Chúa Dẫn Đưa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Lạy Chúa! Qua những con đường hành trình tôi trong đời, <br/>Thật nhiều khi Chúa ôi! Cám dỗ đe dọa tôi. <br/>Một giây phút xa Ngài là trượt chân sa lầy, <br/>Nguyện Ngài cho tôi thấy tình thương Chúa đêm ngày. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Luôn cầu xin Chúa từng giây phút nắm tay tôi. <br/>Bởi vì Chúa ôi, thế gian đầy tăm tối. <br/>Đường hoang vắng xa vời, Cần Ngài soi lối <br/>mỗi bước đi trong đời, nguyện Chúa nắm tay tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lạy Chúa! Trong chốn gia đình một mình tôi theo Ngài, <br/>Thật nhiều khi Chúa ôi! Nước mắt âm thầm rơi. <br/>Nhìn lên Chúa trên trời nguyện cầu cho bao người, <br/>chờ ngày vui sau tới cùng chung tiếng ca ngợi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Luôn cầu xin Chúa từng giây phút nắm tay tôi. <br/>Bởi vì Chúa ôi, thế gian đầy tăm tối. <br/>Đường hoang vắng xa vời, Cần Ngài soi lối <br/>mỗi bước đi trong đời, nguyện Chúa nắm tay tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lạy Chúa! Tôi vẫn mong rằng trọn đời được theo Ngài, <br/>Một niềm tin sắt son đứng vững trên thời gian. <br/>Mọi lôi cuốn trong đời cao bằng mây ngang trời, <br/>Chặn đường tôi đang tới tình thương Chúa soi ngời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Luôn cầu xin Chúa từng giây phút nắm tay tôi. <br/>Bởi vì Chúa ôi, thế gian đầy tăm tối. <br/>Đường hoang vắng xa vời, Cần Ngài soi lối <br/>mỗi bước đi trong đời, nguyện Chúa nắm tay tôi. </em></dd></dl>

@@ -1,8 +1,7 @@
 ---
 title: 611. Bóng Tối Sẽ Qua Khi Bình Minh Đến
 weight: 611
-categories: Chúa Jêsus Christ
-sub-categories: Tái Lâm
+categories: Tái Lâm
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Mừng vui ca hát lên hỡi người khách nơi trần gian, <br/>làm bao công tác ngay trong giờ ban mai mới sang; <br/>Mừng vui ca hát lên hỡi người lữ khách xa gần, <br/>bóng tối biến nhanh khi bình minh nắng sáng huy hoàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ðêm tối qua khi trời bình minh thắm sắc ngàn hoa. <br/>Ánh sáng thiên cung xô giạt bóng mây đen khuất xa. <br/>Ta ước mơ mong chờ một ngày Cứu Chúa hiện ra. <br/>Đêm tối qua khi trời bình minh thắm sắc chan hòa. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Người ơi, ta hát vang lên rộn rã trong vườn nho, <br/>làm bao công tác hăng say dù khi đang giữa trưa; <br/>Người ơi ta gắng công lên vì Cứu Chúa mong chờ, <br/>bóng tối biến nhanh khi bình minh Chúa đến không ngờ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ðêm tối qua khi trời bình minh thắm sắc ngàn hoa. <br/>Ánh sáng thiên cung xô giạt bóng mây đen khuất xa. <br/>Ta ước mơ mong chờ một ngày Cứu Chúa hiện ra. <br/>Đêm tối qua khi trời bình minh thắm sắc chan hòa. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Dù cho mưa nắng phong sương cùng khó khăn người ơi! <br/>Làm mau công tác giữa khi hoàng hôn rơi khắp nơi; <br/>Ngày mai bao đớn đau lo buồn sẽ hết trong đời, <br/>Bóng tối bay đi khi bình minh chói lói khung trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ðêm tối qua khi trời bình minh thắm sắc ngàn hoa. <br/>Ánh sáng thiên cung xô giạt bóng mây đen khuất xa. <br/>Ta ước mơ mong chờ một ngày Cứu Chúa hiện ra. <br/>Đêm tối qua khi trời bình minh thắm sắc chan hòa. </em></dd></dl>

@@ -1,8 +1,7 @@
 ---
 title: 375. Sẵn Sàng
 weight: 375
-categories: Thanh Niên
-sub-categories: 
+categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Sẵn nếm trải mỗi gian lao tai ương, <br/>Sẵn chịu luyện tập trăm đường; <br/>Sẵn nghỉ ở nhà, lo cho ai đi, <br/>Sẵn phục linh ý mọi khi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Sẵn tiến sẵn thoái theo ơn Cha sai, <br/>Sẵn tròn phận tôi tớ Ngài. <br/>Sẵn để gánh trách nhiệm tuy tôn hay ti, <br/>Sẵn phục linh ý mọi khi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Sẵn để khởi hành không nao truân chuyên, <br/>Sẵn sàng canh giữ, khẩn nguyện; <br/>Sẵn nghỉ để nhường cho ai thay tôi, <br/>Sẵn chờ Cha mở đường thôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Sẵn tiến sẵn thoái theo ơn Cha sai, <br/>Sẵn tròn phận tôi tớ Ngài. <br/>Sẵn để gánh trách nhiệm tuy tôn hay ti, <br/>Sẵn phục linh ý mọi khi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Sẵn để giảng luận hay suy tư đây, <br/>Sẵn sàng thân, tâm, não nầy; <br/>Sẵn đứng vững vàng nơi Cha ưa vui, <br/>Sẵn chịu đau khổ nào lui. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Sẵn tiến sẵn thoái theo ơn Cha sai, <br/>Sẵn tròn phận tôi tớ Ngài. <br/>Sẵn để gánh trách nhiệm tuy tôn hay ti, <br/>Sẵn phục linh ý mọi khi. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Sẵn để cảnh cáo hay rao kim ngôn, <br/>Sẵn vực muôn muôn linh hồn; <br/>Sẵn sống, sẵn chết, luôn luôn an tâm, <br/>Sẵn sàng nghinh Chúa phục lâm. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Sẵn tiến sẵn thoái theo ơn Cha sai, <br/>Sẵn tròn phận tôi tớ Ngài. <br/>Sẵn để gánh trách nhiệm tuy tôn hay ti, <br/>Sẵn phục linh ý mọi khi. </em></dd></dl>

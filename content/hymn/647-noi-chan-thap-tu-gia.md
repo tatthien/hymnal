@@ -1,8 +1,7 @@
 ---
 title: 647. Nơi Chân Thập Tự Giá
 weight: 647
-categories: Tin Lành
-sub-categories: Thập Tự Giá
+categories: Thập Tự Giá
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Nơi chân thập tự giá muôn đời, <br/>lòng luôn rung cảm xuyến xao; <br/>Dường bóng mát khối đá thiêng uy hùng <br/>giữa vùng đồng hoang tiêu sơ. <br/>Xem như căn nhà tại miền hoang vu, <br/>nơi nghỉ giữa quãng đường xa; <br/>Mặt trời nắng gắt gao bên ngoài dịu đi, <br/>cất khỏi tôi mọi gánh nặng nề. </dd><dt>Câu 2:</dt><dd data-verse="2">Nơi tôi nương dựa thỏa vui thật, <br/>bình an khi núp bóng che, <br/>Là chỗ tiếp đón yêu thương công bình, <br/>từ trời gặp nhau tại đây. <br/>Như trong đêm dài vì Cha thiêng liêng <br/>mơ thấy Chúa đứng đầu thang. <br/>Lòng mừng khám phá ra thập tự diệu vinh, <br/>giống chiếc thang dựng đến thiên đàng. </dd><dt>Câu 3:</dt><dd data-verse="3">Ngay trên thập tự Chúa Jê-sus, <br/>nhiều khi đôi mắt mở toang; <br/>Nhìn thấy chính bóng hấp hối dang ra <br/>của Người chịu đau cho tôi. <br/>Tâm linh đau buồn, ăn năn, lụy chan, <br/>suy biết ý nghĩa tình yêu; <br/>Ồ lòng Chúa yêu tôi sâu đậm diệu vinh, <br/>biết chính tôi thật chẳng ra gì. </dd><dt>Câu 4:</dt><dd data-verse="4">Tôi yêu thập tự Chúa Jêsus, <br/>từ nay nấp bóng phủ che; <br/>Ngoài ánh sáng Chúa chiếu soi trên tôi <br/>không tìm nguồn vui hoang mê. <br/>Yên tâm cho trần gian trôi qua đi, <br/>không ước muốn chút trầm thăng. <br/>Ðiều thẹn nhất của tôi là mình tội ô, <br/>ngước mắt lên nhìn mãi thập tự. </dd></dl>

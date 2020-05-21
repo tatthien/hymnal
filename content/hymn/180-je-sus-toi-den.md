@@ -1,8 +1,7 @@
 ---
 title: 180. Jê-Sus Tôi Đến
 weight: 180
-categories: Tin Lành
-sub-categories: Tin Nhận Tin Lành
+categories: Tin Nhận Tin Lành
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ra khỏi xiềng xích, đau thương đêm mơ màng, <br/>Jê-sus, tôi đến, Jê-sus, tôi đến. <br/>Vô miền thong thả tươi vui thêm huy hoàng, <br/>Jê-sus tôi đến theo Ngài; <br/>Tôi bệnh tật đến nơi Ngài là nguồn sống, <br/>Tôi nghèo nhưng Chúa giàu có ban rời rộng. <br/>Muôn tội tình đến xin nương ơn khoan hồng, <br/>Jê-sus, tôi đến theo Ngài. </dd><dt>Câu 2:</dt><dd data-verse="2">Ra khỏi phù thế, hư hoa ô trược nầy, <br/>Jê-sus, tôi đến, Jê-sus, tôi đến; <br/>Vô miền thập giá, vinh quang hân hạnh đầy, <br/>Jê-sus, tôi đến theo Ngài; <br/>Nơi trần đau đớn, Trong Ngài đầy từ ái, <br/>xa đời giông tố, Về Chúa an tịnh hoài. <br/>Đâu còn buồn bã, Thi thiên ca một bài, <br/>Jê-sus tôi đến theo Ngài. </dd><dt>Câu 3:</dt><dd data-verse="3">Ra khỏi ngạo khí bâng khuâng trong cuộc đời, <br/>Jê-sus, tôi đến; Jê-sus, tôi đến. <br/>Vô tận trong ý Cha cao minh trên trời, <br/>Jê-sus, tôi đến theo Ngài. <br/>Ra khỏi tư ý, vô lòng đầy từ ái. <br/>Tuyệt vọng nay biến thành có hy vọng hoài. <br/>Như bồ câu thánh vút bay lên thiên đài. <br/>Jê-sus, tôi đến theo Ngài. </dd><dt>Câu 4:</dt><dd data-verse="4">Ra khỏi mồ mả khiếp kinh ghê rợn nầy, <br/>Jê-sus, tôi đến, Jê-sus, tôi đến; <br/>Vô nhà vui vẻ sáng choang nơi thiên đài, <br/>Jê-sus, tôi đến theo Ngài; <br/>Ra khỏi nơi đáy hư hoại, miền trần thế, <br/>Vô chuồng chiên Chúa được thảnh thơi muôn bề. <br/>Trông mặt Ngài rỡ rỡ, vinh quang rạng lòa, <br/>Jê-sus, tôi đến theo Ngài. </dd></dl>
