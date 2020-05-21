@@ -1,6 +1,6 @@
 ---
 title: 108. Thiên Ca Vô Đối
-song-number: 108
+weight: 108
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

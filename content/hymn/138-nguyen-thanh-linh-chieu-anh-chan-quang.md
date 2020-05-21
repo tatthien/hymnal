@@ -1,6 +1,6 @@
 ---
 title: 138. Nguyền Thánh Linh Chiếu Ánh Chân Quang
-song-number: 138
+weight: 138
 categories: Đức Thánh Linh
 sub-categories: 
 draft: false

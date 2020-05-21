@@ -1,6 +1,6 @@
 ---
 title: 773. Vui Bên Chúa
-song-number: 773
+weight: 773
 categories: Đời Tín Đồ
 sub-categories: Bình An, Vui Vẻ
 draft: false

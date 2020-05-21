@@ -1,6 +1,6 @@
 ---
 title: 388. Hãy Theo Ta
-song-number: 388
+weight: 388
 categories: Đơn Ca - Song Ca
 sub-categories: 
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 100. Chúa Mang Thập Hình
-song-number: 100
+weight: 100
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 31. Vàng Rực Thiên Không Ánh Mai
-song-number: 31
+weight: 31
 categories: Thờ Phượng
 sub-categories: Buổi Sáng
 draft: false

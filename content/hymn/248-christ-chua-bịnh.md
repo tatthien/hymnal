@@ -1,6 +1,6 @@
 ---
 title: 248. Christ Chữa Bịnh
-song-number: 248
+weight: 248
 categories: Đời Tín Đồ
 sub-categories: Sự Chữa Lành
 draft: false

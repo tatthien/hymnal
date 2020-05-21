@@ -1,6 +1,6 @@
 ---
 title: 34. Ngày Gần Tàn Rồi
-song-number: 34
+weight: 34
 categories: Thờ Phượng
 sub-categories: Buổi Tối
 draft: false

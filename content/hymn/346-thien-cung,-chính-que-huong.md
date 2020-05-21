@@ -1,6 +1,6 @@
 ---
 title: 346. Thiên Cung, Chính Quê Hương
-song-number: 346
+weight: 346
 categories: Cõi Lai Sanh
 sub-categories: Thiên Đàng
 draft: false

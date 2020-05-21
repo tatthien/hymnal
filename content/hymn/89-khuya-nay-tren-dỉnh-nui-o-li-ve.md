@@ -1,6 +1,6 @@
 ---
 title: 89. Khuya Nay Trên Đỉnh Núi Ô-Li-Ve
-song-number: 89
+weight: 89
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

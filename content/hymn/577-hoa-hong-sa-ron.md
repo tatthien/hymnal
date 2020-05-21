@@ -1,6 +1,6 @@
 ---
 title: 577. Hoa Hồng Sa-Rôn
-song-number: 577
+weight: 577
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

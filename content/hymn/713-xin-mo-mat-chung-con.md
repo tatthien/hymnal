@@ -1,6 +1,6 @@
 ---
 title: 713. Xin Mở Mắt Chúng Con
-song-number: 713
+weight: 713
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức Cầu Nguyện
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 491. Ánh Sáng Ta Đợi Chờ Kìa Ban Mai
-song-number: 491
+weight: 491
 categories: Chúa Tái Lâm
 sub-categories: 
 draft: false

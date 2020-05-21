@@ -1,6 +1,6 @@
 ---
 title: 688. Dâng Chúa Đời Con
-song-number: 688
+weight: 688
 categories: Đời Tín Đồ
 sub-categories: Dâng Mình Cho Chúa
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 134. Khi Chúa Tái Lâm
-song-number: 134
+weight: 134
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

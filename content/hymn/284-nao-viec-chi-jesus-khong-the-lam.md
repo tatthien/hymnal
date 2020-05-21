@@ -1,6 +1,6 @@
 ---
 title: 284. Nào Việc Chi Jêsus Không Thể Làm
-song-number: 284
+weight: 284
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

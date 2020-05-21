@@ -1,6 +1,6 @@
 ---
 title: 533. Danh Trên Muôn Danh
-song-number: 533
+weight: 533
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

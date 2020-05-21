@@ -1,6 +1,6 @@
 ---
 title: 475. Jê-Sus Rất Quý
-song-number: 475
+weight: 475
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

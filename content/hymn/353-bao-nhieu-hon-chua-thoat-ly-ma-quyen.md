@@ -1,6 +1,6 @@
 ---
 title: 353. Bao Nhiêu Hồn Chưa Thoát Ly Ma Quyền
-song-number: 353
+weight: 353
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

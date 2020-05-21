@@ -1,6 +1,6 @@
 ---
 title: 182. Huyết Chúa Mầu Nhiệm Biết Bao
-song-number: 182
+weight: 182
 categories: Tin Lành
 sub-categories: Huyết Của Christ
 draft: false

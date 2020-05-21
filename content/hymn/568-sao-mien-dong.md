@@ -1,6 +1,6 @@
 ---
 title: 568. Sao Miền Đông
-song-number: 568
+weight: 568
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 517. Chúa Là Tất Cả
-song-number: 517
+weight: 517
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

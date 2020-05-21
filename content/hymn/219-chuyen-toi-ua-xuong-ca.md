@@ -1,6 +1,6 @@
 ---
 title: 219. Chuyện Tôi Ưa Xướng Ca
-song-number: 219
+weight: 219
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

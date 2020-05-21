@@ -1,6 +1,6 @@
 ---
 title: 242. Lên Chốn Cao Hơn
-song-number: 242
+weight: 242
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

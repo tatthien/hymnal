@@ -1,6 +1,6 @@
 ---
 title: 505. "Nô-Ên"
-song-number: 505
+weight: 505
 categories: Biệt Lễ Ca
 sub-categories: Nô-Ên
 draft: false

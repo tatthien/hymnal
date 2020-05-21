@@ -1,6 +1,6 @@
 ---
 title: 197. Khá Chăm Xem Jêsus
-song-number: 197
+weight: 197
 categories: Tin Lành
 sub-categories: Thập Tự Giá
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 106. Ha-Lê-Lu-Gia! Đấng Sống Thắng
-song-number: 106
+weight: 106
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

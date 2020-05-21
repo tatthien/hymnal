@@ -1,6 +1,6 @@
 ---
 title: 352. Mạng Lịnh Duy Nhứt
-song-number: 352
+weight: 352
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

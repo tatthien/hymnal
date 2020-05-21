@@ -1,6 +1,6 @@
 ---
 title: 682. Ơn Chúa Lòng Ghi Sâu
-song-number: 682
+weight: 682
 categories: Đời Tín Đồ
 sub-categories: Cảm Tạ
 draft: false

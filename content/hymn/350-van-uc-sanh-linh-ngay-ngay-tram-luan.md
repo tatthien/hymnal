@@ -1,6 +1,6 @@
 ---
 title: 350. Vạn Ức Sanh Linh Ngày Ngày Trầm Luân
-song-number: 350
+weight: 350
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

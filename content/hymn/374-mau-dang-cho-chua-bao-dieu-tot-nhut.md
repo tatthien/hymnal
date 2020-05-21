@@ -1,6 +1,6 @@
 ---
 title: 374. Mau Dâng Cho Chúa Bao Điều Tốt Nhứt
-song-number: 374
+weight: 374
 categories: Thanh Niên
 sub-categories: 
 draft: false

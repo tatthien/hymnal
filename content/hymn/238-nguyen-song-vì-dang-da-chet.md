@@ -1,6 +1,6 @@
 ---
 title: 238. Nguyền Sống Vì Đấng Đã Chết
-song-number: 238
+weight: 238
 categories: Đời Tín Đồ
 sub-categories: Sự Dâng Mình Cho Chúa
 draft: false

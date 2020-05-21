@@ -1,6 +1,6 @@
 ---
 title: 552. Lúc Anh Nguyện Cầu
-song-number: 552
+weight: 552
 categories: Thờ Phượng
 sub-categories: Buổi Tối
 draft: false

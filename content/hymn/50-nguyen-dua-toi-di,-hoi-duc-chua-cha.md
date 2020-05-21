@@ -1,6 +1,6 @@
 ---
 title: 50. Nguyền Đưa Tôi Đi, Hỡi Đức Chúa Cha
-song-number: 50
+weight: 50
 categories: Thờ Phượng
 sub-categories: Gìn Giữ, Dẫn Dắt
 draft: false

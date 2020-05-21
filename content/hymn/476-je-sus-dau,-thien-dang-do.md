@@ -1,6 +1,6 @@
 ---
 title: 476. Jê-Sus Đâu, Thiên Đàng Đó
-song-number: 476
+weight: 476
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

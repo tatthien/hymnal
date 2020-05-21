@@ -1,6 +1,6 @@
 ---
 title: 162. Chỉ Tin Nơi Ngài
-song-number: 162
+weight: 162
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

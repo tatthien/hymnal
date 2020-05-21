@@ -1,6 +1,6 @@
 ---
 title: 607. Chúa Sẽ Đến
-song-number: 607
+weight: 607
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

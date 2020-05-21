@@ -1,6 +1,6 @@
 ---
 title: 695. Xin Tẩy Sạch Tôi
-song-number: 695
+weight: 695
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

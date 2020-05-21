@@ -1,6 +1,6 @@
 ---
 title: 447. Danh Quý Trọng
-song-number: 447
+weight: 447
 categories: Đoản Ca
 sub-categories: 
 draft: false

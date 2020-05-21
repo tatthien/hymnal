@@ -1,6 +1,6 @@
 ---
 title: 830. Dưới Cờ Thập Tự
-song-number: 830
+weight: 830
 categories: Đời Tín Đồ
 sub-categories: Linh Chiến
 draft: false

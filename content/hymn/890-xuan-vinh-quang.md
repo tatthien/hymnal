@@ -1,6 +1,6 @@
 ---
 title: 890. Xuân Vinh Quang
-song-number: 890
+weight: 890
 categories: Biệt Lễ Ca
 sub-categories: Năm Mới
 draft: false

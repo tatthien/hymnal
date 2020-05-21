@@ -1,6 +1,6 @@
 ---
 title: 802. Bên Tôi Là Chúa Jêsus
-song-number: 802
+weight: 802
 categories: Đời Tín Đồ
 sub-categories: Yêu Mến Chúa
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 263. Christ Nắm Tôi Thật Chặt
-song-number: 263
+weight: 263
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

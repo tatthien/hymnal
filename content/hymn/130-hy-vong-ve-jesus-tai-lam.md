@@ -1,6 +1,6 @@
 ---
 title: 130. Hy Vọng Về Jêsus Tái Lâm
-song-number: 130
+weight: 130
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

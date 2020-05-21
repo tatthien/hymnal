@@ -1,6 +1,6 @@
 ---
 title: 616. Xin Thánh Linh Cảm Thúc Tôi
-song-number: 616
+weight: 616
 categories: Đức Thánh Linh
 sub-categories: 
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 232. Tôi Nguyền Thuộc Jê-Sus Hoài
-song-number: 232
+weight: 232
 categories: Đời Tín Đồ
 sub-categories: Sự Dâng Mình Cho Chúa
 draft: false

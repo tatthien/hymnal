@@ -1,6 +1,6 @@
 ---
 title: 52. Quanh Đêm Luôn Ngày
-song-number: 52
+weight: 52
 categories: Thờ Phượng
 sub-categories: Gìn Giữ, Dẫn Dắt
 draft: false

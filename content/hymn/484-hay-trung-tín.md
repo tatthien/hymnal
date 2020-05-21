@@ -1,6 +1,6 @@
 ---
 title: 484. Hãy Trung Tín
-song-number: 484
+weight: 484
 categories: Đời Tín Đồ
 sub-categories: Trung Tín
 draft: false

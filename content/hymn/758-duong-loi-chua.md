@@ -1,6 +1,6 @@
 ---
 title: 758. Đường Lối Chúa
-song-number: 758
+weight: 758
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

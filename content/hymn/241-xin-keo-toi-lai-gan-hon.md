@@ -1,6 +1,6 @@
 ---
 title: 241. Xin Kéo Tôi Lại Gần Hơn
-song-number: 241
+weight: 241
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

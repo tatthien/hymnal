@@ -1,6 +1,6 @@
 ---
 title: 542. Nhìn Lên Cha Thánh
-song-number: 542
+weight: 542
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

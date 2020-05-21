@@ -1,6 +1,6 @@
 ---
 title: 206. Gặp Được Thiết Hữu
-song-number: 206
+weight: 206
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

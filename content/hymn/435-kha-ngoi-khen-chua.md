@@ -1,6 +1,6 @@
 ---
 title: 435. Khá Ngợi Khen Chúa
-song-number: 435
+weight: 435
 categories: Kinh Tiết Ca
 sub-categories: 
 draft: false

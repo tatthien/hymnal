@@ -1,6 +1,6 @@
 ---
 title: 456. Sự Thương Yêu Lạ Lùng
-song-number: 456
+weight: 456
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

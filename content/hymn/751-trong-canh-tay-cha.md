@@ -1,6 +1,6 @@
 ---
 title: 751. Trong Cánh Tay Cha
-song-number: 751
+weight: 751
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 516. Vinh Quang Thuộc Về Đức Chúa Trời
-song-number: 516
+weight: 516
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

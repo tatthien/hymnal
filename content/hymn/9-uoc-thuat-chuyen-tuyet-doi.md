@@ -1,6 +1,6 @@
 ---
 title: 9. Ước Thuật Chuyện Tuyệt Đối
-song-number: 9
+weight: 9
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

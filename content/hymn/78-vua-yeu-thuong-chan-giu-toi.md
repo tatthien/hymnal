@@ -1,6 +1,6 @@
 ---
 title: 78. Vua Yêu Thương Chăn Giữ Tôi
-song-number: 78
+weight: 78
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

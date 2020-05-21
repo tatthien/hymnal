@@ -1,6 +1,6 @@
 ---
 title: 737. Bàn Tay Mang Dấu Đinh
-song-number: 737
+weight: 737
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

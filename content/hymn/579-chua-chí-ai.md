@@ -1,6 +1,6 @@
 ---
 title: 579. Chúa Chí Ái
-song-number: 579
+weight: 579
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

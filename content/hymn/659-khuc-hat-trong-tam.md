@@ -1,6 +1,6 @@
 ---
 title: 659. Khúc Hát Trong Tâm
-song-number: 659
+weight: 659
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

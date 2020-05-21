@@ -1,6 +1,6 @@
 ---
 title: 72. Thiên Đàng Chung Vui
-song-number: 72
+weight: 72
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

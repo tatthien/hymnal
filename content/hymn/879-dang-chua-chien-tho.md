@@ -1,6 +1,6 @@
 ---
 title: 879. Dâng Chúa Chiên Thơ
-song-number: 879
+weight: 879
 categories: Lễ Nghi
 sub-categories: Dâng Con
 draft: false

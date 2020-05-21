@@ -1,6 +1,6 @@
 ---
 title: 347. Tại Nhà Chúa Ta Còn Xa Nhau Đâu
-song-number: 347
+weight: 347
 categories: Cõi Lai Sanh
 sub-categories: Thiên Đàng
 draft: false

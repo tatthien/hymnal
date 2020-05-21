@@ -1,6 +1,6 @@
 ---
 title: 648. Quăng Xa Khỏi Tôi
-song-number: 648
+weight: 648
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

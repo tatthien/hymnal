@@ -1,6 +1,6 @@
 ---
 title: 586. Trên Chốn Đồi Cao
-song-number: 586
+weight: 586
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

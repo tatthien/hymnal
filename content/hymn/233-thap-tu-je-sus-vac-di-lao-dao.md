@@ -1,6 +1,6 @@
 ---
 title: 233. Thập Tự Jê-Sus Vác Đi Lao Đao
-song-number: 233
+weight: 233
 categories: Đời Tín Đồ
 sub-categories: Sự Dâng Mình Cho Chúa
 draft: false

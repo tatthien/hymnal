@@ -1,6 +1,6 @@
 ---
 title: 91. Thống Khổ Nhân
-song-number: 91
+weight: 91
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

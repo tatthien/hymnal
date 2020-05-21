@@ -1,6 +1,6 @@
 ---
 title: 307. Ân Điển Cứu Chúa
-song-number: 307
+weight: 307
 categories: Đời Tín Đồ
 sub-categories: Ân Điển
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 738. Xin Cho Con Đi Đường Ngài
-song-number: 738
+weight: 738
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

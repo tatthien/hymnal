@@ -1,6 +1,6 @@
 ---
 title: 652. Chúa Đem An Vui Cho Tôi
-song-number: 652
+weight: 652
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

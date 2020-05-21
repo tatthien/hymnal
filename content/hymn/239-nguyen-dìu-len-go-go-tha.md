@@ -1,6 +1,6 @@
 ---
 title: 239. Nguyền Dìu Lên Gô-Gô-Tha
-song-number: 239
+weight: 239
 categories: Đời Tín Đồ
 sub-categories: Sự Dâng Mình Cho Chúa
 draft: false

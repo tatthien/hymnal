@@ -1,6 +1,6 @@
 ---
 title: 721. Thuận Phục Ý Chúa
-song-number: 721
+weight: 721
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

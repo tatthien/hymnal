@@ -1,6 +1,6 @@
 ---
 title: 154. Lời Dịu Dàng
-song-number: 154
+weight: 154
 categories: Kinh Thánh
 sub-categories: 
 draft: false

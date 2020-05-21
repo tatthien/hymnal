@@ -1,6 +1,6 @@
 ---
 title: 33. Dương Quang Tâm Hồn
-song-number: 33
+weight: 33
 categories: Thờ Phượng
 sub-categories: Buổi Tối
 draft: false

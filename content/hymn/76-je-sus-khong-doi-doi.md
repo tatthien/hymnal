@@ -1,6 +1,6 @@
 ---
 title: 76. Jê-Sus Không Đổi Dời
-song-number: 76
+weight: 76
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

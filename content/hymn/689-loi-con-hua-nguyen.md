@@ -1,6 +1,6 @@
 ---
 title: 689. Lời Con Hứa Nguyện
-song-number: 689
+weight: 689
 categories: Đời Tín Đồ
 sub-categories: Dâng Mình Cho Chúa
 draft: false

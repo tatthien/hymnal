@@ -1,6 +1,6 @@
 ---
 title: 348. Gia Hương Cơ Đốc Nhân
-song-number: 348
+weight: 348
 categories: Cõi Lai Sanh
 sub-categories: Thiên Đàng
 draft: false

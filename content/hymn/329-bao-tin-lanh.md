@@ -1,6 +1,6 @@
 ---
 title: 329. Báo Tin Lành
-song-number: 329
+weight: 329
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

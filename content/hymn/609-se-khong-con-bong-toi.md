@@ -1,6 +1,6 @@
 ---
 title: 609. Sẽ Không Còn Bóng Tối
-song-number: 609
+weight: 609
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 569. Ha-Lê-Lu-Gia, Jê-Sus Đến!
-song-number: 569
+weight: 569
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

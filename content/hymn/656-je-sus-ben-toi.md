@@ -1,6 +1,6 @@
 ---
 title: 656. Jê-Sus Bên Tôi
-song-number: 656
+weight: 656
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

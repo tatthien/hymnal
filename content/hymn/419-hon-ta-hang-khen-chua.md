@@ -1,6 +1,6 @@
 ---
 title: 419. Hồn Ta Hằng Khen Chúa
-song-number: 419
+weight: 419
 categories: Hợp Ca
 sub-categories: Nam Nữ Ban
 draft: false

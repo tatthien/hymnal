@@ -1,6 +1,6 @@
 ---
 title: 545. Hướng Lên Chúa Trên Trời
-song-number: 545
+weight: 545
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

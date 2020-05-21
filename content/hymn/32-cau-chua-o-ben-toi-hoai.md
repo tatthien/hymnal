@@ -1,6 +1,6 @@
 ---
 title: 32. Cầu Chúa Ở Bên Tôi Hoài
-song-number: 32
+weight: 32
 categories: Thờ Phượng
 sub-categories: Buổi Tối
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 479. Chúa Biết Rõ
-song-number: 479
+weight: 479
 categories: Đời Tín Đồ
 sub-categories: Thử Thách
 draft: false

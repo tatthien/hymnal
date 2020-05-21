@@ -1,6 +1,6 @@
 ---
 title: 667. Vì Sao Tôi Ca Ngợi
-song-number: 667
+weight: 667
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

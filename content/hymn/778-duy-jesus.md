@@ -1,6 +1,6 @@
 ---
 title: 778. Duy Jêsus
-song-number: 778
+weight: 778
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

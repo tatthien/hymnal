@@ -1,6 +1,6 @@
 ---
 title: 422. Khuya Nay Trên Đỉnh Núi Ô-Li-Ve
-song-number: 422
+weight: 422
 categories: Hợp Ca
 sub-categories: Nam Ban
 draft: false

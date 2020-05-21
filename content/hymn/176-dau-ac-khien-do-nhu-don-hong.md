@@ -1,6 +1,6 @@
 ---
 title: 176. Dầu Ác Khiên Đỏ Như Đơn Hồng
-song-number: 176
+weight: 176
 categories: Tin Lành
 sub-categories: Sự Ăn Năn, Sự Tha Tội
 draft: false

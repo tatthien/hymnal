@@ -1,6 +1,6 @@
 ---
 title: 215. Lúc Giê-Xu Ngự Trong Lòng
-song-number: 215
+weight: 215
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 381. Quyết Sống Cho Christ
-song-number: 381
+weight: 381
 categories: Thanh Niên
 sub-categories: 
 draft: false

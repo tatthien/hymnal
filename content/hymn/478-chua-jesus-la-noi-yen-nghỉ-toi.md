@@ -1,6 +1,6 @@
 ---
 title: 478. Chúa Jêsus Là Nơi Yên Nghỉ Tôi
-song-number: 478
+weight: 478
 categories: Đời Tín Đồ
 sub-categories: Bình An
 draft: false

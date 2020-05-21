@@ -1,6 +1,6 @@
 ---
 title: 880. Dâng Con Cho Chúa
-song-number: 880
+weight: 880
 categories: Lễ Nghi
 sub-categories: Dâng Con
 draft: false

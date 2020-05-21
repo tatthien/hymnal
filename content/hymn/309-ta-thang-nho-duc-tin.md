@@ -1,6 +1,6 @@
 ---
 title: 309. Ta Thắng Nhờ Đức Tin
-song-number: 309
+weight: 309
 categories: Đời Tín Đồ
 sub-categories: Đức Tin
 draft: false

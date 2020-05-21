@@ -1,6 +1,6 @@
 ---
 title: 23. Tôn Vinh Chân Thần
-song-number: 23
+weight: 23
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

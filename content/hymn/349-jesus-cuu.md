@@ -1,6 +1,6 @@
 ---
 title: 349. Jêsus Cứu
-song-number: 349
+weight: 349
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

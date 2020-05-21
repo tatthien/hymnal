@@ -1,6 +1,6 @@
 ---
 title: 641. Chúa Cứu Tôi
-song-number: 641
+weight: 641
 categories: Tin Lành
 sub-categories: Huyết Của Christ
 draft: false

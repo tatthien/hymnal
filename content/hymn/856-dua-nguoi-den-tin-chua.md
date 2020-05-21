@@ -1,6 +1,6 @@
 ---
 title: 856. Đưa Người Đến Tin Chúa
-song-number: 856
+weight: 856
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giảng
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 681. Công Việc Của Đức Chúa Trời
-song-number: 681
+weight: 681
 categories: Đời Tín Đồ
 sub-categories: Cảm Tạ
 draft: false

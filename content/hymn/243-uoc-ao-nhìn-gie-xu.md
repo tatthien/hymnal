@@ -1,6 +1,6 @@
 ---
 title: 243. Ước Ao Nhìn Giê-Xu
-song-number: 243
+weight: 243
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

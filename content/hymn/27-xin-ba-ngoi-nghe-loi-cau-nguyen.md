@@ -1,6 +1,6 @@
 ---
 title: 27. Xin Ba Ngôi Nghe Lời Cầu Nguyện
-song-number: 27
+weight: 27
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

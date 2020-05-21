@@ -1,6 +1,6 @@
 ---
 title: 813. Như Con Chiên Đi Lạc
-song-number: 813
+weight: 813
 categories: Đời Tín Đồ
 sub-categories: Được Chúa Yêu
 draft: false

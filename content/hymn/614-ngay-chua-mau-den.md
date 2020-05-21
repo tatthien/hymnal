@@ -1,6 +1,6 @@
 ---
 title: 614. Ngày Chúa Mau Đến
-song-number: 614
+weight: 614
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

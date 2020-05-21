@@ -1,6 +1,6 @@
 ---
 title: 92. Ta Hy Sinh Vì Con Hết
-song-number: 92
+weight: 92
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

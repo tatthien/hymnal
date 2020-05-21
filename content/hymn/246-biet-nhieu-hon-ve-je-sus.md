@@ -1,6 +1,6 @@
 ---
 title: 246. Biết Nhiều Hơn Về Jê-Sus
-song-number: 246
+weight: 246
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

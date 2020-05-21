@@ -1,6 +1,6 @@
 ---
 title: 800. Chúa Biết Lòng Con
-song-number: 800
+weight: 800
 categories: Đời Tín Đồ
 sub-categories: Yêu Mến Chúa
 draft: false

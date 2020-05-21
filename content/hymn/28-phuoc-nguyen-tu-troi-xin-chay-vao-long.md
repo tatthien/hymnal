@@ -1,6 +1,6 @@
 ---
 title: 28. Phước Nguyên Từ Trời Xin Chảy Vào Lòng
-song-number: 28
+weight: 28
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

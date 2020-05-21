@@ -1,6 +1,6 @@
 ---
 title: 105. Chúa Oai Quyền Phục Sinh
-song-number: 105
+weight: 105
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

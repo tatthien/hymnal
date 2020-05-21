@@ -1,6 +1,6 @@
 ---
 title: 551. Tôn Ngợi Chúa
-song-number: 551
+weight: 551
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

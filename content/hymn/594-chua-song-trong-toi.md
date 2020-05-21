@@ -1,6 +1,6 @@
 ---
 title: 594. Chúa Sống Trong Tôi
-song-number: 594
+weight: 594
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

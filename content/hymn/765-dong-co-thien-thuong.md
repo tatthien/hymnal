@@ -1,6 +1,6 @@
 ---
 title: 765. Đồng Cỏ Thiên Thượng
-song-number: 765
+weight: 765
 categories: Đời Tín Đồ
 sub-categories: Bình An, Vui Vẻ
 draft: false

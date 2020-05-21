@@ -1,6 +1,6 @@
 ---
 title: 362. Xin Chúa Sai
-song-number: 362
+weight: 362
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

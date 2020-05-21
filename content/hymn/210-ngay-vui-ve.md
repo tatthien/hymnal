@@ -1,6 +1,6 @@
 ---
 title: 210. Ngày Vui Vẻ
-song-number: 210
+weight: 210
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

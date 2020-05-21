@@ -1,6 +1,6 @@
 ---
 title: 174. Christ Trả Xong Tội Trái
-song-number: 174
+weight: 174
 categories: Tin Lành
 sub-categories: Sự Ăn Năn, Sự Tha Tội
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 685. Học Theo Chúa
-song-number: 685
+weight: 685
 categories: Đời Tín Đồ
 sub-categories: Nên Thánh
 draft: false

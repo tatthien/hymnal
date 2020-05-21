@@ -1,6 +1,6 @@
 ---
 title: 163. Jêsus Đang Đứng Khuyên Lơn
-song-number: 163
+weight: 163
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

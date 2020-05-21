@@ -1,6 +1,6 @@
 ---
 title: 563. Cùng Hát Ha-Lê-Lu-Gia
-song-number: 563
+weight: 563
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

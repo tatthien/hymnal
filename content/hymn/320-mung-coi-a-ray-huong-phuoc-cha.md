@@ -1,6 +1,6 @@
 ---
 title: 320. Mừng Cõi Á Rày Hưởng Phước Cha
-song-number: 320
+weight: 320
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

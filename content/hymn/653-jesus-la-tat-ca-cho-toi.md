@@ -1,6 +1,6 @@
 ---
 title: 653. Jêsus Là Tất Cả Cho Tôi
-song-number: 653
+weight: 653
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

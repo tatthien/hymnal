@@ -1,6 +1,6 @@
 ---
 title: 265. Neo Tôi Chắc, Rất Chắc
-song-number: 265
+weight: 265
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

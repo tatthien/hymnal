@@ -1,6 +1,6 @@
 ---
 title: 546. Lời Nguyện Kính Yêu
-song-number: 546
+weight: 546
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

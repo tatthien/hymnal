@@ -1,6 +1,6 @@
 ---
 title: 316. Thập Tự Christ Đi Đầu
-song-number: 316
+weight: 316
 categories: Đời Tín Đồ
 sub-categories: Linh Chiến
 draft: false

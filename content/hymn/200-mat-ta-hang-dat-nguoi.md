@@ -1,6 +1,6 @@
 ---
 title: 200. Mắt Ta Hằng Dắt Ngươi
-song-number: 200
+weight: 200
 categories: Tin Lành
 sub-categories: Ứng Hứa Và Ân Ban
 draft: false

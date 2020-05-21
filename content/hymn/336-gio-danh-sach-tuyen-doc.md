@@ -1,6 +1,6 @@
 ---
 title: 336. Giờ Danh Sách Tuyên Đọc
-song-number: 336
+weight: 336
 categories: Cõi Lai Sanh
 sub-categories: Sống Lại Và Chịu Phán Xét
 draft: false

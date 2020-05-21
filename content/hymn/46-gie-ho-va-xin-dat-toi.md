@@ -1,6 +1,6 @@
 ---
 title: 46. Giê-Hô-Va Xin Dắt Tôi
-song-number: 46
+weight: 46
 categories: Thờ Phượng
 sub-categories: Gìn Giữ, Dẫn Dắt
 draft: false

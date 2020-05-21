@@ -1,6 +1,6 @@
 ---
 title: 205. Tôi Vững Vàng
-song-number: 205
+weight: 205
 categories: Tin Lành
 sub-categories: Ứng Hứa Và Ân Ban
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 633. Chiên Lạc Trở Về
-song-number: 633
+weight: 633
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

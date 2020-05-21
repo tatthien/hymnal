@@ -1,6 +1,6 @@
 ---
 title: 877. Thanh Niên Tiến Bước
-song-number: 877
+weight: 877
 categories: Thanh Niên
 sub-categories: 
 draft: false

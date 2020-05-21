@@ -1,6 +1,6 @@
 ---
 title: 96. Ghết-Sê-Ma-Nê
-song-number: 96
+weight: 96
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

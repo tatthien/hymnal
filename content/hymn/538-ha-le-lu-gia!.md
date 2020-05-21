@@ -1,6 +1,6 @@
 ---
 title: 538. Ha-Lê-Lu-Gia!
-song-number: 538
+weight: 538
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

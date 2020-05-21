@@ -1,6 +1,6 @@
 ---
 title: 186. Huyết Jêsus Thật Cao Quý
-song-number: 186
+weight: 186
 categories: Tin Lành
 sub-categories: Huyết Của Christ
 draft: false

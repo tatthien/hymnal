@@ -1,6 +1,6 @@
 ---
 title: 152. Kinh Thánh Là Ngọn Đèn
-song-number: 152
+weight: 152
 categories: Kinh Thánh
 sub-categories: 
 draft: false

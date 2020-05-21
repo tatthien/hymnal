@@ -1,6 +1,6 @@
 ---
 title: 70. Đấng Thánh Lâm Phàm
-song-number: 70
+weight: 70
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

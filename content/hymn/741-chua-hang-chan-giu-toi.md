@@ -1,6 +1,6 @@
 ---
 title: 741. Chúa Hằng Chăn Giữ Tôi
-song-number: 741
+weight: 741
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

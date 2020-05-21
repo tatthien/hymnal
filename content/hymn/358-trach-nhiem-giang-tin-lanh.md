@@ -1,6 +1,6 @@
 ---
 title: 358. Trách Nhiệm Giảng Tin Lành
-song-number: 358
+weight: 358
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

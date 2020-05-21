@@ -1,6 +1,6 @@
 ---
 title: 601. Jê-Sus Sẽ Đến
-song-number: 601
+weight: 601
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

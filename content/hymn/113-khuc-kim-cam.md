@@ -1,6 +1,6 @@
 ---
 title: 113. Khúc Kim Cầm
-song-number: 113
+weight: 113
 categories: Chúa Jêsus Christ
 sub-categories: Thăng Thiên
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 63. Không Chỗ Trong Quán
-song-number: 63
+weight: 63
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

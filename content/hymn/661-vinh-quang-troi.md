@@ -1,6 +1,6 @@
 ---
 title: 661. Vinh Quang Trời
-song-number: 661
+weight: 661
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

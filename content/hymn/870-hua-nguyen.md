@@ -1,6 +1,6 @@
 ---
 title: 870. Hứa Nguyện
-song-number: 870
+weight: 870
 categories: Thiếu Nhi
 sub-categories: 
 draft: false

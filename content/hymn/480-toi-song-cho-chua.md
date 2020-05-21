@@ -1,6 +1,6 @@
 ---
 title: 480. Tôi Sống Cho Chúa
-song-number: 480
+weight: 480
 categories: Đời Tín Đồ
 sub-categories: Thử Thách
 draft: false

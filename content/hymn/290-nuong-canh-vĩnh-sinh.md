@@ -1,6 +1,6 @@
 ---
 title: 290. Nương Cánh Vĩnh Sinh
-song-number: 290
+weight: 290
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Cùng Chúa
 draft: false

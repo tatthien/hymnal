@@ -1,6 +1,6 @@
 ---
 title: 574. Bình An Cho Loài Người
-song-number: 574
+weight: 574
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

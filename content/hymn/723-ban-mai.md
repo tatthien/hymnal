@@ -1,6 +1,6 @@
 ---
 title: 723. Ban Mai
-song-number: 723
+weight: 723
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

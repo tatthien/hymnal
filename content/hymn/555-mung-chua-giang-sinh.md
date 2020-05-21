@@ -1,6 +1,6 @@
 ---
 title: 555. Mừng Chúa Giáng Sinh
-song-number: 555
+weight: 555
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

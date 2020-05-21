@@ -1,6 +1,6 @@
 ---
 title: 537. Ngợi Ca Danh Jê-Sus
-song-number: 537
+weight: 537
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

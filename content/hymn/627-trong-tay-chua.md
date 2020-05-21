@@ -1,6 +1,6 @@
 ---
 title: 627. Trong Tay Chúa
-song-number: 627
+weight: 627
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 675. Thành Tâm Nhớ Ơn Chúa
-song-number: 675
+weight: 675
 categories: Đời Tín Đồ
 sub-categories: Cảm Tạ
 draft: false

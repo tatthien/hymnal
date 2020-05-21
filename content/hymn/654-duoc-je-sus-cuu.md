@@ -1,6 +1,6 @@
 ---
 title: 654. Được Jê-Sus Cứu
-song-number: 654
+weight: 654
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 59. Đêm Yên Lặng
-song-number: 59
+weight: 59
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

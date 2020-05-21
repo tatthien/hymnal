@@ -1,6 +1,6 @@
 ---
 title: 35. Nguyện Đêm Nay Christ Hà Phước
-song-number: 35
+weight: 35
 categories: Thờ Phượng
 sub-categories: Buổi Tối
 draft: false

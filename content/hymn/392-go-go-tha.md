@@ -1,6 +1,6 @@
 ---
 title: 392. Gô-Gô-Tha
-song-number: 392
+weight: 392
 categories: Đơn Ca - Song Ca
 sub-categories: 
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 427. Neo Tôi Chắc, Rất Chắc
-song-number: 427
+weight: 427
 categories: Hợp Ca
 sub-categories: Nam Ban
 draft: false

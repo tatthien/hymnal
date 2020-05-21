@@ -1,6 +1,6 @@
 ---
 title: 739. Mỗi Bước Trên Đường
-song-number: 739
+weight: 739
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

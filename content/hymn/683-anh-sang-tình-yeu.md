@@ -1,6 +1,6 @@
 ---
 title: 683. Ánh Sáng Tình Yêu
-song-number: 683
+weight: 683
 categories: Đời Tín Đồ
 sub-categories: Nên Thánh
 draft: false

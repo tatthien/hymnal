@@ -1,6 +1,6 @@
 ---
 title: 351. Jesus Sẽ Cai Trị
-song-number: 351
+weight: 351
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 188. Ngợi Khen Dòng Huyết
-song-number: 188
+weight: 188
 categories: Tin Lành
 sub-categories: Huyết Của Christ
 draft: false

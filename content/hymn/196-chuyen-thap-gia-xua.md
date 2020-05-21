@@ -1,6 +1,6 @@
 ---
 title: 196. Chuyện Thập Giá Xưa
-song-number: 196
+weight: 196
 categories: Tin Lành
 sub-categories: Thập Tự Giá
 draft: false

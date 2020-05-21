@@ -1,6 +1,6 @@
 ---
 title: 93. Nhìn Cây Thập Tự
-song-number: 93
+weight: 93
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

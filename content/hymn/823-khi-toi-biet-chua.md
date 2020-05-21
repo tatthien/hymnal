@@ -1,6 +1,6 @@
 ---
 title: 823. Khi Tôi Biết Chúa
-song-number: 823
+weight: 823
 categories: Đời Tín Đồ
 sub-categories: Đức Tin
 draft: false

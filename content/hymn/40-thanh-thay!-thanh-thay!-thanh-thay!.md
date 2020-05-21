@@ -1,6 +1,6 @@
 ---
 title: 40. Thánh Thay! Thánh Thay! Thánh Thay!
-song-number: 40
+weight: 40
 categories: Thờ Phượng
 sub-categories: Ba Ngôi
 draft: false

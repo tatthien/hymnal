@@ -1,6 +1,6 @@
 ---
 title: 7. Ca Cảm Tạ
-song-number: 7
+weight: 7
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

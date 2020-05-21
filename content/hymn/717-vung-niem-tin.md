@@ -1,6 +1,6 @@
 ---
 title: 717. Vững Niềm Tin
-song-number: 717
+weight: 717
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

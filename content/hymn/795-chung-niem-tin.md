@@ -1,6 +1,6 @@
 ---
 title: 795. Chung Niềm Tin
-song-number: 795
+weight: 795
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Chùng Chúa
 draft: false

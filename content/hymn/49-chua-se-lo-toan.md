@@ -1,6 +1,6 @@
 ---
 title: 49. Chúa Sẽ Lo Toan
-song-number: 49
+weight: 49
 categories: Thờ Phượng
 sub-categories: Gìn Giữ, Dẫn Dắt
 draft: false

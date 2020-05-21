@@ -1,6 +1,6 @@
 ---
 title: 567. Niềm Vui Cho Nhân Loại
-song-number: 567
+weight: 567
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

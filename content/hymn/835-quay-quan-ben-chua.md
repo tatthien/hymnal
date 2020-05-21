@@ -1,6 +1,6 @@
 ---
 title: 835. Quây Quần Bên Chúa
-song-number: 835
+weight: 835
 categories: Đời Tín Đồ
 sub-categories: Thông Công
 draft: false

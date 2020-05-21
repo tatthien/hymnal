@@ -1,6 +1,6 @@
 ---
 title: 862. Chúa Mong Anh Về
-song-number: 862
+weight: 862
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giảng
 draft: false

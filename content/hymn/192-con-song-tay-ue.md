@@ -1,6 +1,6 @@
 ---
 title: 192. Con Sông Tẩy Uế
-song-number: 192
+weight: 192
 categories: Tin Lành
 sub-categories: Huyết Của Christ
 draft: false

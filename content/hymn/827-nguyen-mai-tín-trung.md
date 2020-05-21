@@ -1,6 +1,6 @@
 ---
 title: 827. Nguyện Mãi Tín Trung
-song-number: 827
+weight: 827
 categories: Đời Tín Đồ
 sub-categories: Can Đảm, Trung Tín
 draft: false

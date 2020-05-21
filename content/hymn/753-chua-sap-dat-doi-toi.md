@@ -1,6 +1,6 @@
 ---
 title: 753. Chúa Sắp Đặt Đời Tôi
-song-number: 753
+weight: 753
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

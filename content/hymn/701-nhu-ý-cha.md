@@ -1,6 +1,6 @@
 ---
 title: 701. Như Ý Cha
-song-number: 701
+weight: 701
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

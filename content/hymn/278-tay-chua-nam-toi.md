@@ -1,6 +1,6 @@
 ---
 title: 278. Tay Chúa Nắm Tôi
-song-number: 278
+weight: 278
 categories: Đời Tín Đồ
 sub-categories: Bình An Vui Vẻ
 draft: false

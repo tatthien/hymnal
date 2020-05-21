@@ -1,6 +1,6 @@
 ---
 title: 270. Jêsus Hằng Ở Bên Tôi
-song-number: 270
+weight: 270
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

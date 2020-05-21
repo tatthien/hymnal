@@ -1,6 +1,6 @@
 ---
 title: 16. Danh Chúa Jêsus
-song-number: 16
+weight: 16
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

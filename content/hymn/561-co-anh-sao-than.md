@@ -1,6 +1,6 @@
 ---
 title: 561. Có Ánh Sao Thần
-song-number: 561
+weight: 561
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

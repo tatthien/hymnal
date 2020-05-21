@@ -1,6 +1,6 @@
 ---
 title: 189. Xem Ơn Vô Lượng
-song-number: 189
+weight: 189
 categories: Tin Lành
 sub-categories: Huyết Của Christ
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 55. Hỡi Môn Đồ Trung Tín
-song-number: 55
+weight: 55
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

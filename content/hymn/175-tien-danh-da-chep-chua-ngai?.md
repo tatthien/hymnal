@@ -1,6 +1,6 @@
 ---
 title: 175. Tiện Danh Đã Chép Chưa Ngài?
-song-number: 175
+weight: 175
 categories: Tin Lành
 sub-categories: Sự Ăn Năn, Sự Tha Tội
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 820. Chúa Vẫn Yêu Thương
-song-number: 820
+weight: 820
 categories: Đời Tín Đồ
 sub-categories: Được Chúa Yêu
 draft: false

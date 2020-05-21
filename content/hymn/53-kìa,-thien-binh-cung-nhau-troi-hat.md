@@ -1,6 +1,6 @@
 ---
 title: 53. Kìa, Thiên Binh Cùng Nhau Trỗi Hát
-song-number: 53
+weight: 53
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 429. Cứu Chúa Siêu Việt
-song-number: 429
+weight: 429
 categories: Hợp Ca
 sub-categories: Nam Ban
 draft: false

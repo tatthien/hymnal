@@ -1,6 +1,6 @@
 ---
 title: 58. Nằm Yên Trong Máng Chiên Kia
-song-number: 58
+weight: 58
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

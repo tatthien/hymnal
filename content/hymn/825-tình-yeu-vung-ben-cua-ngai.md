@@ -1,6 +1,6 @@
 ---
 title: 825. Tình Yêu Vững Bền Của Ngài
-song-number: 825
+weight: 825
 categories: Đời Tín Đồ
 sub-categories: Đức Tin
 draft: false

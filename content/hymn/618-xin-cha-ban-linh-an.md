@@ -1,6 +1,6 @@
 ---
 title: 618. Xin Cha Ban Linh Ân
-song-number: 618
+weight: 618
 categories: Đức Thánh Linh
 sub-categories: 
 draft: false

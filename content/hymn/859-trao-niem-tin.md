@@ -1,6 +1,6 @@
 ---
 title: 859. Trao Niềm Tin
-song-number: 859
+weight: 859
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giảng
 draft: false

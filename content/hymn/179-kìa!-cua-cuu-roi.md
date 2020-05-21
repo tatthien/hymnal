@@ -1,6 +1,6 @@
 ---
 title: 179. Kìa! Cửa Cứu Rỗi
-song-number: 179
+weight: 179
 categories: Tin Lành
 sub-categories: Tin Nhận Tin Lành
 draft: false

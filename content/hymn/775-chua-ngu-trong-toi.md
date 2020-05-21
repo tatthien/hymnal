@@ -1,6 +1,6 @@
 ---
 title: 775. Chúa Ngự Trong Tôi
-song-number: 775
+weight: 775
 categories: Đời Tín Đồ
 sub-categories: Bình An, Vui Vẻ
 draft: false

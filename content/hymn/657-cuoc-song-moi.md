@@ -1,6 +1,6 @@
 ---
 title: 657. Cuộc Sống Mới
-song-number: 657
+weight: 657
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 267. Chỗ Kẻ Đá Vững An
-song-number: 267
+weight: 267
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 529. Khúc Ca Mang Danh Jê-Sus
-song-number: 529
+weight: 529
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

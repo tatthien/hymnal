@@ -1,6 +1,6 @@
 ---
 title: 256. Chúa Ôi, Xin Dừng Chân Lại Gần Tôi
-song-number: 256
+weight: 256
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false

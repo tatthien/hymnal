@@ -1,6 +1,6 @@
 ---
 title: 292. Hằng Nương Trong Chúa Muôn Đời
-song-number: 292
+weight: 292
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Cùng Chúa
 draft: false

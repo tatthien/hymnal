@@ -1,6 +1,6 @@
 ---
 title: 305. Nguồn Ân Điển
-song-number: 305
+weight: 305
 categories: Đời Tín Đồ
 sub-categories: Ân Điển
 draft: false

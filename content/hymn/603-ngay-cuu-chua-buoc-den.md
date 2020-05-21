@@ -1,6 +1,6 @@
 ---
 title: 603. Ngày Cứu Chúa Bước Đến
-song-number: 603
+weight: 603
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 43. Thành Tín Chúa Rất Lớn Thay
-song-number: 43
+weight: 43
 categories: Thờ Phượng
 sub-categories: Thuộc Tính
 draft: false

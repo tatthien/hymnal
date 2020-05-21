@@ -1,6 +1,6 @@
 ---
 title: 301. Ôi Tình Thương
-song-number: 301
+weight: 301
 categories: Đời Tín Đồ
 sub-categories: Được Chúa Yêu
 draft: false

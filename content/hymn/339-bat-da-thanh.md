@@ -1,6 +1,6 @@
 ---
 title: 339. Bất Dạ Thành
-song-number: 339
+weight: 339
 categories: Cõi Lai Sanh
 sub-categories: Thiên Đàng
 draft: false

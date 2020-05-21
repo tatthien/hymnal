@@ -1,6 +1,6 @@
 ---
 title: 257. Xin Thần Linh Cảm Hóa
-song-number: 257
+weight: 257
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false

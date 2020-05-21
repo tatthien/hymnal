@@ -1,6 +1,6 @@
 ---
 title: 673. Thầm Tạ Ơn Chúa
-song-number: 673
+weight: 673
 categories: Đời Tín Đồ
 sub-categories: Cảm Tạ
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 615. Quyền Năng Từ Đức Chúa Trời
-song-number: 615
+weight: 615
 categories: Đức Thánh Linh
 sub-categories: 
 draft: false

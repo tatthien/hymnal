@@ -1,6 +1,6 @@
 ---
 title: 871. Lòng Nguyện Theo Jêsus
-song-number: 871
+weight: 871
 categories: Thiếu Nhi
 sub-categories: 
 draft: false

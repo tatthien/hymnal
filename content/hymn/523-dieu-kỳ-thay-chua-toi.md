@@ -1,6 +1,6 @@
 ---
 title: 523. Diệu Kỳ Thay Chúa Tôi
-song-number: 523
+weight: 523
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 869. Xin Chúa Sai Tôi
-song-number: 869
+weight: 869
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

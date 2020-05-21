@@ -1,6 +1,6 @@
 ---
 title: 898. Đồi Vắng
-song-number: 898
+weight: 898
 categories: Đơn Ca - Song Ca
 sub-categories: 
 draft: false

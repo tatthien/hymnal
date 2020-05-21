@@ -1,6 +1,6 @@
 ---
 title: 133. Jêsus Tái Lâm Rày Mai
-song-number: 133
+weight: 133
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

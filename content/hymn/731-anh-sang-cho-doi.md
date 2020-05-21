@@ -1,6 +1,6 @@
 ---
 title: 731. Ánh Sáng Cho Đời
-song-number: 731
+weight: 731
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

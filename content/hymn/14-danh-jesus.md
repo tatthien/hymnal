@@ -1,6 +1,6 @@
 ---
 title: 14. Danh Jêsus
-song-number: 14
+weight: 14
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

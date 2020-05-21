@@ -1,6 +1,6 @@
 ---
 title: 534. Nhạc Khúc Tuyệt Vời
-song-number: 534
+weight: 534
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

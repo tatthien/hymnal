@@ -1,6 +1,6 @@
 ---
 title: 769. Thỏa Lòng
-song-number: 769
+weight: 769
 categories: Đời Tín Đồ
 sub-categories: Bình An, Vui Vẻ
 draft: false

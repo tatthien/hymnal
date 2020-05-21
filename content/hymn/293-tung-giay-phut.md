@@ -1,6 +1,6 @@
 ---
 title: 293. Từng Giây Phút
-song-number: 293
+weight: 293
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Cùng Chúa
 draft: false

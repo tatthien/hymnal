@@ -1,6 +1,6 @@
 ---
 title: 729. Chỉ Có Jê-Sus
-song-number: 729
+weight: 729
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

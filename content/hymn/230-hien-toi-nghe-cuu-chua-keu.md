@@ -1,6 +1,6 @@
 ---
 title: 230. Hiện Tôi Nghe Cứu Chúa Kêu
-song-number: 230
+weight: 230
 categories: Đời Tín Đồ
 sub-categories: Sự Dâng Mình Cho Chúa
 draft: false

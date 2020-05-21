@@ -1,6 +1,6 @@
 ---
 title: 684. Ra Khơi
-song-number: 684
+weight: 684
 categories: Đời Tín Đồ
 sub-categories: Nên Thánh
 draft: false

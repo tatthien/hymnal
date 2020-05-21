@@ -1,6 +1,6 @@
 ---
 title: 467. Sổ Sinh Mạng
-song-number: 467
+weight: 467
 categories: Tin Lành
 sub-categories: 
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 670. Kính Khen Ngài
-song-number: 670
+weight: 670
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

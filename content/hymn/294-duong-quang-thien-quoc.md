@@ -1,6 +1,6 @@
 ---
 title: 294. Dương Quang Thiên Quốc
-song-number: 294
+weight: 294
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Cùng Chúa
 draft: false

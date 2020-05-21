@@ -1,6 +1,6 @@
 ---
 title: 781. Bài Ca Tâm Linh
-song-number: 781
+weight: 781
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 829. Chiến Binh Thập Tự
-song-number: 829
+weight: 829
 categories: Đời Tín Đồ
 sub-categories: Linh Chiến
 draft: false

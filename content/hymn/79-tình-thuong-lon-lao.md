@@ -1,6 +1,6 @@
 ---
 title: 79. Tình Thương Lớn Lao
-song-number: 79
+weight: 79
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

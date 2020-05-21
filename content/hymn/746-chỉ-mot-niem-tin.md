@@ -1,6 +1,6 @@
 ---
 title: 746. Chỉ Một Niềm Tin
-song-number: 746
+weight: 746
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

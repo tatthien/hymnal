@@ -1,6 +1,6 @@
 ---
 title: 762. Đi Với Chúa
-song-number: 762
+weight: 762
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

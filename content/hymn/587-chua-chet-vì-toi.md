@@ -1,6 +1,6 @@
 ---
 title: 587. Chúa Chết Vì Tôi
-song-number: 587
+weight: 587
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

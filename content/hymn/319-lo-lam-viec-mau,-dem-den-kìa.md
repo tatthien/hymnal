@@ -1,6 +1,6 @@
 ---
 title: 319. Lo Làm Việc Mau, Đêm Đến Kìa
-song-number: 319
+weight: 319
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

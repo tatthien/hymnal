@@ -1,6 +1,6 @@
 ---
 title: 557. Sáng Danh Thiên Chúa
-song-number: 557
+weight: 557
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

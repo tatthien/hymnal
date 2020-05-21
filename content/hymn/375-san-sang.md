@@ -1,6 +1,6 @@
 ---
 title: 375. Sẵn Sàng
-song-number: 375
+weight: 375
 categories: Thanh Niên
 sub-categories: 
 draft: false

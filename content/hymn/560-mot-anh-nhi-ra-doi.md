@@ -1,6 +1,6 @@
 ---
 title: 560. Một Anh Nhi Ra Đời
-song-number: 560
+weight: 560
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

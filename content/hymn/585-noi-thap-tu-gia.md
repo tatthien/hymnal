@@ -1,6 +1,6 @@
 ---
 title: 585. Nơi Thập Tự Giá
-song-number: 585
+weight: 585
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

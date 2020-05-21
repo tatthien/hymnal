@@ -1,6 +1,6 @@
 ---
 title: 494. Đến Thiên Đàng
-song-number: 494
+weight: 494
 categories: Thiên Đàng
 sub-categories: 
 draft: false

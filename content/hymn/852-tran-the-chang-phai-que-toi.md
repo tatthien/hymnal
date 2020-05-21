@@ -1,6 +1,6 @@
 ---
 title: 852. Trần Thế Chẳng Phải Quê Tôi
-song-number: 852
+weight: 852
 categories: Cõi Lai Sanh
 sub-categories: Thiên Đàng
 draft: false

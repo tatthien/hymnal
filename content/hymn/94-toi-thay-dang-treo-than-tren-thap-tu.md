@@ -1,6 +1,6 @@
 ---
 title: 94. Tôi Thấy Đấng Treo Thân Trên Thập Tự
-song-number: 94
+weight: 94
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

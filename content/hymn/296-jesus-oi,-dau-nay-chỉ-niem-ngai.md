@@ -1,6 +1,6 @@
 ---
 title: 296. Jêsus Ôi, Dầu Nay Chỉ Niệm Ngài
-song-number: 296
+weight: 296
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Cùng Chúa
 draft: false

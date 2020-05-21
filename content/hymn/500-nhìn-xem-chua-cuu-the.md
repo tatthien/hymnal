@@ -1,6 +1,6 @@
 ---
 title: 500. Nhìn Xem Chúa Cứu Thế
-song-number: 500
+weight: 500
 categories: Lễ Nghi
 sub-categories: Tiệc Thánh
 draft: false

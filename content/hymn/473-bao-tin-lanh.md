@@ -1,6 +1,6 @@
 ---
 title: 473. Báo Tin Lành
-song-number: 473
+weight: 473
 categories: Tin Lành
 sub-categories: 
 draft: false

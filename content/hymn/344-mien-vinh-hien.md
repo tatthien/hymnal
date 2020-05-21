@@ -1,6 +1,6 @@
 ---
 title: 344. Miền Vinh Hiển
-song-number: 344
+weight: 344
 categories: Cõi Lai Sanh
 sub-categories: Thiên Đàng
 draft: false

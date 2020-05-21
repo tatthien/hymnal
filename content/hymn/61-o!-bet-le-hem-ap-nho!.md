@@ -1,6 +1,6 @@
 ---
 title: 61. Ô! Bết-Lê-Hem Ấp Nhỏ!
-song-number: 61
+weight: 61
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

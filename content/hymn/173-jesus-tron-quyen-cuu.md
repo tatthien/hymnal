@@ -1,6 +1,6 @@
 ---
 title: 173. Jêsus Trọn Quyền Cứu
-song-number: 173
+weight: 173
 categories: Tin Lành
 sub-categories: Sự Ăn Năn, Sự Tha Tội
 draft: false

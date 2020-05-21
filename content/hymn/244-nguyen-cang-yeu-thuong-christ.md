@@ -1,6 +1,6 @@
 ---
 title: 244. Nguyện Càng Yêu Thương Christ
-song-number: 244
+weight: 244
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

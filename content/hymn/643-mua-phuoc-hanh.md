@@ -1,6 +1,6 @@
 ---
 title: 643. Mưa Phước Hạnh
-song-number: 643
+weight: 643
 categories: Tin Lành
 sub-categories: Ứng Hứa Và Ân Ban
 draft: false

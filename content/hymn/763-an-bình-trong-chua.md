@@ -1,6 +1,6 @@
 ---
 title: 763. An Bình Trong Chúa
-song-number: 763
+weight: 763
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

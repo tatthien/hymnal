@@ -1,6 +1,6 @@
 ---
 title: 882. Báp-Têm Trong Danh Chúa
-song-number: 882
+weight: 882
 categories: Lễ Nghi
 sub-categories: Báp-Têm
 draft: false

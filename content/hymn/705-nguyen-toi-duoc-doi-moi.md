@@ -1,6 +1,6 @@
 ---
 title: 705. Nguyện Tôi Được Đổi Mới
-song-number: 705
+weight: 705
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

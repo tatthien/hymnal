@@ -1,6 +1,6 @@
 ---
 title: 60. Thoạt Đến Đêm Nọ
-song-number: 60
+weight: 60
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

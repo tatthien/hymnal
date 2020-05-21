@@ -1,6 +1,6 @@
 ---
 title: 540. Dâng Lời Suy Tôn
-song-number: 540
+weight: 540
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

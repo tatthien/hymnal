@@ -1,6 +1,6 @@
 ---
 title: 151. Lời Chúa Vững Lập
-song-number: 151
+weight: 151
 categories: Kinh Thánh
 sub-categories: 
 draft: false

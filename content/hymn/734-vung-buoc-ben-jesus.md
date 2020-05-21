@@ -1,6 +1,6 @@
 ---
 title: 734. Vững Bước Bên Jêsus
-song-number: 734
+weight: 734
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

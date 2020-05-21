@@ -1,6 +1,6 @@
 ---
 title: 30. Tán Mỹ Chúa Trước Khi Lễ Chung
-song-number: 30
+weight: 30
 categories: Thờ Phượng
 sub-categories: Tất Lễ
 draft: false

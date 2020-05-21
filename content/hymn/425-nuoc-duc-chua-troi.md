@@ -1,6 +1,6 @@
 ---
 title: 425. Nước Đức Chúa Trời
-song-number: 425
+weight: 425
 categories: Hợp Ca
 sub-categories: Nam Ban
 draft: false

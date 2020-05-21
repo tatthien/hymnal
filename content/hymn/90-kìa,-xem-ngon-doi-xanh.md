@@ -1,6 +1,6 @@
 ---
 title: 90. Kìa, Xem Ngọn Đồi Xanh
-song-number: 90
+weight: 90
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

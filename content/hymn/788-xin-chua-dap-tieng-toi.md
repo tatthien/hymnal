@@ -1,6 +1,6 @@
 ---
 title: 788. Xin Chúa Đáp Tiếng Tôi
-song-number: 788
+weight: 788
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Chùng Chúa
 draft: false

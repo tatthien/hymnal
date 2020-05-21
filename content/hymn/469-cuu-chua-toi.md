@@ -1,6 +1,6 @@
 ---
 title: 469. Cứu Chúa Tôi
-song-number: 469
+weight: 469
 categories: Tin Lành
 sub-categories: 
 draft: false

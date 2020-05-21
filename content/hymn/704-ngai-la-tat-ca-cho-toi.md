@@ -1,6 +1,6 @@
 ---
 title: 704. Ngài Là Tất Cả Cho Tôi
-song-number: 704
+weight: 704
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 424. Xin Cha Đưa Anh
-song-number: 424
+weight: 424
 categories: Hợp Ca
 sub-categories: Nam Ban
 draft: false

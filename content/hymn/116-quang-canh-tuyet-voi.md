@@ -1,6 +1,6 @@
 ---
 title: 116. Quang Cảnh Tuyệt Vời
-song-number: 116
+weight: 116
 categories: Chúa Jêsus Christ
 sub-categories: Thăng Thiên
 draft: false

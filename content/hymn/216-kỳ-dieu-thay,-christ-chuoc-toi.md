@@ -1,6 +1,6 @@
 ---
 title: 216. Kỳ Diệu Thay, Christ Chuộc Tôi
-song-number: 216
+weight: 216
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

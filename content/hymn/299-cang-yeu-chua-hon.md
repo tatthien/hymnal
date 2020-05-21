@@ -1,6 +1,6 @@
 ---
 title: 299. Càng Yêu Chúa Hơn
-song-number: 299
+weight: 299
 categories: Đời Tín Đồ
 sub-categories: Yêu Mến Chúa
 draft: false

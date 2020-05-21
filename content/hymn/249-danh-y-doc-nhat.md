@@ -1,6 +1,6 @@
 ---
 title: 249. Danh Y Độc Nhất
-song-number: 249
+weight: 249
 categories: Đời Tín Đồ
 sub-categories: Sự Chữa Lành
 draft: false

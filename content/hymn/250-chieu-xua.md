@@ -1,6 +1,6 @@
 ---
 title: 250. Chiều Xưa
-song-number: 250
+weight: 250
 categories: Đời Tín Đồ
 sub-categories: Sự Chữa Lành
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 273. Người Làm Tôi Chúa Phước Thay
-song-number: 273
+weight: 273
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

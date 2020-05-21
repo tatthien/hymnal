@@ -1,6 +1,6 @@
 ---
 title: 401. Chúc Hôn Lễ
-song-number: 401
+weight: 401
 categories: Biệt Lễ Ca
 sub-categories: Hôn Lễ
 draft: false

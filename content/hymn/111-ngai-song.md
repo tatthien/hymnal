@@ -1,6 +1,6 @@
 ---
 title: 111. Ngài Sống
-song-number: 111
+weight: 111
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

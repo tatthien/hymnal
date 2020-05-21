@@ -1,6 +1,6 @@
 ---
 title: 168. Nay Quy Hướng Cố Gia
-song-number: 168
+weight: 168
 categories: Tin Lành
 sub-categories: Sự Ăn Năn, Sự Tha Tội
 draft: false

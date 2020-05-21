@@ -1,6 +1,6 @@
 ---
 title: 876. Hát Lên, Hỡi Lữ Khách
-song-number: 876
+weight: 876
 categories: Thanh Niên
 sub-categories: 
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 486. Kìa, Chúa Đến
-song-number: 486
+weight: 486
 categories: Chúa Tái Lâm
 sub-categories: 
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 12. Đẹp Thay Trán Chúa
-song-number: 12
+weight: 12
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

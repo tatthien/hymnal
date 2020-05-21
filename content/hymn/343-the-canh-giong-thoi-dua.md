@@ -1,6 +1,6 @@
 ---
 title: 343. Thế Cảnh Giống Thoi Đưa
-song-number: 343
+weight: 343
 categories: Cõi Lai Sinh
 sub-categories: Thiên Đàng
 draft: false

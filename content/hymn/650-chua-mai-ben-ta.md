@@ -1,6 +1,6 @@
 ---
 title: 650. Chúa Mãi Bên Ta
-song-number: 650
+weight: 650
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

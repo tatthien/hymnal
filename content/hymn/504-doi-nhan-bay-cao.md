@@ -1,6 +1,6 @@
 ---
 title: 504. Đôi Nhạn Bay Cao
-song-number: 504
+weight: 504
 categories: Biệt Lễ Ca
 sub-categories: Hôn Lễ
 draft: false

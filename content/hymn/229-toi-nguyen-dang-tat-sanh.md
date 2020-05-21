@@ -1,6 +1,6 @@
 ---
 title: 229. Tôi Nguyện Dâng Tất Sanh
-song-number: 229
+weight: 229
 categories: Đời Tín Đồ
 sub-categories: Sự Dâng Mình Cho Chúa
 draft: false

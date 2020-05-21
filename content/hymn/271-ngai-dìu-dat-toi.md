@@ -1,6 +1,6 @@
 ---
 title: 271. Ngài Dìu Dắt Tôi
-song-number: 271
+weight: 271
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

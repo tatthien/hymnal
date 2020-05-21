@@ -1,6 +1,6 @@
 ---
 title: 237. Nguyện Theo Ý Cha
-song-number: 237
+weight: 237
 categories: Đời Tín Đồ
 sub-categories: Sự Dâng Mình Cho Chúa
 draft: false

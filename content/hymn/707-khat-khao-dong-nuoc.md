@@ -1,6 +1,6 @@
 ---
 title: 707. Khát Khao Dòng Nước
-song-number: 707
+weight: 707
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 530. Danh Chúa Diệu Kỳ
-song-number: 530
+weight: 530
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

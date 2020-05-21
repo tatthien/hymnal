@@ -1,6 +1,6 @@
 ---
 title: 88. Đường Đến Gô-Gô-Tha
-song-number: 88
+weight: 88
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chếtt
 draft: false

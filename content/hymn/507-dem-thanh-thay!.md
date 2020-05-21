@@ -1,6 +1,6 @@
 ---
 title: 507. Đêm Thánh Thay!
-song-number: 507
+weight: 507
 categories: Biệt Lễ Ca
 sub-categories: Nô-Ên
 draft: false

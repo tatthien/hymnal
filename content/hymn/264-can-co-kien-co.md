@@ -1,6 +1,6 @@
 ---
 title: 264. Căn Cơ Kiên Cố
-song-number: 264
+weight: 264
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

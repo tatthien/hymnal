@@ -1,6 +1,6 @@
 ---
 title: 831. Nào Đi Lên Đoàn Quân Thánh
-song-number: 831
+weight: 831
 categories: Đời Tín Đồ
 sub-categories: Linh Chiến
 draft: false

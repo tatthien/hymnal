@@ -1,6 +1,6 @@
 ---
 title: 511. Bài Ca Vĩnh Cửu
-song-number: 511
+weight: 511
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

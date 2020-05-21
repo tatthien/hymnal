@@ -1,6 +1,6 @@
 ---
 title: 380. Thuộc Jêsus Thỏa Vui
-song-number: 380
+weight: 380
 categories: Thanh Niên
 sub-categories: 
 draft: false

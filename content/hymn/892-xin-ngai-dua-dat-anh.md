@@ -1,6 +1,6 @@
 ---
 title: 892. Xin Ngài Đưa Dắt Anh
-song-number: 892
+weight: 892
 categories: Biệt Lễ Ca
 sub-categories: Từ Giã
 draft: false

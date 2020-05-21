@@ -1,6 +1,6 @@
 ---
 title: 245. Gần Thập Tự Hơn
-song-number: 245
+weight: 245
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

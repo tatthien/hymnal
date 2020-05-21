@@ -1,6 +1,6 @@
 ---
 title: 539. Cùng Đến Ca Ngợi Chúa
-song-number: 539
+weight: 539
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

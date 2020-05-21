@@ -1,6 +1,6 @@
 ---
 title: 371. Một Tia Sáng
-song-number: 371
+weight: 371
 categories: Thiếu Nhi
 sub-categories: 
 draft: false

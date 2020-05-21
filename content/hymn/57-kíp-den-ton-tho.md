@@ -1,6 +1,6 @@
 ---
 title: 57. Kíp Đến Tôn Thờ
-song-number: 57
+weight: 57
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

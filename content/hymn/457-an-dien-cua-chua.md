@@ -1,6 +1,6 @@
 ---
 title: 457. Ân Điển Của Chúa
-song-number: 457
+weight: 457
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

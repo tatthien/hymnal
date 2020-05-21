@@ -1,6 +1,6 @@
 ---
 title: 715. Đặt Niềm Tin Nơi Chúa
-song-number: 715
+weight: 715
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

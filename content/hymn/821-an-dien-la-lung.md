@@ -1,6 +1,6 @@
 ---
 title: 821. Ân Điển Lạ Lùng
-song-number: 821
+weight: 821
 categories: Đời Tín Đồ
 sub-categories: Được Chúa Yêu
 draft: false

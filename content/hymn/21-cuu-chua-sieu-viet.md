@@ -1,6 +1,6 @@
 ---
 title: 21. Cứu Chúa Siêu Việt
-song-number: 21
+weight: 21
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

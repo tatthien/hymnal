@@ -1,6 +1,6 @@
 ---
 title: 714. Jê-Sus Ôi, Con Tin Ngài
-song-number: 714
+weight: 714
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

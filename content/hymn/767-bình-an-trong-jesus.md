@@ -1,6 +1,6 @@
 ---
 title: 767. Bình An Trong Jêsus
-song-number: 767
+weight: 767
 categories: Đời Tín Đồ
 sub-categories: Bình An, Vui Vẻ
 draft: false

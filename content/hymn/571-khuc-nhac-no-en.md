@@ -1,6 +1,6 @@
 ---
 title: 571. Khúc Nhạc Nô-Ên
-song-number: 571
+weight: 571
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

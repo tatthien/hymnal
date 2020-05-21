@@ -1,6 +1,6 @@
 ---
 title: 772. Một Ngày Tươi Mới
-song-number: 772
+weight: 772
 categories: Đời Tín Đồ
 sub-categories: Bình An, Vui Vẻ
 draft: false

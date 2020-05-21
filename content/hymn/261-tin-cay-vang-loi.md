@@ -1,6 +1,6 @@
 ---
 title: 261. Tin Cậy Vâng Lời
-song-number: 261
+weight: 261
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

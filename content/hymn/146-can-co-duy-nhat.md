@@ -1,6 +1,6 @@
 ---
 title: 146. Căn Cơ Duy Nhất
-song-number: 146
+weight: 146
 categories: Hội Thánh
 sub-categories: 
 draft: false

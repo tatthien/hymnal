@@ -1,6 +1,6 @@
 ---
 title: 304. Lòng Luôn Tưởng Con Trời
-song-number: 304
+weight: 304
 categories: Đời Tín Đồ
 sub-categories: Ân Điển
 draft: false

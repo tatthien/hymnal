@@ -1,6 +1,6 @@
 ---
 title: 840. Sẵn Lòng Hầu Việc
-song-number: 840
+weight: 840
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 528. Hô-Sa-Na
-song-number: 528
+weight: 528
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

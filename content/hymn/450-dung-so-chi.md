@@ -1,6 +1,6 @@
 ---
 title: 450. Đừng Sợ Chi
-song-number: 450
+weight: 450
 categories: Đoản Ca
 sub-categories: 
 draft: false

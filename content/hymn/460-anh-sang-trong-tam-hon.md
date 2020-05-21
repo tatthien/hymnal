@@ -1,6 +1,6 @@
 ---
 title: 460. Ánh Sáng Trong Tâm Hồn
-song-number: 460
+weight: 460
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

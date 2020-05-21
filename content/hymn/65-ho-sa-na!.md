@@ -1,6 +1,6 @@
 ---
 title: 65. Hô-Sa-Na!
-song-number: 65
+weight: 65
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

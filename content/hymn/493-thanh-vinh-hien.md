@@ -1,6 +1,6 @@
 ---
 title: 493. Thành Vinh Hiển
-song-number: 493
+weight: 493
 categories: Thiên Đàng
 sub-categories: 
 draft: false

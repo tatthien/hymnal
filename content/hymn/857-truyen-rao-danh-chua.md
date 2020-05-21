@@ -1,6 +1,6 @@
 ---
 title: 857. Truyền Rao Danh Chúa
-song-number: 857
+weight: 857
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giảng
 draft: false

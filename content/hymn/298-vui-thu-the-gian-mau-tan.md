@@ -1,6 +1,6 @@
 ---
 title: 298. Vui Thú Thế Gian Mau Tàn
-song-number: 298
+weight: 298
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Cùng Chúa
 draft: false

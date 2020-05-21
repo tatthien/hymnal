@@ -1,6 +1,6 @@
 ---
 title: 598. Khi Chúa Về Thiên Quốc
-song-number: 598
+weight: 598
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

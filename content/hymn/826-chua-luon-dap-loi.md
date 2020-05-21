@@ -1,6 +1,6 @@
 ---
 title: 826. Chúa Luôn Đáp Lời
-song-number: 826
+weight: 826
 categories: Đời Tín Đồ
 sub-categories: Đức Tin
 draft: false

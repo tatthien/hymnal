@@ -1,6 +1,6 @@
 ---
 title: 47. Chúa Giấu Tôi
-song-number: 47
+weight: 47
 categories: Thờ Phượng
 sub-categories: Gìn Giữ, Dẫn Dắt
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 198. Tại Thập Giá Bình Yên
-song-number: 198
+weight: 198
 categories: Tin Lành
 sub-categories: Thập Tự Giá
 draft: false

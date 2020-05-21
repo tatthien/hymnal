@@ -1,6 +1,6 @@
 ---
 title: 726. Tại Vầng Đá Ngất Cao
-song-number: 726
+weight: 726
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

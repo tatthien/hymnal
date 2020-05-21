@@ -1,6 +1,6 @@
 ---
 title: 224. Nguyền Tình Yêu Thượng Giới Giáng Lâm
-song-number: 224
+weight: 224
 categories: Đời Tín Đồ
 sub-categories: Sự Nên Thánh
 draft: false

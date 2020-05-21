@@ -1,6 +1,6 @@
 ---
 title: 158. Christ Gọi Bạn Mệt Nhọc
-song-number: 158
+weight: 158
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

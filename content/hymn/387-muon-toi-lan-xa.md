@@ -1,6 +1,6 @@
 ---
 title: 387. Muôn Tội Lăn Xa
-song-number: 387
+weight: 387
 categories: Đơn Ca - Song Ca
 sub-categories: 
 draft: false

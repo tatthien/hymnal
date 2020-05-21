@@ -1,6 +1,6 @@
 ---
 title: 842. Cuộc Đời Tươi
-song-number: 842
+weight: 842
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

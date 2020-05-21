@@ -1,6 +1,6 @@
 ---
 title: 902. Ngày Mai Huy Hoàng
-song-number: 902
+weight: 902
 categories: Hợp Ca
 sub-categories: Nam Nữ Ban
 draft: false

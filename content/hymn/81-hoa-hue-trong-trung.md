@@ -1,6 +1,6 @@
 ---
 title: 81. Hoa Huệ Trong Trũng
-song-number: 81
+weight: 81
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

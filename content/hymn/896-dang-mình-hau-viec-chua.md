@@ -1,6 +1,6 @@
 ---
 title: 896. Dâng Mình Hầu Việc Chúa
-song-number: 896
+weight: 896
 categories: Biệt Lễ Ca
 sub-categories: Phong Chức Mục Sư
 draft: false

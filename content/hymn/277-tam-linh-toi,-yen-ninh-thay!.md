@@ -1,6 +1,6 @@
 ---
 title: 277. Tâm Linh Tôi, Yên Ninh Thay!
-song-number: 277
+weight: 277
 categories: Đời Tín Đồ
 sub-categories: Bình An Vui Vẻ
 draft: false

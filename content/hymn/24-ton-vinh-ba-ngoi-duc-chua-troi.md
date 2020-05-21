@@ -1,6 +1,6 @@
 ---
 title: 24. Tôn Vinh Ba Ngôi Đức Chúa Trời
-song-number: 24
+weight: 24
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

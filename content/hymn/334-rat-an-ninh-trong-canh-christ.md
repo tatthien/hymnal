@@ -1,6 +1,6 @@
 ---
 title: 334. Rất An Ninh Trong Cánh Christ
-song-number: 334
+weight: 334
 categories: Đời Tín Đồ
 sub-categories: Qua Đời Và Sống Đời Đời
 draft: false

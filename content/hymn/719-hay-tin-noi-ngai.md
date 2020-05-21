@@ -1,6 +1,6 @@
 ---
 title: 719. Hãy Tin Nơi Ngài
-song-number: 719
+weight: 719
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 104. Ngày Nay Chúa Phục Sinh
-song-number: 104
+weight: 104
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

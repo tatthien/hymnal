@@ -1,6 +1,6 @@
 ---
 title: 580. Vui Mang Thập Tự
-song-number: 580
+weight: 580
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

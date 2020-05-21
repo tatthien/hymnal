@@ -1,6 +1,6 @@
 ---
 title: 262. Tôi Biết Đấng Tôi Đang Tin
-song-number: 262
+weight: 262
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

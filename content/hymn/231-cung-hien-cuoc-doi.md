@@ -1,6 +1,6 @@
 ---
 title: 231. Cung Hiến Cuộc Đời
-song-number: 231
+weight: 231
 categories: Đời Tín Đồ
 sub-categories: Sự Dâng Mình Cho Chúa
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 680. Từ Lòng Tôi Một Bài Ca Mới
-song-number: 680
+weight: 680
 categories: Đời Tín Đồ
 sub-categories: Cảm Tạ
 draft: false

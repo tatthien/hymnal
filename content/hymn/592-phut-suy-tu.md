@@ -1,6 +1,6 @@
 ---
 title: 592. Phút Suy Tư
-song-number: 592
+weight: 592
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

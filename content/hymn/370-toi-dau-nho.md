@@ -1,6 +1,6 @@
 ---
 title: 370. Tôi Dầu Nhỏ
-song-number: 370
+weight: 370
 categories: Thiếu Nhi
 sub-categories: 
 draft: false

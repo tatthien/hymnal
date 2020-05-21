@@ -1,6 +1,6 @@
 ---
 title: 686. Tâm Hồn Tôi Nguyện Dâng Chúa
-song-number: 686
+weight: 686
 categories: Đời Tín Đồ
 sub-categories: Nên Thánh
 draft: false

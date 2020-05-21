@@ -1,6 +1,6 @@
 ---
 title: 676. Bài Ca Cảm Tạ
-song-number: 676
+weight: 676
 categories: Đời Tín Đồ
 sub-categories: Cảm Tạ
 draft: false

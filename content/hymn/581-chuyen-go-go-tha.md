@@ -1,6 +1,6 @@
 ---
 title: 581. Chuyện Gô-Gô-Tha
-song-number: 581
+weight: 581
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

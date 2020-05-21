@@ -1,6 +1,6 @@
 ---
 title: 150. Kinh Thánh Cao Quý
-song-number: 150
+weight: 150
 categories: Kinh Thánh
 sub-categories: 
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 327. Hãy Chiếu Giống Hải Đăng
-song-number: 327
+weight: 327
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

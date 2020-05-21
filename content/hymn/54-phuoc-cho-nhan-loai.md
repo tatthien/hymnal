@@ -1,6 +1,6 @@
 ---
 title: 54. Phước Cho Nhân Loại
-song-number: 54
+weight: 54
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 69. Thiên Sứ Báo Tin Chúa Lâm Phàm
-song-number: 69
+weight: 69
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

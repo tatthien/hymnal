@@ -1,6 +1,6 @@
 ---
 title: 600. Vinh Hiển Ha-Lê-Lu-Gia
-song-number: 600
+weight: 600
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 474. Ở Gô-Gô-Tha
-song-number: 474
+weight: 474
 categories: Tin Lành
 sub-categories: 
 draft: false

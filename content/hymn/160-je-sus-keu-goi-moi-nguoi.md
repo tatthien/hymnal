@@ -1,6 +1,6 @@
 ---
 title: 160. Jê-Sus Kêu Gọi Mọi Người
-song-number: 160
+weight: 160
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

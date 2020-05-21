@@ -1,6 +1,6 @@
 ---
 title: 789. Tôi Sẽ Thưa Với Jêsus
-song-number: 789
+weight: 789
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Chùng Chúa
 draft: false

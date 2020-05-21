@@ -1,6 +1,6 @@
 ---
 title: 102. Bây Giờ Tôi Tin
-song-number: 102
+weight: 102
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

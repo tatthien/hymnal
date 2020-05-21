@@ -1,6 +1,6 @@
 ---
 title: 126. Tia Sáng Ban Mai
-song-number: 126
+weight: 126
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

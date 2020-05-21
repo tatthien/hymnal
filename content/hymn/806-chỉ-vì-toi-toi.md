@@ -1,6 +1,6 @@
 ---
 title: 806. Chỉ Vì Tội Tôi
-song-number: 806
+weight: 806
 categories: Đời Tín Đồ
 sub-categories: Được Chúa Yêu
 draft: false

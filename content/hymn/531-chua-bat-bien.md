@@ -1,6 +1,6 @@
 ---
 title: 531. Chúa Bất Biến
-song-number: 531
+weight: 531
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

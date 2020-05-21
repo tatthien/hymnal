@@ -1,6 +1,6 @@
 ---
 title: 663. Ngài Cứu Tôi
-song-number: 663
+weight: 663
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 382. Mừng Vui Thay! Thanh Niên Ta Hát
-song-number: 382
+weight: 382
 categories: Thanh Niên
 sub-categories: 
 draft: false

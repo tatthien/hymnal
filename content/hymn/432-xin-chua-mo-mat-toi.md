@@ -1,6 +1,6 @@
 ---
 title: 432. Xin Chúa Mở Mắt Tôi
-song-number: 432
+weight: 432
 categories: Kinh Tiết Ca
 sub-categories: 
 draft: false

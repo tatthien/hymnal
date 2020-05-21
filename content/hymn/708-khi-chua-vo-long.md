@@ -1,6 +1,6 @@
 ---
 title: 708. Khi Chúa Vô Lòng
-song-number: 708
+weight: 708
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

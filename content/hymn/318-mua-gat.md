@@ -1,6 +1,6 @@
 ---
 title: 318. Mùa Gặt
-song-number: 318
+weight: 318
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

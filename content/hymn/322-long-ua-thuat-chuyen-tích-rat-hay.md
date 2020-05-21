@@ -1,6 +1,6 @@
 ---
 title: 322. Lòng Ưa Thuật Chuyện Tích Rất Hay
-song-number: 322
+weight: 322
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

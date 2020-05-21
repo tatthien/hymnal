@@ -1,6 +1,6 @@
 ---
 title: 399. Truy Niệm Chúa
-song-number: 399
+weight: 399
 categories: Lễ Nghi
 sub-categories: Tiệc Thánh
 draft: false

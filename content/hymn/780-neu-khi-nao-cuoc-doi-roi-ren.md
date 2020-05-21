@@ -1,6 +1,6 @@
 ---
 title: 780. Nếu Khi Nào Cuộc Đời Rối Ren
-song-number: 780
+weight: 780
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

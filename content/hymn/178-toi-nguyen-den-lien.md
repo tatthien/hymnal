@@ -1,6 +1,6 @@
 ---
 title: 178. Tôi Nguyện Đến Liền
-song-number: 178
+weight: 178
 categories: Tin Lành
 sub-categories: Tin Nhận Tin Lành
 draft: false

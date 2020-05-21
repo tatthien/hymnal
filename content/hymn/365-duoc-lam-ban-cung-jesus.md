@@ -1,6 +1,6 @@
 ---
 title: 365. Được Làm Bạn Cùng Jêsus
-song-number: 365
+weight: 365
 categories: Thiếu Nhi
 sub-categories: 
 draft: false

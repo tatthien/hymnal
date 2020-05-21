@@ -1,6 +1,6 @@
 ---
 title: 597. Vì Jê-Sus Sống
-song-number: 597
+weight: 597
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

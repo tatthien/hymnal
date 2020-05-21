@@ -1,6 +1,6 @@
 ---
 title: 698. Trọn Dâng Cho Jê-Sus
-song-number: 698
+weight: 698
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

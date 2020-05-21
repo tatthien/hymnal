@@ -1,6 +1,6 @@
 ---
 title: 84. Ánh Sáng Của Thế Giới Duy Jêsus
-song-number: 84
+weight: 84
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

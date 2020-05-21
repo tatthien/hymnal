@@ -1,6 +1,6 @@
 ---
 title: 254. Như Phận Tôi, Tuy Hèn Khinh
-song-number: 254
+weight: 254
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false

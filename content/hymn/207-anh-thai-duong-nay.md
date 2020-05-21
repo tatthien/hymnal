@@ -1,6 +1,6 @@
 ---
 title: 207. Ánh Thái Dương Này
-song-number: 207
+weight: 207
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

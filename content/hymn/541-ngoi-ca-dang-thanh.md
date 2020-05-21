@@ -1,6 +1,6 @@
 ---
 title: 541. Ngợi Ca Đấng Thánh
-song-number: 541
+weight: 541
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 485. Vinh Thay Cho Tôi
-song-number: 485
+weight: 485
 categories: Chúa Tái Lâm
 sub-categories: 
 draft: false

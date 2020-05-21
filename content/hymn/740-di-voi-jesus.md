@@ -1,6 +1,6 @@
 ---
 title: 740. Đi Với Jêsus
-song-number: 740
+weight: 740
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 132. Biến Canh Lạ Thay!
-song-number: 132
+weight: 132
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

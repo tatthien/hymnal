@@ -1,6 +1,6 @@
 ---
 title: 783. Chúa Hiểu Thấu Vô Cùng
-song-number: 783
+weight: 783
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

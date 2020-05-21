@@ -1,6 +1,6 @@
 ---
 title: 396. Viên Ngọc Đẹp Ròng
-song-number: 396
+weight: 396
 categories: Lễ Nghi
 sub-categories: Dâng Con
 draft: false

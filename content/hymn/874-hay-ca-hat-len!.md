@@ -1,6 +1,6 @@
 ---
 title: 874. Hãy Ca Hát Lên!
-song-number: 874
+weight: 874
 categories: Thanh Niên
 sub-categories: 
 draft: false

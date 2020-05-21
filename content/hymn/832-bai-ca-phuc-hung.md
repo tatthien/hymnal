@@ -1,6 +1,6 @@
 ---
 title: 832. Bài Ca Phục Hưng
-song-number: 832
+weight: 832
 categories: Đời Tín Đồ
 sub-categories: Phục Hưng
 draft: false

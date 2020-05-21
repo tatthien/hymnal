@@ -1,6 +1,6 @@
 ---
 title: 5. Muôn Dân Trên Hoàn Cầu Nên Ca Xướng
-song-number: 5
+weight: 5
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

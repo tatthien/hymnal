@@ -1,6 +1,6 @@
 ---
 title: 514. Cùng Dâng Lời Ca
-song-number: 514
+weight: 514
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

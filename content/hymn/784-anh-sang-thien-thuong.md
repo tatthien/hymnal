@@ -1,6 +1,6 @@
 ---
 title: 784. Ánh Sáng Thiên Thượng
-song-number: 784
+weight: 784
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

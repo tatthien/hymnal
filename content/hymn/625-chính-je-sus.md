@@ -1,6 +1,6 @@
 ---
 title: 625. Chính Jê-Sus
-song-number: 625
+weight: 625
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

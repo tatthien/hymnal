@@ -1,6 +1,6 @@
 ---
 title: 314. Tinh Binh Jêsus Tiến Lên
-song-number: 314
+weight: 314
 categories: Đời Tín Đồ
 sub-categories: Linh Chiến
 draft: false

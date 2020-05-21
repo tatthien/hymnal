@@ -1,6 +1,6 @@
 ---
 title: 199. Đời Tôi Lấy Thập Tự Làm Hiển Vinh
-song-number: 199
+weight: 199
 categories: Tin Lành
 sub-categories: Thập Tự Giá
 draft: false

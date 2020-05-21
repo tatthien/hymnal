@@ -1,6 +1,6 @@
 ---
 title: 518. Cha Cao Quý
-song-number: 518
+weight: 518
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

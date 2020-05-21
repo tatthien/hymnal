@@ -1,6 +1,6 @@
 ---
 title: 368. Jêsus Truyền Bạn Mình Shi Sáng
-song-number: 368
+weight: 368
 categories: Thiếu Nhi
 sub-categories: 
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 655. Khi Chúa Cất Xa Tội Ô
-song-number: 655
+weight: 655
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

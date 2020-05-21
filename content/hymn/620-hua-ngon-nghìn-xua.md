@@ -1,6 +1,6 @@
 ---
 title: 620. Hứa Ngôn Nghìn Xưa
-song-number: 620
+weight: 620
 categories: Kinh Thánh
 sub-categories: 
 draft: false

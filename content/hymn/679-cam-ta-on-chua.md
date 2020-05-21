@@ -1,6 +1,6 @@
 ---
 title: 679. Cảm Tạ Ơn Chúa
-song-number: 679
+weight: 679
 categories: Đời Tín Đồ
 sub-categories: Cảm Tạ
 draft: false

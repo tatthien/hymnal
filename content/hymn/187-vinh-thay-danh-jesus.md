@@ -1,6 +1,6 @@
 ---
 title: 187. Vinh Thay Danh Jêsus
-song-number: 187
+weight: 187
 categories: Tin Lành
 sub-categories: Huyết Của Christ
 draft: false

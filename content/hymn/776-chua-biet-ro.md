@@ -1,6 +1,6 @@
 ---
 title: 776. Chúa Biết Rõ
-song-number: 776
+weight: 776
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

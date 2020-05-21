@@ -1,6 +1,6 @@
 ---
 title: 212. Có Jêsus Phần Tôi Thỏa Rồi
-song-number: 212
+weight: 212
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

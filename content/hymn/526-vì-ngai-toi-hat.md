@@ -1,6 +1,6 @@
 ---
 title: 526. Vì Ngài Tôi Hát
-song-number: 526
+weight: 526
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

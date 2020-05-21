@@ -1,6 +1,6 @@
 ---
 title: 235. Ta Theo Ý Chúa Chưa?
-song-number: 235
+weight: 235
 categories: Đời Tín Đồ
 sub-categories: Sự Dâng Mình Cho Chúa
 draft: false

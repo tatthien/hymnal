@@ -1,6 +1,6 @@
 ---
 title: 662. Tội Tôi Được Đóng Đinh Rồi
-song-number: 662
+weight: 662
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

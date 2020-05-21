@@ -1,6 +1,6 @@
 ---
 title: 434. Chúa Là Hòn Đá Của Tôi
-song-number: 434
+weight: 434
 categories: Kinh Tiết Ca
 sub-categories: 
 draft: false

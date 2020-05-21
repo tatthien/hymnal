@@ -1,6 +1,6 @@
 ---
 title: 792. Theo Bước Jêsus
-song-number: 792
+weight: 792
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Chùng Chúa
 draft: false

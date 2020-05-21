@@ -1,6 +1,6 @@
 ---
 title: 115. Tôn Vinh Jêsus
-song-number: 115
+weight: 115
 categories: Chúa Jêsus Christ
 sub-categories: Thăng Thiên
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 602. Khi Chúa Đến
-song-number: 602
+weight: 602
 categories: Chúa Jêsus Christ
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

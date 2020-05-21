@@ -1,6 +1,6 @@
 ---
 title: 521. Dâng Lời Tán Dương
-song-number: 521
+weight: 521
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

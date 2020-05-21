@@ -1,6 +1,6 @@
 ---
 title: 818. Khi Tình Yêu Thương Chúa Ngự Vào Lòng
-song-number: 818
+weight: 818
 categories: Đời Tín Đồ
 sub-categories: Được Chúa Yêu
 draft: false

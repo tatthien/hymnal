@@ -1,6 +1,6 @@
 ---
 title: 706. Tôi Sẽ Đi
-song-number: 706
+weight: 706
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 258. Ôi Chúa, Đấng Tôi Cần Luôn
-song-number: 258
+weight: 258
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false

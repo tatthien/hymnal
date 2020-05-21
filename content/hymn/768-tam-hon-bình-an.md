@@ -1,6 +1,6 @@
 ---
 title: 768. Tâm Hồn Bình An
-song-number: 768
+weight: 768
 categories: Đời Tín Đồ
 sub-categories: Bình An, Vui Vẻ
 draft: false

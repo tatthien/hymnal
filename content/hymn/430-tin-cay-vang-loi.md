@@ -1,6 +1,6 @@
 ---
 title: 430. Tin Cậy Vâng Lời
-song-number: 430
+weight: 430
 categories: Hợp Ca
 sub-categories: Nam Ban
 draft: false

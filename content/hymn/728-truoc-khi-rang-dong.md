@@ -1,6 +1,6 @@
 ---
 title: 728. Trước Khi Rạng Đông
-song-number: 728
+weight: 728
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

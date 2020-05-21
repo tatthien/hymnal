@@ -1,6 +1,6 @@
 ---
 title: 73. Nô-Ên Đầu Tiên
-song-number: 73
+weight: 73
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

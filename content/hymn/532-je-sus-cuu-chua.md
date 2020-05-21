@@ -1,6 +1,6 @@
 ---
 title: 532. Jê-Sus Cứu Chúa
-song-number: 532
+weight: 532
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

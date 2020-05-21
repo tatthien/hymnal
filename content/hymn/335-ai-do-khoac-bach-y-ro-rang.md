@@ -1,6 +1,6 @@
 ---
 title: 335. Ai Đó Khoác Bạch Y Rỡ Ràng
-song-number: 335
+weight: 335
 categories: Cõi Lai Sanh
 sub-categories: Sống Lại Và Chịu Phán Xét
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 288. Danh Lạ Lùng
-song-number: 288
+weight: 288
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

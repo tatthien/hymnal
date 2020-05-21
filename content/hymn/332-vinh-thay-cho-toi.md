@@ -1,6 +1,6 @@
 ---
 title: 332. Vinh Thay Cho Tôi
-song-number: 332
+weight: 332
 categories: Đời Tín Đồ
 sub-categories: Qua Đời Và Sống Đời Đời
 draft: false

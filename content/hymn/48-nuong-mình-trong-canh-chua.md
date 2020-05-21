@@ -1,6 +1,6 @@
 ---
 title: 48. Nương Mình Trong Cánh Chúa
-song-number: 48
+weight: 48
 categories: Thờ Phượng
 sub-categories: Gìn Giữ, Dẫn Dắt
 draft: false

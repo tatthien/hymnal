@@ -1,6 +1,6 @@
 ---
 title: 17. Tôn Vinh Chúa Linh Năng
-song-number: 17
+weight: 17
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

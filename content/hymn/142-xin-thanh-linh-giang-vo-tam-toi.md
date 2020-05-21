@@ -1,6 +1,6 @@
 ---
 title: 142. Xin Thánh Linh Giáng Vô Tâm Tôi
-song-number: 142
+weight: 142
 categories: Đức Thánh Linh
 sub-categories: 
 draft: false

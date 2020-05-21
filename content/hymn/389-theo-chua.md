@@ -1,6 +1,6 @@
 ---
 title: 389. Theo Chúa
-song-number: 389
+weight: 389
 categories: Đơn Ca - Song Ca
 sub-categories: 
 draft: false

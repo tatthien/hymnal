@@ -1,6 +1,6 @@
 ---
 title: 361. Ai Giảng Tin Lành?
-song-number: 361
+weight: 361
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

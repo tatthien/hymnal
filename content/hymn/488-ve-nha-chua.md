@@ -1,6 +1,6 @@
 ---
 title: 488. Về Nhà Chúa
-song-number: 488
+weight: 488
 categories: Chúa Tái Lâm
 sub-categories: 
 draft: false

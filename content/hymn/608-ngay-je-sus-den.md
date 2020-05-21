@@ -1,6 +1,6 @@
 ---
 title: 608. Ngày Jê-Sus Đến
-song-number: 608
+weight: 608
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 145. Nền Hội Thánh Trên Bàn Thạch Kiên Cố
-song-number: 145
+weight: 145
 categories: Hội Thánh
 sub-categories: 
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 498. Nơi Gô-Gô-Tha
-song-number: 498
+weight: 498
 categories: Lễ Nghi
 sub-categories: Tiệc Thánh
 draft: false

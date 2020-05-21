@@ -1,6 +1,6 @@
 ---
 title: 804. Chúa Yêu Thiết Tha
-song-number: 804
+weight: 804
 categories: Đời Tín Đồ
 sub-categories: Yêu Mến Chúa
 draft: false

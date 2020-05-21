@@ -1,6 +1,6 @@
 ---
 title: 787. Khi Ban Mai Đến
-song-number: 787
+weight: 787
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Chùng Chúa
 draft: false

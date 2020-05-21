@@ -1,6 +1,6 @@
 ---
 title: 433. Giê-Hô-Va Là Đấng Chăn Giữ Tôi
-song-number: 433
+weight: 433
 categories: Kinh Tiết Ca
 sub-categories: 
 draft: false

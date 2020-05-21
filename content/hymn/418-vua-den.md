@@ -1,6 +1,6 @@
 ---
 title: 418. Vua Đến
-song-number: 418
+weight: 418
 categories: Hợp Ca
 sub-categories: Nam Nữ Ban
 draft: false

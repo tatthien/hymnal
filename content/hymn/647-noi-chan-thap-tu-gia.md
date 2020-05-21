@@ -1,6 +1,6 @@
 ---
 title: 647. Nơi Chân Thập Tự Giá
-song-number: 647
+weight: 647
 categories: Tin Lành
 sub-categories: Thập Tự Giá
 draft: false

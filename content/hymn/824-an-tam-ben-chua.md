@@ -1,6 +1,6 @@
 ---
 title: 824. An Tâm Bên Chúa
-song-number: 824
+weight: 824
 categories: Đời Tín Đồ
 sub-categories: Đức Tin
 draft: false

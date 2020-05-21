@@ -1,6 +1,6 @@
 ---
 title: 195. Gô-Gô-Tha
-song-number: 195
+weight: 195
 categories: Tin Lành
 sub-categories: Thập Tự Giá
 draft: false

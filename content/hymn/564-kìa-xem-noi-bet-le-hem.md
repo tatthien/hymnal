@@ -1,6 +1,6 @@
 ---
 title: 564. Kìa Xem Nơi Bết-Lê-Hem
-song-number: 564
+weight: 564
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 328. Dắt Về Chúa
-song-number: 328
+weight: 328
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

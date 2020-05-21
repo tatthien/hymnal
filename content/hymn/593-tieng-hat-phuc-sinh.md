@@ -1,6 +1,6 @@
 ---
 title: 593. Tiếng Hát Phục Sinh
-song-number: 593
+weight: 593
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

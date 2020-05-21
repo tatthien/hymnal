@@ -1,6 +1,6 @@
 ---
 title: 359. Ớ Si-Ôn Ơi! Hãy Mau Lên
-song-number: 359
+weight: 359
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

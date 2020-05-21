@@ -1,6 +1,6 @@
 ---
 title: 786. Xin Chúa Cho Con
-song-number: 786
+weight: 786
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Chùng Chúa
 draft: false

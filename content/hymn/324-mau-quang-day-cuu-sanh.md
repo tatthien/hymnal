@@ -1,6 +1,6 @@
 ---
 title: 324. Mau Quăng Dây Cứu Sanh
-song-number: 324
+weight: 324
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

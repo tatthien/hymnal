@@ -1,6 +1,6 @@
 ---
 title: 341. Về Nhà Cha
-song-number: 341
+weight: 341
 categories: Cõi Lai Sanh
 sub-categories: Thiên Đàng
 draft: false

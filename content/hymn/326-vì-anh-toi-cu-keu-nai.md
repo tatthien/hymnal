@@ -1,6 +1,6 @@
 ---
 title: 326. Vì Anh Tôi Cứ Kêu Nài
-song-number: 326
+weight: 326
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 117. Đầu Jêsus Xưa Cam Đính Mão Gai
-song-number: 117
+weight: 117
 categories: Chúa Jêsus Christ
 sub-categories: Thăng Thiên
 draft: false

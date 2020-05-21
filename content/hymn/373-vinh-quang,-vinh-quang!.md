@@ -1,6 +1,6 @@
 ---
 title: 373. Vinh Quang, Vinh Quang!
-song-number: 373
+weight: 373
 categories: Thiếu Nhi
 sub-categories: 
 draft: false

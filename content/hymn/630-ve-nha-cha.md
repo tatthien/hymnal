@@ -1,6 +1,6 @@
 ---
 title: 630. Về Nhà Cha
-song-number: 630
+weight: 630
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

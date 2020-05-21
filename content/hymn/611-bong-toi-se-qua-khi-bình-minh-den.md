@@ -1,6 +1,6 @@
 ---
 title: 611. Bóng Tối Sẽ Qua Khi Bình Minh Đến
-song-number: 611
+weight: 611
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

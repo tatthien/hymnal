@@ -1,6 +1,6 @@
 ---
 title: 756. Lẽ Sống Cho Đời
-song-number: 756
+weight: 756
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

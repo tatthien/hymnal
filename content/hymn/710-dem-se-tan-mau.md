@@ -1,6 +1,6 @@
 ---
 title: 710. Đêm Sẽ Tan Mau
-song-number: 710
+weight: 710
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức Cầu Nguyện
 draft: false

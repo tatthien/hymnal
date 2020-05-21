@@ -1,6 +1,6 @@
 ---
 title: 98. Thánh Thủ
-song-number: 98
+weight: 98
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

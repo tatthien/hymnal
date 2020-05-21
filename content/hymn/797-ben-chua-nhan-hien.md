@@ -1,6 +1,6 @@
 ---
 title: 797. Bên Chúa Nhân Hiền
-song-number: 797
+weight: 797
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Chùng Chúa
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 407. Phước Thay Mối Dây Kết Thân
-song-number: 407
+weight: 407
 categories: Biệt Lễ Ca
 sub-categories: Từ Giã
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 837. Hằng Soi Sáng
-song-number: 837
+weight: 837
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

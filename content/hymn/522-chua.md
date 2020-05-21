@@ -1,6 +1,6 @@
 ---
 title: 522. Chúa
-song-number: 522
+weight: 522
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

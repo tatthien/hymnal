@@ -1,6 +1,6 @@
 ---
 title: 118. Thầy Tế Lễ Ta
-song-number: 118
+weight: 118
 categories: Chúa Jêsus Christ
 sub-categories: Thăng Thiên
 draft: false

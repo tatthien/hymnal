@@ -1,6 +1,6 @@
 ---
 title: 755. Chúa Ôi, Xin Nghe Tôi
-song-number: 755
+weight: 755
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

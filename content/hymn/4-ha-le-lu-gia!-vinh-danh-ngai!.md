@@ -1,6 +1,6 @@
 ---
 title: 4. Ha-Lê-Lu-Gia! Vinh Danh Ngài!
-song-number: 4
+weight: 4
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

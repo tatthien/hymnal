@@ -1,6 +1,6 @@
 ---
 title: 323. Lo Vực Người Luân Vong
-song-number: 323
+weight: 323
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

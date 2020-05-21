@@ -1,6 +1,6 @@
 ---
 title: 26. Chúc Cho Đấng Ngồi Trên Ngôi
-song-number: 26
+weight: 26
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

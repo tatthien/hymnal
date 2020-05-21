@@ -1,6 +1,6 @@
 ---
 title: 666. Khi Dâng Lòng Mình Cho Jê-Sus
-song-number: 666
+weight: 666
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

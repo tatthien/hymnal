@@ -1,6 +1,6 @@
 ---
 title: 606. Ta Sẽ Trở Lại
-song-number: 606
+weight: 606
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

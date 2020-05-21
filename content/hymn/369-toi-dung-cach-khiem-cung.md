@@ -1,6 +1,6 @@
 ---
 title: 369. Tôi Đứng Cách Khiêm Cung
-song-number: 369
+weight: 369
 categories: Thiếu Nhi
 sub-categories: 
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 699. Tâm Nguyện
-song-number: 699
+weight: 699
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 36. Bóng Xế Sắp Khuất
-song-number: 36
+weight: 36
 categories: Thờ Phượng
 sub-categories: Buổi Tối
 draft: false

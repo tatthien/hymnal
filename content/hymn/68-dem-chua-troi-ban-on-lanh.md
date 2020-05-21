@@ -1,6 +1,6 @@
 ---
 title: 68. Đêm Chúa Trời Ban Ơn Lành
-song-number: 68
+weight: 68
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

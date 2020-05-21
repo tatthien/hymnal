@@ -1,6 +1,6 @@
 ---
 title: 400. Tiệc Thánh
-song-number: 400
+weight: 400
 categories: Lễ Nghi
 sub-categories: Tiệc Thánh
 draft: false

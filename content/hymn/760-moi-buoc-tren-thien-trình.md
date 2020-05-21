@@ -1,6 +1,6 @@
 ---
 title: 760. Mỗi Bước Trên Thiên Trình
-song-number: 760
+weight: 760
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

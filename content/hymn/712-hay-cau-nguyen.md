@@ -1,6 +1,6 @@
 ---
 title: 712. Hãy Cầu Nguyện
-song-number: 712
+weight: 712
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức Cầu Nguyện
 draft: false

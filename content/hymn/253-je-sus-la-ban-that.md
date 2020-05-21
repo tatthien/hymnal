@@ -1,6 +1,6 @@
 ---
 title: 253. Jê-Sus Là Bạn Thật
-song-number: 253
+weight: 253
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 774. Nơi Đâu Có Chúa
-song-number: 774
+weight: 774
 categories: Đời Tín Đồ
 sub-categories: Bình An, Vui Vẻ
 draft: false

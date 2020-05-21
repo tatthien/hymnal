@@ -1,6 +1,6 @@
 ---
 title: 423. Chúa Chí Thánh Cả Sáng Bấy!
-song-number: 423
+weight: 423
 categories: Hợp Ca
 sub-categories: Nam Ban
 draft: false

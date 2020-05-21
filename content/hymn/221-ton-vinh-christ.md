@@ -1,6 +1,6 @@
 ---
 title: 221. Tôn Vinh Christ
-song-number: 221
+weight: 221
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

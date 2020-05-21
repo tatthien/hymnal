@@ -1,6 +1,6 @@
 ---
 title: 582. Nơi Đồi Gô-Gô-Tha
-song-number: 582
+weight: 582
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

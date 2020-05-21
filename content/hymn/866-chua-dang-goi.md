@@ -1,6 +1,6 @@
 ---
 title: 866. Chúa Đang Gọi
-song-number: 866
+weight: 866
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giảng
 draft: false

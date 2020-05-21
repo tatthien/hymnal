@@ -1,6 +1,6 @@
 ---
 title: 297. Thật Hạnh Vinh Thay!
-song-number: 297
+weight: 297
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Cùng Chúa
 draft: false

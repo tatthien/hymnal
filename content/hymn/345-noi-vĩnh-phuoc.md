@@ -1,6 +1,6 @@
 ---
 title: 345. Nơi Vĩnh Phước
-song-number: 345
+weight: 345
 categories: Cõi Lai Sanh
 sub-categories: Thiên Đàng
 draft: false

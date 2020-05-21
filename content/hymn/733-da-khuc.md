@@ -1,6 +1,6 @@
 ---
 title: 733. Dạ Khúc
-song-number: 733
+weight: 733
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

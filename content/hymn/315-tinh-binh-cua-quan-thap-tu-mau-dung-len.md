@@ -1,6 +1,6 @@
 ---
 title: 315. Tinh Binh Của Quân Thập Tự Mau Đứng Lên
-song-number: 315
+weight: 315
 categories: Đời Tín Đồ
 sub-categories: Linh Chiến
 draft: false

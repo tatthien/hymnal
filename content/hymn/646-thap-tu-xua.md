@@ -1,6 +1,6 @@
 ---
 title: 646. Thập Tự Xưa
-song-number: 646
+weight: 646
 categories: Tin Lành
 sub-categories: Thập Tự Giá
 draft: false

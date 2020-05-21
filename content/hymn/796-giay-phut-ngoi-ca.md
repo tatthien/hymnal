@@ -1,6 +1,6 @@
 ---
 title: 796. Giây Phút Ngợi Ca
-song-number: 796
+weight: 796
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Chùng Chúa
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 194. Ha-Lê-Lu-Gia, Khen Thập Tự
-song-number: 194
+weight: 194
 categories: Tin Lành
 sub-categories: Thập Tự Giá
 draft: false

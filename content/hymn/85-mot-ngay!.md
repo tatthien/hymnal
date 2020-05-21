@@ -1,6 +1,6 @@
 ---
 title: 85. Một Ngày!
-song-number: 85
+weight: 85
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

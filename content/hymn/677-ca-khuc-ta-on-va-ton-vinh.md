@@ -1,6 +1,6 @@
 ---
 title: 677. Ca Khúc Tạ Ơn Và Tôn Vinh
-song-number: 677
+weight: 677
 categories: Đời Tín Đồ
 sub-categories: Cảm Tạ
 draft: false

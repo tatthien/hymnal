@@ -1,6 +1,6 @@
 ---
 title: 819. Jêsus, Duy Ngài Soi Lối
-song-number: 819
+weight: 819
 categories: Đời Tín Đồ
 sub-categories: Được Chúa Yêu
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 515. Ca Ngợi Chúa
-song-number: 515
+weight: 515
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

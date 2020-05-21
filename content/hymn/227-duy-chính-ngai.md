@@ -1,6 +1,6 @@
 ---
 title: 227. Duy Chính Ngài
-song-number: 227
+weight: 227
 categories: Đời Tín Đồ
 sub-categories: Sự Nên Thánh
 draft: false

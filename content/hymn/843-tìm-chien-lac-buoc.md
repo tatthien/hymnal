@@ -1,6 +1,6 @@
 ---
 title: 843. Tìm Chiên Lạc Bước
-song-number: 843
+weight: 843
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

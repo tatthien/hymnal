@@ -1,6 +1,6 @@
 ---
 title: 417. Trông Mong Ơn Chí Cao
-song-number: 417
+weight: 417
 categories: Hợp Ca
 sub-categories: Nam Nữ Ban
 draft: false

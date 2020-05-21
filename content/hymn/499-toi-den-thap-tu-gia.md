@@ -1,6 +1,6 @@
 ---
 title: 499. Tôi Đến Thập Tự Giá
-song-number: 499
+weight: 499
 categories: Lễ Nghi
 sub-categories: Tiệc Thánh
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 519. Khúc Hát Tâm Linh
-song-number: 519
+weight: 519
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

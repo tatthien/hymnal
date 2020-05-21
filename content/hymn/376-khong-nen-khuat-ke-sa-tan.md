@@ -1,6 +1,6 @@
 ---
 title: 376. Không Nên Khuất Kế Sa-Tan
-song-number: 376
+weight: 376
 categories: Thanh Niên
 sub-categories: 
 draft: false

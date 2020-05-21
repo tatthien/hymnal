@@ -1,6 +1,6 @@
 ---
 title: 477. Bình Yên Rất Phước
-song-number: 477
+weight: 477
 categories: Đời Tín Đồ
 sub-categories: Bình An
 draft: false

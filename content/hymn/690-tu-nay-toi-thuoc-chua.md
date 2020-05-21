@@ -1,6 +1,6 @@
 ---
 title: 690. Từ Nay Tôi Thuộc Chúa
-song-number: 690
+weight: 690
 categories: Đời Tín Đồ
 sub-categories: Dâng Mình Cho Chúa
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 632. Chúa Mong Bạn Quay Về
-song-number: 632
+weight: 632
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

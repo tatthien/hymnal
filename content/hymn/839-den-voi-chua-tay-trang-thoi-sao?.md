@@ -1,6 +1,6 @@
 ---
 title: 839. Đến Với Chúa Tay Trắng Thôi Sao?
-song-number: 839
+weight: 839
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

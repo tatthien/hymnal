@@ -1,6 +1,6 @@
 ---
 title: 38. Tuần Vừa Qua
-song-number: 38
+weight: 38
 categories: Thờ Phượng
 sub-categories: Ngày Chúa Nhật
 draft: false

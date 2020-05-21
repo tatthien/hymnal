@@ -1,6 +1,6 @@
 ---
 title: 604. Jê-Sus Mau Đến
-song-number: 604
+weight: 604
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

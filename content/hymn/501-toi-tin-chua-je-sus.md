@@ -1,6 +1,6 @@
 ---
 title: 501. Tôi Tin Chúa Jê-Sus
-song-number: 501
+weight: 501
 categories: Lễ Nghi
 sub-categories: Tiệc Thánh
 draft: false

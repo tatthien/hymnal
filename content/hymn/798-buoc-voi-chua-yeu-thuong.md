@@ -1,6 +1,6 @@
 ---
 title: 798. Bước Với Chúa Yêu Thương
-song-number: 798
+weight: 798
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Chùng Chúa
 draft: false

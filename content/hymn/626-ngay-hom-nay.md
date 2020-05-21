@@ -1,6 +1,6 @@
 ---
 title: 626. Ngay Hôm Nay
-song-number: 626
+weight: 626
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

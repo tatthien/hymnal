@@ -1,6 +1,6 @@
 ---
 title: 282. Nơi Ẩn Núp Lúc Phong Ba
-song-number: 282
+weight: 282
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

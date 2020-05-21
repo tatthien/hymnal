@@ -1,6 +1,6 @@
 ---
 title: 321. Lạy Chúa Hãy Phán Với Tôi
-song-number: 321
+weight: 321
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

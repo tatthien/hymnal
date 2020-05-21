@@ -1,6 +1,6 @@
 ---
 title: 355. Quyết Rao Tin Lành
-song-number: 355
+weight: 355
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

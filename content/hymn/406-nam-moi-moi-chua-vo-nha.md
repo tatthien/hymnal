@@ -1,6 +1,6 @@
 ---
 title: 406. Năm Mới Mời Chúa Vô Nhà
-song-number: 406
+weight: 406
 categories: Biệt Lễ Ca
 sub-categories: Năm Mới
 draft: false

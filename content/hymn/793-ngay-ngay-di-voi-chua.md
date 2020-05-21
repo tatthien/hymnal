@@ -1,6 +1,6 @@
 ---
 title: 793. Ngày Ngày Đi Với Chúa
-song-number: 793
+weight: 793
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Chùng Chúa
 draft: false

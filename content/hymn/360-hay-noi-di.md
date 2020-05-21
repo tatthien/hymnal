@@ -1,6 +1,6 @@
 ---
 title: 360. Hãy Nói Đi
-song-number: 360
+weight: 360
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

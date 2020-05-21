@@ -1,6 +1,6 @@
 ---
 title: 240. Càng Gần Chúa Hơn
-song-number: 240
+weight: 240
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

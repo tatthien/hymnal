@@ -1,6 +1,6 @@
 ---
 title: 357. Ta Sai Ngươi Đi Đánh Lưới Tội Nhân
-song-number: 357
+weight: 357
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

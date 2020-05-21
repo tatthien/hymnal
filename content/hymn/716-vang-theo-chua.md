@@ -1,6 +1,6 @@
 ---
 title: 716. Vâng Theo Chúa
-song-number: 716
+weight: 716
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

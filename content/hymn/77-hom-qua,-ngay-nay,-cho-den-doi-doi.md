@@ -1,6 +1,6 @@
 ---
 title: 77. Hôm Qua, Ngày Nay, Cho Đến Đời Đời
-song-number: 77
+weight: 77
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

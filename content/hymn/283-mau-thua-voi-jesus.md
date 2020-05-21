@@ -1,6 +1,6 @@
 ---
 title: 283. Mau Thưa Với Jêsus
-song-number: 283
+weight: 283
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

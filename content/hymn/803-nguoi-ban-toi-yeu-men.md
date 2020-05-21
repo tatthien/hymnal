@@ -1,6 +1,6 @@
 ---
 title: 803. Người Bạn Tôi Yêu Mến
-song-number: 803
+weight: 803
 categories: Đời Tín Đồ
 sub-categories: Yêu Mến Chúa
 draft: false

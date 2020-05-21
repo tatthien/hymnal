@@ -1,6 +1,6 @@
 ---
 title: 893. Từ Giã
-song-number: 893
+weight: 893
 categories: Biệt Lễ Ca
 sub-categories: Từ Giã
 draft: false

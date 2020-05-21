@@ -1,6 +1,6 @@
 ---
 title: 687. Dâng Chúa Trọn Đời
-song-number: 687
+weight: 687
 categories: Đời Tín Đồ
 sub-categories: Dâng Mình Cho Chúa
 draft: false

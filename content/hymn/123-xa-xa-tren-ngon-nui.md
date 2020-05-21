@@ -1,6 +1,6 @@
 ---
 title: 123. Xa Xa Trên Ngọn Núi
-song-number: 123
+weight: 123
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

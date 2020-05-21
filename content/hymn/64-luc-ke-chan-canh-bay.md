@@ -1,6 +1,6 @@
 ---
 title: 64. Lúc Kẻ Chăn Canh Bầy
-song-number: 64
+weight: 64
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

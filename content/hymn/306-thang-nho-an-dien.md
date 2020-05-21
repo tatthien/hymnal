@@ -1,6 +1,6 @@
 ---
 title: 306. Thắng Nhờ Ân Điển
-song-number: 306
+weight: 306
 categories: Đời Tín Đồ
 sub-categories: Ân Điển
 draft: false

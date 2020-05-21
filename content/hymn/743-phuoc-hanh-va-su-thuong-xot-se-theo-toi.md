@@ -1,6 +1,6 @@
 ---
 title: 743. Phước Hạnh Và Sự Thương Xót Sẽ Theo Tôi
-song-number: 743
+weight: 743
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

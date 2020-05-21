@@ -1,6 +1,6 @@
 ---
 title: 550. Tôn Cao Danh Chúa
-song-number: 550
+weight: 550
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

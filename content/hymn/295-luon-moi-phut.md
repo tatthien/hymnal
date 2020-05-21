@@ -1,6 +1,6 @@
 ---
 title: 295. Luôn Mỗi Phút
-song-number: 295
+weight: 295
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Cùng Chúa
 draft: false

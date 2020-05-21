@@ -1,6 +1,6 @@
 ---
 title: 393. Trông Đấng Chăn Chiên Khoan Nhơn
-song-number: 393
+weight: 393
 categories: Lễ Nghi
 sub-categories: Dâng Con
 draft: false

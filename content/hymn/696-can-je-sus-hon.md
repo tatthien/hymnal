@@ -1,6 +1,6 @@
 ---
 title: 696. Cần Jê-Sus Hơn
-song-number: 696
+weight: 696
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

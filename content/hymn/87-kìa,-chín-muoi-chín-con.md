@@ -1,6 +1,6 @@
 ---
 title: 87. Kìa, Chín Mươi Chín Con
-song-number: 87
+weight: 87
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

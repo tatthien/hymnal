@@ -1,6 +1,6 @@
 ---
 title: 631. Tiếng Gọi
-song-number: 631
+weight: 631
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

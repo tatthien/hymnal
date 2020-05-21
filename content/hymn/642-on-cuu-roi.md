@@ -1,6 +1,6 @@
 ---
 title: 642. Ơn Cứu Rỗi
-song-number: 642
+weight: 642
 categories: Tin Lành
 sub-categories: Ứng Hứa Và Ân Ban
 draft: false

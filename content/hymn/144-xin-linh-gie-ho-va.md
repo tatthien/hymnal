@@ -1,6 +1,6 @@
 ---
 title: 144. Xin Linh Giê-Hô-Va
-song-number: 144
+weight: 144
 categories: Đức Thánh Linh
 sub-categories: 
 draft: false

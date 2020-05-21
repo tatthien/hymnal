@@ -1,6 +1,6 @@
 ---
 title: 556. Bài Ca Máng Cỏ
-song-number: 556
+weight: 556
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

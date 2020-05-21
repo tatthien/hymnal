@@ -1,6 +1,6 @@
 ---
 title: 605. Jê-Sus Sẽ Tái Lâm
-song-number: 605
+weight: 605
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

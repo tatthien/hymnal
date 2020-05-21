@@ -1,6 +1,6 @@
 ---
 title: 833. Xin Phục Hưng Chúng Tôi
-song-number: 833
+weight: 833
 categories: Đời Tín Đồ
 sub-categories: Phục Hưng
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 421. Đoạn Thiên Ca
-song-number: 421
+weight: 421
 categories: Hợp Ca
 sub-categories: Nam Ban
 draft: false

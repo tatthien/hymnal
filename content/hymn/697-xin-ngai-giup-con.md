@@ -1,6 +1,6 @@
 ---
 title: 697. Xin Ngài Giúp Con
-song-number: 697
+weight: 697
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

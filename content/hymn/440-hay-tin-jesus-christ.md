@@ -1,6 +1,6 @@
 ---
 title: 440. Hãy Tin Jêsus Christ
-song-number: 440
+weight: 440
 categories: Đoản Ca
 sub-categories: 
 draft: false

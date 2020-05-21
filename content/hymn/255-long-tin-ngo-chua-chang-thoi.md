@@ -1,6 +1,6 @@
 ---
 title: 255. Lòng Tin Ngó Chúa Chẳng Thôi
-song-number: 255
+weight: 255
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false

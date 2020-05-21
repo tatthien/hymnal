@@ -1,6 +1,6 @@
 ---
 title: 25. Tôn Vinh Cha
-song-number: 25
+weight: 25
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

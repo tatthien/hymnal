@@ -1,6 +1,6 @@
 ---
 title: 901. Con Đường Thập Giá Cô Đơn
-song-number: 901
+weight: 901
 categories: Hợp Ca
 sub-categories: Nam Ban
 draft: false

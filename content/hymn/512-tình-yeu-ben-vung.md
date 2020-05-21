@@ -1,6 +1,6 @@
 ---
 title: 512. Tình Yêu Bền Vững
-song-number: 512
+weight: 512
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

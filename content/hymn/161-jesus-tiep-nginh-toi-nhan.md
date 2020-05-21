@@ -1,6 +1,6 @@
 ---
 title: 161. Jêsus Tiếp Nginh Tội Nhân
-song-number: 161
+weight: 161
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

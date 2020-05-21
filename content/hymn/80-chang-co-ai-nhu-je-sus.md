@@ -1,6 +1,6 @@
 ---
 title: 80. Chẳng Có Ai Như Jê-Sus
-song-number: 80
+weight: 80
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

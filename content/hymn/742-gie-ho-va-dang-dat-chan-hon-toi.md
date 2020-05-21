@@ -1,6 +1,6 @@
 ---
 title: 742. Giê-Hô-Va Đấng Dắt Chăn Hồn Tôi
-song-number: 742
+weight: 742
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

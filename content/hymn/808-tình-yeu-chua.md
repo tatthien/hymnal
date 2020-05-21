@@ -1,6 +1,6 @@
 ---
 title: 808. Tình Yêu Chúa
-song-number: 808
+weight: 808
 categories: Đời Tín Đồ
 sub-categories: Được Chúa Yêu
 draft: false

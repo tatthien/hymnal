@@ -3,7 +3,7 @@
 {{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 <main id="content" class="site-content index list">
   <div>
-    {{ range $paginator.Pages.ByParam "song_number" }}
+    {{ range $paginator.Pages }}
     {{ partial "article/list-item" . }}
     {{ end }}
   </div>

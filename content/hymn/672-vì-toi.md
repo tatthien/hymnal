@@ -1,6 +1,6 @@
 ---
 title: 672. Vì Tôi
-song-number: 672
+weight: 672
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

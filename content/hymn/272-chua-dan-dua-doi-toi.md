@@ -1,6 +1,6 @@
 ---
 title: 272. Chúa Dẫn Đưa Đời Tôi
-song-number: 272
+weight: 272
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

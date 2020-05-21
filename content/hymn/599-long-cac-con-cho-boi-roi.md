@@ -1,6 +1,6 @@
 ---
 title: 599. Lòng Các Con Chớ Bối Rối
-song-number: 599
+weight: 599
 categories: Chúa Jêsus Christ
 sub-categories: Thăng Thiên
 draft: false

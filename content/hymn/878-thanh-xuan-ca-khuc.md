@@ -1,6 +1,6 @@
 ---
 title: 878. Thanh Xuân Ca Khúc
-song-number: 878
+weight: 878
 categories: Thanh Niên
 sub-categories: 
 draft: false

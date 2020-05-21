@@ -1,6 +1,6 @@
 ---
 title: 510. Tình Thương Yêu Của Đức Chúa Trời
-song-number: 510
+weight: 510
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

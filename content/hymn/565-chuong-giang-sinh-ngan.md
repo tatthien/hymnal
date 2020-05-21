@@ -1,6 +1,6 @@
 ---
 title: 565. Chuông Giáng Sinh Ngân
-song-number: 565
+weight: 565
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

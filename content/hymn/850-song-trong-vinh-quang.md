@@ -1,6 +1,6 @@
 ---
 title: 850. Sống Trong Vinh Quang
-song-number: 850
+weight: 850
 categories: Cõi Lai Sanh
 sub-categories: Thiên Đàng
 draft: false

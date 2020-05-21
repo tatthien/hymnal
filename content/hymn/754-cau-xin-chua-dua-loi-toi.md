@@ -1,6 +1,6 @@
 ---
 title: 754. Cầu Xin Chúa Đưa Lối Tôi
-song-number: 754
+weight: 754
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 895. Ngài Ban Cho Thêm Ơn
-song-number: 895
+weight: 895
 categories: Biệt Lễ Ca
 sub-categories: Phong Chức Mục Sư
 draft: false

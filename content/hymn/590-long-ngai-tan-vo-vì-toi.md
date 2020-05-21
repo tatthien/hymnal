@@ -1,6 +1,6 @@
 ---
 title: 590. Lòng Ngài Tan Vỡ Vì Tôi
-song-number: 590
+weight: 590
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

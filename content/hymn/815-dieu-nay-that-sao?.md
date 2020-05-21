@@ -1,6 +1,6 @@
 ---
 title: 815. Điều Nầy Thật Sao?
-song-number: 815
+weight: 815
 categories: Đời Tín Đồ
 sub-categories: Được Chúa Yêu
 draft: false

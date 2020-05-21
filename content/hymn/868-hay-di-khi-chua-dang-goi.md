@@ -1,6 +1,6 @@
 ---
 title: 868. Hãy Đi Khi Chúa Đang Gọi
-song-number: 868
+weight: 868
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

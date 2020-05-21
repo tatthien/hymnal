@@ -1,6 +1,6 @@
 ---
 title: 331. Buổi Mai Rực Rỡ
-song-number: 331
+weight: 331
 categories: Đời Tín Đồ
 sub-categories: Qua Đời Và Sống Đời Đời
 draft: false

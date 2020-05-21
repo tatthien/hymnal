@@ -1,6 +1,6 @@
 ---
 title: 735. Bên Kia Bóng Mờ
-song-number: 735
+weight: 735
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

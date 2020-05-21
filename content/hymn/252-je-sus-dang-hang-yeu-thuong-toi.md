@@ -1,6 +1,6 @@
 ---
 title: 252. Jê-Sus Đấng Hằng Yêu Thương Tôi
-song-number: 252
+weight: 252
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false

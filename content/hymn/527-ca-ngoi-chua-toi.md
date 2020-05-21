@@ -1,6 +1,6 @@
 ---
 title: 527. Ca Ngợi Chúa Tôi
-song-number: 527
+weight: 527
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

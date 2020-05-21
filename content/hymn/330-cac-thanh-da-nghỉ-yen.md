@@ -1,6 +1,6 @@
 ---
 title: 330. Các Thánh Đã Nghỉ Yên
-song-number: 330
+weight: 330
 categories: Đời Tín Đồ
 sub-categories: Qua Đời Và Sống Đời Đời
 draft: false

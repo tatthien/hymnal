@@ -1,6 +1,6 @@
 ---
 title: 260. Chúa Ôi! Xin Dìu Con
-song-number: 260
+weight: 260
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false

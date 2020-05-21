@@ -1,6 +1,6 @@
 ---
 title: 513. Lớn Bấy Duy Ngài
-song-number: 513
+weight: 513
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

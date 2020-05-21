@@ -1,6 +1,6 @@
 ---
 title: 56. Kỷ Nguyên Thanh Bình
-song-number: 56
+weight: 56
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

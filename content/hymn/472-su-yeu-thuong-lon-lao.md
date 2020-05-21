@@ -1,6 +1,6 @@
 ---
 title: 472. Sự Yêu Thương Lớn Lao
-song-number: 472
+weight: 472
 categories: Tin Lành
 sub-categories: 
 draft: false

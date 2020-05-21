@@ -1,6 +1,6 @@
 ---
 title: 268. Thỏa Thích Thay Tin Cậy Chúa Jêsus
-song-number: 268
+weight: 268
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 74. Nghe Xa Xa Điệu Thần Ca
-song-number: 74
+weight: 74
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

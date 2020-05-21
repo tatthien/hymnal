@@ -1,6 +1,6 @@
 ---
 title: 384. Tuy Tôi Có Cả Thiên Hạ
-song-number: 384
+weight: 384
 categories: Đơn Ca - Song Ca
 sub-categories: 
 draft: false

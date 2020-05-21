@@ -1,6 +1,6 @@
 ---
 title: 416. Chúa Là Vua
-song-number: 416
+weight: 416
 categories: Hợp Ca
 sub-categories: Nam Nữ Ban
 draft: false

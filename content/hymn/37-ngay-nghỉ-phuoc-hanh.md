@@ -1,6 +1,6 @@
 ---
 title: 37. Ngày Nghỉ Phước Hạnh
-song-number: 37
+weight: 37
 categories: Thờ Phượng
 sub-categories: Ngày Chúa Nhật
 draft: false

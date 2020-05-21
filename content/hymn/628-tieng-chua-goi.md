@@ -1,6 +1,6 @@
 ---
 title: 628. Tiếng Chúa Gọi
-song-number: 628
+weight: 628
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

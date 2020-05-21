@@ -1,6 +1,6 @@
 ---
 title: 867. Sứ Mạng Yêu Thương
-song-number: 867
+weight: 867
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

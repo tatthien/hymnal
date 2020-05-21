@@ -1,6 +1,6 @@
 ---
 title: 790. Tôi Sẽ Thưa Chuyện Với Chúa
-song-number: 790
+weight: 790
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Chùng Chúa
 draft: false

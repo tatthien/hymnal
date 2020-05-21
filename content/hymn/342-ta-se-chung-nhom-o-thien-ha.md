@@ -1,6 +1,6 @@
 ---
 title: 342. Ta Sẽ Chung Nhóm Ở Thiên Hà
-song-number: 342
+weight: 342
 categories: Cõi Lai Sinh
 sub-categories: Thiên Đàng
 draft: false

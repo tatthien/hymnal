@@ -1,6 +1,6 @@
 ---
 title: 356. Mau Chiếu Ra
-song-number: 356
+weight: 356
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

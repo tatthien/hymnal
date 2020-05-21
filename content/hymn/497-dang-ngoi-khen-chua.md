@@ -1,6 +1,6 @@
 ---
 title: 497. Đáng Ngợi Khen Chúa
-song-number: 497
+weight: 497
 categories: Lễ Nghi
 sub-categories: Tiệc Thánh
 draft: false

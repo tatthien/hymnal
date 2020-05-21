@@ -1,6 +1,6 @@
 ---
 title: 95. Giờ Được Chiêm Ngưỡng Thập Giá
-song-number: 95
+weight: 95
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

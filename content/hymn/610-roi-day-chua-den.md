@@ -1,6 +1,6 @@
 ---
 title: 610. Rồi Đây Chúa Đến
-song-number: 610
+weight: 610
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

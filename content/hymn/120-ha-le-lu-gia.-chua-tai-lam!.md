@@ -1,6 +1,6 @@
 ---
 title: 120. Ha-Lê-Lu-Gia. Chúa Tái Lâm!
-song-number: 120
+weight: 120
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 372. Châu Báu Vua Jêsus Christ
-song-number: 372
+weight: 372
 categories: Thiếu Nhi
 sub-categories: 
 draft: false

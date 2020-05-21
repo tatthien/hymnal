@@ -1,6 +1,6 @@
 ---
 title: 184. Huyết Chiên Con Bôi Sạch Lòng
-song-number: 184
+weight: 184
 categories: Tin Lành
 sub-categories: Huyết Của Christ
 draft: false

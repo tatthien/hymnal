@@ -1,6 +1,6 @@
 ---
 title: 752. Nhờ Ơn Cha Dìu Dắt
-song-number: 752
+weight: 752
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

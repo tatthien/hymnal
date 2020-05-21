@@ -1,6 +1,6 @@
 ---
 title: 860. Nguyện Đưa Dắt Bao Người Đến Ngài
-song-number: 860
+weight: 860
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giảng
 draft: false

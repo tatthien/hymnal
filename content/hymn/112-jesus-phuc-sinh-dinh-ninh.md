@@ -1,6 +1,6 @@
 ---
 title: 112. Jêsus Phục Sinh Đinh Ninh
-song-number: 112
+weight: 112
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

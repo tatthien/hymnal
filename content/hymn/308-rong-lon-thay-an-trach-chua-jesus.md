@@ -1,6 +1,6 @@
 ---
 title: 308. Rộng Lớn Thay Ân Trạch Chúa Jêsus
-song-number: 308
+weight: 308
 categories: Đời Tín Đồ
 sub-categories: Ân Điển
 draft: false

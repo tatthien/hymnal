@@ -1,6 +1,6 @@
 ---
 title: 520. Ngợi Ca Ơn Thương Xót
-song-number: 520
+weight: 520
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

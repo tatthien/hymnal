@@ -1,6 +1,6 @@
 ---
 title: 202. Cơn Mưa Phước Lành
-song-number: 202
+weight: 202
 categories: Tin Lành
 sub-categories: Ứng Hứa Và Ân Ban
 draft: false

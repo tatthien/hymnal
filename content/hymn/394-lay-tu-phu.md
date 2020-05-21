@@ -1,6 +1,6 @@
 ---
 title: 394. Lạy Từ Phụ
-song-number: 394
+weight: 394
 categories: Lễ Nghi
 sub-categories: Dâng Con
 draft: false

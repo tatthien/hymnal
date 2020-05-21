@@ -1,6 +1,6 @@
 ---
 title: 286. Ai Tuyệt Vọng
-song-number: 286
+weight: 286
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 799. Trọn Đời Ngợi Khen
-song-number: 799
+weight: 799
 categories: Đời Tín Đồ
 sub-categories: Yêu Mến Chúa
 draft: false

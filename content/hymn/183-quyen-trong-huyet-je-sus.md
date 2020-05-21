@@ -1,6 +1,6 @@
 ---
 title: 183. Quyền Trong Huyết Jê-Sus
-song-number: 183
+weight: 183
 categories: Tin Lành
 sub-categories: Huyết Của Christ
 draft: false

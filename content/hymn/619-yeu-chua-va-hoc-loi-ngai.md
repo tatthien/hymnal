@@ -1,6 +1,6 @@
 ---
 title: 619. Yêu Chúa Và Học Lời Ngài
-song-number: 619
+weight: 619
 categories: Kinh Thánh
 sub-categories: 
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 247. Hãy Giơ Tay Ra
-song-number: 247
+weight: 247
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

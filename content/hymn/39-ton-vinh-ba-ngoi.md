@@ -1,6 +1,6 @@
 ---
 title: 39. Tôn Vinh Ba Ngôi
-song-number: 39
+weight: 39
 categories: Thờ Phượng
 sub-categories: Ba Ngôi
 draft: false

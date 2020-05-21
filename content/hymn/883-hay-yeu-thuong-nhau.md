@@ -1,6 +1,6 @@
 ---
 title: 883. Hãy Yêu Thương Nhau
-song-number: 883
+weight: 883
 categories: Lễ Nghi
 sub-categories: Tiệc Thánh
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 782. Chúa Lo Cho Ta Chăng
-song-number: 782
+weight: 782
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

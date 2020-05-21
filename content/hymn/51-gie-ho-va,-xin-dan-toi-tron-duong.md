@@ -1,6 +1,6 @@
 ---
 title: 51. Giê-Hô-Va, Xin Dẫn Tôi Trọn Đường
-song-number: 51
+weight: 51
 categories: Thờ Phượng
 sub-categories: Gìn Giữ, Dẫn Dắt
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 664. Ha-Lê-Lu-Gia! Chúa Cứu Tôi
-song-number: 664
+weight: 664
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

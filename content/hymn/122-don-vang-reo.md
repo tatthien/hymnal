@@ -1,6 +1,6 @@
 ---
 title: 122. Đờn Vàng Reo
-song-number: 122
+weight: 122
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

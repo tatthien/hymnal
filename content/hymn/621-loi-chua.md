@@ -1,6 +1,6 @@
 ---
 title: 621. Lời Chúa
-song-number: 621
+weight: 621
 categories: Kinh Thánh
 sub-categories: 
 draft: false

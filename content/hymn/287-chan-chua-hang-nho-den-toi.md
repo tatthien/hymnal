@@ -1,6 +1,6 @@
 ---
 title: 287. Chân Chúa Hằng Nhớ Đến Tôi
-song-number: 287
+weight: 287
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

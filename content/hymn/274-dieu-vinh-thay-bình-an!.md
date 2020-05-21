@@ -1,6 +1,6 @@
 ---
 title: 274. Diệu Vinh Thay Bình An!
-song-number: 274
+weight: 274
 categories: Đời Tín Đồ
 sub-categories: Bình An Vui Vẻ
 draft: false

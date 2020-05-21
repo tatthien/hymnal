@@ -1,6 +1,6 @@
 ---
 title: 44. Đấng Xưa Giúp Chúng Tôi
-song-number: 44
+weight: 44
 categories: Thờ Phượng
 sub-categories: Gìn Giữ, Dẫn Dắt
 draft: false

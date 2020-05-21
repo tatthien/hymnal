@@ -1,6 +1,6 @@
 ---
 title: 640. Dòng Huyết Đào
-song-number: 640
+weight: 640
 categories: Tin Lành
 sub-categories: Huyết Của Christ
 draft: false

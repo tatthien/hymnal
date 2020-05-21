@@ -1,6 +1,6 @@
 ---
 title: 634. Thiết Tha
-song-number: 634
+weight: 634
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

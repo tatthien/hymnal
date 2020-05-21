@@ -1,6 +1,6 @@
 ---
 title: 570. Vòng Tay Tình Yêu
-song-number: 570
+weight: 570
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 525. Tình Yêu Jê-Sus
-song-number: 525
+weight: 525
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

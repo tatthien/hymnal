@@ -1,6 +1,6 @@
 ---
 title: 470. Nước Vĩnh Sinh
-song-number: 470
+weight: 470
 categories: Tin Lành
 sub-categories: 
 draft: false

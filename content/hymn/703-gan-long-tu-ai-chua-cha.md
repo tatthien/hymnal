@@ -1,6 +1,6 @@
 ---
 title: 703. Gần Lòng Từ Ái Chúa Cha
-song-number: 703
+weight: 703
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

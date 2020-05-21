@@ -1,6 +1,6 @@
 ---
 title: 573. Đêm Đông Xưa
-song-number: 573
+weight: 573
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

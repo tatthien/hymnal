@@ -1,6 +1,6 @@
 ---
 title: 572. Ô, Sao Xinh Tươi Chiếu Sáng Luôn
-song-number: 572
+weight: 572
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

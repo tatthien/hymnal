@@ -1,6 +1,6 @@
 ---
 title: 730. Bình An Trong Thung Lũng
-song-number: 730
+weight: 730
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

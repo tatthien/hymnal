@@ -1,6 +1,6 @@
 ---
 title: 669. Tiếng Chúa Phán
-song-number: 669
+weight: 669
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

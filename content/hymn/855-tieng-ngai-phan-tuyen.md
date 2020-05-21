@@ -1,6 +1,6 @@
 ---
 title: 855. Tiếng Ngài Phán Tuyên
-song-number: 855
+weight: 855
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giảng
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 153. Ca Khen Thiên Đạo
-song-number: 153
+weight: 153
 categories: Kinh Thánh
 sub-categories: 
 draft: false

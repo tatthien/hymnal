@@ -1,6 +1,6 @@
 ---
 title: 649. Bài Ca Cứu Chuộc
-song-number: 649
+weight: 649
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

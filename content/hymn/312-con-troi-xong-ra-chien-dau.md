@@ -1,6 +1,6 @@
 ---
 title: 312. Con Trời Xông Ra Chiến Đấu
-song-number: 312
+weight: 312
 categories: Đời Tín Đồ
 sub-categories: Can Đảm, Trung Tín
 draft: false

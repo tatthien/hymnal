@@ -1,6 +1,6 @@
 ---
 title: 668. Nguồn Phước Gô-Gô-Tha
-song-number: 668
+weight: 668
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

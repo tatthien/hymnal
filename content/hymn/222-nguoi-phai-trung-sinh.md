@@ -1,6 +1,6 @@
 ---
 title: 222. Ngươi Phải Trùng Sinh
-song-number: 222
+weight: 222
 categories: Đời Tín Đồ
 sub-categories: Sự Tái Sinh
 draft: false

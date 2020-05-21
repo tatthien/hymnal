@@ -1,6 +1,6 @@
 ---
 title: 578. Tiếng Jê-Sus
-song-number: 578
+weight: 578
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 724. Thà Có Jê-Sus Thì Hơn
-song-number: 724
+weight: 724
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 849. Triều Thiên Vinh Hiển
-song-number: 849
+weight: 849
 categories: Cõi Lai Sanh
 sub-categories: Sống Lại Và Chịu Phán Xét
 draft: false

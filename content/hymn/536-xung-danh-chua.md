@@ -1,6 +1,6 @@
 ---
 title: 536. Xưng Danh Chúa
-song-number: 536
+weight: 536
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

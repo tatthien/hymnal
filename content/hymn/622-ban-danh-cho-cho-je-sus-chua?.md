@@ -1,6 +1,6 @@
 ---
 title: 622. Bạn Dành Chỗ Cho Jê-Sus Chưa?
-song-number: 622
+weight: 622
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

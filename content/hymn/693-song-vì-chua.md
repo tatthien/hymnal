@@ -1,6 +1,6 @@
 ---
 title: 693. Sống Vì Chúa
-song-number: 693
+weight: 693
 categories: Đời Tín Đồ
 sub-categories: Dâng Mình Cho Chúa
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 720. Tôi Biết Đấng Nắm Giữ Tương Lai
-song-number: 720
+weight: 720
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

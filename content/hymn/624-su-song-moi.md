@@ -1,6 +1,6 @@
 ---
 title: 624. Sự Sống Mới
-song-number: 624
+weight: 624
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

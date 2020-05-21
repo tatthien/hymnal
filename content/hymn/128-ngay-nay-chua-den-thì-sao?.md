@@ -1,6 +1,6 @@
 ---
 title: 128. Ngày Nay Chúa Đến Thì Sao?
-song-number: 128
+weight: 128
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

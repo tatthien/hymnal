@@ -1,6 +1,6 @@
 ---
 title: 251. Giờ Dịu Êm
-song-number: 251
+weight: 251
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false

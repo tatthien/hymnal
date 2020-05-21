@@ -1,6 +1,6 @@
 ---
 title: 86. Hỡi Jêsus, Nguyện Dẫn Đạo Cùng
-song-number: 86
+weight: 86
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

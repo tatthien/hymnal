@@ -1,6 +1,6 @@
 ---
 title: 300. Kìa, Lòng Yêu Thương Chúa Phi Thường
-song-number: 300
+weight: 300
 categories: Đời Tín Đồ
 sub-categories: Được Chúa Yêu
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 810. Ánh Sáng Chúa Chiếu Soi
-song-number: 810
+weight: 810
 categories: Đời Tín Đồ
 sub-categories: Được Chúa Yêu
 draft: false

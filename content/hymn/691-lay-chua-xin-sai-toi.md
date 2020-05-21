@@ -1,6 +1,6 @@
 ---
 title: 691. Lạy Chúa Xin Sai Tôi
-song-number: 691
+weight: 691
 categories: Đời Tín Đồ
 sub-categories: Dâng Mình Cho Chúa
 draft: false

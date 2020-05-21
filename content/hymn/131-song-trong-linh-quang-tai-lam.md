@@ -1,6 +1,6 @@
 ---
 title: 131. Sống Trong Linh Quang Tái Lâm
-song-number: 131
+weight: 131
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

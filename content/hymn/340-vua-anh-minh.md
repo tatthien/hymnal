@@ -1,6 +1,6 @@
 ---
 title: 340. Vua Anh Minh
-song-number: 340
+weight: 340
 categories: Cõi Lai Sanh
 sub-categories: Thiên Đàng
 draft: false

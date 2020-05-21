@@ -1,6 +1,6 @@
 ---
 title: 658. Vinh Quang Ha-Lê-Lu-Gia
-song-number: 658
+weight: 658
 categories: Đời Tín Đồ
 sub-categories: Vui Vẻ Vì Được Cứu
 draft: false

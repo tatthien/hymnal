@@ -1,6 +1,6 @@
 ---
 title: 718. Ái Từ Cứu Tôi
-song-number: 718
+weight: 718
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

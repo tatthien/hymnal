@@ -1,6 +1,6 @@
 ---
 title: 404. Trong Christ Yên Giấc
-song-number: 404
+weight: 404
 categories: Biệt Lễ Ca
 sub-categories: Tang Lễ
 draft: false

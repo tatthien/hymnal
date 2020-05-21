@@ -1,6 +1,6 @@
 ---
 title: 338. Thành Giê-Ru-Sa-Lem Bằng Vàng
-song-number: 338
+weight: 338
 categories: Cõi Lai Sanh
 sub-categories: Thiên Đàng
 draft: false

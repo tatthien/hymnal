@@ -1,6 +1,6 @@
 ---
 title: 83. Jêsus Christ Đến
-song-number: 83
+weight: 83
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

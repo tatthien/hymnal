@@ -1,6 +1,6 @@
 ---
 title: 722. Chỉ Tin Cậy Chúa
-song-number: 722
+weight: 722
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

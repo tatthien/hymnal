@@ -1,6 +1,6 @@
 ---
 title: 645. Thập Giá, Nơi Chúa Mong Anh Về
-song-number: 645
+weight: 645
 categories: Tin Lành
 sub-categories: Thập Tự Giá
 draft: false

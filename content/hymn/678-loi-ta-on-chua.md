@@ -1,6 +1,6 @@
 ---
 title: 678. Lời Tạ Ơn Chúa
-song-number: 678
+weight: 678
 categories: Đời Tín Đồ
 sub-categories: Cảm Tạ
 draft: false

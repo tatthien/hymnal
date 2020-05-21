@@ -1,6 +1,6 @@
 ---
 title: 172. Nơi Gô-Gô-Tha
-song-number: 172
+weight: 172
 categories: Tin Lành
 sub-categories: Sự Ăn Năn, Sự Tha Tội
 draft: false

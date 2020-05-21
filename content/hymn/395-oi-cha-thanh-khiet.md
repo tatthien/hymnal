@@ -1,6 +1,6 @@
 ---
 title: 395. Ôi Cha Thánh Khiết
-song-number: 395
+weight: 395
 categories: Lễ Nghi
 sub-categories: Dâng Con
 draft: false

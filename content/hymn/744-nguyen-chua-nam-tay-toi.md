@@ -1,6 +1,6 @@
 ---
 title: 744. Nguyện Chúa Nắm Tay Tôi
-song-number: 744
+weight: 744
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

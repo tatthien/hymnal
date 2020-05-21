@@ -1,6 +1,6 @@
 ---
 title: 543. Cung Kính Thờ Chúa
-song-number: 543
+weight: 543
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

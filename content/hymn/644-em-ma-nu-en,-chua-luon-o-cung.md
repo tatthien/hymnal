@@ -1,6 +1,6 @@
 ---
 title: 644. Em-Ma-Nu-Ên, Chúa Luôn Ở Cùng
-song-number: 644
+weight: 644
 categories: Tin Lành
 sub-categories: Ứng Hứa Và Ân Ban
 draft: false

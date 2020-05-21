@@ -1,6 +1,6 @@
 ---
 title: 438. Chúng Ta Như Chiên Đi Lạc
-song-number: 438
+weight: 438
 categories: Kinh Tiết Ca
 sub-categories: 
 draft: false

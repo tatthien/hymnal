@@ -1,6 +1,6 @@
 ---
 title: 805. Dâng Trọn Cho Jêsus
-song-number: 805
+weight: 805
 categories: Đời Tín Đồ
 sub-categories: Yêu Mến Chúa
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 228. Tuyết Kia Khôn So
-song-number: 228
+weight: 228
 categories: Đời Tín Đồ
 sub-categories: Sự Nên Thánh
 draft: false

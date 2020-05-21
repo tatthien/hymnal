@@ -1,6 +1,6 @@
 ---
 title: 483. Cầu Nguyện Cho Anh
-song-number: 483
+weight: 483
 categories: Đời Tín Đồi
 sub-categories: Phục Sự Chúa
 draft: false

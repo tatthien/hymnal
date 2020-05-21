@@ -1,6 +1,6 @@
 ---
 title: 378. Trung, Thành, Tín, Nghĩa
-song-number: 378
+weight: 378
 categories: Thanh Niên
 sub-categories: 
 draft: false

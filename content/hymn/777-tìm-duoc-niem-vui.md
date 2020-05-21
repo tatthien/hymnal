@@ -1,6 +1,6 @@
 ---
 title: 777. Tìm Được Niềm Vui
-song-number: 777
+weight: 777
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

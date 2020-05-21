@@ -1,6 +1,6 @@
 ---
 title: 612. Nguồn Hy Vọng
-song-number: 612
+weight: 612
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

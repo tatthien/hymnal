@@ -1,6 +1,6 @@
 ---
 title: 841. Biết Jêsus Và Truyền Bá Danh Ngài
-song-number: 841
+weight: 841
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

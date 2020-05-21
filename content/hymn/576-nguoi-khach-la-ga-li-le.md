@@ -1,6 +1,6 @@
 ---
 title: 576. Người Khách Lạ Ga-Li-Lê
-song-number: 576
+weight: 576
 categories: Chúa Jêsus Christ
 sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false

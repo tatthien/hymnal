@@ -1,6 +1,6 @@
 ---
 title: 67. Mục Tử Thức Giữ Chiên
-song-number: 67
+weight: 67
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

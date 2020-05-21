@@ -1,6 +1,6 @@
 ---
 title: 66. Đêm Thánh
-song-number: 66
+weight: 66
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

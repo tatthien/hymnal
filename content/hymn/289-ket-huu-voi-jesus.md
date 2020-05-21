@@ -1,6 +1,6 @@
 ---
 title: 289. Kết Hữu Với Jêsus
-song-number: 289
+weight: 289
 categories: Đời Tín Đồ
 sub-categories: Giao Thông Cùng Chúa
 draft: false

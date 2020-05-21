@@ -1,6 +1,6 @@
 ---
 title: 848. Làm Con Vua Thánh
-song-number: 848
+weight: 848
 categories: Đời Tín Đồ
 sub-categories: Qua Đời Và Sống Đời Đời
 draft: false

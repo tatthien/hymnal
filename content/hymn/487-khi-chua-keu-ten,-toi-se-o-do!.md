@@ -1,6 +1,6 @@
 ---
 title: 487. Khi Chúa Kêu Tên, Tôi Sẽ Ở Đó!
-song-number: 487
+weight: 487
 categories: Chúa Tái Lâm
 sub-categories: 
 draft: false

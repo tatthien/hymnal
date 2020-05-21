@@ -1,6 +1,6 @@
 ---
 title: 8. Ngợi Danh Jêsus Rất Oai Quyền
-song-number: 8
+weight: 8
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

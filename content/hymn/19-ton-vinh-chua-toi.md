@@ -1,6 +1,6 @@
 ---
 title: 19. Tôn Vinh Chúa Tôi
-song-number: 19
+weight: 19
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 828. Nào Ai Chọn Đứng Bên Ngài
-song-number: 828
+weight: 828
 categories: Đời Tín Đồ
 sub-categories: Can Đảm, Trung Tín
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 18. Danh Yêu Quý
-song-number: 18
+weight: 18
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

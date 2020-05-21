@@ -1,6 +1,6 @@
 ---
 title: 170. Chúa Ôi, Tôi Lại Ngay!
-song-number: 170
+weight: 170
 categories: Tin Lành
 sub-categories: Sự Ăn Năn, Sự Tha Tội
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 562. Chuyện Các Mục Đồng
-song-number: 562
+weight: 562
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

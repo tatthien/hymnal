@@ -1,6 +1,6 @@
 ---
 title: 390. Chim Sẻ Mắt Chúa Vẫn Chú Vào
-song-number: 390
+weight: 390
 categories: Đơn Ca - Song Ca
 sub-categories: 
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 103. Christ Phục Sinh
-song-number: 103
+weight: 103
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

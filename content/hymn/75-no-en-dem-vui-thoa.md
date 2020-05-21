@@ -1,6 +1,6 @@
 ---
 title: 75. Nô-Ên Đêm Vui Thỏa
-song-number: 75
+weight: 75
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 190. Không Nhờ Bạc Vàng
-song-number: 190
+weight: 190
 categories: Tin Lành
 sub-categories: Huyết Của Christ
 draft: false

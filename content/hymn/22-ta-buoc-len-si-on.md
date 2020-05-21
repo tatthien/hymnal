@@ -1,6 +1,6 @@
 ---
 title: 22. Ta Bước Lên Si-Ôn
-song-number: 22
+weight: 22
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

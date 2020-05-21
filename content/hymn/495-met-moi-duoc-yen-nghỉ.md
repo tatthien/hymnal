@@ -1,6 +1,6 @@
 ---
 title: 495. Mệt Mỏi Được Yên Nghỉ
-song-number: 495
+weight: 495
 categories: Thiên Đàng
 sub-categories: 
 draft: false

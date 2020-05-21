@@ -1,6 +1,6 @@
 ---
 title: 20. Ngợi Khen Đấng Quân Lâm Muôn Đời
-song-number: 20
+weight: 20
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

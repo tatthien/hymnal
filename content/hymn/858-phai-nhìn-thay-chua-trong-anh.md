@@ -1,6 +1,6 @@
 ---
 title: 858. Phải Nhìn Thấy Chúa Trong Anh
-song-number: 858
+weight: 858
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giảng
 draft: false

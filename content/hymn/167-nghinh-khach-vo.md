@@ -1,6 +1,6 @@
 ---
 title: 167. Nghinh Khách Vô
-song-number: 167
+weight: 167
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 313. Phước Âm Jêsus Muôn Thuở Còn Nguyên
-song-number: 313
+weight: 313
 categories: Đời Tín Đồ
 sub-categories: Can Đảm, Trung Tín
 draft: false

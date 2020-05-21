@@ -1,6 +1,6 @@
 ---
 title: 310. Đức Tin, Trông Cậy, Yêu Thương
-song-number: 310
+weight: 310
 categories: Đời Tín Đồ
 sub-categories: Đức Tin
 draft: false

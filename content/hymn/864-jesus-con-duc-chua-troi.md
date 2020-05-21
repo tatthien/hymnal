@@ -1,6 +1,6 @@
 ---
 title: 864. Jêsus Con Đức Chúa Trời
-song-number: 864
+weight: 864
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giảng
 draft: false

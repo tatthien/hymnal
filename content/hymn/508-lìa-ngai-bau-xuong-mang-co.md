@@ -1,6 +1,6 @@
 ---
 title: 508. Lìa Ngai Báu Xuống Máng Cỏ
-song-number: 508
+weight: 508
 categories: Biệt Lễ Ca
 sub-categories: Nô-Ên
 draft: false

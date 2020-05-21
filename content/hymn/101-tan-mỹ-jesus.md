@@ -1,6 +1,6 @@
 ---
 title: 101. Tán Mỹ Jêsus
-song-number: 101
+weight: 101
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 732. Vững Tâm Tin Chúa
-song-number: 732
+weight: 732
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

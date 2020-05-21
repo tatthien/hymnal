@@ -1,6 +1,6 @@
 ---
 title: 62. Hỡi Bết-Lê-Hem, Tiểu Thôn Cô Quạnh
-song-number: 62
+weight: 62
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

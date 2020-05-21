@@ -1,6 +1,6 @@
 ---
 title: 875. Hỡi Si-Ôn, Vùng Lên!
-song-number: 875
+weight: 875
 categories: Thanh Niên
 sub-categories: 
 draft: false

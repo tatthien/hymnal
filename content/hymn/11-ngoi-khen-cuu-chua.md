@@ -1,6 +1,6 @@
 ---
 title: 11. Ngợi Khen Cứu Chúa
-song-number: 11
+weight: 11
 categories: Thờ Phuợng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

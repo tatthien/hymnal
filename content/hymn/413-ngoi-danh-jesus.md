@@ -1,6 +1,6 @@
 ---
 title: 413. Ngợi Danh Jêsus
-song-number: 413
+weight: 413
 categories: Hợp Ca
 sub-categories: Nam Nữ Ban
 draft: false

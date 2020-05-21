@@ -1,6 +1,6 @@
 ---
 title: 748. Đường Đi Có Chúa
-song-number: 748
+weight: 748
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

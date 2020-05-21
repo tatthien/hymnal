@@ -1,6 +1,6 @@
 ---
 title: 226. Lo Biệt Giờ Nên Thánh Ra
-song-number: 226
+weight: 226
 categories: Đời Tín Đồ
 sub-categories: Sự Nên Thánh
 draft: false

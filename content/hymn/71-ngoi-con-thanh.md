@@ -1,6 +1,6 @@
 ---
 title: 71. Ngợi Con Thánh
-song-number: 71
+weight: 71
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

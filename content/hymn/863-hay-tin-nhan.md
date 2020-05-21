@@ -1,6 +1,6 @@
 ---
 title: 863. Hãy Tin Nhận
-song-number: 863
+weight: 863
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giảng
 draft: false

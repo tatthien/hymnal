@@ -1,6 +1,6 @@
 ---
 title: 766. Nơi Thảo Nguyên Xanh Tươi
-song-number: 766
+weight: 766
 categories: Đời Tín Đồ
 sub-categories: Bình An, Vui Vẻ
 draft: false

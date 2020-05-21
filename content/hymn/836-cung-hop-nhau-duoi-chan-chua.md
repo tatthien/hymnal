@@ -1,6 +1,6 @@
 ---
 title: 836. Cùng Họp Nhau Dưới Chân Chúa
-song-number: 836
+weight: 836
 categories: Đời Tín Đồ
 sub-categories: Thông Công
 draft: false

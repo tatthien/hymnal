@@ -1,6 +1,6 @@
 ---
 title: 107. Jê-Sus Chân Chúa Lại Sống
-song-number: 107
+weight: 107
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

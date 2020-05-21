@@ -1,6 +1,6 @@
 ---
 title: 114. Kìa! Nhìn Vua Thăng Thiên
-song-number: 114
+weight: 114
 categories: Chúa Jêsus Christ
 sub-categories: Thăng Thiên
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 583. Jê-Sus Vui Gánh Đau Thương
-song-number: 583
+weight: 583
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

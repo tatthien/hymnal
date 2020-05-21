@@ -1,6 +1,6 @@
 ---
 title: 816. Chúa Viếng Thăm
-song-number: 816
+weight: 816
 categories: Đời Tín Đồ
 sub-categories: Được Chúa Yêu
 draft: false

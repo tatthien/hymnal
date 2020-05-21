@@ -1,6 +1,6 @@
 ---
 title: 660. Jê-Sus Cứu Tôi
-song-number: 660
+weight: 660
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

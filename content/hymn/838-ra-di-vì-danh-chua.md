@@ -1,6 +1,6 @@
 ---
 title: 838. Ra Đi Vì Danh Chúa
-song-number: 838
+weight: 838
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

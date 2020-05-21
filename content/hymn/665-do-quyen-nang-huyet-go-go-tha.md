@@ -1,6 +1,6 @@
 ---
 title: 665. Do Quyền Năng Huyết Gô-Gô-Tha
-song-number: 665
+weight: 665
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

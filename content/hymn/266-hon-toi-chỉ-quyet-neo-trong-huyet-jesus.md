@@ -1,6 +1,6 @@
 ---
 title: 266. Hồn Tôi Chỉ Quyết Neo Trong Huyết Jêsus
-song-number: 266
+weight: 266
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

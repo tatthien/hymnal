@@ -1,6 +1,6 @@
 ---
 title: 420. Tôn Vinh Ba Ngôi Đức Chúa Trời
-song-number: 420
+weight: 420
 categories: Hợp Ca
 sub-categories: Nam Nữ Ban
 draft: false

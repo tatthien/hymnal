@@ -1,6 +1,6 @@
 ---
 title: 692. Chúa Jê-Sus Con Hứa Theo Ngài
-song-number: 692
+weight: 692
 categories: Đời Tín Đồ
 sub-categories: Dâng Mình Cho Chúa
 draft: false

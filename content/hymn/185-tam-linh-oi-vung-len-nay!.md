@@ -1,6 +1,6 @@
 ---
 title: 185. Tâm Linh Ơi Vùng Lên Này!
-song-number: 185
+weight: 185
 categories: Tin Lành
 sub-categories: Huyết Của Christ
 draft: false

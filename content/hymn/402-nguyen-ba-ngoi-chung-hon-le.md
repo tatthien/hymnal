@@ -1,6 +1,6 @@
 ---
 title: 402. Nguyện Ba Ngôi Chứng Hôn Lễ
-song-number: 402
+weight: 402
 categories: Biệt Lễ Ca
 sub-categories: Hôn Lễ
 draft: false

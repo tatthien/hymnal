@@ -1,6 +1,6 @@
 ---
 title: 711. Hãy Ca Hát Và Cầu Nguyện
-song-number: 711
+weight: 711
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức Cầu Nguyện
 draft: false

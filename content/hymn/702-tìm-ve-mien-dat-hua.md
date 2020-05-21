@@ -1,6 +1,6 @@
 ---
 title: 702. Tìm Về Miền Đất Hứa
-song-number: 702
+weight: 702
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

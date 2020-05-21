@@ -1,6 +1,6 @@
 ---
 title: 566. Chúng Tôi Vua Từ Miền Đông Xa Vời
-song-number: 566
+weight: 566
 categories: Chúa Jêsus Christ
 sub-categories: Giáng Sinh
 draft: false

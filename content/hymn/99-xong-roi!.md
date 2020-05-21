@@ -1,6 +1,6 @@
 ---
 title: 99. Xong Rồi!
-song-number: 99
+weight: 99
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

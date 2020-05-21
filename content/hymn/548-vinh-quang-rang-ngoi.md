@@ -1,6 +1,6 @@
 ---
 title: 548. Vinh Quang Rạng Ngời
-song-number: 548
+weight: 548
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 455. Vẻ Tươi Đẹp Của Christ
-song-number: 455
+weight: 455
 categories: Đoản Ca
 sub-categories: 
 draft: false

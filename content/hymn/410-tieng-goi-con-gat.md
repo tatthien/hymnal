@@ -1,6 +1,6 @@
 ---
 title: 410. Tiếng Gọi Con Gặt
-song-number: 410
+weight: 410
 categories: Biệt Lễ Ca
 sub-categories: Phong Chức Mục Sư
 draft: false

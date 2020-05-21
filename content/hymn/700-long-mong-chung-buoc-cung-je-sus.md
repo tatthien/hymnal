@@ -1,6 +1,6 @@
 ---
 title: 700. Lòng Mong Chung Bước Cùng Jê-Sus
-song-number: 700
+weight: 700
 categories: Đời Tín Đồ
 sub-categories: Nguyện Vọng
 draft: false

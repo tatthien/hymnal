@@ -1,6 +1,6 @@
 ---
 title: 595. Vinh Diệu Chúa Phục Sinh
-song-number: 595
+weight: 595
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

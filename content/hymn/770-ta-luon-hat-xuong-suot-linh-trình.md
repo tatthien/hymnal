@@ -1,6 +1,6 @@
 ---
 title: 770. Ta Luôn Hát Xướng Suốt Linh Trình
-song-number: 770
+weight: 770
 categories: Đời Tín Đồ
 sub-categories: Bình An, Vui Vẻ
 draft: false

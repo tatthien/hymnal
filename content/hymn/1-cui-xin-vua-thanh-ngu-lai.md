@@ -1,6 +1,6 @@
 ---
 title: 1. Cúi Xin Vua Thánh Ngự Lai
-song-number: 1
+weight: 1
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

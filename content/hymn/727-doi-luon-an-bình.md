@@ -1,6 +1,6 @@
 ---
 title: 727. Đời Luôn An Bình
-song-number: 727
+weight: 727
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

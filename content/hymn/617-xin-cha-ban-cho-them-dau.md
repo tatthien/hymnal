@@ -1,6 +1,6 @@
 ---
 title: 617. Xin Cha Ban Cho Thêm Dầu
-song-number: 617
+weight: 617
 categories: Đức Thánh Linh
 sub-categories: 
 draft: false

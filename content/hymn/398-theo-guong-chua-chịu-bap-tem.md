@@ -1,6 +1,6 @@
 ---
 title: 398. Theo Gương Chúa Chịu Báp Têm
-song-number: 398
+weight: 398
 categories: Lễ Nghi
 sub-categories: Báp-Têm
 draft: false

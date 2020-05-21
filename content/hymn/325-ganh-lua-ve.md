@@ -1,6 +1,6 @@
 ---
 title: 325. Gánh Lúa Về
-song-number: 325
+weight: 325
 categories: Đời Tín Đồ
 sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false

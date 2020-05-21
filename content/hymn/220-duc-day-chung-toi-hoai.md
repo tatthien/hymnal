@@ -1,6 +1,6 @@
 ---
 title: 220. Dức Dấy Chúng Tôi Hoài
-song-number: 220
+weight: 220
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 834. Toàn Cầu Phục Hưng
-song-number: 834
+weight: 834
 categories: Đời Tín Đồ
 sub-categories: Phục Hưng
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 900. Cầu Xin Chúa Giúp Tôi
-song-number: 900
+weight: 900
 categories: Hợp Ca
 sub-categories: Nam Ban
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 125. Chấm Dứt Cảnh Khổ
-song-number: 125
+weight: 125
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

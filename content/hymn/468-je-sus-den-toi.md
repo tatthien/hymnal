@@ -1,6 +1,6 @@
 ---
 title: 468. Jê-Sus Đền Tội
-song-number: 468
+weight: 468
 categories: Tin Lành
 sub-categories: 
 draft: false

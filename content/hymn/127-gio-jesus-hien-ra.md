@@ -1,6 +1,6 @@
 ---
 title: 127. Giờ Jêsus Hiện Ra
-song-number: 127
+weight: 127
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

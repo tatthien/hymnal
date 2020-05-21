@@ -1,6 +1,6 @@
 ---
 title: 506. Mừng Thay Nô-Ên!
-song-number: 506
+weight: 506
 categories: Biệt Lễ Ca
 sub-categories: Nô-Ên
 draft: false

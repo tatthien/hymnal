@@ -1,6 +1,6 @@
 ---
 title: 747. Vững Tin Nơi Chúa
-song-number: 747
+weight: 747
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

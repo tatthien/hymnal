@@ -1,6 +1,6 @@
 ---
 title: 42. Tình Yêu Thương Chúa Khôn Suy Lường
-song-number: 42
+weight: 42
 categories: Thờ Phượng
 sub-categories: Thuộc Tính
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 492. Giống Như Cứu Chúa Tôi
-song-number: 492
+weight: 492
 categories: Chúa Tái Lâm
 sub-categories: 
 draft: false

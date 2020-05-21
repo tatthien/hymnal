@@ -1,6 +1,6 @@
 ---
 title: 547. Chúc Tôn Chúa
-song-number: 547
+weight: 547
 categories: Thờ Phượng
 sub-categories: Thờ Kính
 draft: false

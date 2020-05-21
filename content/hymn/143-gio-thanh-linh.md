@@ -1,6 +1,6 @@
 ---
 title: 143. Gió Thánh Linh
-song-number: 143
+weight: 143
 categories: Đức Thánh Linh
 sub-categories: 
 draft: false

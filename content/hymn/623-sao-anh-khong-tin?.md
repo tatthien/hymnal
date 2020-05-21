@@ -1,6 +1,6 @@
 ---
 title: 623. Sao Anh Không Tin?
-song-number: 623
+weight: 623
 categories: Tin Lành
 sub-categories: Lời Mời
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 302. Ân Hồng, Cứu Ân
-song-number: 302
+weight: 302
 categories: Đời Tín Đồ
 sub-categories: Ân Điển
 draft: false

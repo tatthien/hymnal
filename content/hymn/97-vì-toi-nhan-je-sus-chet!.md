@@ -1,6 +1,6 @@
 ---
 title: 97. Vì Tội Nhân Jê-Sus Chết!
-song-number: 97
+weight: 97
 categories: Chúa Jêsus Christ
 sub-categories: Chịu Khổ Và Chết
 draft: false

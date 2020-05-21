@@ -1,6 +1,6 @@
 ---
 title: 535. Ngài Là Vua
-song-number: 535
+weight: 535
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

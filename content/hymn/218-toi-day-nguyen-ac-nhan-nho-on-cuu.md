@@ -1,6 +1,6 @@
 ---
 title: 218. Tôi Đây Nguyên Ác Nhân Nhờ Ơn Cứu
-song-number: 218
+weight: 218
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

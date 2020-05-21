@@ -1,6 +1,6 @@
 ---
 title: 822. Con Thuộc Về Ta
-song-number: 822
+weight: 822
 categories: Đời Tín Đồ
 sub-categories: Ân Điển
 draft: false

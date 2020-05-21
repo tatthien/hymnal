@@ -1,6 +1,6 @@
 ---
 title: 259. Canh Giữ Kêu Cầu
-song-number: 259
+weight: 259
 categories: Đời Tín Đồ
 sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false

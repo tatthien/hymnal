@@ -1,6 +1,6 @@
 ---
 title: 779. Nơi Bình An
-song-number: 779
+weight: 779
 categories: Đời Tín Đồ
 sub-categories: Sự An Ủi
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 596. Ngày Toàn Thắng
-song-number: 596
+weight: 596
 categories: Chúa Jêsus Christ
 sub-categories: Phục Sinh
 draft: false

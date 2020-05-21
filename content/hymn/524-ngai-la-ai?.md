@@ -1,6 +1,6 @@
 ---
 title: 524. Ngài Là Ai?
-song-number: 524
+weight: 524
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 502. Chúc Mừng Hôn Lễ
-song-number: 502
+weight: 502
 categories: Biệt Lễ Ca
 sub-categories: Hôn Lễ
 draft: false

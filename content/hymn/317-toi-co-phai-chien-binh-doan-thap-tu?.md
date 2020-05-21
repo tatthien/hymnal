@@ -1,6 +1,6 @@
 ---
 title: 317. Tôi Có Phải Chiến Binh Đoàn Thập Tự?
-song-number: 317
+weight: 317
 categories: Đời Tín Đồ
 sub-categories: Linh Chiến
 draft: false

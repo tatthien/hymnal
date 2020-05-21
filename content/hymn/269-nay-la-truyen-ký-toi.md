@@ -1,6 +1,6 @@
 ---
 title: 269. Nầy Là Truyện Ký Tôi
-song-number: 269
+weight: 269
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

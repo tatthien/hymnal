@@ -1,6 +1,6 @@
 ---
 title: 873. Thanh Niên Tin Lành Ca
-song-number: 873
+weight: 873
 categories: Thanh Niên
 sub-categories: 
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 15. Ngày Ngày Ngợi Danh Chúa Hiển Vinh
-song-number: 15
+weight: 15
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

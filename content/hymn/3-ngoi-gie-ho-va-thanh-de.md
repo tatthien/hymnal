@@ -1,6 +1,6 @@
 ---
 title: 3. Ngợi Giê-Hô-Va Thánh Đế
-song-number: 3
+weight: 3
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

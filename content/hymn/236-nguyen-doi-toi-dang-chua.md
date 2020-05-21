@@ -1,6 +1,6 @@
 ---
 title: 236. Nguyện Đời Tôi Dâng Chúa
-song-number: 236
+weight: 236
 categories: Đời Tín Đồ
 sub-categories: Sự Dâng Mình Cho Chúa
 draft: false

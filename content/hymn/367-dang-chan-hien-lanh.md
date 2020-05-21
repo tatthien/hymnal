@@ -1,6 +1,6 @@
 ---
 title: 367. Đấng Chăn Hiền Lành
-song-number: 367
+weight: 367
 categories: Thiếu Nhi
 sub-categories: 
 draft: false

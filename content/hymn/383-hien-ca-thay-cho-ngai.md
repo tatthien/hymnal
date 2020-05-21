@@ -1,6 +1,6 @@
 ---
 title: 383. Hiến Cả Thảy Cho Ngài
-song-number: 383
+weight: 383
 categories: Đơn Ca - Song Ca
 sub-categories: 
 draft: false

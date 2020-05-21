@@ -1,6 +1,6 @@
 ---
 title: 354. Mọi Người Cần Được Cứu
-song-number: 354
+weight: 354
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giáo Khắp Nơi
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 482. Đấng Chăn Giữ Tôi
-song-number: 482
+weight: 482
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Dắt
 draft: false

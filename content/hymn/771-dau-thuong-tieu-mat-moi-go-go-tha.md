@@ -1,6 +1,6 @@
 ---
 title: 771. Đau Thương Tiêu Mất Mơi Gô-Gô-Tha
-song-number: 771
+weight: 771
 categories: Đời Tín Đồ
 sub-categories: Bình An, Vui Vẻ
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 725. Nhìn Xem Jê-Sus
-song-number: 725
+weight: 725
 categories: Đời Tín Đồ
 sub-categories: Bền Lòng Tin Cậy
 draft: false

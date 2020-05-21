@@ -1,6 +1,6 @@
 ---
 title: 10. Nguyện Tụng Ngợi Chiên Con Thánh
-song-number: 10
+weight: 10
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Jêsus Christ
 draft: false

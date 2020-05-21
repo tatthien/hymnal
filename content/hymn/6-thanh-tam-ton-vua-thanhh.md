@@ -1,6 +1,6 @@
 ---
 title: 6. Thành Tâm Tôn Vua Thánhh
-song-number: 6
+weight: 6
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

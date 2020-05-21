@@ -1,6 +1,6 @@
 ---
 title: 45. Luồng Thanh Quang Chiếu Giữa Đêm
-song-number: 45
+weight: 45
 categories: Thờ Phượng
 sub-categories: Gìn Giữ, Dẫn Dắt
 draft: false

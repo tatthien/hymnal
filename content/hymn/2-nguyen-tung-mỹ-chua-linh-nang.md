@@ -1,6 +1,6 @@
 ---
 title: 2. Nguyện Tụng Mỹ Chúa Linh Năng
-song-number: 2
+weight: 2
 categories: Thờ Phượng
 sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false

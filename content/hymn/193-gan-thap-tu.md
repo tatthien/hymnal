@@ -1,6 +1,6 @@
 ---
 title: 193. Gần Thập Tự
-song-number: 193
+weight: 193
 categories: Tin Lành
 sub-categories: Thập Tự Giá
 draft: false

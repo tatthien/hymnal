@@ -1,6 +1,6 @@
 ---
 title: 745. Chúa Nâng Đỡ
-song-number: 745
+weight: 745
 categories: Đời Tín Đồ
 sub-categories: Chúa Dẫn Đưa
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 674. Hãy Đếm Các Ơn Phước Chúa Ban
-song-number: 674
+weight: 674
 categories: Đời Tín Đồ
 sub-categories: Cảm Tạ
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: 671. Ngợi Khen Vì Được Cứu
-song-number: 671
+weight: 671
 categories: Đời Tín Đồ
 sub-categories: Ngợi Khen Vì Được Cứu
 draft: false

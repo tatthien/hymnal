@@ -1,6 +1,6 @@
 ---
 title: 613. Ngày Ấy Sẽ Đến
-song-number: 613
+weight: 613
 categories: Chúa Jêsus Christ
 sub-categories: Tái Lâm
 draft: false

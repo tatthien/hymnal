@@ -1,6 +1,6 @@
 ---
 title: 861. Mong Bạn Tin Cứu Chúa
-song-number: 861
+weight: 861
 categories: Trọng Trách Hội Thánh
 sub-categories: Truyền Giảng
 draft: false

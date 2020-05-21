@@ -1,6 +1,6 @@
 ---
 title: 490. Chúa Nhậm Lời Khẩn Nguyện
-song-number: 490
+weight: 490
 categories: Chúa Tái Lâm
 sub-categories: 
 draft: false
