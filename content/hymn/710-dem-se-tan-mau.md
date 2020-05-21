@@ -1,0 +1,8 @@
+---
+song_number: 710
+title: 710. Đêm Sẽ Tan Mau
+categories: Đời Tín Đồ
+sub_categories: Tỉnh Thức Cầu Nguyện
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Những khi quanh mình tràn ngập bóng hoàng hôn, <br/>Lúc nghe tâm hồn như dậy sóng từng cơn. <br/>Bạn ơi! mau đến nương bên Chúa yêu thương, <br/>Ngài ban thêm sức mạnh thắng hơn đau buồn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bao lời Cha hứa tháng năm chẳng hề qua! <br/>Mau quỳ bên Chúa dốc tuôn lòng mình ra. <br/>Đêm sẽ tan mau, niềm vui kết thành bài ca, <br/>Chúa luôn nuôi bạn bằng tình yêu thương thiết tha. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Giữa cơn đau buồn lòng thổn thức lệ tuôn, <br/>xót xa tâm hồn khi thử thách chẳng ngưng. <br/>Ngàn phương giông tố dâng cao sóng tang thương, <br/>bạn nên tin chắc Ngài cảm thông vô cùng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bao lời Cha hứa tháng năm chẳng hề qua! <br/>Mau quỳ bên Chúa dốc tuôn lòng mình ra. <br/>Đêm sẽ tan mau, niềm vui kết thành bài ca, <br/>Chúa luôn nuôi bạn bằng tình yêu thương thiết tha. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Bước qua đêm trường vào ngày nắng đẹp tươi, <br/>hết cơn đau buồn ta chào đón niềm vui. <br/>Vượt trên yếu đuối do ơn sức Chúa thôi. <br/>Ngài lau khô mắt sầu, Chúa ban môi cười. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bao lời Cha hứa tháng năm chẳng hề qua! <br/>Mau quỳ bên Chúa dốc tuôn lòng mình ra. <br/>Đêm sẽ tan mau, niềm vui kết thành bài ca, <br/>Chúa luôn nuôi bạn bằng tình yêu thương thiết tha. </em></dd></dl>

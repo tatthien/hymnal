@@ -1,0 +1,8 @@
+---
+song_number: 457
+title: 457. Ân Điển Của Chúa
+categories: Thờ Phượng
+sub_categories: Ngợi Khen Đức Chúa Trời
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Lòng hớn hở thay, bởi nay sạch tội rồi, <br/>Mừng bốn biển chung nhau một ân điển, <br/>Hồn vĩnh viễn vui hát khen ngợi tận trời, <br/>Rày được thảnh thơi, sau lại vinh hiển. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Diệu thay, kỳ bấy! <br/>Bởi tin xưng công bình, tại ân điển ấy, <br/>Diệu thay, kỳ bấy! <br/>Cõi tân thiên khi sau đồng trị luôn. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Người cũ của tôi phải luôn chịu ngục hình, <br/>Mà Chúa đã hy sinh, chịu xong cả, <br/>Rày mới tha ra khỏi nơi buộc chặt mình, <br/>Vì được tái sinh, xa tội nguyên tổ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Diệu thay, kỳ bấy! <br/>Bởi tin xưng công bình, tại ân điển ấy, <br/>Diệu thay, kỳ bấy! <br/>Cõi tân thiên khi sau đồng trị luôn. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Xiềng xích thuở xưa, giữ tôi chặt dị thường, <br/>Rày dứt cả phương khôn buộc tôi khổ, <br/>Nhờ Chúa tỏ ân điển sâu rộng lạ lùng, <br/>Mừng được náu nương bên cạnh hông Chúa. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Diệu thay, kỳ bấy! <br/>Bởi tin xưng công bình, tại ân điển ấy, <br/>Diệu thay, kỳ bấy! <br/>Cõi tân thiên khi sau đồng trị luôn. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Lòng ước những luôn thức canh đợi gặp Ngài, <br/>Chiều, sớm chẳng hay, nên chực cho sẵn, <br/>Thì chắc hẳn, nơi không trung gặp mặt Ngài, <br/>Hằng ngợi thánh thay, muôn miệng vui hát. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Diệu thay, kỳ bấy! <br/>Bởi tin xưng công bình, tại ân điển ấy, <br/>Diệu thay, kỳ bấy! <br/>Cõi tân thiên khi sau đồng trị luôn. </em></dd></dl>

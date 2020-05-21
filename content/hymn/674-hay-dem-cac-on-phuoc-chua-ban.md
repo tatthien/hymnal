@@ -1,0 +1,8 @@
+---
+song_number: 674
+title: 674. Hãy Đếm Các Ơn Phước Chúa Ban
+categories: Đời Tín Đồ
+sub_categories: Cảm Tạ
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Khi bao cơn sóng gió bủa khắp chung quanh bạn đây, <br/>Hoặc khi anh cảm thấy mất cả mọi điều đời nay. <br/>Xin anh mau mau đếm các phước lành Thiên Phụ ban, <br/>Rồi anh ngạc nhiên thấy phước ơn Chúa luôn tuôn tràn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin anh đếm các phước lành Cha luôn ban. <br/>Xin anh hãy kể ra ơn lành từng tên. <br/>Hãy đếm ơn trên. Hãy kể tên linh ân. <br/>Chắc chắn anh sẽ thấy các công tác Cha đang làm. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Khi anh đang mê mỏi bởi gánh nặng trên đời chăng? <br/>Hoặc cây thập tự của anh mang thật là nặng chăng? <br/>Anh nên mau mau đếm các phước lành trên trời ban. <br/>Mọi hồ nghi tiêu tán chắc anh sẽ hát suốt đàng. <dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin anh đếm các phước lành Cha luôn ban. <br/>Xin anh hãy kể ra ơn lành từng tên. <br/>Hãy đếm ơn trên. Hãy kể tên linh ân. <br/>Chắc chắn anh sẽ thấy các công tác Cha đang làm. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Anh đang trông nơi của cải kẻ giàu sang đời nầy? <br/>Kìa kim ngôn Cha hứa ban kho vô tận ngày mai. <br/>Xin anh ghi ơn phước Chúa vẫn hằng ban đầy dư, <br/>Dầu bao nhiêu gia sản vẫn không thể mua đâu nào. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin anh đếm các phước lành Cha luôn ban. <br/>Xin anh hãy kể ra ơn lành từng tên. <br/>Hãy đếm ơn trên. Hãy kể tên linh ân. <br/>Chắc chắn anh sẽ thấy các công tác Cha đang làm. </em></dd></dl>

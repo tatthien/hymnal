@@ -1,0 +1,8 @@
+---
+song_number: 716
+title: 716. Vâng Theo Chúa
+categories: Đời Tín Đồ
+sub_categories: Bền Lòng Tin Cậy
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Tháng năm đi trên đường trần, <br/>Bước tôi theo Chúa thật gần <br/>qua nhiều gian truân, <br/>ngày đêm mưa nắng. <br/>Tôi nếm bao nhiêu chuyện buồn, <br/>tôi sống trong bao đau thương, <br/>Cuộc đời còn nhiều <br/>chặng đường gió sương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Không chọn đường riêng cho tôi, <br/>mà vâng theo Jê-sus thôi. <br/>Dù đường muôn lối, <br/>sớm tối Ngài đưa dẫn tôi. <br/>Dù lối đi bao xa xôi, <br/>dù khiếp kinh vây quanh tôi, <br/>được bên Chúa thỏa lòng rồi Chúa ôi! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Chúa trao tôi cây thập tự, <br/>với bao âu yếm dặn dò: <br/>Trên đường cam go <br/>đừng quên yêu Chúa. <br/>Theo Chúa vai mang thập tự, <br/>kiên nhẫn bươn theo Jêsus; <br/>hiểu rằng đường đi không như ước mơ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Không chọn đường riêng cho tôi, <br/>mà vâng theo Jê-sus thôi. <br/>Dù đường muôn lối, <br/>sớm tối Ngài đưa dẫn tôi. <br/>Dù lối đi bao xa xôi, <br/>dù khiếp kinh vây quanh tôi, <br/>được bên Chúa thỏa lòng rồi Chúa ôi! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Bước theo Jê-sus trọn đời, <br/>Chúa ban thêm sức từng hồi, <br/>đau buồn không lui, cùng Ngài đi tới. <br/>Theo Chúa không e lạc đường, <br/>theo Chúa không lo cô đơn, <br/>còn gì cho tôi vui hơn Chúa thương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Không chọn đường riêng cho tôi, <br/>mà vâng theo Jê-sus thôi. <br/>Dù đường muôn lối, <br/>sớm tối Ngài đưa dẫn tôi. <br/>Dù lối đi bao xa xôi, <br/>dù khiếp kinh vây quanh tôi, <br/>được bên Chúa thỏa lòng rồi Chúa ôi! </em></dd></dl>

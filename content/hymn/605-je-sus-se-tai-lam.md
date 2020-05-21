@@ -1,0 +1,8 @@
+---
+song_number: 605
+title: 605. Jê-Sus Sẽ Tái Lâm
+categories: Chúa Jêsus Christ
+sub_categories: Tái Lâm
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Chúng tôi đem tin mừng vui đến, <br/>Hát vang khúc ca tràn niềm tin. <br/>Chúa sẽ tái lâm ngày vinh hiển, <br/>Giữa những đám mây trong uy quyền. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòng tôi luôn tin Jê-sus sẽ đến, <br/>Lúc ban mai hoặc giữa ban ngày. <br/>Lúc đêm sang hoặc khi nắng chưa tàn, <br/>Lòng tôi luôn tin Jêsus sẽ đến. <br/>Một ngày đầy vinh quang <br/>muôn hướng vang cung đàn, <br/>Jê-sus sẽ tái lâm huy hoàng. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lá hoa với cây rừng vang tiếng, <br/>Núi cao, bể sâu cùng reo lên. <br/>Khắp đất, khắp khung trời loan tin: <br/>Cứu Chúa tái lâm trong uy quyền. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòng tôi luôn tin Jê-sus sẽ đến, <br/>Lúc ban mai hoặc giữa ban ngày. <br/>Lúc đêm sang hoặc khi nắng chưa tàn, <br/>Lòng tôi luôn tin Jêsus sẽ đến. <br/>Một ngày đầy vinh quang <br/>muôn hướng vang cung đàn, <br/>Jê-sus sẽ tái lâm huy hoàng. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Khắp nơi sẽ không còn chinh chiến, <br/>Đớn đau qua đi niềm vui đến. <br/>Chúng tôi sống muôn đời bình yên, <br/>lúc Chúa tái lâm trong uy quyền. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòng tôi luôn tin Jê-sus sẽ đến, <br/>Lúc ban mai hoặc giữa ban ngày. <br/>Lúc đêm sang hoặc khi nắng chưa tàn, <br/>Lòng tôi luôn tin Jêsus sẽ đến. <br/>Một ngày đầy vinh quang <br/>muôn hướng vang cung đàn, <br/>Jê-sus sẽ tái lâm huy hoàng. </em></dd></dl>

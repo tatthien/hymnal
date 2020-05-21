@@ -1,0 +1,8 @@
+---
+song_number: 789
+title: 789. Tôi Sẽ Thưa Với Jêsus
+categories: Đời Tín Đồ
+sub_categories: Giao Thông Chùng Chúa
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Đời tôi thật gian nan, nguyện thưa với Jê-sus <br/>làm sao tôi gánh hết mọi đau khổ kia. <br/>Hồi tôi gặp lao lung, Ngài lo lắng trăm chiều. <br/>Chúa quý mến, lo liệu mọi kẻ thuộc Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus, Cứu Chúa tôi! Xin dâng lên cho Ngài. <br/>Nào tôi dám mang nổi khó khăn một mình. <br/>Trình lên cho Jê-sus. nguyện thưa với Jê-sus <br/>Chỉ có Chúa Jê-sus hằng cứu giúp tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Trình lên cho Jê-sus mọi đau đớn lo buồn, <br/>Jê-sus là thiết hữu hằng thương xót tôi. <br/>Hồi tôi gặp gian nan, trình lên Chúa Jê-sus <br/>Chúa chấm dứt ngay mọi cùng khốn của đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus, Cứu Chúa tôi! Xin dâng lên cho Ngài. <br/>Nào tôi dám mang nổi khó khăn một mình. <br/>Trình lên cho Jê-sus. nguyện thưa với Jê-sus <br/>Chỉ có Chúa Jê-sus hằng cứu giúp tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Trần gian luôn quyến rũ, đặng tôi phải sa lầy, <br/>Lòng tôi luôn đối phó cùng bao ác khiên. <br/>Trình lên cho Jê-sus, Ngài sẽ giúp tôi hoài, <br/>Chiến thắng vẻ vang luôn tại thế gian này. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus, Cứu Chúa tôi! Xin dâng lên cho Ngài. <br/>Nào tôi dám mang nổi khó khăn một mình. <br/>Trình lên cho Jê-sus. nguyện thưa với Jê-sus <br/>Chỉ có Chúa Jê-sus hằng cứu giúp tôi. </em></dd></dl>

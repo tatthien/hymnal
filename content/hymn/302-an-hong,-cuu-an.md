@@ -1,0 +1,8 @@
+---
+song_number: 302
+title: 302. Ân Hồng, Cứu Ân
+categories: Đời Tín Đồ
+sub_categories: Ân Điển
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Ôi, lạ thay ân trạch của Chúa khoan hồng! <br/>Tràn ngập trên cả lòng đầy tội đen tối. <br/>Nơi đồi Gô-gô-tha tuôn xuống ròng ròng, <br/>Là nguồn do huyết Chiên Con xưa trào sôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ân hồng! Cứu ân! <br/>Thiên ân buông tha biết bao tội lỗi tôi; <br/>Ân hồng! Cứu ân! <br/>Thiên ân bao quát, khỏa lấp căn tội tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ôi tội khiên, thất vọng như sóng tê người. <br/>Cuồn cuộn ngăm đe dìm hồn mình trong biển. <br/>Nhưng thật không sao thuật cho hết ơn trời. <br/>Đem tôi nương náu nơi thập tự bình yên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ân hồng! Cứu ân! <br/>Thiên ân buông tha biết bao tội lỗi tôi; <br/>Ân hồng! Cứu ân! <br/>Thiên ân bao quát, khỏa lấp căn tội tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ôi, tội ô đen đậm trông rõ muôn ngàn. <br/>Dùng gì mong rửa lòng đầy tội ác ấy? <br/>Kia kìa, xem sông hồng, ơn cứu tuôn tràn. <br/>Liền sạch hơn tuyết trong tâm anh từ đây. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ân hồng! Cứu ân! <br/>Thiên ân buông tha biết bao tội lỗi tôi; <br/>Ân hồng! Cứu ân! <br/>Thiên ân bao quát, khỏa lấp căn tội tôi. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ô, lạ thay ân Ngài sông biển khôn tày! <br/>Người nào tin chắc nhận được hồng ân ấy. <br/>Ai thật tâm hy vọng mong thấy mặt Ngài. <br/>Còn chờ chi, hãy tiếp ơn Ngài từ đây. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ân hồng! Cứu ân! <br/>Thiên ân buông tha biết bao tội lỗi tôi; <br/>Ân hồng! Cứu ân! <br/>Thiên ân bao quát, khỏa lấp căn tội tôi. </em></dd></dl>

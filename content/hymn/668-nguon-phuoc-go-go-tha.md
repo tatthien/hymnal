@@ -1,0 +1,8 @@
+---
+song_number: 668
+title: 668. Nguồn Phước Gô-Gô-Tha
+categories: Đời Tín Đồ
+sub_categories: Ngợi Khen Vì Được Cứu
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Chính tôi xưa chìm trong <br/>tối tăm nơi trần gian, <br/>tâm hồn đớn đau phiền ưu. <br/>Chúa kêu tôi về, <br/>đưa dắt lên nơi đồi cao <br/>là nơi thánh Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Gô-gô-tha, nguồn ơn phước <br/>phát nguyên ra từ Jê-sus. <br/>Chúa xóa bôi muôn tội <br/>nay sống vui trong tự do, <br/>nhờ dòng huyết Gô-gô-tha. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Jê-sus ban quyền năng <br/>giúp tôi nay tự do, <br/>xa rời bóng mây tội ô. <br/>Hát vang cho đời nghe <br/>nỗi vui trong lòng tôi <br/>trào dâng đến Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Gô-gô-tha, nguồn ơn phước <br/>phát nguyên ra từ Jê-sus. <br/>Chúa xóa bôi muôn tội <br/>nay sống vui trong tự do, <br/>nhờ dòng huyết Gô-gô-tha. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Hỡi anh đang mệt mê <br/>khổ đau trong lầm than <br/>nơi trần thế vương sầu cay; <br/>Đến ngay trên đồi <br/>xem Chúa hy sinh vì anh <br/>bằng dòng huyết Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Gô-gô-tha, nguồn ơn phước <br/>phát nguyên ra từ Jê-sus. <br/>Chúa xóa bôi muôn tội <br/>nay sống vui trong tự do, <br/>nhờ dòng huyết Gô-gô-tha. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Đến nơi chân Ngài <br/>dâng nỗi âu lo phiền ưu, <br/>cho đời thỏa vui từ đây! <br/>Hỡi anh mau về <br/>bên Jê-sus nhận tình yêu <br/>tại nơi thánh Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Gô-gô-tha, nguồn ơn phước <br/>phát nguyên ra từ Jê-sus. <br/>Chúa xóa bôi muôn tội <br/>nay sống vui trong tự do, <br/>nhờ dòng huyết Gô-gô-tha. </em></dd></dl>

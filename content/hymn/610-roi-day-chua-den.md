@@ -1,0 +1,8 @@
+---
+song_number: 610
+title: 610. Rồi Đây Chúa Đến
+categories: Chúa Jêsus Christ
+sub_categories: Tái Lâm
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Dịu êm thay khi lòng biết lắng nghe <br/>lời Chúa phán cho hồn tôi, <br/>nhẹ đi những đau đớn tôi, <br/>đẹp thêm ước mơ của tôi. <br/>Ngài phán với tôi rằng hãy sống vui, <br/>Ngài sẽ đến trong ngày cuối, <br/>khó khăn tối tăm sẽ thôi, <br/>bình an sáng tươi khắp nơi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus yêu mến rồi đây sẽ đến vào <br/>một bình minh hay trong ban đêm. <br/>Xin Chúa ban cho tôi vững đức tin, <br/>chờ ngày Jê-sus đến; Đèn tôi khêu sáng lên. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Đời tôi với hy vọng rất chứa chan, <br/>hoàn cảnh tối tăm bừng sáng <br/>là khi tiếng xưa khóc than <br/>được thay tiếng ca hát vang. <br/>Ngài đến rước tôi về nước hiển vinh, <br/>được mãi sống trong bình an, <br/>chính tôi bước lên chốn cao, <br/>còn anh sẽ đi tới đâu? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus yêu mến rồi đây sẽ đến vào <br/>một bình minh hay trong ban đêm. <br/>Xin Chúa ban cho tôi vững đức tin, <br/>chờ ngày Jê-sus đến; Đèn tôi khêu sáng lên. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngày nay biết bao dòng nước mắt rơi <br/>tràn xuống trái tim rạn vỡ, <br/>tội nhân khát khao ngẩn ngơ, <br/>lầm than dưới cơn nắng mưa. <br/>Bạn hỡi cớ sao còn mãi vẩn vơ, <br/>ngày tháng cách xa nhà Chúa, <br/>hãy thôi bước theo lối xưa, <br/>về yên nghỉ trong Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus yêu mến rồi đây sẽ đến vào <br/>một bình minh hay trong ban đêm. <br/>Xin Chúa ban cho tôi vững đức tin, <br/>chờ ngày Jê-sus đến; Đèn tôi khêu sáng lên. </em></dd></dl>

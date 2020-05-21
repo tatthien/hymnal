@@ -1,0 +1,8 @@
+---
+song_number: 719
+title: 719. Hãy Tin Nơi Ngài
+categories: Đời Tín Đồ
+sub_categories: Bền Lòng Tin Cậy
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Bạn ơi! Có khi nào <br/>nghe lòng vỡ tan bao hy vọng? <br/>Và bao công việc <br/>như qua đi vô ích không còn? <br/>Rồi muôn gánh đau buồn <br/>quay cuồng khiến tâm linh hao mòn? <br/>Bạn lo âu không chiến thắng <br/>khi thử thách tràn tuôn? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hãy tin nơi Ngài. Nắng lên ngày mai, <br/>dù trời nhiều mây, mưa không rơi mãi. <br/>Chúa có chương trình dành cho bạn đấy! <br/>Bền tin nơi Chúa. Đừng bao giờ phai. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Màn đêm khiếp kinh thường <br/>bao trùm trước khi ban mai về, <br/>Rồi trên không bừng lên <br/>vinh quang soi sáng muôn bề. <br/>Vì Cha hứa đêm ngày đưa bạn <br/>suốt trong cuộc hành trình. <br/>Mọi đau thương luôn giúp <br/>nâng cao đời sống thuộc linh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hãy tin nơi Ngài. Nắng lên ngày mai, <br/>dù trời nhiều mây, mưa không rơi mãi. <br/>Chúa có chương trình dành cho bạn đấy! <br/>Bền tin nơi Chúa. Đừng bao giờ phai. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Bạn ơi! Đức tin thường đem <br/>toàn thắng trong mọi thì giờ. <br/>Ngài là Cha toàn năng <br/>đầy lòng thương xót nhân từ. <br/>Niềm kinh hãi, lo buồn, <br/>ô tội sẽ tan theo mây mờ. <br/>Nhờ ơn Vua chiến thắng <br/>vinh quang từ muôn ngàn xưa. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hãy tin nơi Ngài. Nắng lên ngày mai, <br/>dù trời nhiều mây, mưa không rơi mãi. <br/>Chúa có chương trình dành cho bạn đấy! <br/>Bền tin nơi Chúa. Đừng bao giờ phai. </em></dd></dl>

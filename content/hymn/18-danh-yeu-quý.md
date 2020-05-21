@@ -1,0 +1,8 @@
+---
+song_number: 18
+title: 18. Danh Yêu Quý
+categories: Thờ Phượng
+sub_categories: Ngợi Khen Jêsus Christ
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Này danh yêu quý, danh thật dịu êm <br/>Tột trời, thông đất, vượt cổ kim <br/>Mệnh danh cho trước khi được hoài thai <br/>Danh Jê-sus có một không hai. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta rất thích hát xướng danh Jê-sus <br/>Danh đáng chúc tôn, danh muôn thu <br/>Từ xưa nay chẳng danh nào đẹp hay <br/>Cho bằng danh báu Jê-sus đây. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Hồi treo thân Chúa trên thập tự kia <br/>Họ để “Vua Jê-sus” để bia <br/>Hầu muôn dân thấy cho họ đều hay <br/>Ngọn nguồn ta ái mộ Christ đây. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta rất thích hát xướng danh Jê-sus <br/>Danh đáng chúc tôn, danh muôn thu <br/>Từ xưa nay chẳng danh nào đẹp hay <br/>Cho bằng danh báu Jê-sus đây. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Hiện nay Jê-sus đang ngồi cạnh Cha <br/>Đời đời cai quản hoàn vũ ta <br/>Tội khiên dung xá, tật bịnh trừ xa <br/>Do quyền Jê-sus là Chúa ta. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta rất thích hát xướng danh Jê-sus <br/>Danh đáng chúc tôn, danh muôn thu <br/>Từ xưa nay chẳng danh nào đẹp hay <br/>Cho bằng danh báu Jê-sus đây. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ồ danh tôn quý một Jê-sus <br/>Ban mọi ơn cứu thật phỉ phu <br/>Từ hôm qua, bữa nay, ngàn đời sau <br/>Danh Jê-sus chẳng thay đổi đâu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta rất thích hát xướng danh Jê-sus <br/>Danh đáng chúc tôn, danh muôn thu <br/>Từ xưa nay chẳng danh nào đẹp hay <br/>Cho bằng danh báu Jê-sus đây. </em></dd></dl>

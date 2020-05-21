@@ -1,0 +1,8 @@
+---
+song_number: 288
+title: 288. Danh Lạ Lùng
+categories: Đời Tín Đồ
+sub_categories: Sự An Ủi
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Nầy ai sống trong lao khổ, ưu sầu, <br/>Nhờ danh Jê-sus mau kêu cầu; <br/>Lòng chắc sẽ được an ủi thảnh thơi, <br/>Danh nầy chớ quên trong mọi nơi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Danh lạ lùng, Danh dịu dàng! <br/>Mừng vui ở trời, nơi đất trông; <br/>Danh lạ lùng, Danh dịu dàng! <br/>Mừng vui ở trời, đất hi vọng. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Dầu sao cứ nhơn danh Chúa Jê-sus, <br/>Làm khiên che lằn tên quân thù; <br/>Dầu Sa-tan nghìn muôn cám dỗ ta, <br/>Kêu Ngài ắt nó lui chạy xa. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Danh lạ lùng, Danh dịu dàng! <br/>Mừng vui ở trời, nơi đất trông; <br/>Danh lạ lùng, Danh dịu dàng! <br/>Mừng vui ở trời, đất hi vọng. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Kìa, danh Chúa Jê-sus quí vô ngần, <br/>Thường giúp ta mừng vui muôn phần, <br/>Ngài đưa tay nhẹ êm nâng đỡ ta <br/>Lưỡi nầy cât tiêng ngơi khen Cha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Danh lạ lùng, Danh dịu dàng! <br/>Mừng vui ở trời, nơi đất trông; <br/>Danh lạ lùng, Danh dịu dàng! <br/>Mừng vui ở trời, đất hi vọng. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Nhờ danh Jê-sus ta đến nghiêng mình; <br/>Quì nơi chơn ngay dâng tâm thànhh <br/>Giờ lâm chung nguyền hô danh Chúa luôn <br/>Duy Ngai có vinh danh độc tôn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Danh lạ lùng, Danh dịu dàng! <br/>Mừng vui ở trời, nơi đất trông; <br/>Danh lạ lùng, Danh dịu dàng! <br/>Mừng vui ở trời, đất hi vọng. </em></dd></dl>

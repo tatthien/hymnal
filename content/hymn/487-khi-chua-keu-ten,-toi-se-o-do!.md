@@ -1,0 +1,8 @@
+---
+song_number: 487
+title: 487. Khi Chúa Kêu Tên, Tôi Sẽ Ở Đó!
+categories: Chúa Tái Lâm
+sub_categories: 
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Khi Thiên sứ Đấng Christ đến với loa vang, <br/>đêm tối tăm không hề lại, <br/>Ban mai chói lói, rạng rỡ, vĩnh viễn tươi đẹp thay <br/>Khi muôn ức Thánh Chúa đã cứu xưa nay <br/>vui nhóm trên thiên đàng Ngài <br/>Tôi sẽ có ở đó khi Chúa kêu tên của tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Khi Đấng Christ tuyên danh sách quý thay! <br/>Khi Đấng Christ tuyên danh sách quý thay! <br/>Khi Đấng Christ tuyên danh thật tuyệt thay, <br/>Tôi sẽ có ở đó khi Chúa kêu tên của tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ban mai sáng láng, các Thánh chết <br/>xưa kia nay sống lại khỏi phần mộ, <br/>Vinh quang Đấng Christ chiến thắng, <br/>các Thánh nay cùng chia. <br/>Khi trên cõi phước quá trí chúng ta <br/>anh em nhóm nhau ca tụng Ngài <br/>Tôi sẽ có ở đó khi Chúa kêu tên của tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Khi Đấng Christ tuyên danh sách quý thay! <br/>Khi Đấng Christ tuyên danh sách quý thay! <br/>Khi Đấng Christ tuyên danh thật tuyệt thay, <br/>Tôi sẽ có ở đó khi Chúa kêu tên của tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Anh em hãy quyết gánh ách Jê-sus <br/>từ buổi sáng đến khi trời tà, <br/>Anh em hãy cất tiếng lớn hát kính khen hồng ân! <br/>Khi tranh đấu hết, khúc chiến thắng <br/>vang xa trên đất muôn năm hòa bình, <br/>Tôi sẽ có ở đó khi Chúa kêu tên của tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Khi Đấng Christ tuyên danh sách quý thay! <br/>Khi Đấng Christ tuyên danh sách quý thay! <br/>Khi Đấng Christ tuyên danh thật tuyệt thay, <br/>Tôi sẽ có ở đó khi Chúa kêu tên của tôi. </em></dd></dl>

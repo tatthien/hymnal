@@ -1,0 +1,8 @@
+---
+song_number: 155
+title: 155. Thánh Kinh Âm Nhạc
+categories: Kinh Thánh
+sub_categories: 
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Đương cơn sóng lo buồn lớp lớp tuôn, <br/>Khi đau đớn như dòng nước cuốn, <br/>Kia nghe tiếng âm nhạc thánh quốc vang, <br/>Lòng tươi sáng, sầu não tiêu tan. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quý báu bấy âm nhạc Kinh Thánh nầy, <br/>Tiên Tri thánh dân nghe tường thay, <br/>Khi đớn đau, ban hy vọng dường bao, <br/>Thánh Kinh âm nhạc rất thanh cao! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nghe văng vẳng: “Ta hằng ở với ngươi,” <br/>Nghe lanh lảnh: “Ngươi đừng bối rối,” <br/>Nương bên Đấng ta toàn tín bấy lâu, <br/>Còn chi khiến lòng phải lo âu? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quý báu bấy âm nhạc Kinh Thánh nầy, <br/>Tiên Tri thánh dân nghe tường thay, <br/>Khi đớn đau, ban hy vọng dường bao, <br/>Thánh Kinh âm nhạc rất thanh cao! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Anh lâm phải con đường bế tắc chăng? <br/>Jê-sus lấy mắt hằng dẫn dắt, <br/>Nay anh há lo buồn núng đức tin? <br/>Jê-sus đáp lời trước khi xin. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quý báu bấy âm nhạc Kinh Thánh nầy, <br/>Tiên Tri thánh dân nghe tường thay, <br/>Khi đớn đau, ban hy vọng dường bao, <br/>Thánh Kinh âm nhạc rất thanh cao! </em></dd><dt>Câu 4:</dt><dd data-verse="4">Anh mê mỏi chăng? Lời Chúa chớ quên, <br/>“Ai đang mỏi mê, này hãy đến.” <br/>Anh đang rối reng ngày sắp đến ư? <br/>Ngài ban sức càng sống dinh dư. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quý báu bấy âm nhạc Kinh Thánh nầy, <br/>Tiên Tri thánh dân nghe tường thay, <br/>Khi đớn đau, ban hy vọng dường bao, <br/>Thánh Kinh âm nhạc rất thanh cao! </em></dd></dl>

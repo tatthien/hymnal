@@ -1,0 +1,8 @@
+---
+song_number: 120
+title: 120. Ha-Lê-Lu-Gia. Chúa Tái Lâm!
+categories: Chúa Jêsus Christ
+sub_categories: Tái Lâm
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Kìa, Jê-sus đã chết vì nhân loại, <br/>Nay đang cỡi áng mây hồi lai; <br/>Thiên dân muôn vàn đón chờ sứ đoàn, <br/>Theo xa giá xuống nơi trần gian. <br/>Ha-lê-lu-gia! Chúa tái lâm thế gian làm Vua; <br/>Ha-lê-lu-gia! Chúa tái lâm thế gian làm Vua. </dd><dt>Câu 2:</dt><dd data-verse="2">Nhân gian nay nhìn Chúa phục lâm kìa, <br/>Oai nghi chói lói vương bào kia; <br/>Ai khinh khi, từng bán, nộp, trêu, đùa, <br/>Đem thân Chúa đóng đinh ngày xưa, <br/>Kêu la ân hận lúc thấy Chúa tái lâm trần gian; <br/>Kêu la ân hận lúc thấy Chúa tái lâm trần gian. </dd><dt>Câu 3:</dt><dd data-verse="3">Thấy vinh quang còn vết sẹo kia kìa, <br/>Hôm nay chiếu sáng muôn nghìn tia; <br/>Trông lên thân ngọc, thánh đồ vui mừng, <br/>Thêm tôn quý, mến yêu bội phân; <br/>Ta hân hoan nhìn những vết đinh hiển vinh Ngài mang; <br/>Ta hân hoan nhìn những vết đinh hiển vinh Ngài mang. </dd><dt>Câu 4:</dt><dd data-verse="4">Bao năm muôn vật nóng lòng trông Ngài, <br/>Nay hoan hỉ thấy Vua hồi lai; <br/>Xưa kia môn đồ đã bị khinh nhạo, <br/>Hôm nay Chúa tiếp lên trời cao. <br/>Ha-lê-lu-gia! Chúa đến hôm nay vui mừng thay! <br/>Ha-lê-lu-gia! Chúa đến hôm nay vui mừng thay! </dd><dt>Câu 5:</dt><dd data-verse="5">A men! Muôn loài khá quỳ trước Ngài, <br/>Tôn vinh tán mỹ quanh bệ ngai; <br/>Xin Jê-sus dùng phép quyền giáng hạ, <br/>Tuyên dương đoán ngữ công bình ra! <br/>Ôi, Giê-hô-va! nước hiển vinh đây cai trị luôn! <br/>Ôi, Giê-hô-va! nước hiển vinh đây cai trị luôn! </dd></dl>

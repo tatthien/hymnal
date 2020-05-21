@@ -1,0 +1,8 @@
+---
+song_number: 312
+title: 312. Con Trời Xông Ra Chiến Đấu
+categories: Đời Tín Đồ
+sub_categories: Can Đảm, Trung Tín
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Con trời xông ra chiến đấu oai linh, <br/>Hầu đoạt vương mão hiển vinh; <br/>Kìa, huyết thắm tươi trên cây cờ hồng; <br/>Ai nguời theo Ngài xung phong? <br/>Kẻ uống chén đau thương mình hoàn toàn, <br/>Vui chịu hoạn nạn mọi đàng, <br/>Thập tự hằng mang, hổ nhuốc coi khinh, <br/>Duy kẻ ấy theo đoàn linh. </dd><dt>Câu 2:</dt><dd data-verse="2">Xưa tuận đạo nhân mắt giống chim ưng, <br/>Nhìn qua âm phủ sáng trưng; <br/>Trông Chúa đứng trên thiên cung đành rành, <br/>Kêu Ngài trong giờ hi sanh. <br/>Bắt chước Chúa khi xưa chịu nhục hình, <br/>Tha tội người thù nghịch mình, <br/>Họ vì cừu nhân khẩn đảo khăng khăng: <br/>Ai dám theo gương họ chăng? </dd><dt>Câu 3:</dt><dd data-verse="3">Môn đồ mười hai, dẫu chẳng bao nhiêu, <br/>Được ơn riêng Thánh Linh kêu; <br/>Can đảm bước theo tia hy vọng mình, <br/>Lửa hừng, thập tự coi khinh. <br/>Đứng trước lưỡi gươm vương hầu tàn bạo, <br/>Miệng hùm rùng rợn mực nào, <br/>Họ đều tận trung cảm tử xung phong: <br/>Ai dám theo chân họ không? </dd><dt>Câu 4:</dt><dd data-verse="4">Kia, đội hùng binh áo trắng vinh quang, <br/>Họp quanh ngôi Chúa hân hoan; <br/>Tôi tớ, chủ nhân, con thơ, người già, <br/>Rập ràng ca tụng danh Cha. <br/>Những bước khốn nguy, lao lục, tù rạc, <br/>Đưa họ vào miền cực lạc, <br/>Nguyện Ngài ban ơn giúp sức hôm nay, <br/>Cho chúng tôi theo họ ngay. </dd></dl>

@@ -1,0 +1,8 @@
+---
+song_number: 185
+title: 185. Tâm Linh Ơi Vùng Lên Này!
+categories: Tin Lành
+sub_categories: Huyết Của Christ
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Tâm linh ơi, vùng lên này! <br/>Sầu kinh bao mối trút ngày; <br/>Kìa, Sinh tế dâng vì ta, <br/>Xưa đã tuôn huyết hồng ra; <br/>Là Đấng bảo chứng tại nơi ngôi Cha, <br/>Tiện danh ta ghi ở tay Jê-sus, <br/>Tiện danh ta ghi ở đó nghìn thu. </dd><dt>Câu 2:</dt><dd data-verse="2">Đấng vĩnh hữu ngự thiên tòa, <br/>Vì ta khẩn đảo thiết tha; <br/>Tình yêu cứu mỗi người nay, <br/>Do huyết Ngài đem cầu thay; <br/>Dùng huyết cứu rỗi tội nhân quy lai, <br/>Toà thiên ân bôi huyết Con hy sinh, <br/>Tại ngôi thiên ân huyết vẫn nghiệm linh. </dd><dt>Câu 3:</dt><dd data-verse="3">Trên Gô-gô-tha lạ dường, <br/>Ngài mang năm vết huyết thương; <br/>Lời năm vết ấy diệu thay, <br/>Đang thế tôi khẩn nguyện nay; <br/>“Tội lỗi của nó cầu Cha tha ngay, <br/>Người Cha mua, xin chớ nên buông xa, <br/>Người Cha mua đây, xin chớ lìa xa.” </dd><dt>Câu 4:</dt><dd data-verse="4">Cha nghe Con Ngài nguyện cầu, <br/>Là Con Cha đã xức dầu; <br/>Thật Cha thánh chẳng hề quên, <br/>Khi Chúa Con khẩn một bên; <br/>Hồi đáp huyết tích, Thần Linh kêu lên, <br/>Rằng, ngươi nay sinh bởi Cha thiêng liêng, <br/>Rằng, ngươi nay sinh do Chúa thượng thiên. </dd><dt>Câu :</dt><dd data-verse="{STT}">Tâm tôi nay tội sạch ngần, <br/>Hòa thân với Đấng Chân Thần; <br/>Làm con của Cha thượng thiên, <br/>Tâm trí từ nay bình yên; <br/>Lại ngôi thiên ân lòng tin trung kiên, <br/>Mừng vui tôi kêu Chúa, A-ba, Cha, <br/>Mừng thay tôi xưng Chân Chúa là Cha. </dd></dl>

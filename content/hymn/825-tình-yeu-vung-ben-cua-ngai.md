@@ -1,0 +1,8 @@
+---
+song_number: 825
+title: 825. Tình Yêu Vững Bền Của Ngài
+categories: Đời Tín Đồ
+sub_categories: Đức Tin
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Tôi không ước mơ thấy rõ con đường, <br/>Bàn chân tôi bước trong sương, <br/>Tôi chỉ tin cậy Chúa nuôi linh hồn, <br/>Biết rằng Ngài luôn xót thương. <br/>Tôi không cầu xin trông thấy xa hơn <br/>dù sương mù giăng bốn phương. <br/>Tôi biết suốt đường Chúa đang đi cùng, <br/>Mặc cho gió mưa bão bùng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jêsus yêu thương không phai, <br/>Jêsus không hề đổi thay. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tuy tôi mảnh mai yếu đuối vô cùng, <br/>Bàn chân trên lối gai chông, <br/>Tôi vẫn vui mừng hát ca vang lừng, <br/>Giữa mùa hè hay tiết đông. <br/>Trên muôn nẻo đường heo hút mênh mông <br/>bàn tay Ngài luôn dắt chăn. <br/>Tôi thấy ấm lòng sống nơi dương trần, <br/>Vì tôi biết Ngài ở gần. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus yêu thương không phai, <br/>Jê-sus không hề đổi thay. <br/>Hồn tôi mỗi ngày Chúa cho no đầy, <br/>tình yêu vững bền của Ngài.i </em></dd><dt>Câu 3:</dt><dd data-verse="3">Tôi đang trải qua những bước trong đời, <br/>Bàn chân ướt đẫm sương rơi, <br/>Trên lối xa vời khó nguy bao hồi, <br/>Chúa từng ngày chăm sóc tôi. <br/>Cho tôi được nghe chim hót muôn nơi <br/>được trông ngàn hoa thắm tươi. <br/>Qua hết cõi đời bước tôi xong rồi, <br/>Nhìn tôi Chúa âu yếm cười. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus yêu thương không phai, <br/>Jê-sus không hề đổi thay. <br/>Hồn tôi mỗi ngày Chúa cho no đầy, <br/>tình yêu vững bền của Ngài. </em></dd></dl>

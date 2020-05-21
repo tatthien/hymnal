@@ -1,0 +1,8 @@
+---
+song_number: 96
+title: 96. Ghết-Sê-Ma-Nê
+categories: Chúa Jêsus Christ
+sub_categories: Chịu Khổ Và Chết
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Ghết-sê-ma-nê, tối ấy ai bi, <br/>Ký ức tôi hằng nhớ ghi, <br/>Mồ hôi pha huyết, chiến đấu cô đơn, <br/>Cứu Chúa quyết không nao sờn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ghết-sê-ma-nê! Ghết-sê-ma-nê! <br/>Ký ức tôi hằng nhớ ghi, <br/>Nhìn xem Chân Chúa giữa lúc đêm sâu <br/>Cúi xuống thiết tha kêu cầu. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Giữa lúc thâm nghiêm, cảnh vắng đêm sâu, <br/>Bỗng trí tôi nhìn những đâu, <br/>Vì tội tôi khiến Cứu Chúa đê mê, <br/>Gánh vác hết bao nặng nề. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ghết-sê-ma-nê! Ghết-sê-ma-nê! <br/>Ký ức tôi hằng nhớ ghi, <br/>Nhìn xem Chân Chúa giữa lúc đêm sâu <br/>Cúi xuống thiết tha kêu cầu. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lúc ấy môn sinh chí ái lui ra, <br/>Đến nỗi Cha Ngài cũng xa, <br/>Thật tôi sao rõ những nỗi đau thương, <br/>Chúa gánh thế tôi đêm trường. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ghết-sê-ma-nê! Ghết-sê-ma-nê! <br/>Ký ức tôi hằng nhớ ghi, <br/>Nhìn xem Chân Chúa giữa lúc đêm sâu <br/>Cúi xuống thiết tha kêu cầu. </em></dd><dt>Câu 4:</dt><dd data-verse="4"> Nếu ái tâm tôi đối Chúa phôi pha, <br/>Chẳng có đâm chồi nở hoa, <br/>Thì xin cho thấy Ghết-sê-ma-nê, <br/>Chỗ Chúa thế tôi nặng nề. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ghết-sê-ma-nê! Ghết-sê-ma-nê! <br/>Ký ức tôi hằng nhớ ghi, <br/>Nhìn xem Chân Chúa giữa lúc đêm sâu <br/>Cúi xuống thiết tha kêu cầu. </em></dd></dl>

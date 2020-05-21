@@ -1,0 +1,8 @@
+---
+song_number: 400
+title: 400. Tiệc Thánh
+categories: Lễ Nghi
+sub_categories: Tiệc Thánh
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Tiệc thánh Chúa ban mọi sứ đồ, <br/>Truyền đời đời nên ghi nhớ, <br/>Rằng Chúa chết thay vì chúng sinh, <br/>Thân báu phải chịu thập hình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hồi niệm thân Chúa huyết tuôn vì ta, <br/>Nay rao truyền sự chết Chúa ra. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Thập giá Chúa xưa chịu khổ hình, <br/>Đồ đệ, Phụ thân xa lánh; <br/>Nhục nhã, đớn đau nào thở than, <br/>Thân Chúa huyết hồng giọt tràn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hồi niệm thân Chúa huyết tuôn vì ta, <br/>Nay rao truyền sự chết Chúa ra. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Cầm bánh nhớ thân Ngài vỡ rồi, <br/>Thật vì tội tôi nên nỗi; <br/>Cầm chén nhắc ta giọt huyết rơi, <br/>Ban giá cứu chuộc mọi người. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hồi niệm thân Chúa huyết tuôn vì ta, <br/>Nay rao truyền sự chết Chúa ra. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Lạy Chúa, thứ tha mọi lỗi lầm, <br/>Từng phạm điều Cha răn cấm; <br/>Nguyền lấy huyết bôi sạch cả đây, <br/>Cho xứng đáng dự tiệc nầy. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hồi niệm thân Chúa huyết tuôn vì ta, <br/>Nay rao truyền sự chết Chúa ra. </em></dd><dt>Câu 5:</dt><dd data-verse="5">Tiệc Thánh nhắc ta ngày phước hạnh, <br/>Ngày dự tiệc Chiên Con Thánh; <br/>Lòng nóng nảy trông Ngài tái lâm, <br/>Chung kết cõi đời lạc lầm. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hồi niệm thân Chúa huyết tuôn vì ta, <br/>Nay rao truyền sự chết Chúa ra. </em></dd></dl>

@@ -1,0 +1,8 @@
+---
+song_number: 649
+title: 649. Bài Ca Cứu Chuộc
+categories: Đời Tín Đồ
+sub_categories: Vui Vẻ Vì Được Cứu
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Chúa đã cứu, từ nay đời tôi tự do, <br/>thoát bóng tối sống trong ánh vinh quang Ngài. <br/>Thập tự giá huyết yêu thương kia chan hòa, <br/>cho tôi sống với bao hy vọng ngày mai. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hát vang lên khúc ca từ Gô-gô-tha. <br/>Chúa chết thay lỗi tôi từ nay cách xa <br/>dầu cho muôn sự thay đổi trong đời, <br/>đời tôi bên Ngài mỗi bước không rời, <br/>cùng Chúa vững an trên đường <br/>về nơi thỏa vui muôn đời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Chúa đã cứu màn đêm cuộc đời dần tan, <br/>ánh nắng mới chiếu trên sương mai huy hoàng; <br/>Là nguồn sống Chúa ban cho tôi mỗi ngày, <br/>trông mong Chúa đến trong vinh quang ngày mai. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hát vang lên khúc ca từ Gô-gô-tha. <br/>Chúa chết thay lỗi tôi từ nay cách xa <br/>dầu cho muôn sự thay đổi trong đời, <br/>đời tôi bên Ngài mỗi bước không rời, <br/>cùng Chúa vững an trên đường <br/>về nơi thỏa vui muôn đời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lớn tiếng hát vì Jê-sus là bài ca, <br/>Đấng đã chết để muôn dân được phục hòa <br/>Ta chung tiếng kính dâng khúc ca muôn đời, <br/>tôn vinh Chúa đã ban cứu ân mọi nơi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hát vang lên khúc ca từ Gô-gô-tha. <br/>Chúa chết thay lỗi tôi từ nay cách xa <br/>dầu cho muôn sự thay đổi trong đời, <br/>đời tôi bên Ngài mỗi bước không rời, <br/>cùng Chúa vững an trên đường <br/>về nơi thỏa vui muôn đời. </em></dd></dl>

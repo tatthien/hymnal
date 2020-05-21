@@ -1,0 +1,8 @@
+---
+song_number: 572
+title: 572. Ô, Sao Xinh Tươi Chiếu Sáng Luôn
+categories: Chúa Jêsus Christ
+sub_categories: Giáng Sinh
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1"> Ô! Sao xinh tươi chiếu sáng luôn, <br/>là Christ ở ngôi trời nay. <br/>Kìa muôn tia ái đức Chúa Cha, <br/>chiếu ra từ chính sao Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòa soi, chiếu luôn; <br/>Ồ! Sao xinh tươi rực rỡ bấy. <br/>Lòa soi, chiếu luôn; <br/>Ồ sao xinh tươi vinh hiển thay. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ô! Sao xinh tươi chiếu sáng luôn, <br/>đời tôi ngắm xem Ngài thôi. <br/>Ngoài kia mây phủ cảnh tối tăm, <br/>thấy sao rực rõ soi rọi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòa soi, chiếu luôn; <br/>Ồ! Sao xinh tươi rực rỡ bấy. <br/>Lòa soi, chiếu luôn; <br/>Ồ sao xinh tươi vinh hiển thay. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Sao không thay đổi chiếu sáng luôn, <br/>dìu chân khách lữ hành nay. <br/>Về trên thiên quốc hưởng vĩnh sinh, <br/>hiển vinh rực rỡ đêm ngày. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòa soi, chiếu luôn; <br/>Ồ! Sao xinh tươi rực rỡ bấy. <br/>Lòa soi, chiếu luôn; <br/>Ồ sao xinh tươi vinh hiển thay. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Mai kia tôi với kẻ Chúa chuộc, <br/>bờ thiên quốc vui gặp nhau. <br/>Nhờ vinh quang của Chúa chúng tôi, <br/>giống sao rực chiếu muôn màu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòa soi, chiếu luôn; <br/>Ồ! Sao xinh tươi rực rỡ bấy. <br/>Lòa soi, chiếu luôn; <br/>Ồ sao xinh tươi vinh hiển thay. </em></dd></dl>

@@ -1,0 +1,8 @@
+---
+song_number: 161
+title: 161. Jêsus Tiếp Nginh Tội Nhân
+categories: Tin Lành
+sub_categories: Lời Mời
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Mọi tội nhân Chúa chờ tiếp nay: <br/>Là phước âm kíp rao đêm ngày; <br/>Nào người xa bỏ đường chánh minh, <br/>Nào những kẻ hồn thân linh đinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nguyện luôn hát, cứ hát không thôi. <br/>Christ chờ mong nghinh tiếp tội nhân, <br/>Truyền ra phước âm muôn đời. <br/>Jê-sus Christ tiếp nghinh tội nhân. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Người nào tin ắt được thái an, <br/>kìa tiếng Chúa phán rất rõ ràng; <br/>Dầu tội nhân khốn nạn đến đâu, <br/>Ngài cứu do lòng từ rộng sâu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nguyện luôn hát, cứ hát không thôi. <br/>Christ chờ mong nghinh tiếp tội nhân, <br/>Truyền ra phước âm muôn đời. <br/>Jê-sus Christ tiếp nghinh tội nhân. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lòng tôi nay chẳng còn cáo tôi, <br/>Tội lỗi xưa Chúa bôi xong rồi. <br/>Vì Jê-sus đã đền giá cao, <br/>Luật pháp dễ đòi gì tôi nao. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nguyện luôn hát, cứ hát không thôi. <br/>Christ chờ mong nghinh tiếp tội nhân, <br/>Truyền ra phước âm muôn đời. <br/>Jê-sus Christ tiếp nghinh tội nhân. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Mọi tội nhân Chúa đều tiếp nghinh, <br/>Dầu chính tôi với bao tội tình; <br/>Được Jê-sus rửa lòng trắng tinh, <br/>Vào thánh quốc thật là hạnh vinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nguyện luôn hát, cứ hát không thôi. <br/>Christ chờ mong nghinh tiếp tội nhân, <br/>Truyền ra phước âm muôn đời. <br/>Jê-sus Christ tiếp nghinh tội nhân. </em></dd></dl>

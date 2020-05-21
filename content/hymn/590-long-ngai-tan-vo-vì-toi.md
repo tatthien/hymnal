@@ -1,0 +1,8 @@
+---
+song_number: 590
+title: 590. Lòng Ngài Tan Vỡ Vì Tôi
+categories: Chúa Jêsus Christ
+sub_categories: Chịu Khổ Và Chết
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Ngày xưa từ ngôi báu <br/>chốn thiên đàng đầy tươi sáng, <br/>Chúa đã xuống nơi trần gian tối tăm. <br/>Ngày ấy Chúa đã mang <br/>tình yêu đến với thế nhân, <br/>Xóa hết cô đơn, sầu đau, khóc than. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Im lặng chịu thương khó, <br/>mão gai trên đầu Thiên Chúa. <br/>Trần gian đóng đinh Jê-sus vào cây gỗ. <br/>Lòng yêu thương Ngài tan vỡ <br/>vì thế nhân vì tôi đó. <br/>Nhớ ghi ơn Chúa Jê-sus không mờ. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Vì chiên Ngài yêu mến, <br/>Thế gian được Ngài thăm viếng, <br/>Chúa kiếm chiên đưa về nơi nghỉ yên. <br/>Ngài đến với trái tim <br/>đầy nhân ái cứu chúng sinh, <br/>Thế giới đã quay mặt không ngắm xem. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Im lặng chịu thương khó, <br/>mão gai trên đầu Thiên Chúa. <br/>Trần gian đóng đinh Jê-sus vào cây gỗ. <br/>Lòng yêu thương Ngài tan vỡ <br/>vì thế nhân vì tôi đó. <br/>Nhớ ghi ơn Chúa Jê-sus không mờ. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Vì tôi Ngài dau dớnđđ <br/>tấm thân nhọc nhằn mưa nắng, <br/>Chúa gánh bao đau buồn không thở than. <br/>Ngài phán: "Cáo có hang, <br/>loài chim có chỗ trú thân”, <br/>chính Chúa không nơi nào trong thế gian. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Im lặng chịu thương khó, <br/>mão gai trên đầu Thiên Chúa. <br/>Trần gian đóng đinh Jê-sus vào cây gỗ. <br/>Lòng yêu thương Ngài tan vỡ <br/>vì thế nhân vì tôi đó. <br/>Nhớ ghi ơn Chúa Jê-sus không mờ. </em></dd></dl>

@@ -1,0 +1,8 @@
+---
+song_number: 645
+title: 645. Thập Giá, Nơi Chúa Mong Anh Về
+categories: Tin Lành
+sub_categories: Thập Tự Giá
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Thập giá Chúa treo trên ngọn đồi xưa, <br/>Ngài đổ huyết hy sinh cho người tội nhơ. <br/>Thập tự giá chốn nghỉ ngơi, <br/>nơi nương thân muôn muôn đời, <br/>bằng chứng cho mối yêu thương <br/>rộng hơn biển hơn trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thập giá nơi Chúa mong anh về! <br/>Ngài ngó theo bước chân anh đi! <br/>Thập giá bấy lâu nay ngàn muôn người đã về. <br/>Sao vẫn còn chưa thấy anh quay về. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Người khắp muôn phương tìm được bạn thân. <br/>Ngài là Đấng yêu thương tha mọi tội nhân. <br/>Ngài dựa trước cửa ngóng trông, <br/>mong đưa anh vô bên trong, <br/>kịp trước khi sắp qua <br/>đi giờ ân điển hy vọng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thập giá nơi Chúa mong anh về! <br/>Ngài ngó theo bước chân anh đi! <br/>Thập giá bấy lâu nay ngàn muôn người đã về. <br/>Sao vẫn còn chưa thấy anh quay về. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Tìm đến cánh tay Ngài đầy quyền năng, <br/>dựa vào chính trái tim Ngài đầy tình thân. <br/>Dù đời sống có nắng mưa, <br/>thêm đau thương nơi tâm tư, <br/>lòng vẫn yên nghỉ vô biên <br/>nhờ dòng huyết nhân từ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thập giá nơi Chúa mong anh về! <br/>Ngài ngó theo bước chân anh đi! <br/>Thập giá bấy lâu nay ngàn muôn người đã về. <br/>Sao vẫn còn chưa thấy anh quay về. </em></dd></dl>

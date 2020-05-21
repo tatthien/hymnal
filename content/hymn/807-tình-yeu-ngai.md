@@ -1,0 +1,8 @@
+---
+song_number: 807
+title: 807. Tình Yêu Ngài
+categories: Đời Tín Đồ
+sub_categories: Được Chúa Yêu
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Cứu Chúa yêu tôi bao la, tuôn huyết nơi Gô-gô-tha, <br/>tình yêu thiết tha, tháng năm dần qua. <br/>Chúa vẫn yêu tôi như xưa, Ngài không để tôi bơ vơ, <br/>phước lành Chúa vẫn ban cho, chẳng ngưng bao giờ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em> Nghẹn ngào nước mắt rơi nhớ xưa Ngài trên đồi, <br/>thập hình thay cho người, biết chăng ai ơi! <br/>Chúa phó thân cho ta, tình yêu thương thiết tha <br/>Năm tháng trôi qua, Chúa yêu không nhòa. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Cứu Chúa luôn đi bên tôi trên lối muôn phương xa xôi, <br/>Đường hoa thắm tươi, với chông cùng gai <br/>Chúa đỡ nâng tâm linh tôi, Ngài không để tôi đơn côi; <br/>Những ngày gió rét mưa rơi, Chúa không xa rời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em> Nghẹn ngào nước mắt rơi nhớ xưa Ngài trên đồi, <br/>thập hình thay cho người, biết chăng ai ơi! <br/>Chúa phó thân cho ta, tình yêu thương thiết tha <br/>Năm tháng trôi qua, Chúa yêu không nhòa. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Những lúc tâm tôi thương đau, không có ai vui thâm giao, <br/>Quạnh hiu biết bao, Chúa yêu càng sâu <br/>Lúc ước mơ như tiêu tan, Ngài không để tôi hoang mang, <br/>Những lần yếu đuối ăn năn, Chúa luôn luôn gần. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em> Nghẹn ngào nước mắt rơi nhớ xưa Ngài trên đồi, <br/>thập hình thay cho người, biết chăng ai ơi! <br/>Chúa phó thân cho ta, tình yêu thương thiết tha <br/>Năm tháng trôi qua, Chúa yêu không nhòa. </em></dd></dl>

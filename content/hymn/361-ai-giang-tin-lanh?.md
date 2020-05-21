@@ -1,0 +1,8 @@
+---
+song_number: 361
+title: 361. Ai Giảng Tin Lành?
+categories: Trọng Trách Hội Thánh
+sub_categories: Truyền Giáo Khắp Nơi
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Đồng bào thiểu số ở nơi non xanh, <br/>Cần được cứu rỗi khác chi tôi, anh. <br/>Sống chẳng biết Chúa, mấy ai quan tâm, <br/>Rao giảng sự sống Phúc âm. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mau lên miền cao giảng truyền, <br/>Vâng theo Jê-sus phán tuyên. <br/>Khắp cả thế giới phải nghe ơn ban, <br/>Ai nấy vào chốn vĩnh an. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Kìa tình cảnh ấy có ai thương tâm, <br/>Đồng lòng quyết chí đến nơi sơn lâm. <br/>Cứu kẻ bơ vơ, tối tăm lạc đường, <br/>Đưa dẫn vào chốn an khương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mau lên miền cao giảng truyền, <br/>Vâng theo Jê-sus phán tuyên. <br/>Khắp cả thế giới phải nghe ơn ban, <br/>Ai nấy vào chốn vĩnh an. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Đồng bào thiểu số đón trông thiên ân, <br/>Mình được Chúa cứu nỡ sao an thân <br/>Đến với anh em đỡ nâng tâm linh <br/>Cho đến ngày Chúa quang vinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mau lên miền cao giảng truyền, <br/>Vâng theo Jê-sus phán tuyên. <br/>Khắp cả thế giới phải nghe ơn ban, <br/>Ai nấy vào chốn vĩnh an. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Thì giờ cứu rỗi sắp hết nay mai, <br/>Đạo trời kíp giảng khắp dân sơn nhai <br/>Của cải, tâm, thân Chúa ban cho ai, <br/>Dâng cứu người thoát nguy tai. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mau lên miền cao giảng truyền, <br/>Vâng theo Jê-sus phán tuyên. <br/>Khắp cả thế giới phải nghe ơn ban, <br/>Ai nấy vào chốn vĩnh an. </em></dd></dl>

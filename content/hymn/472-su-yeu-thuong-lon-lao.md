@@ -1,0 +1,8 @@
+---
+song_number: 472
+title: 472. Sự Yêu Thương Lớn Lao
+categories: Tin Lành
+sub_categories: 
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Lòng luôn tưởng Con Trời thương thế gian, <br/>Bởi lỗi tôi Ngài tuôn huyết tràn; <br/>Lòng nhân ái, ai nào so sánh ngang, <br/>Bởi quá thương, Ngài bỏ mạng vàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ơn trên thấm khắp hoàn vũ xa gần, <br/>Nhắc đến ơn, lòng thêm tưởng Chúa; <br/>Vì thương bỏ ngôi trời, toan cứu dân, <br/>Bởi lỗi tôi Ngài phải hạ trần. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Trần gian khổ, trăm ngàn xưa Chúa mang, <br/>Cứu những ai, lòng tin vững vàng. <br/>Nhìn xem chỗ hông Ngài xưa huyết chan, <br/>Chữ hiếu trung, lòng phải dặn lòng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ơn trên thấm khắp hoàn vũ xa gần, <br/>Nhắc đến ơn, lòng thêm tưởng Chúa; <br/>Vì thương bỏ ngôi trời, toan cứu dân, <br/>Bởi lỗi tôi Ngài phải hạ trần. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lòng sầu cảm nơi Ngài tuôn huyết ra, <br/>Rửa lỗi xưa, hằng trong trắng ngà. <br/>Ngày đêm gõ, mong vào nơi cửa ta, <br/>Kíp mở ra, mời Chúa trị nhà. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ơn trên thấm khắp hoàn vũ xa gần, <br/>Nhắc đến ơn, lòng thêm tưởng Chúa; <br/>Vì thương bỏ ngôi trời, toan cứu dân, <br/>Bởi lỗi tôi Ngài phải hạ trần. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Cùng ai ngỏ đôi lời khuyên khá nghe, <br/>Tỉnh thức canh, nhìn quanh bốn bể. <br/>Đừng như kẻ đêm ngày luôn ngủ mê, <br/>Lúc tái lâm, cùng Chúa dựa kề. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ơn trên thấm khắp hoàn vũ xa gần, <br/>Nhắc đến ơn, lòng thêm tưởng Chúa; <br/>Vì thương bỏ ngôi trời, toan cứu dân, <br/>Bởi lỗi tôi Ngài phải hạ trần. </em></dd></dl>

@@ -1,0 +1,8 @@
+---
+song_number: 766
+title: 766. Nơi Thảo Nguyên Xanh Tươi
+categories: Đời Tín Đồ
+sub_categories: Bình An, Vui Vẻ
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Đời tôi thỏa lòng nơi Đấng chăn hiền, <br/>Ngài là dòng suối mãi tuôn trào. <br/>Ngài đưa tôi đến thảo nguyên xanh tươi, <br/>Hồn tôi luôn náu nương nơi Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Cha dấu yêu chăn giữ tôi luôn. <br/>Bình an thay trong cánh tay nhân từ, <br/>Ngài hằng chăm sóc tôi mỗi ngày. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bình an mỗi ngày bên Chúa Jê-sus, <br/>Nào sợ chi cứ nương nơi Ngài. <br/>Dù trong đêm tối khiếp kinh vây quanh, <br/>Được trong tay Chúa tôi an lành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Cha dấu yêu chăn giữ tôi luôn. <br/>Bình an thay trong cánh tay nhân từ, <br/>Ngài hằng chăm sóc tôi mỗi ngày. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Niềm tin vững bền không chút nao sờn, <br/>Ngài là neo giữ tôi trọn đời. <br/>Lòng không xao xuyến trước bao phong ba, <br/>Ngài đưa tôi đến nơi thiên đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Cha dấu yêu chăn giữ tôi luôn. <br/>Bình an thay trong cánh tay nhân từ, <br/>Ngài hằng chăm sóc tôi mỗi ngày. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Rồi đây đón mừng Jê-sus lai hồi, <br/>Ngài là Vua hiển vinh muôn đời. <br/>Được bên chân Chúa trước ngôi vinh quang, <br/>Cùng nhau ca hát tôn vinh Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Cha dấu yêu chăn giữ tôi luôn. <br/>Bình an thay trong cánh tay nhân từ, <br/>Ngài hằng chăm sóc tôi mỗi ngày. </em></dd></dl>

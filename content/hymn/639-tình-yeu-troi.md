@@ -1,0 +1,8 @@
+---
+song_number: 639
+title: 639. Tình Yêu Trời
+categories: Tin Lành
+sub_categories: Lời Mời
+draft: false
+---
+<dl><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Dòng huyết xưa đưa tôi đến ngôi trời, <br/>dẫn tôi vào miền phước ân Cha tuyệt vời. <br/>Xưa vì cớ tôi thân Ngài đau, <br/>Huyết hồng tuôn tràn nát thân vàng. <br/>Ngợi khen Ðấng lòng nhân ái <br/>vực tôi đến suối yêu thương chan hòa. </em></dd><dt>Câu 1:</dt><dd data-verse="1">Nguồn tình yêu Thiên Chúa cao vời, <br/>Ðoái thương tôi tội lỗi vấn vương. <br/>Lòng tràn ước được nên con thánh <br/>để lòa sáng vinh quang trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Dòng huyết xưa đưa tôi đến ngôi trời, <br/>dẫn tôi vào miền phước ân Cha tuyệt vời. <br/>Xưa vì cớ tôi thân Ngài đau, <br/>Huyết hồng tuôn tràn nát thân vàng. <br/>Ngợi khen Ðấng lòng nhân ái <br/>vực tôi đến suối yêu thương chan hòa. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Từ thượng thiên sức sống vô biên, <br/>chứa chan tâm hồn Chúa kết liên. <br/>Lời vàng nhắc hằng yêu nhân thế, <br/>yêu bằng chính thương yêu trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Dòng huyết xưa đưa tôi đến ngôi trời, <br/>dẫn tôi vào miền phước ân Cha tuyệt vời. <br/>Xưa vì cớ tôi thân Ngài đau, <br/>Huyết hồng tuôn tràn nát thân vàng. <br/>Ngợi khen Ðấng lòng nhân ái <br/>vực tôi đến suối yêu thương chan hòa. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nguyện lòng luôn ghi nhớ ơn Trời, <br/>hiến tâm linh phục ý Chúa hoài; <br/>Làm việc Chúa bằng tâm tươi mới, <br/>bên Ngài sống muôn muôn đời. </dd></dl>

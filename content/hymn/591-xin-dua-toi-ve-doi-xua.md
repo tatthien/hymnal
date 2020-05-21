@@ -1,0 +1,8 @@
+---
+song_number: 591
+title: 591. Xin Đưa Tôi Về Đồi Xưa
+categories: Chúa Jêsus Christ
+sub_categories: Chịu Khổ Và Chết
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Xin Cha xót thương, <br/>dắt tôi về đồi xưa, <br/>đồi Gô-tha Chúa chết <br/>thay tôi trên thập tự giá. <br/>Nơi ấy Jê-sus kêu gọi <br/>tôi bao lời dịu êm, <br/>thật nơi thân mến, <br/>Trái tim tôi không khi nào quên. <br/>Từ ngày quay gót bước <br/>lang thang lìa xa Chúa tôi, <br/>tháng năm buông trôi <br/>với bao nhiêu sầu đau tiếp nối. <br/>Bên Gô-gô-tha, <br/>Jê-sus đã tha mọi tội tôi, <br/>tình yêu thương Chúa <br/>dắt đưa tôi đến nơi nghỉ ngơi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin Cha xót thương, <br/>dắt tôi về đồi xưa, <br/>đồi Gô-tha Chúa chết <br/>thay tôi trên thập tự giá. <br/>Nơi ấy Jê-sus kêu gọi <br/>tôi bao lời dịu êm, <br/>thật nơi thân mến. <br/>Trái tim tôi không khi nào quên. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Xin Cha xót thương, <br/>dắt tôi về đồi xưa, <br/>để tôi chiêm ngưỡng Chúa <br/>hy sinh trên thập tự giá. <br/>Nhen nhúm yêu thương trong lòng <br/>tôi cho lửa bùng lên <br/>để dòng nước mắt khóc ăn năn, <br/>lánh xa đường riêng. <br/>Ồ! Tại nơi đó Chúa Jê-sus <br/>giang tay đón tôi. <br/>Vết thương bên hông <br/>huyết tuôn rơi làm tôi nên mới. <br/>Xin Chúa đưa tôi qua <br/>trần gian đi về nhà Cha, <br/>lòng tôi tan vỡ <br/>mỗi khi mơ đến Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin Cha xót thương, <br/>dắt tôi về đồi xưa, <br/>đồi Gô-tha Chúa chết <br/>thay tôi trên thập tự giá. <br/>Nơi ấy Jê-sus kêu gọi <br/>tôi bao lời dịu êm, <br/>thật nơi thân mến. <br/>Trái tim tôi không khi nào quên. </em></dd></dl>

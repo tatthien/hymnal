@@ -1,0 +1,8 @@
+---
+song_number: 708
+title: 708. Khi Chúa Vô Lòng
+categories: Đời Tín Đồ
+sub_categories: Nguyện Vọng
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Lòng con luôn thiết tha ước mơ chan hòa, <br/>được tương giao với Cha nối liền trời xa. <br/>Dọn tâm linh trống không khát khao trông mong, <br/>mời Cha Thánh vô lòng thắp lên lửa hồng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lửa thiêng liêng cháy bùng trong giờ thông công. <br/>Lời con như thức hương dâng Ngài mùi thơm. <br/>Mọi đau thương vấn vương biến trong thinh không, <br/>từ khi Chúa vô lòng ấm êm vô cùng. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Dạy con không bỏ qua phút giây bên Ngài, <br/>cầu xin theo ý Cha với lòng hăng say. <br/>Ðời lo âu đắng cay đớn đau khôn khuây, <br/>nguyền Cha Thánh đêm ngày, giữ con trong Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lửa thiêng liêng cháy bùng trong giờ thông công. <br/>Lời con như thức hương dâng Ngài mùi thơm. <br/>Mọi đau thương vấn vương biến trong thinh không, <br/>từ khi Chúa vô lòng ấm êm vô cùng. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nguyện Cha ban phước thiêng tưới trên tâm hồn, <br/>làm con tươi mới luôn thấm nhuần tình thương; <br/>Lòng đơn sơ khát khao Thánh Linh trên cao, <br/>truyền năng sức dạt dào giúp con kêu cầu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lửa thiêng liêng cháy bùng trong giờ thông công. <br/>Lời con như thức hương dâng Ngài mùi thơm. <br/>Mọi đau thương vấn vương biến trong thinh không, <br/>từ khi Chúa vô lòng ấm êm vô cùng. </em></dd></dl>

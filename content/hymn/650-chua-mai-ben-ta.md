@@ -1,0 +1,8 @@
+---
+song_number: 650
+title: 650. Chúa Mãi Bên Ta
+categories: Đời Tín Đồ
+sub_categories: Vui Vẻ Vì Được Cứu
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Nào vui ca hát lên có Chúa bên ta, <br/>Vượt qua bao gian nguy vẫn không chia xa, <br/>Ngài đưa ta trải qua tối tăm vây kín, <br/>đến nơi nước trong, cỏ xanh, chính nơi an bình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôn vinh Giê-hô-va cùng nhau xướng ca, <br/>Hát chúc Đấng Chủ tể hằng chăm sóc ta, <br/>Cuộc đời trong tay Chúa <br/>vui hưởng phước hạnh đầy dẫy, <br/>biết bao ơn thiêng trên cao <br/>Ngài ban xuống đây. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Cùng đi lên với nhau Chúa vẫn bên ta, <br/>đường quanh co, cheo leo thắm tươi muôn hoa. <br/>Dù chông gai vẫn luôn cất cao tiếng hát, <br/>Chúa đưa dẫn ta đến nơi hưởng bao hoan lạc. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôn vinh Giê-hô-va cùng nhau xướng ca, <br/>Hát chúc Đấng Chủ tể hằng chăm sóc ta, <br/>Cuộc đời trong tay Chúa <br/>vui hưởng phước hạnh đầy dẫy, <br/>biết bao ơn thiêng trên cao <br/>Ngài ban xuống đây. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Rồi mai đây tái lâm, Chúa mãi bên ta, <br/>mọi buồn lo đau thương sẽ mau trôi qua, <br/>Được yên vui với Cha nơi miền vinh hiển, <br/>kính dâng khúc ca chúc tôn Jê-sus nhân hiền. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôn vinh Giê-hô-va cùng nhau xướng ca, <br/>Hát chúc Đấng Chủ tể hằng chăm sóc ta, <br/>Cuộc đời trong tay Chúa <br/>vui hưởng phước hạnh đầy dẫy, <br/>biết bao ơn thiêng trên cao <br/>Ngài ban xuống đây. </em></dd></dl>

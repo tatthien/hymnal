@@ -1,0 +1,8 @@
+---
+song_number: 798
+title: 798. Bước Với Chúa Yêu Thương
+categories: Đời Tín Đồ
+sub_categories: Giao Thông Chùng Chúa
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Bước với Chúa yêu thương, tôi đi muôn phương, không vương lo buồn, <br/>Đường gập ghềnh nhưng chan hòa ánh chiếu dương; <br/>Bước với Chúa yêu thương, tôi không cô đơn vui tươi trên đường, <br/>Lòng nhẹ nhàng quăng xa mọi gánh sầu vương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Được đi với Cha, khi mộng trần gian khuất xa, <br/>Bước cùng với Cha, trong tình thắm thiết bao la, <br/>Được đi với Cha, cho dù thời gian lướt qua, <br/>Tôi luôn vui thỏa sống trong yêu mến chan hòa. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bước với Chúa yêu thương, khi sương đêm buông mênh mông trên đường, <br/>Đời nhạt nhòa bên kia màn khói mây vương; <br/>Núp bóng Chúa yêu thương, trong khi muôn phương phong ba điên cuồng, <br/>Đời mờ dần sau muôn đợt sóng trùng dương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Được đi với Cha, khi mộng trần gian khuất xa, <br/>Bước cùng với Cha, trong tình thắm thiết bao la, <br/>Được đi với Cha, cho dù thời gian lướt qua, <br/>Tôi luôn vui thỏa sống trong yêu mến chan hòa. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Bước với Chúa yêu thương, tay trong tay luôn gian lao không sờn, <br/>Vượt dặm trường men theo đường tới thiên cung; <br/>Bước với Chúa yêu thương, tôi nghe lâng lâng vui trong tâm hồn, <br/>Ngày lại ngày thêm sâu nhiệm Chúa nhiều hơn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Được đi với Cha, khi mộng trần gian khuất xa, <br/>Bước cùng với Cha, trong tình thắm thiết bao la, <br/>Được đi với Cha, cho dù thời gian lướt qua, <br/>Tôi luôn vui thỏa sống trong yêu mến chan hòa. </em></dd></dl>

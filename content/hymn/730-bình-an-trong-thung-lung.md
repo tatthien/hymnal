@@ -1,0 +1,8 @@
+---
+song_number: 730
+title: 730. Bình An Trong Thung Lũng
+categories: Đời Tín Đồ
+sub_categories: Bền Lòng Tin Cậy
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Dù nhiều lúc nghe mỏi mệt, <br/>lòng kiên nhẫn sống tốt đẹp, <br/>chân đi hết những con đường tôi phải qua. <br/>Rồi ngày mai nghe Chúa gọi, <br/>lìa dương thế đến cõi trời, <br/>nơi êm ấm như miền thung lũng tuyệt vời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Sự bình an ngập tràn thung lũng, chốn tôi nghỉ yên; <br/>tại thung lũng ấm êm đâu còn chiến chinh. <br/>Tôi ngạc nhiên khi những đớn đau <br/>với lo buồn biến trong màu xanh, <br/>hồn tôi bên Chúa thỏa vui ca bài thanh bình. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Một màu xanh gieo phước lành, <br/>miền thung lũng rất thái bình, <br/>nơi chim hót giữa muôn loài hoa thắm xinh. <br/>Mặt trời lên soi sáng ngời, <br/>màn đêm tối biến mất rồi, <br/>mây tang tóc không còn vương vấn tim người. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Sự bình an ngập tràn thung lũng, chốn tôi nghỉ yên; <br/>tại thung lũng ấm êm đâu còn chiến chinh. <br/>Tôi ngạc nhiên khi những đớn đau <br/>với lo buồn biến trong màu xanh, <br/>hồn tôi bên Chúa thỏa vui ca bài thanh bình. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Mọi sầu đau qua hết rồi, <br/>miền thung lũng có tiếng cười, <br/>bao nước mắt thôi không còn thao thức rơi. <br/>Mọi ham muốn xa khuất rồi, <br/>niềm ao ước đến với người, <br/>tôi vui sống trong bình an suốt muôn đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Sự bình an ngập tràn thung lũng, chốn tôi nghỉ yên; <br/>tại thung lũng ấm êm đâu còn chiến chinh. <br/>Tôi ngạc nhiên khi những đớn đau <br/>với lo buồn biến trong màu xanh, <br/>hồn tôi bên Chúa thỏa vui ca bài thanh bình. </em></dd></dl>

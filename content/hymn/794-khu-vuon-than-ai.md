@@ -1,0 +1,8 @@
+---
+song_number: 794
+title: 794. Khu Vườn Thân Ái
+categories: Đời Tín Đồ
+sub_categories: Giao Thông Chùng Chúa
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Tôi đến khu vườn một mình mỗi khi ưu sầu, <br/>Ngày ngày cùng Jê-sus ngồi tâm giao với nhau. <br/>Đây chốn tĩnh tâm, linh hồn tôi thật an bình. <br/>Vườn thân ái tươi đẹp muôn màu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đây nơi công viên Jê-sus luôm tìm gặp tôi, <br/>Êm ái thay chốn tôi ngồi bên chân Jê-sus. <br/>Nơi đó tâm hồn tôi được nghỉ ngơi hoàn toàn <br/>Vườn thân ái tươi đẹp muôn màu. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bao vấn vương thế gian tôi bỏ qua không màng, <br/>Tôi luôn mơ ước ơn lành nơi Chân Chúa tôi. <br/>Do ý Jê-sus tôi giao phó cả thân, hồn; <br/>Vườn thân ái tươi đẹp muôn màu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đây nơi công viên Jê-sus luôm tìm gặp tôi, <br/>Êm ái thay chốn tôi ngồi bên chân Jê-sus. <br/>Nơi đó tâm hồn tôi được nghỉ ngơi hoàn toàn <br/>Vườn thân ái tươi đẹp muôn màu. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Tâm trí tôi nhẹ nhàng khi tâm sự cùng Ngài, <br/>Bao nhiêu lao khổ nơi lòng tôi tan biến ngay. <br/>Mơ ước tôi trải qua bao tháng năm lộ dần. <br/>Vườn thân ái tươi đẹp muôn màu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đây nơi công viên Jê-sus luôm tìm gặp tôi, <br/>Êm ái thay chốn tôi ngồi bên chân Jê-sus. <br/>Nơi đó tâm hồn tôi được nghỉ ngơi hoàn toàn <br/>Vườn thân ái tươi đẹp muôn màu. </em></dd></dl>

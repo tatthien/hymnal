@@ -10,6 +10,8 @@ outputs:
   - HTML
   - RSS
   - Algolia
+taxonomies:
+  categories: categories
 params:
   description: write and share to learn
   favicon: img/icon/favicon.png

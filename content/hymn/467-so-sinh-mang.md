@@ -1,0 +1,8 @@
+---
+song_number: 467
+title: 467. Sổ Sinh Mạng
+categories: Tin Lành
+sub_categories: 
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Làm giàu trăm muôn không ích chi, <br/>Ngàn vàng tiêu hao mất đi, <br/>Này tôi duy mong ở với Chúa, <br/>Quyết thế chung lòng khắc ghi, <br/>Người Trời Jê-sus Con thánh ôi, <br/>Động lòng thương yêu đến tôi. <br/>Tên tôi có chép hay không Ngài, <br/>Vào nơi sách sống trên trời? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vào nơi sách sống trên trời, <br/>Là nơi sách quý báu kia, <br/>Tên tôi có chép hay không Ngài, <br/>Vào nơi sách sống trên trời? </em></dd><dt>Câu 2:</dt><dd data-verse="2">Liều mình Jê-sus cam đóng đinh, <br/>Nhờ Ngài thương tuôn huyết ra, <br/>Lòng tôi ô nhơ những ác tưởng. <br/>Huyết Chúa thay lòng xấu xa, <br/>Nguyện cùng cao minh Cha thánh ôi, <br/>Nhờ Ngài thương yêu đến tôi, <br/>Cho tôi biết rõ Ngôi Chân Thần, <br/>Lòng tôi thỏa thích muôn phần. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vào nơi sách sống trên trời, <br/>Là nơi sách quý báu kia, <br/>Tên tôi có chép hay không Ngài, <br/>Vào nơi sách sống trên trời? </em></dd><dt>Câu 3:</dt><dd data-verse="3">Kìa thành nguy nga xinh quá xinh, <br/>Lâu đài trong như thủy tinh, <br/>Lòng an ninh vui hưởng phước thánh. <br/>Ấy cõi thiên thành quý vinh, <br/>Cầm, huyền, tiêu, sinh thiên sứ <br/>ca tụng Ngài Jê-sus, Chúa ta, <br/>Tên tôi có chép hay không Ngài, <br/>Vào nơi sách sống trên trời? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vào nơi sách sống trên trời, <br/>Là nơi sách quý báu kia, <br/>Tên tôi có chép hay không Ngài, <br/>Vào nơi sách sống trên trời? </em></dd></dl>

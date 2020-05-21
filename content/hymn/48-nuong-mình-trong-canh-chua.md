@@ -1,0 +1,8 @@
+---
+song_number: 48
+title: 48. Nương Mình Trong Cánh Chúa
+categories: Thờ Phượng
+sub_categories: Gìn Giữ, Dẫn Dắt
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1"> Lòng luôn an ninh do nương trong cánh Christ, Chúa tôi, <br/>Dù đêm tăm tối phong ba vang dậy cuộn sôi; <br/>Lòng tin Jê-sus luôn giương cánh bao quanh tôi hoài, <br/>Ơn Chúa đã cứu tôi, hiện trở nên con Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nương mình trong cánh, cánh Christ êm ái, <br/>Chẳng chi đoạn khỏi yêu thương Ngài; <br/>Hồn tôi nương náu trong cánh linh năng hoài, <br/>Được thư thái, an bình lâu dài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Hồi gặp phiền ưu, tôi nương trong cánh đầy thái an, <br/>Lòng tôi khao khát ơn an ninh từ Ngài ban; <br/>Đời tạm nầy vô phương an ủi tâm linh ưu sầu, <br/>Được phước thỏa mãn duy nhờ cánh Christ nhiệm mầu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nương mình trong cánh, cánh Christ êm ái, <br/>Chẳng chi đoạn khỏi yêu thương Ngài; <br/>Hồn tôi nương náu trong cánh linh năng hoài, <br/>Được thư thái, an bình lâu dài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Thật hân hoan thay, an ninh trong cánh Ngài thẳng xông, <br/>Kịp hồi rèn thử trong nhân gian nầy tận chung; <br/>Còn đâu tai ương Sa-tan bó tay khôn khoe hùng, <br/>Nương dưới cánh Chúa tôi được nghỉ an vô cùng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nương mình trong cánh, cánh Christ êm ái, <br/>Chẳng chi đoạn khỏi yêu thương Ngài; <br/>Hồn tôi nương náu trong cánh linh năng hoài, <br/>Được thư thái, an bình lâu dài. </em></dd></dl>

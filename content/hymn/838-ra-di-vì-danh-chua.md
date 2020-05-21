@@ -1,0 +1,8 @@
+---
+song_number: 838
+title: 838. Ra Đi Vì Danh Chúa
+categories: Đời Tín Đồ
+sub_categories: Phục Sự Chúa, Cứu Tội Nhân
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Vâng theo tiếng Chúa kêu gọi ta <br/>mau đến khắp nơi gần xa <br/>rao báo ngay Tin Lành Chúa ban. <br/>Theo gương các môn đồ ngày xưa <br/>đi với Chúa trên mọi nơi <br/>rao ra Phúc âm cho người. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bước tới theo Cha <br/>dẫu xa hay gần vẫn chuyên tâm, <br/>tín trung hầu việc Cha Thánh. <br/>Cất tiếng hát vang bất cứ khi nào, <br/>Vẫn luôn luôn giảng rao Tin Lành. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Xem trên khắp thế gian lầm than, <br/>nhân thế vẫn đi lạc lối, <br/>nên có biết bao người khổ đau; <br/>đang rên siết trong muôn tội ô, <br/>hay vấn vương danh vọng, <br/>đam mê nơi thế gian lạc lầm. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bước tới theo Cha <br/>dẫu xa hay gần vẫn chuyên tâm, <br/>tín trung hầu việc Cha Thánh. <br/>Cất tiếng hát vang bất cứ khi nào, <br/>Vẫn luôn luôn giảng rao Tin Lành. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Tuy trên lối đi không bình an <br/>hay lắm chông gai trần gian, <br/>ta vẫn luôn một lòng vững tin. <br/>Tin nơi Chúa Jê-sus toàn năng, <br/>đôi mắt luôn trông chừng ta <br/>khi đang bước trên đường đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bước tới theo Cha <br/>dẫu xa hay gần vẫn chuyên tâm, <br/>tín trung hầu việc Cha Thánh. <br/>Cất tiếng hát vang bất cứ khi nào, <br/>Vẫn luôn luôn giảng rao Tin Lành. </em></dd></dl>

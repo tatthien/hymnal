@@ -1,0 +1,8 @@
+---
+song_number: 828
+title: 828. Nào Ai Chọn Đứng Bên Ngài
+categories: Đời Tín Đồ
+sub_categories: Can Đảm, Trung Tín
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Nào ai chọn đứng bên Ngài? <br/>Nào ai thờ kính Vua Trời. <br/>Nào ai vui dâng đời <br/>cứu sống kẻ đang hư vong? <br/>Có ai ly cách ô trần, <br/>dám ra ngăn quân thù? <br/>Nào ai nguyện đi vào những <br/>miền Chúa muốn sai đi? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Do yêu thương Vua kêu ta, <br/>Do thiên ân Vua ban, <br/>Hãy đứng lên đoàn quân thánh <br/>mau vui sống cho Ngài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Từ ly mọi ánh huy hoàng, <br/>Từ ly mọi hiển vinh trần. <br/>Nguyện bước tới theo đoàn <br/>chiến sĩ của Vua quang vinh. <br/>Chúa khi xưa đã hy sinh, <br/>chết thay bao cuộc đời. <br/>Nào ai nguyện dâng lòng <br/>khi Ngài muốn là theo Ngài? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Do yêu thương Vua kêu ta, <br/>Do thiên ân Vua ban, <br/>Hãy đứng lên đoàn quân Thánh <br/>mau vui sống cho Ngài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Cuộc chinh phục sẽ lâu dài, <br/>Địch quân càng tấn công mạnh. <br/>Đoàn lính chiến Vua Trời <br/>mỗi phút chiến công ca vang <br/>Sát vai nhau dưới quân kỳ, <br/>quyết tâm luôn trung thành; <br/>Cùng nhau vì lẽ thật <br/>hết lòng đấu tranh trọn đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Do yêu thương Vua kêu ta, <br/>Do thiên ân Vua ban, <br/>Hãy đứng lên đoàn quân Thánh <br/>mau vui sống cho Ngài. </em></dd></dl>

@@ -1,0 +1,8 @@
+---
+song_number: 289
+title: 289. Kết Hữu Với Jêsus
+categories: Đời Tín Đồ
+sub_categories: Giao Thông Cùng Chúa
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Jê-sus khuyên tôi lời rất thiết tha: <br/>“Hỡi con khá kíp lại đây, <br/>Đầu con mau nghiêng vào dưới cánh ta, <br/>Ắt con được nghỉ yên rày.” <br/>Thật tôi mệt mỏi, buồn bã, rối reng, <br/>Lắng nghe tiếng Chúa lại đây, <br/>Ngài ban ơn cho ngày tháng hát khen, <br/>Nghỉ yên trong Chúa vui vầy. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kết hữu với Jê-sus, <br/>Cảm thông sâu nhiệm thay! <br/>Tôi, Chúa tương thân lòng thật phỉ phu, <br/>Jê-sus là Bạn thiết tôi rày. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ngài kêu: “Nầy con nguồn nước sống đây, <br/>Uống đi chẳng tốn bạc tiền; <br/>Bằng con khao khát chạy đến uống ngay, <br/>Uống vô, được vĩnh sanh liền.” <br/>Thật tôi đương khát chạy đến Chúa đây, <br/>Suối Linh uống ngon ngọt thay! <br/>Hồn tôi vui tươi, lòng thấy thỏa ngay, <br/>Phước thay được sống trong Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kết hữu với Jê-sus, <br/>Cảm thông sâu nhiệm thay! <br/>Tôi, Chúa tương thân lòng thật phỉ phu, <br/>Jê-sus là Bạn thiết tôi rày. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngài kêu: “Ta đây sự sáng khiết tinh, <br/>Chiếu trong ám thế sầu than, <br/>Nhìn ta, trong con bật ánh khải minh <br/>Tất nhiên ngày con huy hoàng.” <br/>Thật tôi nhìn Jê-sus, chính sao Mai, <br/>Thái dương soi rạng đường tôi; <br/>Nhìn theo chân quang một bước không sai, <br/>Sống trong sự sáng trọn đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kết hữu với Jê-sus, <br/>Cảm thông sâu nhiệm thay! <br/>Tôi, Chúa tương thân lòng thật phỉ phu, <br/>Jê-sus là Bạn thiết tôi rày. </em></dd></dl>

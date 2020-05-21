@@ -1,0 +1,8 @@
+---
+song_number: 332
+title: 332. Vinh Thay Cho Tôi
+categories: Đời Tín Đồ
+sub_categories: Qua Đời Và Sống Đời Đời
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Hồi thử thách lao lực đời này đều chung tất, <br/>Chính tôi cặp bến thiên đàng hiển vinh an dật, <br/>Vui mừng gần Jê-sus, Đấng yêu yêu tôi duy nhất. <br/>Vinh hiển thay cho tôi, thật vinh hiển muôn đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em><br/>Vinh thay cho tôi, vinh diệu vô đối! <br/>Vinh thay cho tôi, vinh hiển đời tôi! <br/>Lúc bởi ơn Ngài tôi sẽ thấy mặt Ngài đấy, <br/>Phút vinh diệu lạ bấy, ấy vinh diệu mãi đây. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Giờ Cứu Chúa đem ân huệ dày rộng lai láng, <br/>Cấp cho phần của tôi một chỗ trên thiên đàng, <br/>Nay được nhìn mặt Chân Chúa ngày ngày tươi sáng. <br/>Vinh hiển thay cho tôi, thật vinh hiển muôn đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em><br/>Vinh thay cho tôi, vinh diệu vô đối! <br/>Vinh thay cho tôi, vinh hiển đời tôi! <br/>Lúc bởi ơn Ngài tôi sẽ thấy mặt Ngài đấy, <br/>Phút vinh diệu lạ bấy, ấy vinh diệu mãi đây. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lòng thỏa mãn thay khi gặp bạn bè thân ái, <br/>Nỗi vui mừng giống sông dài chảy quanh tôi hoài, <br/>Nay đựợc nhìn Jê-sus mỉm cười đầy khoan khoái! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em><br/>Vinh thay cho tôi, vinh diệu vô đối! <br/>Vinh thay cho tôi, vinh hiển đời tôi! <br/>Lúc bởi ơn Ngài tôi sẽ thấy mặt Ngài đấy, <br/>Phút vinh diệu lạ bấy, ấy vinh diệu mãi đây. </em></dd></dl>

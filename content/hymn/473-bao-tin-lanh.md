@@ -1,0 +1,8 @@
+---
+song_number: 473
+title: 473. Báo Tin Lành
+categories: Tin Lành
+sub_categories: 
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Người đời ham vui trong thế gian, Hồn người sa nơi bến mê, <br/>Lòng tôi đau thương chẳng xiết kể, Nước mắt tuôn dầm ủ ê. <br/>Người trời Jê-sus, Con Chúa Cha, Động lòng thương yêu chúng ta, <br/>Cam tâm đổ huyết thay cho người, Nầy ta kíp báo Tin Lành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nầy ta kíp báo Tin Lành, Là ơn Chúa cứu chúng sanh; <br/>Jê-sus đổ huyết thay cho người, Nầy ta kíp báo Tin Lành. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Dù mà tôi lên trên núi cao, Dầu mà qua nơi biển sâu, <br/>Dù tôi đi qua trong nước lửa, Vững chí tôi sờn ngã đâu. <br/>Dầu mà quân binh đương phủ vi, Quyền đời hăm tôi giết đi, <br/>Tâm can vững chắc không kinh gì, Vì lo cứu kẻ đang thì. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nầy ta kíp báo Tin Lành, Là ơn Chúa cứu chúng sanh; <br/>Jê-sus đổ huyết thay cho người, Nầy ta kíp báo Tin Lành. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Hồng người bên kia đang khóc la, Đầu nầy kêu rên thiết tha, <br/>Vì đang luân vong nơi khổ hải, Não chí đau lòng lắm a! <br/>Người đời đang trông phương thoát ra, Ngoài Ngài Jê-sus có đâu, <br/>Nên ta quyết chí đi rao truyền, Rằng ơn cứu bởi Tin Lành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nầy ta kíp báo Tin Lành, Là ơn Chúa cứu chúng sanh; <br/>Jê-sus đổ huyết thay cho người, Nầy ta kíp báo Tin Lành. </em></dd></dl>

@@ -1,0 +1,8 @@
+---
+song_number: 339
+title: 339. Bất Dạ Thành
+categories: Cõi Lai Sanh
+sub_categories: Thiên Đàng
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Tại miền kia, nơi bất dạ ấy, <br/>Thành vuông vức lập nơi nầy. <br/>Thành tinh kim muôn thuở sáng tươi, <br/>Thành danh bất dạ trên trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chiên Con lau sạch nước mắt tôi, <br/>Đây không đau, già chết như đời, <br/>Không ai tính tháng, tính năm chi, <br/>Bởi đây nào còn đêm gì. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tại thành vuông muôn sắc lòa sáng,h <br/>Mười hai cửa ngọc huy hoàng. <br/>Đường tinh kim giăng sáng khắp nơi, <br/>Thành danh bất dạ trên trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chiên Con lau sạch nước mắt tôi, <br/>Đây không đau, già chết như đời, <br/>Không ai tính tháng, tính năm chi, <br/>Bởi đây nào còn đêm gì. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Thành môn kia không lúc nào đóng, <br/>Thành vuông bốn mùa xuân nồng. <br/>Dòng trường sinh trong vắt sáng tươi, <br/>Thành danh bất dạ trên trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chiên Con lau sạch nước mắt tôi, <br/>Đây không đau, già chết như đời, <br/>Không ai tính tháng, tính năm chi, <br/>Bởi đây nào còn đêm gì. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Tại thành vuông muôn thuở lòa chói, <br/>Là nơi chẳng cần mặt trời. <br/>Vì Chiên Con soi sáng khắp nơi, <br/>Thành danh bất dạ trên trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chiên Con lau sạch nước mắt tôi, <br/>Đây không đau, già chết như đời, <br/>Không ai tính tháng, tính năm chi, <br/>Bởi đây nào còn đêm gì. </em></dd></dl>

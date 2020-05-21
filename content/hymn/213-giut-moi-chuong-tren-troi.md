@@ -1,0 +1,8 @@
+---
+song_number: 213
+title: 213. Giựt Mọi Chuông Trên Trời
+categories: Đời Tín Đồ
+sub_categories: Vui Vẻ Vì Được Cứu
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Giựt mọi chuông trời "đính đông", <br/>bữa nay mừng vui thay! <br/>Vì con đãng hoang đã quay bước về Cha; <br/>Kìa, Từ Phụ chạy đón con trước sân ngoai cầm tay,ài <br/>Mừng hôn đứa con bấy lâu đã lạc xa. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi, thiên sứ ca vang đàn cầm rền tiếng, <br/>Kìa, thật vinh hiển thay danh Cha nhân hiền! <br/>Đoàn hùng binh được cứu như biển đang gầm vang to. <br/>Cùng thiên sứ vui vẻ ca khúc tự do. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Giựt mọi chuông trời "đính đông", <br/>bữa nay mừng vui thay! <br/>Vì con đãng hoang với Cha đã hoà nhau; <br/>Ồ, một linh hồn thoát ly khỏi con đường lạc sai. <br/>Được ơn tái sanh khỏi hư mất đời sau. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi, thiên sứ ca vang đàn cầm rền tiếng, <br/>Kìa, thật vinh hiển thay danh Cha nhân hiền! <br/>Đoàn hùng binh được cứu như biển đang gầm vang to. <br/>Cùng thiên sứ vui vẻ ca khúc tự do. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Giựt mọi chuông trời "đính đông", <br/>báo tin tiệc vui đây. <br/>Đoàn thiên sứ vui vẻ tâu khải hoàn ca; <br/>Nguyền truyền tin lành khắp nơi thế gian đều được hay. <br/>Về một linh hồn tái sanh thoát quyền ma. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi, thiên sứ ca vang đàn cầm rền tiếng, <br/>Kìa, thật vinh hiển thay danh Cha nhân hiền! <br/>Đoàn hùng binh được cứu như biển đang gầm vang to. <br/>Cùng thiên sứ vui vẻ ca khúc tự do. </em></dd></dl>

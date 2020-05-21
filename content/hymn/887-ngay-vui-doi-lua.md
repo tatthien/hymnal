@@ -1,0 +1,8 @@
+---
+song_number: 887
+title: 887. Ngày Vui Đôi Lứa
+categories: Biệt Lễ Ca
+sub_categories: Hôn Lễ
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Nhạc rộn ràng trong nhà thờ giờ đây vui quá! <br/>Chuông vang rền hòa theo tiếng dương cầm ngân. <br/>Cô dâu dịu dàng cầm bó hoa trong ngày vui mừng, <br/>Phút giâu diệu kỳ được cùng người yêu bước chung. </dd><dt>Câu 2:</dt><dd data-verse="2">Nhạc rộn ràng trong nhà thờ giờ đây vui quá! <br/>Chuông vang rền hòa theo tiếng dương cầm ngân. <br/>Có hai người cùng quỳ gối bên nhau cùng kêu cầu, <br/>Kính dâng lời thề nguyền “Trọn đời yêu mến nhau.” </dd><dt>Câu 3:</dt><dd data-verse="3">Giờ tuyệt vời muôn ngàn đời lòng luôn ghi nhớ! <br/>“Xưa hai người từ nay sẽ nên một thôi.” <br/>Cám ơn Ngài vì hạnh phúc Chúa ban từ trên trời, <br/>Chúng con nguyện trọn đời làm đẹp danh Chúa thôi. </dd><dt>Câu 4:</dt><dd data-verse="4">Nhà thờ trong giờ này trang nghiêm quá! <br/>Bao nhiêu người lòng cung kính vui hòa ca. <br/>Hướng tâm hồn mình về Chúa trên ngôi trời cao vời, <br/>Đoái thương lời mọi người nguyện cầu cho lứa đôi. </dd><dt>Câu 5:</dt><dd data-verse="5">Lặng thầm nghe lời vàng trong Kinh Thánh; <br/>“Yêu nhau hoài dù năm tháng phai ngày xanh.” <br/>Thiết tha hoài, dù đời sống vui hay nhiều lo buồn; <br/>Tín trung hoài, dù giàu nghèo trọn tình mến thương. </dd><dt>Câu 6:</dt><dd data-verse="6">Nhà thờ trong giờ này đông vui quá! <br/>Chuông vang rền hòa theo tiếng dương cầm ngân. <br/>Có đôi người về tổ ấm xây duyên tình lâu bền, <br/>Suốt trong đời chẳng rời, dệt tình yêu ấm êm. </dd></dl>

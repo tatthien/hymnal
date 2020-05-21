@@ -1,0 +1,8 @@
+---
+song_number: 268
+title: 268. Thỏa Thích Thay Tin Cậy Chúa Jêsus
+categories: Đời Tín Đồ
+sub_categories: Bền Lòng Tin Cậy
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Thỏa thích thay tin cậy Chúa Jê-sus! <br/>Lòng tôi quyết chỉ tin Ngài thôi, <br/>Nghỉ yên trên bao lời hứa Ngài rày, <br/>Tin chắc Ngài phán ngay cùng tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus, Jê-sus nương cậy Chúa thôi, <br/>Mong biết rõ Chúa tôi nhiều hơn, <br/>Jê-sus, Jê-sus quý trọng tuyệt vời, <br/>Ân điển Ngài giup tin càng hơn. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Thỏa thích thay tin cậy Chúa Jê-sus! <br/>Nhờ huyết Chúa thứ tha tội nay, <br/>Bởi đức tin tôi dầm dưới sông hồng, <br/>Tâm thánh sạch, ốm đau lành ngay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus, Jê-sus nương cậy Chúa thôi, <br/>Mong biết rõ Chúa tôi nhiều hơn, <br/>Jê-sus, Jê-sus quý trọng tuyệt vời, <br/>Ân điển Ngài giúp tin càng hơn. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Thỏa thích thay tin cậy Chúa Jê-sus! <br/>Diệt tư kỷ, lánh xa tội khiên, <br/>Chúa cho tôi vui mừng sống an bình, <br/>Trong cõi trần cũng như thượng thiên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus, Jê-sus nương cậy Chúa thôi, <br/>Mong biết rõ Chúa tôi càng hơn, <br/>Jê-sus, Jê-sus quí trọng tuyệt vời, <br/>Tin quyết Ngài đổ ơn thượng thiên. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Thỏa thích thay kinh nghiệm tin cậy Ngài! <br/>Là Thiết hữu của tôi từ lâu, <br/>Vững tâm tin Ngài thuộc tôi mọi giờ, <br/>Trong cõi nầy cũng như đời sau. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus, Jê-sus nương cậy Chúa thôi, <br/>Mong biết rõ Chúa tôi nhiều hơn, <br/>Jê-sus, Jê-sus quý trọng tuyệt vời, <br/>Ân điển Ngài giúp tin càng hơn. </em></dd></dl>

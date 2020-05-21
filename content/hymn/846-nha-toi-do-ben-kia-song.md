@@ -1,0 +1,8 @@
+---
+song_number: 846
+title: 846. Nhà Tôi Đó Bên Kia Sông
+categories: Đời Tín Đồ
+sub_categories: Qua Đời Và Sống Đời Đời
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Nhà tôi đó! Có hoa ngát hương nồng. <br/>Nhà tôi đó! Bên kia bờ sông. <br/>Nhà tôi đó! Sớm mai nắng tươi hồng! <br/>Có tiếng ca dịu êm ru lòng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bên kia sông sáng lên căn nhà tôi. <br/>Nơi yêu thương ấm êm tim người. <br/>Bên kia sông Chúa đang mong chờ tôi, <br/>Đón rước tôi về vui muôn đời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Trần gian đó! Tiếng than khóc vang dội. <br/>Trần gian đó! Nước mắt thường rơi. <br/>Trần gian đó! Nhắc tôi nhớ bao người, <br/>Thiếu đức tin còn đang xa vời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bên kia sông sáng lên căn nhà tôi. <br/>Nơi yêu thương ấm êm tim người. <br/>Bên kia sông Chúa đang mong chờ tôi, <br/>Đón rước tôi về vui muôn đời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Đời tôi đó! Thức canh với trông đợi. <br/>Đời tôi đó! Sóng gió mà vui. <br/>Đời tôi đó! Khó khăn vẫn tươi cười, <br/>Hướng bước chân về quê hương trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bên kia sông sáng lên căn nhà tôi. <br/>Nơi yêu thương ấm êm tim người. <br/>Bên kia sông Chúa đang mong chờ tôi, <br/>Đón rước tôi về vui muôn đời. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Về nơi đó! Hưởng ơn phước thiên đàng. <br/>Về nơi đó! Khi công việc xong. <br/>Về nơi đó! Có yêu mến ru lòng, <br/>Có Jê-sus bình an vô lòng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bên kia sông sáng lên căn nhà tôi. <br/>Nơi yêu thương ấm êm tim người. <br/>Bên kia sông Chúa đang mong chờ tôi, <br/>Đón rước tôi về vui muôn đời. </em></dd></dl>

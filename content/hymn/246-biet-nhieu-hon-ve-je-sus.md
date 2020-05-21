@@ -1,0 +1,8 @@
+---
+song_number: 246
+title: 246. Biết Nhiều Hơn Về Jê-Sus
+categories: Đời Tín Đồ
+sub_categories: Nguyện Vọng
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Nguyền ngày càng tường minh Jê-sus thêm <br/>Cao rao thiên ân giúp kẻ khác nếm <br/>Muốn rõ bửu huyết cứu ta không thôi <br/>Lòng yêu khiến Chúa chết thay vì tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Biết nhiều hơn về Jê-sus <br/>Mong sao biết rõ Jê-sus <br/>Ước thấy huyết báu Jêsus tuôn rơi <br/>Tường minh Đấng đã chết thay vì tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ngày ngày học nhiều về Jê-sus thôi <br/>Tôi mong am tri thánh ý giáo hối <br/>Sở dĩ thấu đáo tích hay ai ôi <br/>Là do Giáo sư Thánh Linh dạy tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Biết nhiều hơn về Jê-sus <br/>Mong sao biết rõ Jê-sus <br/>Ước thấy huyết báu Jêsus tuôn rơi <br/>Tường minh Đấng đã chết thay vì tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Càng thuộc nhiều lời Jê-sus ban trao <br/>Luôn luôn thâm giao với Vua trên cao <br/>Tai nghe Jê-sus khuyên dạy ngọt ngào <br/>Thuộc tôi mấy câu Thánh ngôn diệu sao. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Biết nhiều hơn về Jê-sus <br/>Mong sao biết rõ Jê-sus <br/>Ước thấy huyết báu Jê-sus tuôn rơi <br/>Tường minh Đấng đã chết thay vì tôi. </em></dd><dt>Câu 4:</dt><dd data-verse="3">Càng tường Jê-sus trên ngôi cao sang <br/>Vinh quang trên thiên quốc chiếu sáng láng <br/>Biết chắc nước Chúa lớn trong nhân gian <br/>Jê-sus đến đem kỷ nguyên bình an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Biết nhiều hơn về Jê-sus <br/>Mong sao biết rõ Jê-sus <br/>Ước thấy huyết báu Jêsus tuôn rơi <br/>Tường minh Đấng đã chết thay vì tôi. </em></dd></dl>

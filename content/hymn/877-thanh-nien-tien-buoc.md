@@ -1,0 +1,8 @@
+---
+song_number: 877
+title: 877. Thanh Niên Tiến Bước
+categories: Thanh Niên
+sub_categories: 
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Thanh thiếu niên Tin Lành tiến, <br/>bươn theo gót Chúa ta. <br/>Thanh thiếu niên Tin Lành <br/>đi vui mừng trong tiếng ca. <br/>Thanh thiếu niên Tin Lành <br/>quyết đem thân trí năng tài, <br/>cùng xây đắp Hội Thánh ngày mai. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đi, đi lên chiến thắng, <br/>xây tương lai huy hoàng, <br/>Này đoàn người trai trẻ <br/>ta quyết xa lánh thế gian. <br/>Đứng lên với tâm can trường, <br/>theo Jê-sus muôn phương, <br/>truyền rao đi khắp chốn tình thương. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Đây tiếng kêu Jê-sus đến <br/>trong tha thiết yêu đương: <br/>“Con hỡi con sao chìm đắm <br/>trong trần gian đáng thương. <br/>Đem tuổi xuân xây đời sống <br/>trên muôn lối khổ đau, <br/>Rồi tan như mây khói còn đâu.” </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đi, đi lên chiến thắng, <br/>xây tương lai huy hoàng, <br/>Này đoàn người trai trẻ <br/>ta quyết xa lánh thế gian. <br/>Đứng lên với tâm can trường, <br/>theo Jê-sus muôn phương, <br/>truyền rao đi khắp chốn tình thương. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nghe thở than linh hồn đói, <br/>mơ nước sống bánh thiêng, <br/>Khi sống vui bên mình <br/>Chúa bao lời ca phát nguyên. <br/>Ôi, biết bao cuộc đời <br/>tối khi ánh sáng chan hòa, <br/>Đừng lênh đênh, kíp đến cùng Cha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đi, đi lên chiến thắng, <br/>xây tương lai huy hoàng, <br/>Này đoàn người trai trẻ <br/>ta quyết xa lánh thế gian. <br/>Đứng lên với tâm can trường, <br/>theo Jê-sus muôn phương, <br/>truyền rao đi khắp chốn tình thương. </em></dd></dl>

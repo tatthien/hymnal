@@ -1,0 +1,8 @@
+---
+song_number: 783
+title: 783. Chúa Hiểu Thấu Vô Cùng
+categories: Đời Tín Đồ
+sub_categories: Sự An Ủi
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Ai đang còn mang gánh ô tội chất ngất trên vai? <br/>Ai đang còn mang nỗi u hoài trong tim chẳng phai? <br/>Ai trong thời gian vút bay. Buồn lo đến tương lai, <br/>nước mắt ngày đêm tuôn dài Jê-sus biết hết rồi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trao trong cánh tay Ngài những tháng năm tương lai. <br/>Đường đời lắm chông gai Mau nghỉ yên trong Ngài. <br/>Đem bao sầu đau vấn vương trình lên Chúa yêu thương. <br/>Những nỗi niềm vui hay buồn Chúa hiểu thấu vô cùng. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ai đang mệt mê giữa sa mạc nắng cháy khô khan? <br/>Ai đang còn lạc giữa khu rừng thâm u tối tăm? <br/>Ai đang gặp bao khó khăn. Lòng sợ hãi phân vân <br/>Những nỗi niềm riêng âm thầm Jê-sus biết hết rồi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trao trong cánh tay Ngài những tháng năm tương lai. <br/>Đường đời lắm chông gai Mau nghỉ yên trong Ngài. <br/>Đem bao sầu đau vấn vương trình lên Chúa yêu thương. <br/>Những nỗi niềm vui hay buồn Chúa hiểu thấu vô cùng. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ai đang lặng nghe tiếng kêu gọi ấm áp thiêng liêng? <br/>Con ơi, dừng chân hãy quay về cùng ta nghỉ yên. <br/>Ta ban bình an, đức tin, nguồn an ủi vô biên. <br/>Những lỗi lầm xưa trong đời Jê-sus biết hết rồi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trao trong cánh tay Ngài những tháng năm tương lai. <br/>Đường đời lắm chông gai Mau nghỉ yên trong Ngài. <br/>Đem bao sầu đau vấn vương trình lên Chúa yêu thương. <br/>Những nỗi niềm vui hay buồn Chúa hiểu thấu vô cùng. </em></dd></dl>

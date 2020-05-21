@@ -1,0 +1,8 @@
+---
+song_number: 638
+title: 638. Hãy Theo Jê-Sus
+categories: Tin Lành
+sub_categories: Lời Mời
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Nào anh em ai vui dâng thân, tâm linh cho Vua Jê-sus? <br/>Nào ai vui theo Jê-sus Đấng chăn chiên bao phủ? <br/>Nào ai mong Jê-sus mang thay bao nhiêu tội tình ô uế? <br/>Hãy bằng lòng bước theo Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Huyết Chúa làm mất hết tội của chính tôi đây, <br/>huyết Chúa hòa với bao tình thương tôi mỗi ngày. <br/>Quyền Jê-sus thay tâm linh từ rày thỏa bấy, <br/>và dìu đời tôi đưa tôi bước theo chân Ngài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Kìa Jê-sus hy sinh thân quý, huyết báu chuộc tội ta đây. <br/>Lòng ta xưa kia vốn chất chứa tội tình biết mấy. <br/>Nào ai mong Jê-sus yêu thương buông tha mọi tội xưa cũ? <br/>Hãy bằng lòng bước theo Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Huyết Chúa làm mất hết tội của chính tôi đây, <br/>huyết Chúa hòa với bao tình thương tôi mỗi ngày. <br/>Quyền Jê-sus thay tâm linh từ rày thỏa bấy, <br/>và dìu đời tôi đưa tôi bước theo chân Ngài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nào ai mơ tương lai nơi thiên cung kia một ngày tươi sáng? <br/>Nào ai đang trông mong không vướng vào đường xưa cũ? <br/>Thì ta nên giao cho Jê-sus thân ta hầu Ngài cai quản. <br/>Rồi cùng Ngài bước đi vững an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Huyết Chúa làm mất hết tội của chính tôi đây, <br/>huyết Chúa hòa với bao tình thương tôi mỗi ngày. <br/>Quyền Jê-sus thay tâm linh từ rày thỏa bấy, <br/>và dìu đời tôi đưa tôi bước theo chân Ngài. </em></dd></dl>

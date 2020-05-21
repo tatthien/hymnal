@@ -1,0 +1,8 @@
+---
+song_number: 269
+title: 269. Nầy Là Truyện Ký Tôi
+categories: Đời Tín Đồ
+sub_categories: Bền Lòng Tin Cậy
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Chúa thuộc về tôi, tôi nguyện tin sắt son, <br/>Tôi từng vui nếm trước phước phước vĩnh sinh bùi ngon; <br/>Hưởng cơ nghiệp cứu rỗi nhờ ơn hiếu sinh, <br/>Sạch tội bởi huyết, tái sanh bởi Thần Linh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nầy là truyện ký tôi, bản hát của tôi, <br/>Tôn vinh danh Cứu Chúa không khi nào thôi; <br/>Này trang sử tôi, nầy bản ca của tôi, <br/>Ngợi khen Cứu Chúa tôi, không lúc nào thôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tôi thuận phục Jê-sus, lòng ưa biết bao, <br/>Tôi đuợc chiêm ngưỡng cảnh thú vui nơi trời cao; <br/>Có thiên thần đi ra truyền rao bốn phương, <br/>Về Cứu Chúa Jê-sus đầy dẫy tình thương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nầy là truyện ký tôi, bản hát của tôi, <br/>Tôn vinh danh Cứu Chúa không khi nào thôi; <br/>Này trang sử tôi, nầy bản ca của tôi, <br/>Ngợi khen Cứu Chúa tôi, không lúc nào thôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Tôi thuận phục Jê-sus, lòng luôn nghỉ an, <br/>Vui mừng thỏa thích hưởng phước Chúa Cha hằng ban; <br/>Thức canh chờ mong, đêm ngày trông ngóng luôn, <br/>Tình thương phủ lút, ơn lành mãi tràn tuôn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nầy là truyện ký tôi, bản hát của tôi, <br/>Tôn vinh danh Cứu Chúa không khi nào thôi; <br/>Này trang sử tôi, nầy bản ca của tôi, <br/>Ngợi khen Cứu Chúa tôi, không lúc nào thôi. </em></dd></dl>

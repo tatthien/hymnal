@@ -1,0 +1,8 @@
+---
+song_number: 764
+title: 764. Rừng Núi Cất Tiếng Ca
+categories: Đời Tín Đồ
+sub_categories: Bình An, Vui Vẻ
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Rừng sâu vang tiếng reo mừng, <br/>đại dương thăm thẳm tưng bừng, <br/>từ trên non xanh nơi ngất cao đồi núi bao la. <br/>Lần theo khe suối xa xôi, <br/>hòa chung sông nước lớn mênh mông, <br/>cùng cất tiếng ca vui mừng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngàn cây xanh cất tiếng <br/>ca hát vang trời hạnh phước, <br/>hoa lung linh trong gió <br/>muôn màu khoe sắc. <br/>Lượn trên cao bao <br/>cánh chim cùng chào đón, <br/>sống an vui trong Tin Lành. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bình an sẽ đến với người <br/>Thật tin ánh sáng Tin Lành, <br/>quyền năng trên cao <br/>ban phát cho người có đức tin. <br/>Tình thương trong Chúa tuôn tràn, <br/>cùng nhau chung sống cảnh thiên đàng, <br/>nào hãy hát lên reo mừng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngàn cây xanh cất tiếng <br/>ca hát vang trời hạnh phước, <br/>hoa lung linh trong gió <br/>muôn màu khoe sắc. <br/>Lượn trên cao bao <br/>cánh chim cùng chào đón, <br/>sống an vui trong Tin Lành. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Từ nay vui sống thanh bình <br/>nhờ ơn Thiên Chúa cứu chuộc, <br/>lòng luôn hân hoan vui thỏa <br/>trong hạnh phúc chứa chan. <br/>Niềm vui trong Chúa dâng trào <br/>làm sao câm nín mãi trong lòng, <br/>nào sớm rao ra Tin Lành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngàn cây xanh cất tiếng <br/>ca hát vang trời hạnh phước, <br/>hoa lung linh trong gió <br/>muôn màu khoe sắc. <br/>Lượn trên cao bao <br/>cánh chim cùng chào đón, <br/>sống an vui trong Tin Lành. </em></dd></dl>

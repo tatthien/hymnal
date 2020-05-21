@@ -1,0 +1,8 @@
+---
+song_number: 193
+title: 193. Gần Thập Tự
+categories: Tin Lành
+sub_categories: Thập Tự Giá
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Jê-sus giữ tôi gần thập tự, <br/>Gần hông tuôn suối huyết ra, <br/>Lưu xuất ở nơi Gô-gô-tha, <br/>Nghìn thu công hiệu chẳng ngoa. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thập giá Chúa, thập giá Chúa, <br/>Vinh hiển tôi muôn muôn đời, <br/>Cho đến qua bên kia bờ rồi, <br/>Ngày đêm an lạc thảnh thơi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tôi đứng bên thập tự sợ sệt, <br/>Tình yêu thương Chúa phủ tôi; <br/>Kia ánh sáng Sao Mai rực trời, <br/>Lòa vinh quang cùng khắp nơi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thập giá Chúa, thập giá Chúa, <br/>Vinh hiển tôi muôn muôn đời, <br/>Cho đến qua bên kia bờ rồi, <br/>Ngày đêm an lạc thảnh thơi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Xin nhắc trong tâm linh này hoài, <br/>Về thập tự của Chúa tôi. <br/>Đưa dẫn tôi suốt đêm liền ngày, <br/>Hằng bươn theo mục đích thôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thập giá Chúa, thập giá Chúa, <br/>Vinh hiển tôi muôn muôn đời, <br/>Cho đến qua bên kia bờ rồi, <br/>Ngày đêm an lạc thảnh thơi. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Tôi đứng bên thập tự nhẹ nhàng, <br/>Hằng trông mong Chúa tái lâm; <br/>Nghinh tiếp tôi bước lên bờ vàng, <br/>Lìa xa nơi trần tối tăm. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thập giá Chúa, thập giá Chúa, <br/>Vinh hiển tôi muôn muôn đời, <br/>Cho đến qua bên kia bờ rồi, <br/>Ngày đêm an lạc thảnh thơi. </em></dd></dl>

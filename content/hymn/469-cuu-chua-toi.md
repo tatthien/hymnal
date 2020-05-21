@@ -1,0 +1,8 @@
+---
+song_number: 469
+title: 469. Cứu Chúa Tôi
+categories: Tin Lành
+sub_categories: 
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Tình tôi vui vẻ bấy, biết Con Trời Jê-sus, <br/>Lòng nhân yêu mến, trải đến muôn ngàn thu; <br/>Lòng tôi vui thỏa mãi, Chúa chăn hồn linh tôi, <br/>Là bạn yêu thương, không để tôi mồ côi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nay ta nên hát, khúc cầm thanh nhã ca, <br/>Mừng thay Chúa Cha, sai Con Ngài lâm thế; <br/>Thần nhân giao tế, nẻo đường linh mở ra, <br/>Từ tâm bác ái, cứu linh diệt tà. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ngày xưa tôi lẫn trí, hết phương ngồi khoanh tay, <br/>Trời cao thăm thẳm, có cánh đâu mà bay; <br/>Ngày nay tôi khỏi chết, sống đây là Jê-sus, <br/>Hồn được an ninh, vui vẻ muôn ngàn thu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nay ta nên hát, khúc cầm thanh nhã ca, <br/>Mừng thay Chúa Cha, sai Con Ngài lâm thế; <br/>Thần nhân giao tế, nẻo đường linh mở ra, <br/>Từ tâm bác ái, cứu linh diệt tà. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Từ Jê-sus giáng thế thắng hơn quyền yêu ma, <br/>Vì thương yêu phải đổ huyết trong lòng ra; <br/>Ngài ban ân điển lớn, cứu linh hồn cho ta; <br/>Trần tội buông tha, theo dõi Chân Thần tôi. <br/><br/></dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nay ta nên hát, khúc cầm thanh nhã ca, <br/>Mừng thay Chúa Cha, sai Con Ngài lâm thế; <br/>Thần nhân giao tế, nẻo đường linh mở ra, <br/>Từ tâm bác ái, cứu linh diệt tà. </em></dd></dl>

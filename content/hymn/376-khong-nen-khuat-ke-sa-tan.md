@@ -1,0 +1,8 @@
+---
+song_number: 376
+title: 376. Không Nên Khuất Kế Sa-Tan
+categories: Thanh Niên
+sub_categories: 
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Không nên khuất kế Sa-tan, <br/>Nghe theo ắt mang tội; <br/>Một lần xua quân nghịch tan, <br/>Thêm kinh nghiệm một mối. <br/>Hỡi chiến sĩ, hãy tiên khu, <br/>Gươm thiêng giết tư dục; <br/>Nguyện nhìn xem Chúa Jê-sus, <br/>Đấng giúp anh năng lực. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cầu nguyện Jê-sus phù hộ anh, <br/>Khuyên lơn, tiếp trợ, an ủi anh; <br/>Có Chúa Jê-sus bênh vực anh, <br/>Giúp sức anh luôn thắng vinh. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nên xa tổn hữu luôn luôn, <br/>Tôn danh Đức Chúa Cha, <br/>Đừng phạm thượng hay phù ngôn, <br/>Không buông lời gian trá. <br/>Luôn luôn sốt sắng lo âu, <br/>Thêm nhân ái chân thực, <br/>Nguyện nhìn xem Chúa Jê-sus, <br/>Đấng giúp anh năng lực. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cầu nguyện Jê-sus phù hộ anh, <br/>Khuyên lơn, tiếp trợ, an ủi anh; <br/>Có Chúa Jê-sus bênh vực anh, <br/>Giúp sức anh luôn thắng vinh. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ai đắc thắng, vẻ vang thay, <br/>Cha ban thưởng kim miện; <br/>Dầu từng nghiêng ngã sầu cay, <br/>Nhưng tin lại quyết chiến. <br/>Cứu Chúa xuống ơn cao sâu, <br/>Ban thêm sức không mực, <br/>Nguyện nhìn xem Chúa Jê-sus, <br/>Đấng giúp anh năng lực. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cầu nguyện Jê-sus phù hộ anh, <br/>Khuyên lơn, tiếp trợ, an ủi anh; <br/>Có Chúa Jê-sus bênh vực anh, <br/>Giúp sức anh luôn thắng vinh. </em></dd></dl>

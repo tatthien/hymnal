@@ -1,0 +1,8 @@
+---
+song_number: 334
+title: 334. Rất An Ninh Trong Cánh Christ
+categories: Đời Tín Đồ
+sub_categories: Qua Đời Và Sống Đời Đời
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Rất an ninh tại trong cánh Christ, <br/>Êm bấy trên ngực Ngài nay. <br/>Bóng yêu thương Ngài bao phủ kín, <br/>Ắt tâm linh an lạc thay! <br/>Kìa, thiên sứ hoan ca thi thánh, <br/>Reo trong tôi nhạc điệu hay, <br/>Trông quang cảnh thiên quốc hiển vinh, <br/>Tại bên biển sáng ngời đây. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Rất an ninh tại trong cánh Christ, <br/>Êm bấy trên ngực Ngài nay, <br/>Bóng yêu thương Ngài bao phủ kín, <br/>Ắt tâm linh an lạc thay! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Rất an ninh tại trong Chúa tôi, <br/>Tâm chẳng hoang mang, phiền âu, <br/>Thế gian không còn mong phỉnh dối <br/>Ác khiên không phương hại đâu. <br/>Bao nhiêu nỗi tai ương tiêu tán, <br/>Tâm không nghi nan sầu khủng, <br/>Tuy nay trải đôi chút thở than, <br/>Dòng châu cũng sắp tận chung. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Rất an ninh tại trong cánh Christ, <br/>Êm bấy trên ngực Ngài nay, <br/>Bóng yêu thương Ngài bao phủ kín, <br/>Ắt tâm linh an lạc thay! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Chỗ tôi nương nhờ duy Jê-sus, <br/>Xưa đã chết thay tội tôi, <br/>Quyết nương trên Bàn Thạch an trú, <br/>Ấy nơi tôi trông cậy thôi. <br/>Đây tôi quyết trông mong kiên nhẫn, <br/>Đến lúc tối tăm tàn hẳn, <br/>Dương quang sớm mai chiếu hỉ hân, <br/>Bờ thiên quốc ánh vàng giăng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Rất an ninh tại trong cánh Christ, <br/>Êm bấy trên ngực Ngài nay, <br/>Bóng yêu thương Ngài bao phủ kín, <br/>Ắt tâm linh an lạc thay! </em></dd></dl>

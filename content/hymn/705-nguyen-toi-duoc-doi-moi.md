@@ -1,0 +1,8 @@
+---
+song_number: 705
+title: 705. Nguyện Tôi Được Đổi Mới
+categories: Đời Tín Đồ
+sub_categories: Nguyện Vọng
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Muôn người đang gánh khổ đau rên siết đêm ngày, <br/>tràn lan khắp lối trên thế gian. <br/>Mau rọi ánh dương vào những nơi đầy tối tăm, <br/>dẹp tan bao mối lo khóc than. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nguyện tôi được đổi mới, hạnh phước cho muôn người, <br/>qua nếp sống tôi, Jê-sus vinh quang. <br/>Lòng mong được đổi mới, lạy Jê-sus yêu quý. <br/>Nguyện xin ơn phước Ngài phát lưu ra qua tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ðem tình yêu Chúa Jê-sus truyền bá cho đời, <br/>và quyền năng thoát ách Sa-tan. <br/>Muôn người sẽ tin Ngài bởi môi miệng chúng ta, <br/>và qua nếp sống mới trong ta. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nguyện tôi được đổi mới, hạnh phước cho muôn người, <br/>qua nếp sống tôi, Jê-sus vinh quang. <br/>Lòng mong được đổi mới, lạy Jê-sus yêu quý. <br/>Nguyện xin ơn phước Ngài phát lưu ra qua tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ban lại bao phước thiêng ta nhận lãnh nơi Ngài, <br/>và yêu như Chúa đã yêu ta. <br/>Vui lòng cứu giúp mọi thế nhân gặp khó khăn. <br/>Thành tâm cho đến vô thiên cung. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nguyện tôi được đổi mới, hạnh phước cho muôn người, <br/>qua nếp sống tôi, Jê-sus vinh quang. <br/>Lòng mong được đổi mới, lạy Jê-sus yêu quý. <br/>Nguyện xin ơn phước Ngài phát lưu ra qua tôi. </em></dd></dl>

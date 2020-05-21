@@ -1,0 +1,8 @@
+---
+song_number: 873
+title: 873. Thanh Niên Tin Lành Ca
+categories: Thanh Niên
+sub_categories: 
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Ta thanh niên Tin Lành chen bước, <br/>cất tiếng vang ca rền, <br/>đường đời nhiều gai gốc <br/>tràn sầu đau, ta vững tiến lên. <br/>Quyết tâm nương Jê-sus Christ <br/>đừng xu hướng vinh hoa đời. <br/>Ôi vinh hiển khi nhìn <br/>Ê-li rẽ sông Giô-đanh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúng ta là thanh niên bước theo Jê-sus <br/>sống trong Ngài chan chứa ân phước cường phủ. <br/>Danh lợi, quyền thế giống như mây vờn trăng. <br/>Ha-lê-lu-gia! Christ đưa ta tới chốn an bằng. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ta thanh niên Tin Lành nung chí, <br/>đắc thắng cơn ba đào, <br/>dầu cường hào ma quỷ, <br/>lòng nào lui giông tố phủ bao. <br/>Tuốt gươm thiêng sáng choang <br/>nầy cùng tranh chiến Sa-tan thù. <br/>Kia anh dũng môn đồ <br/>Phao-lô trước mặt Phê-tu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúng ta là thanh niên bước theo Jê-sus <br/>sống trong Ngài chan chứa ân phước cường phủ. <br/>Danh lợi, quyền thế giống như mây vờn trăng. <br/>Ha-lê-lu-gia! Christ đưa ta tới chốn an bằng. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ta thanh niên Tin Lành <br/>nương dưới bóng Christ muôn muôn đời, <br/>hằng dùi mài Kinh Thánh <br/>cầu nguyện Cha ban phước khắp nơi. <br/>Dắt nhau thông suốt thiên trình, <br/>đoàn ta quyết không nao sờn. <br/>Quyết noi tấm gương <br/>hiền Ru-tơ, Đa-vít, Ê-tiên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúng ta là thanh niên bước theo Jê-sus <br/>sống trong Ngài chan chứa ân phước cường phủ. <br/>Danh lợi, quyền thế giống như mây vờn trăng. <br/>Ha-lê-lu-gia! Christ đưa ta tới chốn an bằng. </em></dd></dl>

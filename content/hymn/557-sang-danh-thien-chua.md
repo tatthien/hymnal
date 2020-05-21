@@ -1,0 +1,8 @@
+---
+song_number: 557
+title: 557. Sáng Danh Thiên Chúa
+categories: Chúa Jêsus Christ
+sub_categories: Giáng Sinh
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Trên không trung tiếng hát thiên binh, <br/>êm đềm ngân suốt trong đêm trường. <br/>Non xanh kia đáp tiếng hoan ca, <br/>Vang niềm vui khắp nơi xa ngàn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ô, sáng danh trên trời cao, <br/>sáng danh trên trời cao, <br/>sáng danh trên trời cao, ngàn trùng. <br/>Nguyện Danh Thiên Chúa vinh quang. <br/>Ô, sáng danh trên trời cao, <br/>sáng danh trên trời cao, <br/>sáng danh trên trời cao, ngàn trùng. <br/>Nguyện Danh Thiên Chúa huy hoàng. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Kìa mau mau đến Bết-lê-hem, <br/>Xin quỳ tôn Thánh Vương ra đời; <br/>Nơi Bê-lem sứ thánh hân hoan, <br/>Ca mừng đêm Jê-sus lâm phàm. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ô, sáng danh trên trời cao, <br/>sáng danh trên trời cao, <br/>sáng danh trên trời cao, ngàn trùng. <br/>Nguyện Danh Thiên Chúa vinh quang. <br/>Ô, sáng danh trên trời cao, <br/>sáng danh trên trời cao, <br/>sáng danh trên trời cao, ngàn trùng. <br/>Nguyện Danh Thiên Chúa huy hoàng. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Kia trong nơi máng cỏ khiêm ti, <br/>Con Trời lâm thế cách nhu mì; <br/>Ca lên Giô-sép với Ma-ri, <br/>mau cùng tôi hát khen Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ô, sáng danh trên trời cao, <br/>sáng danh trên trời cao, <br/>sáng danh trên trời cao, ngàn trùng. <br/>Nguyện Danh Thiên Chúa vinh quang. <br/>Ô, sáng danh trên trời cao, <br/>sáng danh trên trời cao, <br/>sáng danh trên trời cao, ngàn trùng. <br/>Nguyện Danh Thiên Chúa huy hoàng. </em></dd></dl>

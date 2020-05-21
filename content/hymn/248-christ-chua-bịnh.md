@@ -1,0 +1,8 @@
+---
+song_number: 248
+title: 248. Christ Chữa Bịnh
+categories: Đời Tín Đồ
+sub_categories: Sự Chữa Lành
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Ôi Christ, xưa biết bao bệnh nguy cùng <br/>Kêu xin ơn Chúa đâu hoài công <br/>Tiếng quyền phép Chúa nay vẫn ứng linh <br/>Cùng ai khốn nguy cầu danh thánh <br/>Nguyền nghe chúng tôi hiệp cung bái <br/>Khẩn thiết nơi ngôi phước ân Ngài. </dd><dt>Câu 2:</dt><dd data-verse="2">Ôi, bao nhiêu nỗi đau buồn lo phiền <br/>Tuy to hay nhỏ, chung hoặc riêng <br/>Dẫu là hôm qua, ngày nay, mai đây <br/>Dầu cho xảy đến tại đây đấy <br/>Quỳ ngay chúng tôi đồng cung bái <br/>Khẩn thiết quanh ngôi phước ân Ngài. </dd><dt>Câu 3:</dt><dd data-verse="3">Hôm nay bao kẻ đau gần qua đời <br/>Trông anh em giúp khi tàn hơi <br/>Ước nhờ sức tiếp trợ Chúa chúng tôi <br/>Cùng ai đó gánh nặng phân phối <br/>Nguyền dâng của lễ hiệp nghi mãi <br/>Khẩn thiết nơi ngôi phước ân Ngài. </dd><dt>Câu 4:</dt><dd data-verse="3">Hôm nay con Chúa tay nguyền như lòng <br/>Xin Cha ban chúng tôi làm xong <br/>Mỗi luật yêu thương của Chúa chí nhơn <br/>Hầu an ủi những người đau đớn <br/>Nguyền dâng của lễ hiệp nghi mãi <br/>Khẩn thiết nơi ngôi phước ân Ngài. </dd><dt>Câu 5:</dt><dd data-verse="3">Như kia đau ốm ô tội, ưu phiền <br/>Lui ra ngay trước sức quyền thiêng <br/>Đến hồi kẻ thống bi hóa thảnh thơi <br/>Được ơn cứu, chữa lành thơ thới <br/>Cùng chư thánh hát bài vô giá <br/>Nhóm với nhau tại chốn thiên toà. </dd></dl>

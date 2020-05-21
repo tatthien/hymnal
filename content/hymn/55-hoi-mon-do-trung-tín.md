@@ -1,0 +1,8 @@
+---
+song_number: 55
+title: 55. Hỡi Môn Đồ Trung Tín
+categories: Chúa Jêsus Christ
+sub_categories: Giáng Sinh
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Hỡi môn đồ trung tín, dìu dắt nhau vui hát du dương, <br/>Vô nơi Bết-lê-hem chiêm ngưỡng thật tận tường, <br/>Chúa tể muôn sứ thánh nay giáng sinh chỗ tầm thường. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mau mau cùng nhau đến tôn thờ, <br/>Mau mau cùng nhau đến tôn thờ, <br/>Mau đến nơi đây tôn thờ Chúa Christ! Vua ta. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Jê-sus từ Đức Chúa Trời, Thánh Quang do chính Thánh Quang, <br/>Nhưng đâu khinh thị thân trinh nữ kia bần hàn; <br/>Cứu Chúa nay giáng sinh không bởi tinh huyết thành toàn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mau mau cùng nhau đến tôn thờ, <br/>Mau mau cùng nhau đến tôn thờ, <br/>Mau đến nơi đây tôn thờ Chúa Christ! Vua ta. </em></dd><dt>Câu 3:</dt><dd data-verse="3"> Ban âm nhạc thiên sứ đều trỗi vang lên khúc hân hoan, <br/>Thiên dân mau đồng thanh ca xướng điệu nhịp nhàng: <br/>Sáng danh Cha nơi cao. Vinh hiển quy Chúa mọi đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mau mau cùng nhau đến tôn thờ, <br/>Mau mau cùng nhau đến tôn thờ, <br/>Mau đến nơi đây tôn thờ Chúa Christ! Vua ta. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Hoan nghinh Thần Nhân Jê-sus giáng sinh ở giữa chúng tôi, <br/>Bao vinh quang thuộc Anh Nhi Thánh kia đời đời; <br/>Đấng Cha sai giáng sinh trong xác thịt, ấy Đạo Trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mau mau cùng nhau đến tôn thờ, <br/>Mau mau cùng nhau đến tôn thờ, <br/>Mau đến nơi đây tôn thờ Chúa Christ! Vua ta. </em></dd></dl>

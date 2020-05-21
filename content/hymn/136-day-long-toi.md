@@ -1,0 +1,8 @@
+---
+song_number: 136
+title: 136. Đầy Lòng Tôi
+categories: Đức Thánh Linh
+sub_categories: 
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Đức Thánh Linh, xin ngự trên tôi ngay, <br/>Xin ban ơn giúp tâm kinh hoàng. <br/>Ước Chúa mau lâm ngự trong tôi đây, <br/>Hôm nay hãy giáng cho đầy tràn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đầy lòng tôi, hiện giờ đây, <br/>Ước Jê-sus hà hơi Linh Ngài. <br/>Chúa hãy kíp ban vào lòng tôi nay, <br/>Linh năng thánh khiết cho đầy hoài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Đức Thánh Linh ban đầy lòng tôi đây, <br/>Tuy tôi khôn thế mô tả ra; dẫu thế, <br/>Tôi đương cần Ngài hôm nay, <br/>Trông mong lửa Thánh Linh rạng lòa. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đầy lòng tôi, hiện giờ đây, <br/>Ước Jê-sus hà hơi Linh Ngài. <br/>Chúa hãy kíp ban vào lòng tôi nay, <br/>Linh năng thánh khiết cho đầy hoài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Yếu đuối thay tâm hồn tôi hôm nay, <br/>Nên tôi xin cúi nơi chân Ngài. <br/>Đức Thánh Linh muôn đời hạnh vinh thay, <br/>Xin ban xuống linh năng đầy hoài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đầy lòng tôi, hiện giờ đây, <br/>Ước Jê-sus hà hơi Linh Ngài. <br/>Chúa hãy kíp ban vào lòng tôi nay, <br/>Linh năng thánh khiết cho đầy hoài. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Hãy cứu giúp, ủy lạo, luyện sạch tôi, <br/>Và ban ơn giúp tâm linh đây. Phải, <br/>Chúa cứu, ủy lạo hiện không thôi, <br/>Ngài đang giáng trong tôi thật đầy. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đầy lòng tôi, hiện giờ đây, <br/>Ước Jê-sus hà hơi Linh Ngài. <br/>Chúa hãy kíp ban vào lòng tôi nay, <br/>Linh năng thánh khiết cho đầy hoài. </em></dd></dl>

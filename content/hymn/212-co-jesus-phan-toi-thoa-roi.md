@@ -1,0 +1,8 @@
+---
+song_number: 212
+title: 212. Có Jêsus Phần Tôi Thỏa Rồi
+categories: Đời Tín Đồ
+sub_categories: Vui Vẻ Vì Được Cứu
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Dầu ai ai tranh giàu sang thế gian, <br/>Có Jê-sus phần tôi thỏa rồi; <br/>Cuộc vinh hoa như phù vân chóng tan, <br/>Đức yêu thương còn đến đời đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cao sâu bấy đức từ ái Jê-sus! <br/>Cao sâu thật nào ai đo tới! <br/>Ồ, ơn Cứu muôn đời ban phỉ phu, <br/>Bảo chứng tôi vào ở trên trời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Phần tôi lãnh duy một Jê-sus thôi, <br/>Khiến tâm linh được an ủi hoài; <br/>Dầu chung quanh ba đào vây phủ tôi, <br/>Vẫn xướng ca vì ở trong Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cao sâu bấy đức từ ái Jê-sus! <br/>Cao sâu thật nào ai đo tới! <br/>Ồ, ơn Cứu muôn đời ban phỉ phu, <br/>Bảo chứng tôi vào ở trên trời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Phần tôi lãnh duy một Jê-sus thôi, <br/>Ước ngắm xem Ngài luôn mỉm cười; <br/>Nhờ Jê-sus linh trình luôn sáng tươi, <br/>Dắt dẫn tôi từ đất lên trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cao sâu bấy đức từ ái Jê-sus! <br/>Cao sâu thật nào ai đo tới! <br/>Ồ, ơn Cứu muôn đời ban phỉ phu, <br/>Bảo chứng tôi vào ở trên trời. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Phần tôi lãnh duy một Jê-sus thôi, <br/>Quyết vững tin thập tự giá hoài; <br/>Kịp khi đến thiên đường kia sáng tươi, <br/>Thỏa chí tôi nhìn rõ mặt Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cao sâu bấy đức từ ái Jê-sus! <br/>Cao sâu thật nào ai đo tới! <br/>Ồ, ơn Cứu muôn đời ban phỉ phu, <br/>Bảo chứng tôi vào ở trên trời. </em></dd></dl>

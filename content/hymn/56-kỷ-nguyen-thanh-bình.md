@@ -1,0 +1,8 @@
+---
+song_number: 56
+title: 56. Kỷ Nguyên Thanh Bình
+categories: Chúa Jêsus Christ
+sub_categories: Giáng Sinh
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Tiếng chuông lừng vang đón mừng đêm mầu nhiệm vinh quang, <br/>Ngàn xưa muôn thiên sứ hân hoan bay liệng ca vang: <br/>Ân điển vô biên cho nhân loại, <br/>Hoan hỉ vô song cho muôn loài, <br/>Vì Hài Nhi Jê-sus đến, đem kỷ nguyên thanh bình! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Phước thay! chào mừng đời ân điển! <br/>Hạnh thay, Hoan hô thời bình yên! <br/>Xướng ca danh Jê-sus muôn đời! <br/>Tán dương Vua uy linh trên trời, <br/>Huyền diệu thay Jê-sus đến, đem kỷ nguyên thanh bình! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Chúa nhân từ thương xót người tội trầm luân linh đinh, <br/>Lìa ngôi cao sang vẻ vang trên thiên đàng quang vinh, <br/>Lâm thế chết thay cho muôn người, <br/>Lưu huyết hy sinh tha muôn đời; <br/>Kỳ diệu thay Chiên Con, Đấng đem kỷ nguyên thanh bình! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Phước thay! chào mừng đời ân điển! <br/>Hạnh thay, Hoan hô thời bình yên! <br/>Xướng ca danh Jê-sus muôn đời! <br/>Tán dương Vua uy linh trên trời, <br/>Huyền diệu thay Jê-sus đến, đem kỷ nguyên thanh bình! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Thế gian đầy tang chế, sầu muộn vì họa binh đao, <br/>Ngàn muôn tim than vãn trông an ninh từ trên cao; <br/>Mau đến ngay nghiêng trên ngực Ngài, <br/>Vua thánh ban yên vui lâu dài; <br/>Kìa Thần Nhân Jê-sus đến, đem kỷ nguyên thanh bình! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Phước thay! chào mừng đời ân điển! <br/>Hạnh thay, Hoan hô thời bình yên! <br/>Xướng ca danh Jê-sus muôn đời! <br/>Tán dương Vua uy linh trên trời, <br/>Huyền diệu thay Jê-sus đến, đem kỷ nguyên thanh bình! </em></dd></dl>

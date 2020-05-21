@@ -1,0 +1,8 @@
+---
+song_number: 626
+title: 626. Ngay Hôm Nay
+categories: Tin Lành
+sub_categories: Lời Mời
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Lời Chúa khuyên mời hãy mau quay về; <br/>quyết tâm xa lìa khỏi bến mê. <br/>Nào lắng nghe kìa tiếng Chúa đêm ngày, <br/>hỡi anh mau mau đến bên Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính hôm nay kíp đến ngay, <br/>Chúa vẫn đang chờ anh trở về. <br/>Chính hôm nay kíp đến ngay, <br/>Chúa vẫn đang chờ mong anh về. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lầm lỡ trong đời phí bao năm dài, <br/>Chúa ban ơn lành thứ tha ngay. <br/>Được sống an bình thỏa vui trong Ngài, <br/>bóng đêm qua bừng sáng ban ngày. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính hôm nay kíp đến ngay, <br/>Chúa vẫn đang chờ anh trở về. <br/>Chính hôm nay kíp đến ngay, <br/>Chúa vẫn đang chờ mong anh về. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lìa bỏ con đường gió sương phong trần <br/>đến với Jê-sus, Chúa chí nhân. <br/>Ngài vẫn kiên trì tháng năm đợi chờ. <br/>hãy mau quay về ngay bây giờ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính hôm nay kíp đến ngay, <br/>Chúa vẫn đang chờ anh trở về. <br/>Chính hôm nay kíp đến ngay, <br/>Chúa vẫn đang chờ mong anh về. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Nào hỡi ai còn mãi mê trong đời <br/>với bao ưu sầu vẫn không vơi. <br/>Tìm đến Jê-sus phước ơn ngập tràn, <br/>Chúa dẫn đưa cho đến thiên đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính hôm nay kíp đến ngay, <br/>Chúa vẫn đang chờ anh trở về. <br/>Chính hôm nay kíp đến ngay, <br/>Chúa vẫn đang chờ mong anh về. </em></dd></dl>

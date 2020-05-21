@@ -1,0 +1,8 @@
+---
+song_number: 279
+title: 279. Lòng Tôi Được An Ninh
+categories: Đời Tín Đồ
+sub_categories: Bình An Vui Vẻ
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Jê-sus ôi, lòng tôi nay an ninh, <br/>Ngài hằng lo liệu cho phu phỉ; <br/>Tôi nhận thấy Chúa yêu tôi lâu dài, <br/>Ngài vô song từ bi. <br/>Jê-sus gọi tôi ngắm dung nhan Ngài, <br/>Dung nhan Ngài chiếu tôi huy hoàng, <br/>Nhờ quyền năng của Chúa đổi mới tôi, <br/>Hộ tôi luôn bình an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus ôi, lòng tôi nay an ninh, <br/>Ngài hằng lo liệu cho phu phỉ. <br/>Tôi nhận thấy Chúa yêu tôi chân thành, <br/>Ngài vô song từ bi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lòng nầy duy cậy trông Jê-sus thôi, <br/>Hằng nhìn xem Ngài thật chăm chú; <br/>Tâm tình của Chúa tôi không sai dời, <br/>Lòng hân hoan nghìn thu. <br/>Trong tay Ngài yên nghỉ vui tươi hoài, <br/>Bao nhu cầu Chúa ban dồi dào, <br/>Trọn đời tôi an hưởng phước lớn lao, <br/>Ngài khoan nhân dường bao. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus ôi, lòng tôi nay an ninh, <br/>Ngài hằng lo liệu cho phu phỉ. <br/>Tôi nhận thấy Chúa yêu tôi chân thành, <br/>Ngài vô song từ bi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nguyền mặt Ngài hằng nhìn xem tôi nay, <br/>Ngày ngày tôi chờ xem Thiên nhan; <br/>Nương cạnh Chúa, Đấng đương vui tươi cười, <br/>Vầng mây đen liền tan. <br/>Ôi, vinh diệu thay Chúa Cha trên trời, <br/>Dung nhan Ngài chói lói rạng ngời. <br/>Trọn đời trông an ninh ở Chúa thôi, <br/>Nguồn ơn không hề vơi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus ôi, lòng tôi nay an ninh, <br/>Ngài hằng lo liệu cho phu phỉ. <br/>Tôi nhận thấy Chúa yêu tôi chân thành, <br/>Ngài vô song từ bi. </em></dd></dl>

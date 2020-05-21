@@ -1,0 +1,8 @@
+---
+song_number: 463
+title: 463. Thiết Nghĩa Jê-Sus
+categories: Cầu Nguyện
+sub_categories: 
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Này tôi đã lắng nghe tiếng Chúa khuyên: <br/>“Đến ở đây ngươi được bình yên, <br/>Dầu đau, hãy đến, ta giúp đỡ cho, <br/>Đến ở trong cánh tay được liền.” </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thiết nghĩa thay Jê-sus! <br/>Hỉ hả thay được vui! <br/>Vĩnh phước của tôi thật được thảnh thơi, <br/>Biết Jê-sus bạn tôi thật rồi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lòng tôi đã có dơ dáy xấu xa, <br/>Đến đỗi lương tâm thật buồn thay; <br/>Vậy tôi phải đến xin Chúa chữa cho, <br/>Chúa đã cho phước tôi được đầy. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thiết nghĩa thay Jê-sus! <br/>Hỉ hả thay được vui! <br/>Vĩnh phước của tôi thật được thảnh thơi, <br/>Biết Jê-sus bạn tôi thật rồi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Này tôi đã lắng nghe tiếng Chúa khuyên: <br/>“Nước vĩnh sinh ta đựng đầy luôn. <br/>Vậy ai hễ khát nên đến uống ngay, <br/>Uống sẽ cho sống không chịu tiền.” </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thiết nghĩa thay Jê-sus! <br/>Hỉ hả thay được vui! <br/>Vĩnh phước của tôi thật được thảnh thơi, <br/>Biết Jê-sus bạn tôi thật rồi. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Này tôi đã đến nên uống mãi luôn, <br/>Nước vĩnh sinh này thật là ngon; <br/>Vậy tôi đã khát nay có phước thay, <br/>Hớn hở theo Chúa phước hạnh hoài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thiết nghĩa thay Jê-sus! <br/>Hỉ hả thay được vui! <br/>Vĩnh phước của tôi thật được thảnh thơi, <br/>Biết Jê-sus bạn tôi thật rồi. </em></dd></dl>

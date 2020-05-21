@@ -1,0 +1,8 @@
+---
+song_number: 110
+title: 110. Chúa Chẳng Ở Nơi Mộ Nầy
+categories: Chúa Jêsus Christ
+sub_categories: Phục Sinh
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Bữa ấy giữa trưa trời ủ ê, <br/>Jê-sus Christ chết! <br/>Tất cả mối hy vọng tái tê. <br/>Jê-sus chết rồi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa, nhìn bàn thạch chặn mồ mở toang, <br/>Rạng lòa mộ phần, một thiên sứ phán: <br/>“Jê-sus phục sanh rồi, đâu có đây. <br/>Chúa đã sống chẳng ở chi nơi nầy! <br/>Kìa những đêm tối tử vong đà qua. <br/>Rày đón nghinh buổi sáng tươi đầy hoa. <br/>Jê-sus đã phục sinh như hứa đấy. <br/>Chúa sống chẳng ở chi nơi mộ nầy”. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tối ấy biết bao lụy chứa chan, <br/>Jê-sus Christ chết! <br/>Chẳng thế ngủ duy ngồi khóc than. <br/>Jê-sus chết rồi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa, nhìn bàn thạch chặn mồ mở toang, <br/>Rạng lòa mộ phần, một thiên sứ phán: <br/>“Jê-sus phục sanh rồi, đâu có đây. <br/>Chúa đã sống chẳng ở chi nơi nầy! <br/>Kìa những đêm tối tử vong đà qua. <br/>Rày đón nghinh buổi sáng tươi đầy hoa. <br/>Jê-sus đã phục sinh như hứa đấy. <br/>Chúa sống chẳng ở chi nơi mộ nầy”. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Sáng ấy mỗi tâm hồn vấn vương <br/>Jê-sus Christ chết! <br/>Ảo não biết bao niềm cảm thương. <br/>Jê-sus chết rồi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa, nhìn bàn thạch chặn mồ mở toang, <br/>Rạng lòa mộ phần, một thiên sứ phán: <br/>“Jê-sus phục sanh rồi, đâu có đây. <br/>Chúa đã sống chẳng ở chi nơi nầy! <br/>Kìa những đêm tối tử vong đà qua. <br/>Rày đón nghinh buổi sáng tươi đầy hoa. <br/>Jê-sus đã phục sinh như hứa đấy. <br/>Chúa sống chẳng ở chi nơi mộ nầy”. </em></dd></dl>

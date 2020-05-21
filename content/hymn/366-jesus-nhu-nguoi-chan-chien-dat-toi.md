@@ -1,0 +1,8 @@
+---
+song_number: 366
+title: 366. Jêsus Như Người Chăn Chiên Dắt Tôi
+categories: Thiếu Nhi
+sub_categories: 
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Jê-sus như người chăn chiên dắt tôi, <br/>Lòng tôi nguyện Chúa chăn nuôi hoài; <br/>Đem tôi ra vào trong nơi cỏ tươi, <br/>Dòng bình tịnh thỏa thích lâu dài. <br/>Jê-sus ơn phước! Jêsus nhân lành! <br/>Ngài từng dùng huyết mua tôi rồi; <br/>Jê-sus ơn phước! Jê-sus ơn phước! <br/>Từ nay tôi quyết tâm dâng trọn đời. </dd><dt>Câu 2:</dt><dd data-verse="2">Tôi nay thuộc Ngài, nguyện chăn giữ tôi, <br/>Cầu Ngài đừng để tôi luông tuồng; <br/>Xin luôn đưa đường chiến đi khỏi sai, <br/>Từ rừng rậm dẫn đưa về chuồng. <br/>Jê-sus ơn phước! Jê-sus nhân lành! <br/>Xin nghe lời thiết tha chân tình; <br/>Jê-sus ơn phước! Jê-sus ơn phước! <br/>Nguyền Ngài vui đoái tấc tâm thành. </dd><dt>Câu 3:</dt><dd data-verse="3">Tuy tôi đê hèn, tội ô đáng khinh, <br/>Mà Jê-sus hứa tiếp tôi rày, <br/>Ban ơn tha tội tôi, nâng đỡ tôi, <br/>Và dùng quyền phóng thích thân nầy. <br/>Jê-sus ơn phước! Jê-sus nhân lành! <br/>Đương xuân thời quyết tâm theo Ngài; <br/>Jê-sus ơn phước! Jê-sus ơn phước! <br/>Đời thanh xuân quyết tâm theo Ngài. </dd><dt>Câu 4:</dt><dd data-verse="4">Tuy thanh xuân, nguyện tìm ân điển Ngài, <br/>Gìn mình trong thánh ý Chúa hoài; <br/>Hỡi Cứu Chúa Jê-sus vô đối tôi, <br/>Lòng tôi càng sắt son yêu Ngài. <br/>Jê-sus ơn phước! Jê-sus nhân lành! <br/>Tôi xin Ngài cứ yêu tôi hoài; <br/>Jê-sus ơn phước! Jê-sus ơn phước! <br/>Cầu xin Chúa cứ yêu tôi hoài. </dd></dl>

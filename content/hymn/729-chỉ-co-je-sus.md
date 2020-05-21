@@ -1,0 +1,8 @@
+---
+song_number: 729
+title: 729. Chỉ Có Jê-Sus
+categories: Đời Tín Đồ
+sub_categories: Bền Lòng Tin Cậy
+draft: false
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Cuộc đời đem cho tôi bao nhiêu đắng cay lo buồn, <br/>lòng thường chán chường, tội tình chất trong hồn. <br/>Một mình mang bao nhiêu sầu thương đến tan nát lòng; <br/>đang chết mất bỗng tôi gặp Chúa Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus là Chúa rịt lành lòng vỡ, <br/>trong tay Ngài tôi sống vui tươi. <br/>Bao nhiêu gánh nặng sẽ biến nên ơn lành <br/>khi tôi nhìn biết Chúa bên mình. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ngài làm đầy lòng tôi bao nhiêu ước mơ êm đềm, <br/>và từng nỗi niềm Ngài nhận biết sâu nhiệm. <br/>Ngài làm tràn lòng tôi tình yêu thiết tha vững bền; <br/>nguồn vui sống trong tôi chỉ có Jêsus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus là Chúa rịt lành lòng vỡ, <br/>trong tay Ngài tôi sống vui tươi. <br/>Bao nhiêu gánh nặng sẽ biến nên ơn lành <br/>khi tôi nhìn biết Chúa bên mình. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Cuộc đời tôi trào dâng yêu thương, đức tin, hy vọng, <br/>đẹp như lửa hồng, lửa hồng ấm êm lòng. <br/>Cuộc đời bình an không chi phân rẽ tôi khỏi Ngài; <br/>người yêu dấu bên tôi chỉ có Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus là Chúa rịt lành lòng vỡ, <br/>trong tay Ngài tôi sống vui tươi. <br/>Bao nhiêu gánh nặng sẽ biến nên ơn lành <br/>khi tôi nhìn biết Chúa bên mình. </em></dd></dl>
