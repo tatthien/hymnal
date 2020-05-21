@@ -1,8 +1,8 @@
 languageCode: vi-vn
 copyright: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-title: 12bit.vn
-description: write and share to learn
-baseURL: https://12bit.vn/
+title: The Vietnamese Christian Hymnal
+description: The Vietnamese Christian Hymnal
+baseURL: https://hymn.thien.dev/
 theme: hymn
 paginate: 40
 outputs:
@@ -13,7 +13,7 @@ outputs:
 taxonomies:
   categories: categories
 params:
-  description: write and share to learn
+  description: The Vietnamese Christian Hymnal
   favicon: img/icon/favicon.png
   images:
     - img/index.png
