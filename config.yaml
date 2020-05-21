@@ -47,7 +47,10 @@ markup:
       xHTML: false
 menu:
   main:
-  - identifier: about
+  - identifier: 1
+    title: Categories
+    url: /categories
+  - identifier: 2
     title: About
     url: /pages/about
   footer:
