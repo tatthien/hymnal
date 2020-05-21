@@ -1,9 +1,9 @@
 
 // Algolia search
 const search = instantsearch({
-  appId: 'UG2807RQAR',
-  apiKey: '36c7036266cca7adce3103e7ac2e3fa6',
-  indexName: 'prod_12bit_blog',
+  appId: 'ZDC5K7MP4I',
+  apiKey: '15688f160558471abb6e28a02021ee7a',
+  indexName: 'prod_HYMN',
   routing: true,
   searchParameters: {
     hitsPerPage: 8
