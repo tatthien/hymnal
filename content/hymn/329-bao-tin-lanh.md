@@ -1,8 +1,8 @@
 ---
-song_number: 329
 title: 329. Báo Tin Lành
+song-number: 329
 categories: Đời Tín Đồ
-sub_categories: Phục Sự Chúa, Cứu Tội Nhân
+sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Người đời ham vui trong thế gian, Thần hồn phân vân, bất an, <br/>Lòng ta đau thương khôn xiết kể, Nước mắt tuôn dầm ủ ê; <br/>Người trời Jê-sus Con Chúa Cha, Động lòng thương yêu chúng ta, <br/>Hy sinh đổ huyết thay dân mình; Nầy ta kíp báo Tin Lành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nầy, ta kíp báo Tin Lành, Là ơn Chúa cứu chúng sanh; <br/>Jê-sus đổ huyết thay dân mình; Nầy ta kíp báo Tin Lành. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Dầu mà ta lên trên núi cao, Dầu vượt qua nơi biển sâu, <br/>Dầu khi băng qua trong lửa cháy, Vững chí ta nào đổi thay; <br/>Dù mà quân binh đàng phủ vi, Quyền đời hăm ta giết đi, <br/>Tâm can vững chắc không kinh gì, Vì lo cứu kẻ đương thì. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nầy ta kíp báo Tin Lành, Là ơn Chúa cứu chúng sanh; <br/>Jê-sus đổ huyết thay dân mình; Nầy ta kíp báo Tin Lành. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Hồn người bên kia đương khóc la, Đầu nầy kêu rên thiết tha, <br/>Vì đương luân vong nơi khổ hải, Não chí đau lòng lắm ai; <br/>Người người đương trông phương thoát ly, Ngoài Jê-sus không phép chi, <br/>Nên ta quyết giảng rao trung thành, Về ân cứu bởi Tin Lành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nầy ta kíp báo Tin Lành, Là ơn Chúa cứu chúng sanh; <br/>Jê-sus đổ huyết thay dân mình; Nầy ta kíp báo Tin Lành. </em></dd></dl>

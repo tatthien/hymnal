@@ -1,8 +1,8 @@
 ---
-song_number: 6
 title: 6. Thành Tâm Tôn Vua Thánhh
+song-number: 6
 categories: Thờ Phượng
-sub_categories: Ngợi Khen Đức Chúa Trời
+sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Thành tâm tôn Vua Thánh, đầy hiển hách oai phong, <br/>Niềm yêu thương khôn sánh, đáng hát xướng ghi lòng; <br/>Ngài là Thần hộ thân, linh, cây khiên, Vua muôn thuở, <br/>Kìa, vinh quang bao chung quanh Đấng khắp chốn tôn thờ. </dd><dt>Câu 2:</dt><dd data-verse="2">Ngợi khen Giê-hô-va, quyền phép rất siêu cao, <br/>Tàn không trung che tỏa, ánh sáng chính vương bào; <br/>Bầu trời rền vang lôi oanh như đưa xa giá thánh, <br/>Ngài đi trên mây u minh, cánh bão tố vô hình. </dd><dt>Câu 3:</dt><dd data-verse="3">Nhìn xem muôn tinh tú cùng quả đất vẫn xoay, <br/>Đều do công linh Chúa, thuở sáng thế an bài; <br/>Mọi sự vật thiên nhiên kia, qui tắc không cải hoán, <br/>Đại dương bao quanh bốn phía, quả đất có đai ràng. </dd><dt>Câu 4:</dt><dd data-verse="4">Sự chăm nom của Chúa miệng lưỡi khó tả ra, <br/>Hà bao nhiêu sinh khí, chiếu sáng khắp sơn hà, <br/>Dội từ nguồn qua trung nguyên đưa cao hơi nước bốc, <br/>Luồng mây un lên gây nên giá móc nhỏ mưa ngọc. </dd><dt>Câu 5:</dt><dd data-verse="5">Bầy chiên con non nớt, bụi đất vốn chóng tan, <br/>Thành tâm luôn nương náu Đấng tín nghĩa châu toàn; <br/>Lòng Ngài mềm dịu nhưng luôn khăng khăng như đóng ấn, <br/>Ngài thật Tạo Công, Cứu Chúa, Thiết Hữu, Bảo An Thần. </dd><dt>Câu 6:</dt><dd data-verse="6">Tình yêu thương của Chúa thật chẳng thế chuyển lời, <br/>Kìa, thiên binh hát múa, chúc Đấng ở ngai trời; <br/>Vật thọ tạo vô giai thinh, tuy ca không êm ái, <br/>Đồng thanh đơn sơ bái kính, hát chúc Chúa thiên đài. </dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 474
 title: 474. Ở Gô-Gô-Tha
+song-number: 474
 categories: Tin Lành
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Bao năm tôi lạc lầm trong nơi bến mê, <br/>Không quan tâm Jê-sus đã bị đóng đinh, <br/>Không hay đâu bởi tội tôi Christ chết thay trên Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xót thương lớn cùng ân điển vô hạn Christ, <br/>Chúa tha thứ rộng quá cho mình chốn đó. <br/>Tâm hồn khốn tôi Chúa buông tha hoàn toàn nơi Gô-gô-tha. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nhân khi nghe Lời Christ lòng cảm xấu xa, <br/>Bắt kinh khiếp bởi giày đạp luật pháp nghiêm, <br/>Tâm linh tôi run sợ khẩn xin Chúa tha ở Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xót thương lớn cùng ân điển vô hạn Christ, <br/>Chúa tha thứ rộng quá cho mình chốn đó. <br/>Tâm hồn khốn tôi Chúa buông tha hoàn toàn nơi Gô-gô-tha. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nay xin đem cả đời của tôi hiến Christ, <br/>Rất cảm kích tôi nay phục tùng Chúa thôi, <br/>Nay tâm tôi mãn nguyện chỉ ưa hát ca khen Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xót thương lớn cùng ân điển vô hạn Christ, <br/>Chúa tha thứ rộng quá cho mình chốn đó. <br/>Tâm hồn khốn tôi Chúa buông tha hoàn toàn nơi Gô-gô-tha. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ôi! Nghĩa sâu! Ngài ngự sẵn lo cứu tôi, <br/>Ôi ơn cao! Jê-sus bỏ mình huyết rơi. <br/>Ôi vũng cả rộng Christ vượt qua thế tôi trên Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xót thương lớn cùng ân điển vô hạn Christ, <br/>Chúa tha thứ rộng quá cho mình chốn đó. <br/>Tâm hồn khốn tôi Chúa buông tha hoàn toàn nơi Gô-gô-tha. </em></dd></dl>

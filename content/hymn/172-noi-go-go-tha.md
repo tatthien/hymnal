@@ -1,8 +1,8 @@
 ---
-song_number: 172
 title: 172. Nơi Gô-Gô-Tha
+song-number: 172
 categories: Tin Lành
-sub_categories: Sự Ăn Năn, Sự Tha Tội
+sub-categories: Sự Ăn Năn, Sự Tha Tội
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Bao năm tôi lạc, loài kiêu căng xấu xa, <br/>Chẳng chú ý đến ơn mua chuộc thứ tha. <br/>Đâu hay do tôi Jê-sus tuôn huyết ra <br/>Nơi Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ấy nơi tỏ ân điển yêu thương dịu dàng, <br/>Ấy nơi Chúa tha thứ tôi được trắng án; <br/>Nơi nầy gánh nặng Chúa buông tha nhẹ nhàng <br/>nơi Gô-gô-tha. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Khi tôi nghe lời Ngài dạy trong Thánh Kinh. <br/>Đã khóc lóc ăn năn bao tội đáng khinh. <br/>Xin khiêm cung quay về nhận ơn cứu sinh <br/>Nơi Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ấy nơi tỏ ân điển yêu thương dịu dàng, <br/>Ấy nơi Chúa tha thứ tôi được trắng án; <br/>Nơi nầy gánh nặng Chúa buông tha nhẹ nhàng <br/>nơi Gô-gô-tha. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Hôm nay tôi trong Ngài bình an thỏa vui, <br/>Suối nước sống tuôn ra từ Ngài mát tươi; <br/>Thân gian nan trên dặm đường xa vẫn ngợi ca <br/>Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ấy nơi tỏ ân điển yêu thương dịu dàng, <br/>Ấy nơi Chúa tha thứ tôi được trắng án; <br/>Nơi nầy gánh nặng Chúa buông tha nhẹ nhàng <br/>nơi Gô-gô-tha. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ơn yêu thương muôn đời người ơi, chớ quên! <br/>Chúa đã đến thế gian cho người nghỉ yên. <br/>Ôi! Thiên cung, dương trần từ đây nối liền <br/>qua Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ấy nơi tỏ ân điển yêu thương dịu dàng, <br/>Ấy nơi Chúa tha thứ tôi được trắng án; <br/>Nơi nầy gánh nặng Chúa buông tha nhẹ nhàng <br/>nơi Gô-gô-tha. </em></dd></dl>

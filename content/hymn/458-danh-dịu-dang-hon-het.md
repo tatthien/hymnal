@@ -1,8 +1,8 @@
 ---
-song_number: 458
 title: 458. Danh Dịu Dàng Hơn Hết
+song-number: 458
 categories: Thờ Phượng
-sub_categories: Ngợi Khen Đức Chúa Trời
+sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Từ xưa nay chẳng ai được truyền danh <br/>Dịu dàng, tôn quý như Chúa ta, <br/>Đặt “Jê-sus” trước khi Ngài hạ sinh, <br/>Lạ lùng thay! Có ai rõ đâu? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta thích hát xướng Christ ta là Vua, <br/>Hay nói đến danh “Jêsus” hoài, <br/> Và vui nghe đến tên Ngài, “Jêsus”; <br/>Thật mừng vui quá, vui mãi thôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ngày Jê-sus chết trên thập tự kia, <br/>Họ đề tên Chúa nơi bảng treo, <br/>Là Jê-sus đó muôn vạn người coi, <br/>Đoạn trường thay! hỡi Vua Chúa tôi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta thích hát xướng Christ ta là Vua, <br/>Hay nói đến danh “Jê-sus” hoài, <br/>Và vui nghe đến tên Ngài, “Jê-sus”; <br/>Thật mừng vui quá, vui mãi thôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngày nay đương ở trên ngự đài cao, <br/>Thật quyền trên cả, ai thắng đâu, <br/>Ngài thương yêu kẻ trông đợi mừng vui, <br/>Ngài là Vua Chúa, danh “Jê-sus”. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta thích hát xướng Christ ta là Vua, <br/>Hay nói đến danh “Jê-sus” hoài, <br/>Và vui nghe đến tên Ngài, “Jê-sus”; <br/>Thật mừng vui quá, vui mãi thôi. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Hằng nhơn danh Chúa, tôi nguyện điều chi, <br/>Thì Ngài ban phước trong mọi khi, <br/>Từ hôm qua, bữa nay, đời đời luôn, <br/>Jê-sus không đổi thay chút chi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta thích hát xướng Christ ta là Vua, <br/>Hay nói đến danh “Jê-sus” hoài, <br/>Và vui nghe đến tên Ngài, “Jê-sus”; <br/>Thật mừng vui quá, vui mãi thôi. </em></dd></dl>

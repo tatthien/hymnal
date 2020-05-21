@@ -1,8 +1,8 @@
 ---
-song_number: 685
 title: 685. Học Theo Chúa
+song-number: 685
 categories: Đời Tín Đồ
-sub_categories: Nên Thánh
+sub-categories: Nên Thánh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Học theo gương Jê-sus, luôn tha thứ nhân từ; <br/>tràn tuôn sức sống cho nhân thế noi theo. <br/>Học theo gương Jê-sus, yêu thương mỗi linh hồn; <br/>dẫn đưa quay về Chúa hưởng phước lớn lao. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin được như Jê-sus giống như Cha yêu thương: <br/>viếng thăm người cô đơn, giúp ai nao sờn. <br/>Xin nguyện đem hết lòng giúp đỡ cho tha nhân; <br/>đời ta sẽ thỏa vui, phước hạnh muôn phần. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Học theo gương Jê-sus, khi đang lúc đau buồn; <br/>trình dâng trước Chúa Cha bao mối ưu tư. <br/>Học theo gương Jê-sus, xin tha thứ cho người <br/>đã gây bao tội lỗi khiến Chúa gánh thay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin được như Jê-sus giống như Cha yêu thương: <br/>viếng thăm người cô đơn, giúp ai nao sờn. <br/>Xin nguyện đem hết lòng giúp đỡ cho tha nhân; <br/>đời ta sẽ thỏa vui, phước hạnh muôn phần. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Học theo gương Jê-sus, ra tay giúp muôn người <br/>ngày nay vẫn khát khao sông nước vĩnh sinh. <br/>Học theo gương Jê-sus, xoa tan vết thương lòng <br/>những ai đang lầm lỡ bước với thế gian. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin được như Jê-sus giống như Cha yêu thương: <br/>viếng thăm người cô đơn, giúp ai nao sờn. <br/>Xin nguyện đem hết lòng giúp đỡ cho tha nhân; <br/>đời ta sẽ thỏa vui, phước hạnh muôn phần. </em></dd></dl>

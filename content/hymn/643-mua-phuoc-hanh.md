@@ -1,8 +1,8 @@
 ---
-song_number: 643
 title: 643. Mưa Phước Hạnh
+song-number: 643
 categories: Tin Lành
-sub_categories: Ứng Hứa Và Ân Ban
+sub-categories: Ứng Hứa Và Ân Ban
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Biết bao ơn lành Cha ban cho đời con, <br/>không phút giây nào con quên được tình yêu Chúa. <br/>Tháng năm bên Ngài, lòng bình an thỏa vui, <br/>chứa chan hạnh phước tuôn tràn mãi trong lòng con. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Phước Chúa ban cho dẫy đầy, <br/>thật như mưa tưới mát tâm linh. <br/>Mãi mãi con xin tạ ơn Chúa. <br/>Ha-lê-lu-gia, A-men! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Biết bao vui mừng dâng lên trong lòng con, <br/>khi Chúa thăm đàn chiên vui vầy trong êm ấm. <br/>Chúng con tôn thờ và tạ ơn Jê-sus; <br/>bước qua hành lang trong nhà Chúa dâng lời ca. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Phước Chúa ban cho dẫy đầy, <br/>thật như mưa tưới mát tâm linh. <br/>Mãi mãi con xin tạ ơn Chúa. <br/>Ha-lê-lu-gia, A-men! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Bước đi theo Ngài tâm tư con bình an; <br/>đau ốm hay buồn lo không làm con xa Chúa. <br/>Tín trung theo Ngài trọn đời vâng ý Cha. <br/>Chúa ban hạnh phước trên cuộc sống gia đình con. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Phước Chúa ban cho dẫy đầy, <br/>thật như mưa tưới mát tâm linh. <br/>Mãi mãi con xin tạ ơn Chúa. <br/>Ha-lê-lu-gia, A-men! </em></dd><dt>Câu 4:</dt><dd data-verse="4">Thỏa vui trong Ngài luôn hân hoan ngợi khen; <br/>tay Chúa đan tình thông công đậm đà nhân ái. <br/>Biết ơn vô cùng tình rộng sâu biển khơi; <br/>chúng con nguyện hứa rao lời Chúa cho trần gian. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Phước Chúa ban cho dẫy đầy, <br/>thật như mưa tưới mát tâm linh. <br/>Mãi mãi con xin tạ ơn Chúa. <br/>Ha-lê-lu-gia, A-men! </em></dd></dl>

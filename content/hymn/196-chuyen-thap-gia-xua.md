@@ -1,8 +1,8 @@
 ---
-song_number: 196
 title: 196. Chuyện Thập Giá Xưa
+song-number: 196
 categories: Tin Lành
-sub_categories: Thập Tự Giá
+sub-categories: Thập Tự Giá
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Vượt qua bao giai điệu trong đời nầy, <br/>Vượt bao cơn cạnh tranh lỗ, lời đấy, <br/>Vượt trên bao tiếng khóc hay tiếng cười, <br/>Tôi được nghe chuyện thập giá đẹp tươi; <br/>Ấy tích Jê-sus từ bi bác ái, <br/>Đã cho bao tội nhân hết bi ai, <br/>Lại ban thiên quốc kế nghiệp vững vàng, <br/>Muôn đời vui mừng, sung sướng, bình an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nầy chuyện xưa, chuyện rất xưa, <br/>Chuyện thập giá xưa trong tâm thần mến ưa; <br/>Dầu trời qua hay đất kia thay dời, <br/>Chuyện đây vẫn cao quý muôn muôn đời, <br/>Về thập giá cứu ân diệu bấy, <br/>Về thập giá chuộc cứu linh thay! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nào ai, duy Jê-sus mang nhục hình, <br/>Nào chiên con hiền như Chúa bị đánh, <br/>Đầu ai kham chiếc mão gai khổ nàn, <br/>Tim nào do tội tôi phải đập tan; <br/>Chẳng có chân ai bị đinh khổ thống, <br/>Cũng không tay nào vui phó nhưng không, <br/>Nào ai như Thánh Tử vui giáng trần, <br/>Đem tình yêu liều thân cứu tội nhân. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nầy chuyện xưa, chuyện rất xưa, <br/>Chuyện thập giá xưa trong tâm thần mến ưa; <br/>Dầu trời qua hay đất kia thay dời, <br/>Chuyện đây vẫn cao quý muôn muôn đời, <br/>Về thập giá cứu ân diệu bấy, <br/>Về thập giá chuộc cứu linh thay! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ồ, khen thay thập tự vinh vô hồi, <br/>Là nơi Jê-sus cam chết vì tôi, <br/>Vinh thay cây gỗ huyết lưu cứu phò, <br/>Cho hồn nô lệ nay hưởng tự do! <br/>Vững chãi thay thập tự luôn chói sáng, <br/>Để muôn dân nhận tin Chúa vinh quang, <br/>Lòng yêu thương Chúa nhân gian khó dò, <br/>Duy một Thiên Phụ xưa khải thị cho. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nầy chuyện xưa, chuyện rất xưa, <br/>Chuyện thập giá xưa trong tâm thần mến ưa; <br/>Dầu trời qua hay đất kia thay dời, <br/>Chuyện đây vẫn cao quý muôn muôn đời, <br/>Về thập giá cứu ân diệu bấy, <br/>Về thập giá chuộc cứu linh thay! </em></dd></dl>

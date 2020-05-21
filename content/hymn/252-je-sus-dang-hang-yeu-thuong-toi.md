@@ -1,8 +1,8 @@
 ---
-song_number: 252
 title: 252. Jê-Sus Đấng Hằng Yêu Thương Tôi
+song-number: 252
 categories: Đời Tín Đồ
-sub_categories: Tỉnh Thức, Cầu Nguyện
+sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Jê-sus Đấng hằng yêu thương tôi <br/>Tôi mong đến nghiêng trên ngực Ngài <br/>Lúc sóng bủa ầm bên chơn tôi <br/>Trong khi bão tố đang vang dội <br/>Xin che tôi, xin giấu kín luôn <br/>Cho qua cơn mưa ác, gió ôn <br/>Thẳng đến bến bình yên thiên môn <br/>Mong ơn Chúa tiếp rước linh hồn. </dd><dt>Câu 2:</dt><dd data-verse="2">Há có chốn nào an ninh hơn <br/>Duy trong Chúa quyết không nao sờn <br/>Chúa chớ bỏ mình tôi cô đơn <br/>Xin an ủi, bổ dưỡng tâm hồn <br/>Tôi trông mong nơi Chúa nhứt tâm <br/>Duy Jê-sus sung sức giúp thêm <br/>Chỗ hiểm yếu dầu tôi nan kham <br/>Xin thương lấy cánh phủ che giùm. </dd><dt>Câu 3:</dt><dd data-verse="3">Chúa có đủ cần nhu cho tôi <br/>Duy trong Chúa phước chan ơn dồi <br/>Đỡ kẻ ngã, dìu ai đang đui <br/>Nâng ai yếu, giúp kẻ suy đồi <br/>Danh Jê-sus cao khiết chí tinh <br/>Riêng thân tôi nhơ bẩn đáng khinh <br/>Ác uế chứa đầy trong tâm linh <br/>Nhưng Chân Chúa có lắm ơn lành. </dd><dt>Câu 4:</dt><dd data-verse="3">Ơn cao sâu từ Jê-sus tôi <br/>Ơn bôi xóa khỏa lấp muôn tội <br/>Suối cứu rỗi nguyền xin tuôn sôi <br/>Ban tôi sống thánh khiết trọn đời <br/>Jê-sus Christ sông nước sống tôi <br/>Ban nhưng không, tôi uống thỏa thôi <br/>Khiến ở đáy lòng tôi phun sôi <br/>Tuôn lai láng lưu thông muôn đời. </dd></dl>

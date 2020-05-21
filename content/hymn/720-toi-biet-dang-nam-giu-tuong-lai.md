@@ -1,8 +1,8 @@
 ---
-song_number: 720
 title: 720. Tôi Biết Đấng Nắm Giữ Tương Lai
+song-number: 720
 categories: Đời Tín Đồ
-sub_categories: Bền Lòng Tin Cậy
+sub-categories: Bền Lòng Tin Cậy
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Dù không biết ngày mai sẽ thế nào, <br/>tôi chỉ sống nếp sống mỗi ngày. <br/>Tôi không mơ nơi sang giàu huy hoàng. <br/>Chân trời tím đổi thay nào hay. <br/>Lòng không lo ngày sau sẽ thế nào. <br/>Tôi chỉ nghe tiếng Chúa nhủ khuyên: <br/>“Ta đang đi với con trong cuộc đời, <br/>vì Ta biết trước con mỗi điều”. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tương lai tôi còn có bao lo buồn, <br/>nhưng tâm hồn vẫn luôn bình an. <br/>Vì tôi biết Chúa nắm tương lai mình, <br/>và tôi biết Người đi trước tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ðời tôi nay, ngày tươi sáng hơn nhiều, <br/>chân dường như bước nơi thiên thành. <br/>Trên vai tôi bao gánh nặng vơi dần, <br/>mây mờ biến tươi hơn đẹp hơn. <br/>Tại nơi đó vầng quang Chúa không tàn. <br/>Không còn tiếng khóc than đau buồn, <br/>muôn vinh quang vây quanh tôi không rời. <br/>Tình yêu Chúa thắm thiết dâng tràn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tương lai tôi còn có bao lo buồn, <br/>nhưng tâm hồn vẫn luôn bình an. <br/>Vì tôi biết Chúa nắm tương lai mình, <br/>và tôi biết Người đi trước tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Dù không biết ngày mai sẽ thế nào, <br/>sẽ nghèo đói? sẽ luôn no lành? <br/>Như chim kia Chúa đêm ngày dắt dìu. <br/>Tâm tình Chúa trên tôi đẹp sao! <br/>Ðường tôi đi dù gặp lắm nguy nan, <br/>trong lửa cháy, nước tuôn ngập tràn. <br/>Nhưng Jê-sus giúp tôi trong mỗi đường, <br/>đời tôi luôn sống trong an lành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tương lai tôi còn có bao lo buồn, <br/>nhưng tâm hồn vẫn luôn bình an. <br/>Vì tôi biết Chúa nắm tương lai mình, <br/>và tôi biết Người đi trước tôi. </em></dd></dl>

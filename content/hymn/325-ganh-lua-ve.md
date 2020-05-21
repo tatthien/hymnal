@@ -1,8 +1,8 @@
 ---
-song_number: 325
 title: 325. Gánh Lúa Về
+song-number: 325
 categories: Đời Tín Đồ
-sub_categories: Phục Sự Chúa, Cứu Tội Nhân
+sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ban mai hăng hái lên đường, Ta đem gieo giống thiên thượng, <br/>Luôn ban trưa, trải ban chiều, đến tối gieo cùng phương. <br/>Rồi trông cho lúa chín vàng, Vui đem lưỡi hái lên đàng, <br/>Gặt rồi bao bó lúa kia, vui mừng gánh ngay về. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cùng nhau ta hát vang, gặt lúa cánh đồng vàng, <br/>Lòng từ nay khoan khoái thay, Bó lúa đem về đây. <br/>Cùng nhau ta hát vang, gặt lúa cánh đồng vàng, <br/>Hè cùng nhau gánh lúa vô Đem nộp hết trong kho. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Hanh thông hay chẳng gặp thời, Chuyên tâm gieo khắp phương trời, <br/>Tuy cơn mưa nắng đông hè, giá tuyết không hề ngơi; <br/>Mùa đây hoa quả ê hề, Công lao ta hết nặng nề, <br/>Gặt rồi bao bó lúa kia, vui mừng gánh ngay về. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cùng nhau ta hát vang, gặt lúa cánh đồng vàng, <br/>Lòng từ nay khoan khoái thay, Bó lúa đem về đây. <br/>Cùng nhau ta hát vang, gặt lúa cánh đồng vàng, <br/>Hè cùng nhau gánh lúa vô Đem nộp hết trong kho. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ra đi nước mắt tuôn dài, Ta gieo cho Chúa Thiên đài; <br/>Đôi khi lao khổ mệt nhọc, lắm lúc tuôn mồ hôi; <br/>Chờ khi than vãn qua rồi, Jê-sus nghinh tiếp lên trời. <br/>Gặt rồi bao bó lúa kia, vui mừng gánh ngay về. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cùng nhau ta hát vang, gặt lúa cánh đồng vàng, <br/>Lòng từ nay khoan khoái thay, Bó lúa đem về đây. <br/>Cùng nhau ta hát vang, gặt lúa cánh đồng vàng, <br/>Hè cùng nhau gánh lúa vô Đem nộp hết trong kho. </em></dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 598
 title: 598. Khi Chúa Về Thiên Quốc
+song-number: 598
 categories: Chúa Jêsus Christ
-sub_categories: Phục Sinh
+sub-categories: Phục Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Khi Chúa về thiên quốc, <br/>Ngài phán cùng tôi. <br/>“Con đừng sợ chi, <br/>Vững tâm theo Ta”. <br/>Sao cứ nhìn trông mãi, <br/>lời Chúa truyền ban, về đi, <br/>hãy rao Phúc âm thượng thiên. <br/>Nào ai tin danh Jê-sus <br/>đã chết thay cho tội mình, <br/>Chúa ban sự sống đời đời, <br/>hưởng thiên ân ban từ trời. <br/>Rồi nay mai lên thiên quốc <br/>hát tôn vinh Chúa Ba Ngôi, <br/>sống trong hạnh phúc từ trời, <br/>thỏa vui muôn đời. </dd><dt>Câu 2:</dt><dd data-verse="2">Bao mắt nhìn trông Chúa, <br/>lệ ướt tràn mi khi Ngài lìa xa, <br/>cất lên thiên đàng. <br/>Sao cứ còn vương vấn, <br/>đừng quá sầu thương, về đi, <br/>giảng rao, phước cho mọi người. <br/>Thành tâm vâng theo tiếng Chúa <br/>bước khắp nơi trên đường trần, <br/>giảng rao lời Chúa hằng ngày, <br/>khiến muôn dân quy phục Ngài. <br/>Nhận tình yêu thương J-êsus <br/>đã chết thay cho loài người, <br/>để ai nhận Chúa vào lòng, <br/>phước ơn tuôn tràn. </dd><dt>Câu 3:</dt><dd data-verse="3">Con hứa nguyện trung tín, <br/>truyền giáo mọi nơi, <br/>Tin Lành Ngài ban <br/>đến cho muôn người. <br/>Nhân thế nhận ơn phước <br/>nào đến cùng Cha, <br/>Ngài cho những ai tin danh Jê-sus. <br/>Từ ngày Thần Linh Chúa đến, <br/>giúp cho ai tin nhận Ngài, <br/>vững tâm theo Chúa trọn đời <br/>dẫu đang đi trên đường trần. <br/>Rồi nay mai Jê-sus đến, <br/>cất lên không trung gặp Ngài, <br/>sống trong vương quốc đời đời <br/>với Cha trên trời. </dd></dl>

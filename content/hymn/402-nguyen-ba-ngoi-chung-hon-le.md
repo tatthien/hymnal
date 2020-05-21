@@ -1,8 +1,8 @@
 ---
-song_number: 402
 title: 402. Nguyện Ba Ngôi Chứng Hôn Lễ
+song-number: 402
 categories: Biệt Lễ Ca
-sub_categories: Hôn Lễ
+sub-categories: Hôn Lễ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Thật lạ lùng thay hôn lễ ban đầu, <br/>Nguyên chỉ Chúa Cha nhiệm mầu; <br/>Từ vườn Ê-đen muôn thuở lưu truyền, <br/>Kết ước yêu nhau trọn đời. <br/>Xương thịt do Chúa liên hiệp tri tri, <br/>Yêu mến trăm năm trọn nghì; <br/>Hậu tự nhiều như cát biển, sao trời, <br/>Vinh hiển Chúa Cha đời đời. </dd><dt>Câu 2:</dt><dd data-verse="2">Kìa, Ca-na xưa hôn lễ lạ lùng, <br/>Vui có Chúa Con dự cùng; <br/>Tiệc mừng cùng nhau chung hưởng ơn hồng, <br/>Ai nấy thỏa vui trong lòng. <br/>Hôm nay xin Chúa vui ngự lâm đây, <br/>Ban phước cho đôi bạn nầy, <br/>Đồng đồng tạc ghi non nước một lời, <br/>Vinh hiển Chúa Con đời đời. </dd><dt>Câu 3:</dt><dd data-verse="3">Lời vàng còn ghi, hôn lễ đạo thường, <br/>Do chính Thánh Linh dạy tường; <br/>Chồng đầu vợ thân, yêu kính một niềm, <br/>Khi nắng lúc mưa không hiềm. <br/>Christ và Hội Thánh tương hiệp tương thông, <br/>Chân lý kia, gương vợ chồng; <br/>Chồng vợ ngày nay vâng giữ như lời, <br/>Vinh hiển Thánh Linh đời đời. </dd><dt>Câu 4:</dt><dd data-verse="4">Mừng giờ thành hôn, reo khúc kim cầm, <br/>Nay Hội Thánh ta nguyện thầm; <br/>Lạy Ngài đội ơn đôi lứa ngày ngày, <br/>Vinh hiển Chúa Ba Ngôi rày; <br/>Ăn ở soi sáng Tin Lành nơi nơi, <br/>Bông trái như sao trên trời <br/>Tận hồi tiệc Chiên trên khoảng không nầy, <br/>Chung hưởng xướng ca vui vầy. </dd></dl>

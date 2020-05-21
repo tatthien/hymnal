@@ -1,8 +1,8 @@
 ---
-song_number: 630
 title: 630. Về Nhà Cha
+song-number: 630
 categories: Tin Lành
-sub_categories: Lời Mời
+sub-categories: Lời Mời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Bước chân lang thang về đâu lúc bóng tà? <br/>Lòng tôi cô đơn từ khi cách lìa Cha, <br/>Bấy lâu xa xôi giờ đây quá nhớ nhà! <br/>Thầm nhớ tới gương mặt Cha. <br/>Từ khi cất bước xa nhà Cha yêu dấu, <br/>tấm thân bơ vơ ngày đêm héo hắt sầu, <br/>Còn chi nữa hỡi ôi, ngoài nỗi đớn đau? <br/>Đến bây giờ biết về đâu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Về nơi yêu dấu trong nhà Cha. <br/>Về nơi yên ấm bên cạnh Cha. <br/>Trở về cùng Cha đẹp mái nhà. <br/>Về nơi yên ấm bên cạnh Cha, <br/>về vui sống trong tình bao la. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Cớ sao tôi âm thầm trong bóng tối này? <br/>Tàn vui ai hay giờ đây trắng bàn tay! <br/>Biết đâu ra đi là tan nát tháng ngày, <br/>còn đâu dám mơ ngày mai. <br/>Nhiều khi đói khát tê lạnh trong đêm tối. <br/>Có ai thương đâu bạn xưa lánh mất rồi. <br/>Lòng đau thấm thía hai hàng nước mắt rơi, <br/>luyến lưu gì nữa lòng ơi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Về nơi yêu dấu trong nhà Cha. <br/>Về nơi yên ấm bên cạnh Cha. <br/>Trở về cùng Cha đẹp mái nhà. <br/>Về nơi yên ấm bên cạnh Cha, <br/>về vui sống trong tình bao la. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Dĩ vãng êm như một con suối lững lờ <br/>nhẹ trôi đưa tôi về bên mái nhà xưa. <br/>Sáng lên tia hy vọng trong bóng tối mờ, <br/>lòng khao khát mong gặp Cha. <br/>Lệ rơi thống hối bao ngày xưa xa vắng. <br/>Biết Cha khoan dung thường tha thứ lỗi lầm. <br/>Niềm tin vững chắc tôi bèn quyết đứng lên. <br/>Hát vang nhạc khúc trở về. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Về nơi yêu dấu trong nhà Cha. <br/>Về nơi yên ấm bên cạnh Cha. <br/>Trở về cùng Cha đẹp mái nhà. <br/>Về nơi yên ấm bên cạnh Cha, <br/>về vui sống trong tình bao la. </em></dd></dl>

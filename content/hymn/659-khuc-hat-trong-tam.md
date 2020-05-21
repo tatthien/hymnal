@@ -1,8 +1,8 @@
 ---
-song_number: 659
 title: 659. Khúc Hát Trong Tâm
+song-number: 659
 categories: Đời Tín Đồ
-sub_categories: Vui Vẻ Vì Được Cứu
+sub-categories: Vui Vẻ Vì Được Cứu
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Bài ca trong tâm hát luôn mỗi ngày <br/>Khi hừng đông đến xóa tan đêm dài. <br/>Tội tôi Chúa đã buông tha, <br/>Xiềng gông quỷ ma quăng xa <br/>còn đâu vấn vương tối tăm tội lỗi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trong Chúa Jêsus an thái cuộc đời. <br/>Tôi quyết đi rao Tin Lành khắp nơi <br/>Đưa dẫn những ai lạc bước đêm dài <br/>Chúa đang trông chờ, kíp đến bên Ngài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Từ đây tươi sáng sống vui trong Ngài, <br/>Trên đường theo Chúa dẫu muôn dặm dài. <br/>Lòng không chút chi lo âu, <br/>Cùng bên Chúa qua đêm sâu <br/>Chờ khi nắng mai sáng khung trời xanh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trong Chúa Jêsus an thái cuộc đời. <br/>Tôi quyết đi rao Tin Lành khắp nơi <br/>Đưa dẫn những ai lạc bước đêm dài <br/>Chúa đang trông chờ, kíp đến bên Ngài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Niềm tin chan chứa, thỏa vui ngập tràn, <br/>tôi nguyền rao báo phước ân thiên đàng. <br/>Cùng ai vẫn đang mê say, <br/>Trần gian chóng qua nay mai, <br/>về ngay với Cha, vẫn đang chờ ta. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trong Chúa Jêsus an thái cuộc đời. <br/>Tôi quyết đi rao Tin Lành khắp nơi <br/>Đưa dẫn những ai lạc bước đêm dài <br/>Chúa đang trông chờ, kíp đến bên Ngài. </em></dd></dl>

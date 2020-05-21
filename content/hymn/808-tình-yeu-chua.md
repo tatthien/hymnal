@@ -1,8 +1,8 @@
 ---
-song_number: 808
 title: 808. Tình Yêu Chúa
+song-number: 808
 categories: Đời Tín Đồ
-sub_categories: Được Chúa Yêu
+sub-categories: Được Chúa Yêu
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Lúc cất bước ruổi dong đường trần thế, <br/>cô đơn gian nguy vây bọc quanh. <br/>Thương yêu chăm nom con đâu tìm thấy, <br/>có chăng chỉ là cay đắng thôi. <br/>Đau thương đang cuốn con theo ngày tháng, <br/>Đường mịt mù biết đi về đâu? <br/>Lòng buồn sầu, bỗng nghe tiếng Ngài phán: <br/>"Vững lòng, đến cùng Ta hỡi con!" </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>"Đừng ngại chi, đừng sợ chi, <br/>có Ta hằng ngày đi bên con. <br/>Ta chăm nom dạy khuyên, đưa dắt đường, <br/>mến yêu con ngày đêm chẳng thôi." </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lúc thế giới của con đều bạc bẽo, <br/>anh em, thiết hữu xa lìa con. <br/>Nơi con nương thân lung lay, sụp đổ, <br/>chỗ náu nương tìm đâu thấy đây? <br/>Bao yêu thương chẳng qua đôi lời nói, <br/>mọi điều lành hứa trên miệng môi. <br/>Lòng bàng hoàng, bỗng nghe tiếng Ngài phán: <br/>"Vững lòng, Ta hằng chăm sóc con!" </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>"Đừng ngại chi, đừng sợ chi, <br/>có Ta hằng ngày đi bên con. <br/>Ta chăm nom dạy khuyên, đưa dắt đường, <br/>mến yêu con ngày đêm chẳng thôi." </em></dd><dt>Câu 3:</dt><dd data-verse="3">Hãy vững bước tiến qua đường trần thế, <br/>Ta luôn luôn đi bên cạnh con. <br/>Thương yêu, chăm nom, nâng niu, bồng ẵm, <br/>gánh thay con mọi lo lắng ngay. <br/>Trao cho Ta những ưu tư, buồn chán, <br/>đừng chần chờ, chớ nên hoài nghi. <br/>Dù đời nầy ghét ghen hay gạt bỏ, <br/>"Vững lòng, Ta hằng thương mến con!" </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>"Đừng ngại chi, đừng sợ chi, <br/>có Ta hằng ngày đi bên con. <br/>Ta chăm nom dạy khuyên, đưa dắt đường, <br/>mến yêu con ngày đêm chẳng thôi." </em></dd></dl>

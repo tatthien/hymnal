@@ -1,8 +1,8 @@
 ---
-song_number: 879
 title: 879. Dâng Chúa Chiên Thơ
+song-number: 879
 categories: Lễ Nghi
-sub_categories: Dâng Con
+sub-categories: Dâng Con
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Cha yêu thương, con dâng lên Chúa <br/>tiếng chúc tôn ngợi danh cao quý. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Giờ này xin dâng Chúa chiên thơ đây, <br/>nguyện Ngài vui ban phước ơn tuôn đầy. <br/>Xin chăm nom yêu thương dạy khuyên, <br/>chiên khôn lớn với Cha nhân hiền. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Hôm nay đây con dâng lên Chúa <br/>Tiếng khẩn xin, nguyện Cha nghe thấy. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Giờ này xin dâng Chúa chiên thơ đây, <br/>nguyện Ngài vui ban phước ơn tuôn đầy. <br/>Xin chăm nom yêu thương dạy khuyên, <br/>chiên khôn lớn với Cha nhân hiền. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Vua Jê-sus yêu thương con trẻ, <br/>đến với Ngài được bao ơn phước. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Giờ này xin dâng Chúa chiên thơ đây, <br/>nguyện Ngài vui ban phước ơn tuôn đầy. <br/>Xin chăm nom yêu thương dạy khuyên, <br/>chiên khôn lớn với Cha nhân hiền. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Nơi xa xa chiên thơ nghe tiếng, <br/>Chúa Jê-sus người chăn yêu dấu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Giờ này xin dâng Chúa chiên thơ đây, <br/>nguyện Ngài vui ban phước ơn tuôn đầy. <br/>Xin chăm nom yêu thương dạy khuyên, <br/>chiên khôn lớn với Cha nhân hiền. </em></dd><dt>Câu 5:</dt><dd data-verse="5">Nghe đâu đây vang vang câu hát, <br/>tiếng trẻ thơ mừng vui bên Chúa. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Giờ này xin dâng Chúa chiên thơ đây, <br/>nguyện Ngài vui ban phước ơn tuôn đầy. <br/>Xin chăm nom yêu thương dạy khuyên, <br/>chiên khôn lớn với Cha nhân hiền. </em></dd><dt>Câu 6:</dt><dd data-verse="6">Con luôn luôn đi theo chân Chúa <br/>Sống tín trung dạy khuyên, chăm sóc. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Giờ này xin dâng Chúa chiên thơ đây, <br/>nguyện Ngài vui ban phước ơn tuôn đầy. <br/>Xin chăm nom yêu thương dạy khuyên, <br/>chiên khôn lớn với Cha nhân hiền. </em></dd></dl>

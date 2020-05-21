@@ -1,8 +1,8 @@
 ---
-song_number: 372
 title: 372. Châu Báu Vua Jêsus Christ
+song-number: 372
 categories: Thiếu Nhi
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ta thiếu niên chính châu ngọc Vua Christ nay, <br/>Christ đã cho chúng ta điều rất tốt đây: <br/>Cho tiếng trong trẻo luôn bàn chân hăng hái, <br/>Tiếng hát khen Vua, chân lần bước theo Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta là châu báu Vua Jê-sus Christ đây, <br/>Vui mừng reo hát ơn yêu thương cao dầy; <br/>Tâm, hồn, thân ta nguyện dâng cho Ngài sai khiến, <br/>Hết thảy ta đây, châu ngọc Chúa nhân hiền. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Trai phải trong sạch, thật thà, trai đáng trai, <br/>Thân gái công, dung, ngôn, hạnh chớ kém ai, <br/>Ơn Chúa ban tuổi xuân càng thêm tươi sáng, <br/>Đất trở nên Ê-đen, nhà hóa thiên đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta là châu báu Vua Jê-sus Christ đây, <br/>Vui mừng reo hát ơn yêu thương cao dầy; <br/>Tâm, hồn, thân ta nguyện dâng cho Ngài sai khiến, <br/>Hết thảy ta đây, châu ngọc Chúa nhân hiền. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ta thiếu niên chính châu ngọc Vua Chí Cao, <br/>Nay hiến thân lo việc Ngài, phước biết bao; <br/>Tuy sức non nhưng ơn Ngài vui thâu thái, <br/>Khiến lúc chơi, khi học đều sáng danh Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta là châu báu Vua Jê-sus Christ đây, <br/>Vui mừng reo hát ơn yêu thương cao dầy; <br/>Tâm, hồn, thân ta nguyện dâng cho Ngài sai khiến, <br/>Hết thảy ta đây, châu ngọc Chúa nhân hiền. </em></dd></dl>

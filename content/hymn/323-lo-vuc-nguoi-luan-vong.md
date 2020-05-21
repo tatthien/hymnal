@@ -1,8 +1,8 @@
 ---
-song_number: 323
 title: 323. Lo Vực Người Luân Vong
+song-number: 323
 categories: Đời Tín Đồ
-sub_categories: Phục Sự Chúa, Cứu Tội Nhân
+sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Lo vực người đang luân vong, <br/>Sẵn vớt kẻ giữa dòng, <br/>Vì thương xót giúp chúng thoát ác, xa mộ phần; <br/>Tuôn lụy vì ai long đong, <br/>Đỡ nâng ai tuyệt vọng, <br/>Truyền danh Jêsus ban cứu ân cho tội nhân. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kíp lo vớt kẻ linh đinh, <br/>Cứu ai sắp bỏ mình, <br/>Jê-sus giàu lòng thương xót, <br/>Chắc cho trùng sinh. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tuy họ làm ngơ xây tai, <br/>Chúa vẫn thương, trông hoài, <br/>Chờ đợi hoan nghinh ai hối tâm, tin nhận Ngài; <br/>Nên tận tình khuyên ai ai, <br/>Cứ thiết tha khuyên nài, <br/>Ngài bằng lòng tha ai quyết tâm tin Ngài ngay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kíp lo vớt kẻ linh đinh, <br/>Cứu ai sắp bỏ mình, <br/>Jê-sus giàu lòng thương xót, <br/>Chắc cho trùng sinh. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Muôn lòng bị Sa-tan lôi <br/>Cuốn giáo linh chôn vùi, <br/>Thoạt gặp thiên ân đưa đến nhen lên lại hừng; <br/>Khi chạm bàn tay yêu thương, <br/>Cảm xúc ơn khôn lường, <br/>Nhịp đàn năm xưa, nay trổi vang không hề ngưng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kíp lo vớt kẻ linh đinh, <br/>Cứu ai sắp bỏ mình, <br/>Jê-sus giàu lòng thương xót, <br/>Chắc cho trùng sinh. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Lo vực người luân vong nay, <br/>Ắt Chúa ta vui rày, <br/>Hầu việc do linh ân sẽ hanh thông muôn phần; <br/>Tuy gặp thời không, không nao, <br/>Dẫn chúng đường hẹp vào, <br/>Truyền cùng mọi phương, Christ đã chết thay tội nhân. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kíp lo vớt kẻ linh đinh, <br/>Cứu ai sắp bỏ mình, <br/>Jê-sus giàu lòng thương xót, <br/>Chắc cho trùng sinh. </em></dd></dl>

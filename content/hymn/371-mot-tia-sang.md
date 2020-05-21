@@ -1,8 +1,8 @@
 ---
-song_number: 371
 title: 371. Một Tia Sáng
+song-number: 371
 categories: Thiếu Nhi
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Jê-sus dạy tôi ngày đêm lòa sáng, <br/>Vì Ngài chiếu khắp mọi nơi; <br/>Mọi sự mọi nơi làm vui lòng Chúa, <br/>Nhà trường, chốn ở, nơi chơi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Một tia sáng, ánh sáng trời, <br/>Chúa muốn tôi làm tia sáng khắp nơi. <br/>Một tia sáng ánh sáng trời, <br/>Quyết vì danh Chúa soi trọn đời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Jê-sus dạy tôi tập theo nề nếp, <br/>Thuận hòa với mỗi một ai; <br/>Hoặc học, hoặc chơi, hoặc ăn, hoặc nói, <br/>Tỏ mình xứng danh con Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Một tia sáng, ánh sáng trời, <br/>Chúa muốn tôi làm tia sáng khắp nơi. <br/>Một tia sáng ánh sáng trời, <br/>Quyết vì danh Chúa soi trọn đời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Hằng cầu nguyện, xin Jê-sus vùa giúp <br/>Cho lòng thánh khiết, Ngài ơi; <br/>Thường soi rọi ra lòng nhân từ Chúa <br/>Rạng lòa Cứu Chúa khắp nơi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Một tia sáng, ánh sáng trời, <br/>Chúa muốn tôi làm tia sáng khắp nơi. <br/>Một tia sáng ánh sáng trời, <br/>Quyết vì danh Chúa soi trọn đời. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Nguyền làm tia mặt trời luôn vì Chúa, <br/>Rạng lòa mỗi lúc mọi nơi; <br/>Làm được việc chi, nguyện vui làm hết, <br/>Rồi cùng Chúa sống trên trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Một tia sáng, ánh sáng trời, <br/>Chúa muốn tôi làm tia sáng khắp nơi. <br/>Một tia sáng ánh sáng trời, <br/>Quyết vì danh Chúa soi trọn đời. </em></dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 251
 title: 251. Giờ Dịu Êm
+song-number: 251
 categories: Đời Tín Đồ
-sub_categories: Tỉnh Thức, Cầu Nguyện
+sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Giờ tôi cầu xin giờ dịu êm bấy <br/>Cứu tôi thoát khỏi buồn lo đắng cay <br/>Giục tôi quỳ nơi bệ Cha yêu dấu <br/>Dốc tuôn thay thảy nguyện ước, nhu cầu <br/>Trong lúc đau đớn, xót xa, buồn than <br/>Ngài đến nâng đỡ tâm linh nhẹ nhàng <br/>Hằng được xa nơi tà ma bẫy lưới <br/>Ấy do những phút cầu xin sáng tươi <br/>Hằng được xa nơi tà ma bẫy lưới <br/>Ấy do những phút cầu khẩn rạng ngời. </dd><dt>Câu 2:</dt><dd data-verse="2">Giờ tôi cầu xin, giờ dịu êm bấy <br/>Vút bay đem theo lời tôi khẩn đây <br/>Trình lên cho Cha thành thật, tín ái <br/>Đấng chắc ban ơn người ngóng trông Ngài <br/>Vì Chúa khuyên kiếm tôn nhan Ngài nay <br/>Tin chắc Kinh Thánh, trông ơn cao dày <br/>Vậy nên tôi đem phiền lo, bối rối <br/>Hiến lên trông đợi cầu xin trước ngôi <br/>Vậy nên tôi đem phiền lo, bối rối <br/>Hiến lên trông mong cầu trước ngôi Trời. </dd><dt>Câu 3:</dt><dd data-verse="3">Giờ tôi cầu xin, giờ dịm êm bấy <br/>Ước ơn an ủi giờ kia xuống đây <br/>Tận khi chơn tôi đặt trên núi thánh <br/>Ngắm trông quê hương nhẹ cảnh thiên thành <br/>Lột vứt chiếc áo hay hư này đi <br/>Mặc áo vinh thưởng vĩnh sinh vô kỳ <br/>Vượt qua không trung tôi hô vĩnh quyết <br/>Những phút khẩn đảo rày xin vĩnh biệt <br/>Vượt qua không trung, tôi hô vĩnh quyết <br/>Những phút khẩn đảo rày quyết vĩnh biệt. </dd></dl>

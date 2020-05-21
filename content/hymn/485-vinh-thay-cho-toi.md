@@ -1,8 +1,8 @@
 ---
-song_number: 485
 title: 485. Vinh Thay Cho Tôi
+song-number: 485
 categories: Chúa Tái Lâm
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Thật khi thử rèn và nhọc nhằn đều qua hết, <br/>Phước biết bao đã ghé vào bến kia bình tịnh! <br/>Gần gũi, nhìn xem rõ Chúa Jêsus yêu dấu, <br/>Tôi chắc sẽ ca: “Vinh thay cho tôi” muôn đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ô! Tôi reo lên: <br/>“Vinh thay cho tôi! Vinh thay cho tôi! Vinh thay cho tôi!” <br/>Chính tôi sẽ thấy mặt của Chúa, <br/>Tôi ca: “Vinh diệu bấy! Ô! Vinh diệu cho tôi!”. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nhờ ân điển dồi dào, dày rộng Ngài ban phát, <br/>Chắc sau tôi có chỗ ở trên Thiên đàng Ngài. <br/>Nguyện vọng được thành, xem ngắm dung nhan của Chúa, <br/>Tôi chắc sẽ ca: “Vinh thay cho tôi” muôn đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ô! Tôi reo lên: <br/>“Vinh thay cho tôi! Vinh thay cho tôi! Vinh thay cho tôi!” <br/>Chính tôi sẽ thấy mặt của Chúa, <br/>Tôi ca: “Vinh diệu bấy! Ô! Vinh diệu cho tôi!”. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nào ai tả được lòng mình gặp người yêu dấu? <br/>Nỗi vui như khúc sông chảy xiết bao bọc mình. <br/>Dầu vậy, được nụ cười tươi trên môi Cứu Chúa, <br/>Tôi chắc sẽ ca: “Vinh thay cho tôi” muôn đời. </dd><dd data-chorus="1"><em>Ô! Tôi reo lên: <br/>“Vinh thay cho tôi! Vinh thay cho tôi! Vinh thay cho tôi!” <br/>Chính tôi sẽ thấy mặt của Chúa, <br/>Tôi ca: “Vinh diệu bấy! Ô! Vinh diệu cho tôi!”. </em></dd></dl>

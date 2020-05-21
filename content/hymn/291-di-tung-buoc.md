@@ -1,8 +1,8 @@
 ---
-song_number: 291
 title: 291. Đi Từng Bước
+song-number: 291
 categories: Đời Tín Đồ
-sub_categories: Giao Thông Cùng Chúa
+sub-categories: Giao Thông Cùng Chúa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Nhẹ nhàng thay bước theo chân Jê-sus, <br/>Ngày đêm bước, bước đi vững an; <br/>Hằng noi theo dấu chân Ngài chăm chú, <br/>Đồng bước đi, bước đi suốt đường. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đi từng bước, bước bước đi, <br/>Theo Jê-sus tôi băng sương, <br/>Đêm ngày bước, bước bước đi, <br/>Theo gót Jê-sus trọn đường. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Cùng Jê-sus bước đi an bình thay, <br/>Hằng nương sát cánh tay Jê-sus; <br/>Ngài đưa đi đến đâu nguyền theo đấy, <br/>Tuyệt chẳng vương ác mưu kẻ thù. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đi từng bước, bước bước đi, <br/>Theo Jê-sus tôi băng sương, <br/>Đêm ngày bước, bước bước đi, <br/>Theo gót Jê-sus trọn đường. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Cùng Jê-sus bước đi không nhìn quanh, <br/>Từng giây phút quyết vui bước theo; <br/>Vượt đồi cao, dẫu thân này không cánh, <br/>Từng bước tôi cứ thong thả trèo.o </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đi từng bước, bước bước đi, <br/>Theo Jê-sus tôi băng sương, <br/>Đêm ngày bước, bước bước đi, <br/>Theo gót Jê-sus trọn đường. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Nguyền gần hơn với Jê-sus Ngài ơi,i <br/>Ngày đêm bước, oước đi vững an; <br/>Nhìn chăm chăm dấu chơn Ngài đi tới, <br/>Đồng bước đi, bước đi suốt đng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đi từng bước, bước bước đi, <br/>Theo Jê-sus tôi băng sương, <br/>Đêm ngày bước, bước bước đi, <br/>Theo gót Jê-sus trọn đường. </em></dd></dl>

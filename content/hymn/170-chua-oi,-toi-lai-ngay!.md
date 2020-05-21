@@ -1,8 +1,8 @@
 ---
-song_number: 170
 title: 170. Chúa Ôi, Tôi Lại Ngay!
+song-number: 170
 categories: Tin Lành
-sub_categories: Sự Ăn Năn, Sự Tha Tội
+sub-categories: Sự Ăn Năn, Sự Tha Tội
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Kìa tiếng Chúa kêu dịu dàng, <br/>Gọi tôi mau đến theo Ngài; <br/>Dòng huyết Gô-gô-tha rửa tôi sạch, <br/>Lòng nay thật trắng trong hoài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa ôi, tôi lại ngay, <br/>Nay tôi xin lại đây, <br/>Xin huyết lưu nơi Gô-gô-tha <br/>Làm tôi sạch trắng hơn ngà. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Dầu tôi yếu thân gầy hình, <br/>Ngài cho mạnh sức phi thường, <br/>Ngài xóa hết bao nhiêu vết tội tình, <br/>Lòng nay sạch sẽ lạ dường. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa ôi, tôi lại ngay, <br/>Nay tôi xin lại đây, <br/>Xin huyết lưu nơi Gô-gô-tha <br/>Làm tôi sạch trắng hơn ngà. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Jê-sus muốn tôi hoàn toàn, <br/>Tình yêu nên giống như Ngài. <br/>Nào đức tin, yên vui với trông cậy, <br/>Trần gian cùng với thiên đài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa ôi, tôi lại ngay, <br/>Nay tôi xin lại đây, <br/>Xin huyết lưu nơi Gô-gô-tha <br/>Làm tôi sạch trắng hơn ngà. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ngài chứng quyết cho mọi người <br/>Lòng luôn trung tín chân thành: <br/>Lời hứa Chúa đinh ninh ứng nghiệm hoài <br/>Cùng ai thật quyết tuân hành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa ôi, tôi lại ngay, <br/>Nay tôi xin lại đây, <br/>Xin huyết lưu nơi Gô-gô-tha <br/>Làm tôi sạch trắng hơn ngà. </em></dd></dl>

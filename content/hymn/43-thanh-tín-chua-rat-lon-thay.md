@@ -1,8 +1,8 @@
 ---
-song_number: 43
 title: 43. Thành Tín Chúa Rất Lớn Thay
+song-number: 43
 categories: Thờ Phượng
-sub_categories: Thuộc Tính
+sub-categories: Thuộc Tính
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Giê-hô-va ôi, sự thành tín Chúa rất lớn thay! <br/>Không bóng biến thiên, muôn đời Ngài luôn vững chãi. <br/>Ngài không thay đổi, đức yêu thương vô cùng rộng dài, <br/>Thật xưa đã có, hôm nay, mai sau còn hoài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thánh Chúa thành tín dường nào! <br/>Thánh Chúa thành tín biết bao! <br/>Ngày đêm tươi mới, lòng tôi cảm thấy ơn dào; <br/>Điều tôi nhu yếu Chúa ban cho dư dật dường nào, <br/>Lòng thành tín Chúa trên tôi rộng lớn làm sao! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Thu, đông, xuân qua hạ lại đến tám tiết vãng lai, <br/>Giăng bủa trên không, tinh, nhật nguyệt luân chuyển mãi. <br/>Toàn thiên nhiên giới chứng minh luôn thiên đại vạn đại <br/>Về thành tín lớn, khoan nhân, yêu thương trong Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thánh Chúa thành tín dường nào! <br/>Thánh Chúa thành tín biết bao! <br/>Ngày đêm tươi mới, lòng tôi cảm thấy ơn dào; <br/>Điều tôi nhu yếu Chúa ban cho dư dật dường nào, <br/>Lòng thành tín Chúa trên tôi rộng lớn làm sao! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Tâm tôi yên vui tội được xá, hưởng mãi cứu ân, <br/>Cha chí nhân luôn, hiện diện dạy khuyên đưa dẫn. <br/>Ngày nay sức mới, suốt tương lai hy vọng rạng ngời, <br/>Hằng vui hưởng phước, tâm linh thỏa mãn muôn phần. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Thánh Chúa thành tín dường nào! <br/>Thánh Chúa thành tín biết bao! <br/>Ngày đêm tươi mới, lòng tôi cảm thấy ơn dào; <br/>Điều tôi nhu yếu Chúa ban cho dư dật dường nào, <br/>Lòng thành tín Chúa trên tôi rộng lớn làm sao! </em></dd></dl>

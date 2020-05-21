@@ -1,8 +1,8 @@
 ---
-song_number: 717
 title: 717. Vững Niềm Tin
+song-number: 717
 categories: Đời Tín Đồ
-sub_categories: Bền Lòng Tin Cậy
+sub-categories: Bền Lòng Tin Cậy
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Dẫu thân nầy thường xem như nhỏ bé, <br/>có đáng chi giữa nơi chợ đời. <br/>Chúa trên trời ngày đêm luôn nhìn thấy, <br/>mỗi bước tôi và suốt cả đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cha mến yêu hằng luôn đưa đường. <br/>Cha mến yêu hằng săn sóc ta. <br/>Dẫu cuộc đời toàn là sóng gió, <br/>không sờn nao bền tâm theo Chúa. <br/>Tay Chúa mến yêu mãi đưa đường ta không rời. <br/>Chúa sẽ hằng đưa dắt lối đời tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Chúa nhân từ hằng nghe tôi cầu xin, <br/>những khi tôi cúi bên chân Ngài. <br/>Những nan đề buồn vui tôi chẳng giấu, <br/>đến với Cha trình dâng lên Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cha mến yêu hằng luôn đưa đường. <br/>Cha mến yêu hằng săn sóc ta. <br/>Dẫu cuộc đời toàn là sóng gió, <br/>không sờn nao bền tâm theo Chúa. <br/>Tay Chúa mến yêu mãi đưa đường ta không rời. <br/>Chúa sẽ hằng đưa dắt lối đời tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Mỗi sự việc đời tôi Cha đều biết, <br/>những khó nguy Chúa luôn am tường. <br/>Có một ngày Ngài kêu tôi về nước, <br/>sống với Cha còn đâu lo buồn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cha mến yêu hằng luôn đưa đường. <br/>Cha mến yêu hằng săn sóc ta. <br/>Dẫu cuộc đời toàn là sóng gió, <br/>không sờn nao bền tâm theo Chúa. <br/>Tay Chúa mến yêu mãi đưa đường ta không rời. <br/>Chúa sẽ hằng đưa dắt lối đời tôi. </em></dd></dl>

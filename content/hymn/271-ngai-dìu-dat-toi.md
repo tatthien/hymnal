@@ -1,8 +1,8 @@
 ---
-song_number: 271
 title: 271. Ngài Dìu Dắt Tôi
+song-number: 271
 categories: Đời Tín Đồ
-sub_categories: Chúa Dẫn Đưa
+sub-categories: Chúa Dẫn Đưa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Phước thay trong lòng suy nghĩ về lời: <br/>Jê-sus dẫn dắt đường lối của tôi! <br/>Ở đâu, làm gì, khi sáng hoặc tối, <br/>Có tay Jê-sus dìu dắt trọn đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus dắt tôi, Jê-sus dắt tôi, <br/>Chính tay Jê-sus hằng dẫn dắt tôi, <br/>Nguyện làm môn đồ tín trung suốt đời, <br/>Bởi tay Jê-sus dìu dắt không rời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Dẫu có khi gặp nguy cảnh nghịch thời, <br/>Cũng như lúc ở thuận cảnh thú vui, <br/>Khúc sông êm lặng, nơi biển gầm sóng, <br/>Nắm tay Jê-sus thật chẳng nao lòng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus dắt tôi, Jê-sus dắt tôi, <br/>Chính tay Jê-sus hằng dẫn dắt tôi, <br/>Nguyện làm môn đồ tín trung suốt đời, <br/>Bởi tay Jê-sus dìu dắt không rời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ước ao hằng cầm tay Chúa đồng hành, <br/>Quyết không bối rối, sầu não, khiếp kinh; <br/>Dẫu phước hay họa, tôi vững lòng tiến, <br/>Có tay Jê-sus dìu dắt vẹn tuyền. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus dắt tôi, Jê-sus dắt tôi, <br/>Chính tay Jê-sus hằng dẫn dắt tôi, <br/>Nguyện làm môn đồ tín trung suốt đời, <br/>Bởi tay Jê-sus dìu dắt không rời. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Đến khi công việc trên đất vẹn toàn, <br/>Bởi ơn Cứu Chúa dạo khúc khải hoàn, <br/>Chẳng nao tử hà xao sóng nghịch chướng, <br/>Bởi tay Jê-sus dìu dắt mọi đường. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus dắt tôi, Jê-sus dắt tôi, <br/>Chính tay Jê-sus hằng dẫn dắt tôi, <br/>Nguyện làm môn đồ tín trung suốt đời, <br/>Bởi tay Jê-sus dìu dắt không rời. </em></dd></dl>

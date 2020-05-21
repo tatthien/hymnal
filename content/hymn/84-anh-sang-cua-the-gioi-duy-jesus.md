@@ -1,8 +1,8 @@
 ---
-song_number: 84
 title: 84. Ánh Sáng Của Thế Giới Duy Jêsus
+song-number: 84
 categories: Chúa Jêsus Christ
-sub_categories: Bản Tánh, Đời Sống Và Chức Vụ
+sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Toàn dân trên đất đắm trong tội đêm dài tăm tối, <br/>Sự sáng của thế giới duy Jê-sus; <br/>Hào quang Chân Chúa giống mặt trời trưa hè đang chói, <br/>Sự sáng của thế giới duy Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Anh em đến ngay, Jê-sus liền soi sáng. <br/>Như tâm của tôi, bữa nay thật quang đãng. <br/>Xưa lòng nầy đui, rày nhờ Ngài được sáng. <br/>Ánh sáng của thế giới duy Jê-sus. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Phàm ai trong Cứu Chúa tâm thần không còn tăm tối. <br/>Sự sáng của thế giới duy Jê-sus; <br/>Hằng đi trong ánh sáng do Ngài đem đường đưa lối. <br/>Sự sáng của thế giới duy Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Anh em đến ngay, Jê-sus liền soi sáng. <br/>Như tâm của tôi, bữa nay thật quang đãng. <br/>Xưa lòng nầy đui, rày nhờ Ngài được sáng. <br/>Ánh sáng của thế giới duy Jê-sus. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Kìa, ai trong tối mắt linh bị mây tội che áng, <br/>Sự sáng của thế giới duy Jê-sus. <br/>Lại ao kia rửa đúng như lệnh xưa liền được sáng. <br/>Sự sáng của thế giới, duy Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Anh em đến ngay, Jê-sus liền soi sáng. <br/>Như tâm của tôi, bữa nay thật quang đãng. <br/>Xưa lòng nầy đui, rày nhờ Ngài được sáng. <br/>Ánh sáng của thế giới duy Jê-sus. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ngài cho hay thánh quốc không cần quang cầu soi sáng. <br/>Sự sáng của thế giới duy Jê-sus. <br/>Vì Chiên Con chiếu sáng kim thành muôn đời quang đãng. <br/>Sự sáng của thế giới duy Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Anh em đến ngay, Jê-sus liền soi sáng. <br/>Như tâm của tôi, bữa nay thật quang đãng. <br/>Xưa lòng nầy đui, rày nhờ Ngài được sáng. <br/>Ánh sáng của thế giới duy Jê-sus. </em></dd></dl>

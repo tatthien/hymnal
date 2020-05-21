@@ -1,8 +1,8 @@
 ---
-song_number: 661
 title: 661. Vinh Quang Trời
+song-number: 661
 categories: Đời Tín Đồ
-sub_categories: Ngợi Khen Vì Được Cứu
+sub-categories: Ngợi Khen Vì Được Cứu
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Bao năm qua bước chân chìm sâu trong ô trần, <br/>Sống với những thú vui quanh mình. <br/>Tôi luôn đau thương u buồn giữa lớp sóng đời, <br/>thân bơ vơ không nơi nương nhờ. <br/>Giữa những bóng tối tôi nhìn thấy ánh sáng trời, <br/>Ðời này dường bình minh sáng soi. <br/>Ánh sáng thánh khiết yêu thương tràn ngập cuộc đời <br/>khi quyền năng Jêsus đến với tâm này. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nay ánh sáng trời làm tươi mới lòng thế nhân. <br/>Thiên Chúa giáng trần tìm tôi cứu khỏi bến mê. <br/>Tội ô Jê-sus mang hết, Nếp sống xưa tẩy thanh không còn đâu; <br/>nay những bước đường trần tăm tối đã lánh xa. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nhớ đến lúc trước tôi còn lang thang xa Ngài. <br/>sống với những đớn đau đêm ngày. <br/>Tôi như bông hoa rơi rụng trong cơn mưa buồn, <br/>sớm tối thiếu vắng bóng yêu thương. <br/>Ðang khi bơ vơ tôi chợt nghe tiếng Chúa gọi, <br/>Lời Ngài làm hồn tôi thắm tươi. <br/>Ðến với Cứu Chúa tâm tôi nhẹ nhàng tuyệt vời, <br/>Ôi, Ngài yêu thương tôi đến muôn muôn đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nay ánh sáng trời làm tươi mới lòng thế nhân. <br/>Thiên Chúa giáng trần tìm tôi cứu khỏi bến mê. <br/>Tội ô Jê-sus mang hết, Nếp sống xưa tẩy thanh không còn đâu; <br/>nay những bước đường trần tăm tối đã lánh xa. </em></dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 678
 title: 678. Lời Tạ Ơn Chúa
+song-number: 678
 categories: Đời Tín Đồ
-sub_categories: Cảm Tạ
+sub-categories: Cảm Tạ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Lớn tiếng hân hoan ngợi khen danh Jê-sus muôn đời; <br/>phước lớn Chúa ban, ơn rộng sâu hơn biển khơi! <br/>Nhớ mãi không quên, hằng ngày nhờ ơn Chúa dắt dìu, <br/>dẫn đưa đàn chiên trong tình yêu lớn vô biên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lời tạ ơn con xin dâng lên, <br/>chung hòa tiếng ca vang Ha-lê-lu-gia! <br/>Với lòng biết ơn luôn Ha-lê-lu-gia, <br/>xin thành tâm dâng Chúa. <br/>Lời ngợi khen vang trong không gian, <br/>suốt đời ngát hương thơm Ha-lê-lu-gia! <br/>Tôn thờ Danh Chúa suốt cuộc đời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Suốt tháng năm qua nhờ Cha chăm sóc thật chu toàn, <br/>đáp ứng cho con khi cần nhu hay ốm đau. <br/>Chúa đứng bên con, lòng được bình an không ngã lòng. <br/>Vững tâm nhờ Cha luôn ngày đêm thấy an vui. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lời tạ ơn con xin dâng lên, <br/>chung hòa tiếng ca vang Ha-lê-lu-gia! <br/>Với lòng biết ơn luôn Ha-lê-lu-gia, <br/>xin thành tâm dâng Chúa. <br/>Lời ngợi khen vang trong không gian, <br/>suốt đời ngát hương thơm Ha-lê-lu-gia! <br/>Tôn thờ Danh Chúa suốt cuộc đời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Chúa kính yêu ôi, làm sao con đủ lời ca ngợi <br/>trước những ơn sâu phô bày ra cho chúng con! <br/>Quyết bước theo Cha ngày ngày truyền rao danh Jê-sus <br/>dẫn đưa trần gian quay về bên Chúa yêu thương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lời tạ ơn con xin dâng lên, <br/>chung hòa tiếng ca vang Ha-lê-lu-gia! <br/>Với lòng biết ơn luôn Ha-lê-lu-gia, <br/>xin thành tâm dâng Chúa. <br/>Lời ngợi khen vang trong không gian, <br/>suốt đời ngát hương thơm Ha-lê-lu-gia! <br/>Tôn thờ Danh Chúa suốt cuộc đời. </em></dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 228
 title: 228. Tuyết Kia Khôn So
+song-number: 228
 categories: Đời Tín Đồ
-sub_categories: Sự Nên Thánh
+sub-categories: Sự Nên Thánh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Lạy Jê-sus, tôi ước thân hồn nên thánh vẹn tuyền, <br/>nguyền Ngài luôn luôn sống trong lòng tôi để cầm quyền; <br/>tiêu hủy quân thù, đập hình tượng, quét rác rến ngay; <br/>lòng nầy xin Chúa rửa trắng hơn tuyết ngay bữa nay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tuyết kia khôn so, thật tuyết kia khôn tày; <br/>lòng nầy xin Chúa rửa trắng hơn tuyết ngay bữa nay. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lạy Jê-sus vinh hiển, xin từ ngai ở thiên đàng; <br/>hằng nhìn xem, bổ sức cho đời tôi hiến vẹn toàn. <br/>Tôi quyết dâng Ngài mọi sự, nguyện chẳng giữ mảy may, <br/>lòng nầy xin Chúa rửa trắng hơn tuyết ngay bữa nay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tuyết kia khôn so, thật tuyết kia khôn tày; <br/>lòng nầy xin Chúa rửa trắng hơn tuyết ngay bữa nay. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lạy Jê-sus nhân ái, đây điều tôi vẫn khiêm nhường <br/>cầu nguyện nơi chân Đấng đinh còn lưu vết tỏ tường; <br/>nhơn đức tin tôi nhìn vào dòng huyết tẩy uế đây, <br/>lòng nầy xin Chúa rửa trắng hơn tuyết ngay bữa nay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tuyết kia khôn so, thật tuyết kia khôn tày; <br/>lòng nầy xin Chúa rửa trắng hơn tuyết ngay bữa nay. </em></dd><dt>Câu 4:</dt><dd data-verse="3">Lạy Jê-sus xin đoái tôi hằng kiên nhẫn đợi chờ, <br/>nguyền Ngài mau mau đến cho lòng nên thánh hiện giờ; <br/>ai khẩn xin Jê-sus, nào Ngài há có ngắn tay? <br/>Lòng nầy xin Chúa rửa trắng hơn tuyết ngay bữa nay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tuyết kia khôn so, thật tuyết kia khôn tày; <br/>lòng nầy xin Chúa rửa trắng hơn tuyết ngay bữa nay. </em></dd></dl>

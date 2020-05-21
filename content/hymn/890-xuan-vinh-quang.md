@@ -1,8 +1,8 @@
 ---
-song_number: 890
 title: 890. Xuân Vinh Quang
+song-number: 890
 categories: Biệt Lễ Ca
-sub_categories: Năm Mới
+sub-categories: Năm Mới
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1"> Kìa mùa xuân vinh quang <br/>bừng lên tô non sông, <br/>Từng đàn chim tung cánh hót vang. <br/>Bầu trời xanh xanh xanh, <br/>Hoa thơm nồng ngọt ngào, <br/>Xuân đã về gieo muôn tia sáng. <br/>Họp đoàn ca vui lên <br/>mừng tân xuân vinh quang, <br/>Anh em vui ca khúc xuân sang. <br/>Kìa một năm qua mau, <br/>Bao lo buồn ngại gì, <br/>Christ là nguồn sống vui vô vàn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin kíp đến! Christ Chân Chúa tôi, <br/>Hãy gieo ánh sáng vui ngàn nơi, <br/>Ban ơn lành tràn tuôn <br/>tưới gội nhuần hằng ngày <br/>Xin kíp đến! Chúa xuân thiên đài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Dường mùi thơm hương nam <br/>tràn ngập tâm tôi nay, <br/>Dầu muôn hoa nơi thế gian nầy <br/>Nào bằng hương thơm Christ <br/>bay ra từ lòng Ngài. <br/>Hoa muôn đời huơng xuân nhân ái. <br/>Vạn niềm vui hôm nay <br/>tràn ngập tâm tôi đây, <br/>Khi ai nhắc đến ái tâm Ngài. <br/>Được trần gian chi nay, <br/>ta vui đã thuộc Ngài luôn <br/>vui mừng thỏa thích lâu dài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin kíp đến! Christ Chân Chúa tôi, <br/>Hãy gieo ánh sáng vui ngàn nơi, <br/>Ban ơn lành tràn tuôn <br/>tưới gội nhuần hằng ngày <br/>Xin kíp đến! Chúa xuân thiên đài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Cùng nhìn lên thiên cung <br/>chờ mùa xuân quang vinh. <br/>Ngày mai đây nơi nước vĩnh sinh <br/>Được nhìn Jê-sus Christ <br/>Vua thiên đàng đại quyền. <br/>Ta sao thuật tâm vui vô biên. <br/>Này dòng sông xanh xanh <br/>từ nơi Ngôi Chiên Con, <br/>Tràn nước sống đến cả thiên dân. <br/>Nào còn đêm âm u hay ánh đèn, <br/>Mặt trời Christ là nguồn sáng vui đời đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin kíp đến! Christ Chân Chúa tôi, <br/>Hãy gieo ánh sáng vui ngàn nơi, <br/>Ban ơn lành tràn tuôn <br/>tưới gội nhuần hằng ngày <br/>Xin kíp đến! Chúa xuân thiên đài. </em></dd></dl>

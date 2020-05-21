@@ -1,8 +1,8 @@
 ---
-song_number: 44
 title: 44. Đấng Xưa Giúp Chúng Tôi
+song-number: 44
 categories: Thờ Phượng
-sub_categories: Gìn Giữ, Dẫn Dắt
+sub-categories: Gìn Giữ, Dẫn Dắt
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ôi, lạy Chúa, nguyện Đấng giúp tôi mãi, <br/>Là ước vọng lúc hậu lai, <br/>Nơi bảo toàn giữa giông tố dội vang, <br/>Là nhà muôn thuở bình an. </dd><dt>Câu 2:</dt><dd data-verse="2">Nương dựa bóng ngai Chúa thái an bấy, <br/>Cho thánh dân thỏa lòng thay! <br/>Duy cánh tay Chúa bao phủ ngày đêm, <br/>Lòng càng được vững vàng thêm. </dd><dt>Câu 3:</dt><dd data-verse="3">Ngay từ trước khi có biển, sông, đất, <br/>Rừng, núi, tinh tú, nguyệt, nhật, <br/>Nguyên thủy Ngài vốn Chân Chúa độc tôn, <br/>Đời đời cai quản kiền khôn. </dd><dt>Câu 4:</dt><dd data-verse="4">Muôn đời trước mặt Chúa thoáng mau quá, <br/>Thật giống đêm chóng vượt qua, <br/>Như thể canh chót đêm sắp tàn kia, <br/>Rồi dương quang ló nghìn tia. </dd><dt>Câu 5:</dt><dd data-verse="5">Nhân loại vốn thuộc huyết khí A-đam, <br/>Sờn chí, phiền não, sầu tâm, <br/>Họ trôi dạt cuốn theo sóng thời gian, <br/>Tuyệt không tăm tiếng dội vang. </dd><dt>Câu 6:</dt><dd data-verse="6">Danh, lợi, hiển vinh, phú quý, khương tráng, <br/>Đều cuốn theo sóng thời gian, <br/>Chỉ thoáng qua ví như giấc hoàng lương, <br/>Rạng ngày tiêu tán hà phương. </dd><dt>Câu 7:</dt><dd data-verse="7">Ôi, lạy Chúa, nguyên Đấng giúp tôi mãi, <br/>Là ước vọng lúc hậu lai, <br/>Xin Chúa gìn giữ tôi suốt đường thiêng, <br/>Làm nhà muôn thuở bình yên. </dd></dl>

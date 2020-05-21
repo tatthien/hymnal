@@ -1,8 +1,8 @@
 ---
-song_number: 22
 title: 22. Ta Bước Lên Si-Ôn
+song-number: 22
 categories: Thờ Phượng
-sub_categories: Thờ Kính
+sub-categories: Thờ Kính
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Yêu Chúa ta họp tại đây, <br/>Ai nấy lộ vẻ vui thay, <br/>Cùng nhau ta hát thánh ca nhịp nhàng, <br/>Cùng nhau tâu khúc thánh ca dịu dàng. <br/>Hồi ta đương nhóm dưới ngai, <br/>Nhóm chung quanh Đấng quyền oai. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta bước lên Si-ôn hè, <br/>Tiến lên ngọn núi Si-ôn đẹp đẽ. <br/>Ngắm Si-ôn ta hăng hái bước tới, <br/>Thủ đô thiêng liêng vinh quang muôn đời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bao kẻ không chịu tụng ca, <br/>Do chẳng nhận biết Chúa Cha; <br/>Nhưng ta con cái của Vua trên trời, <br/>Thật con yêu quý của Vua muôn đời. <br/>Thuật ơn vui vẻ khắp nơi, <br/>Chứng ơn vui vẻ nào thôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta bước lên Si-ôn hè, <br/>Tiến lên ngọn núi Si-ôn đẹp đẽ. <br/>Ngắm Si-ôn ta hăng hái bước tới, <br/>Thủ đô thiêng liêng vinh quang muôn đời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Muôn phước thiên thượng ngọt ngon, <br/>Lưu xuống từ núi Si-ôn. <br/>Hiện ta vui hưởng trước khi qua đời, <br/>Hiện ta vui hưởng trước khi lên trời. <br/>Đường tinh kim tuy chưa lên, <br/>Dẫu chưa lên cõi thượng thiên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta bước lên Si-ôn hè, <br/>Tiến lên ngọn núi Si-ôn đẹp đẽ. <br/>Ngắm Si-ôn ta hăng hái bước tới, <br/>Thủ đô thiêng liêng vinh quang muôn đời. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Nay hãy ca tụng không thôi, <br/>Đôi mắt lụy dứt tuôn rơi, <br/>Ta mau qua xứ Em-ma-nu-ên, <br/>Cùng nhau qua xứ Em-ma-nu-ên. <br/>Đồng lên thiên quốc hiển vinh, <br/>Đến nơi thiên quốc đẹp xinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta bước lên Si-ôn hè, <br/>Tiến lên ngọn núi Si-ôn đẹp đẽ. <br/>Ngắm Si-ôn ta hăng hái bước tới, <br/>Thủ đô thiêng liêng vinh quang muôn đời. </em></dd></dl>

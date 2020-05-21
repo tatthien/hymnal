@@ -1,8 +1,8 @@
 ---
-song_number: 759
 title: 759. Đường Về An Khương
+song-number: 759
 categories: Đời Tín Đồ
-sub_categories: Chúa Dẫn Đưa
+sub-categories: Chúa Dẫn Đưa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Như mây trôi cùng muôn cánh gió, <br/>Thế gian mang kiếp con người. <br/>Tôi đi giữa cuộc đời khốn khó, <br/>Vắng xa tiếng ca giọng cười. <br/>Bơ vơ không tìm đâu nơi ẩn náu, <br/>Gió mưa giông tố kinh hoàng. <br/>Tôi nghe có lời dịu êm quý báu: <br/>Này là đường dẫn về khương an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trên đường về thiên quốc, <br/>Đi giữa đêm hay ngày, <br/>An vui trong tình yêu thương Cứu Chúa <br/>Chẳng chi vấn vương, u hoài. <br/>Khi cuộc đời chung kết, <br/>Đêm sẽ nên huy hoàng. <br/>Quên đi những ngày còn trong cõi chết, <br/>Đời đời cùng Chúa vào khương an. </em></dd><dt>Câu 2:</dt><dd data-verse="2">An vui trong tình yêu Cứu Chúa, <br/>Lắng nghe hạnh phúc ngập tràn. <br/>Quên đi những buồn đau héo úa, <br/>Cách xa tháng năm kinh hoàng. <br/>Theo nhau lá vàng rơi không nuối tiếc, <br/>Đã qua mưa gió phủ phàng. <br/>Tương lai Chúa Jê-sus luôn rõ biết, <br/>Ngài là đường dẫn về khương an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trên đường về thiên quốc, <br/>Đi giữa đêm hay ngày, <br/>An vui trong tình yêu thương Cứu Chúa <br/>Chẳng chi vấn vương, u hoài. <br/>Khi cuộc đời chung kết, <br/>Đêm sẽ nên huy hoàng. <br/>Quên đi những ngày còn trong cõi chết, <br/>Đời đời cùng Chúa vào khương an. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Xin dâng tâm tình qua tiếng hát, <br/>Gởi cho mây gió trao giùm. <br/>Cho ai vẫn sầu ưu chất ngất, <br/>Sống trong bóng đêm bao trùm. <br/>Nghe đâu như lời Jê-sus phán hứa, <br/>Giữa khi giông tố lan tràn. <br/>An tâm dẫu ngàn buồn đau chất chứa, <br/>Ngài hằng dìu bước về khương an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trên đường về thiên quốc, <br/>Đi giữa đêm hay ngày, <br/>An vui trong tình yêu thương Cứu Chúa <br/>Chẳng chi vấn vương, u hoài. <br/>Khi cuộc đời chung kết, <br/>Đêm sẽ nên huy hoàng. <br/>Quên đi những ngày còn trong cõi chết, <br/>Đời đời cùng Chúa vào khương an. </em></dd></dl>

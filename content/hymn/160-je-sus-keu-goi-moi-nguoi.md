@@ -1,8 +1,8 @@
 ---
-song_number: 160
 title: 160. Jê-Sus Kêu Gọi Mọi Người
+song-number: 160
 categories: Tin Lành
-sub_categories: Lời Mời
+sub-categories: Lời Mời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Jê-sus đang êm dịu tha thiết kêu gọi mọi người, <br/>Kêu anh luôn với tôi hồi lai, <br/>Đứng nơi thiên môn hằng mong mỏi trông đợi, nài mời, <br/>Ngài chờ chính tôi và anh hoài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Về mau, chớ trễ, <br/>Người mệt nhọc nên mau đến Chúa; <br/>Jê-sus đang êm dịu, tha thiết kêu gọi mọi người, <br/>Ai ơi, hối tâm về quê chưa! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Cớ sao Jê-sus gọi tha thiết, ta lại chần chờ? <br/>Kêu anh luôn với tôi lại ngay; <br/>Cớ sao ta bơ thờ, ân điển chưa nhận hiện giờ? <br/>Ngài chờ chúng ta từ lâu nay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Về mau, chớ trễ, <br/>Người mệt nhọc nên mau đến Chúa; <br/>Jê-sus đang êm dịu, tha thiết kêu gọi mọi người, <br/>Ai ơi, hối tâm về quê chưa! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Chẳng khác thoi đưa, thời gian sẽ không đợi chờ mình, <br/>Xuân xanh ta há luôn đẹp xinh? <br/>Bóng tối tăm bao bọc, lưỡi hái tử thần thình lình, <br/>Người tội tránh sao bị khổ hình? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Về mau, chớ trễ, <br/>Người mệt nhọc nên mau đến Chúa; <br/>Jê-sus đang êm dịu, tha thiết kêu gọi mọi người, <br/>Ai ơi, hối tâm về quê chưa! </em></dd><dt>Câu 4:</dt><dd data-verse="4">Bởi yêu thương sâu nhiệm Chúa hứa tha mọi tội tình, <br/>Bao dung tha thứ tôi cùng anh; <br/>Chúa vẫn yêu thương dầu ta bẩn dơ tội đầy mình, <br/>Nhờ cậy Chúa chắc được trắng tinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Về mau, chớ trễ, <br/>Người mệt nhọc nên mau đến Chúa; <br/>Jê-sus đang êm dịu, tha thiết kêu gọi mọi người, <br/>Ai ơi, hối tâm về quê chưa! </em></dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 63
 title: 63. Không Chỗ Trong Quán
+song-number: 63
 categories: Chúa Jêsus Christ
-sub_categories: Giáng Sinh
+sub-categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Nào, phòng đẹp chốn sang giàu, <br/>Nào giường nệm có đâu, <br/>Sinh trong chuồng chiên đó thôi, <br/>Đầu Christ không chỗ gối; <br/>Có đâu khúc ca tâu hòa, <br/>Có đâu lòng tri quá, <br/>Không vinh cảnh, chỉ bi trường, <br/>Lều hèn nào còn giường. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ấy khéo không chỗ cho Ngài đấy, <br/>Kíp hoan nghênh Chúa hôm nay, <br/>Kẻo đến thiên môn nghe lời thẹn bấy: <br/>"Không nơi nào thuộc ngươi đây!" </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nào, người vì Chúa dâng mình, <br/>Hầu giờ Ngài giáng sinh, <br/>Ai khiêm nhường đâu thấy đây, <br/>Đạo tâm ai sẵn đấy; <br/>Mấy ai khóc than tội mình, <br/>Khát khao về Con Thánh, <br/>Ai mong ơn Chúa thiên đường, <br/>Lều hèn nào còn giường. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ấy khéo không chỗ cho Ngài đấy, <br/>Kíp hoan nghênh Chúa hôm nay, <br/>Kẻo đến thiên môn nghe lời thẹn bấy: <br/>"Không nơi nào thuộc ngươi đây!" </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nào, người nhận biết Vua mình, <br/>Nào người chịu tiếp nghinh, <br/>Hoa tươi, dầu thơm có nao, <br/>Rặt thanh đao mũi giáo; <br/>Mấy ai kiếm ơn thiên thành, <br/>Mấy ai hầu Con Thánh, <br/>Ai săn sóc giữa canh trường, <br/>Lều hèn nào còn giường. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ấy khéo không chỗ cho Ngài đấy, <br/>Kíp hoan nghênh Chúa hôm nay, <br/>Kẻo đến thiên môn nghe lời thẹn bấy: <br/>"Không nơi nào thuộc ngươi đây!" </em></dd></dl>

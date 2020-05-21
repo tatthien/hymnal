@@ -1,8 +1,8 @@
 ---
-song_number: 292
 title: 292. Hằng Nương Trong Chúa Muôn Đời
+song-number: 292
 categories: Đời Tín Đồ
-sub_categories: Giao Thông Cùng Chúa
+sub-categories: Giao Thông Cùng Chúa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Thật tôi có sự bình an mà trần thế không thể ban, <br/>Cũng không ai đoạt khỏi tâm tôi rày; <br/>Dầu thử thách trên đường tôi dường một đám mây áng ngang, <br/>Giữa cảnh kia hằng thấy tâm an thái thay! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hằng nương trong Chúa muôn đời, Jê-sus Chúa tôi. <br/>Hằng nương trong Chúa muôn đời, thỏa vui ngọt ngào, <br/>Christ ngày đêm luôn phán êm dịu, <br/>“Quyết ta chẳng xa ngươi.” <br/>Có Chúa bên tôi suốt đời, chiếc đơn đâu nào! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Từ khi có sự bình an dịu dàng đến tâm của tôi, <br/>Cả thế gian dường hát khen Vua Trời; <br/>Sự reng rối trong lòng tan, màn đêm biến nên sáng vui, <br/>Cứ hát khen ngợi Cứu Chúa vinh hiển thôi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hằng nương trong Chúa muôn đời, Jê-sus Chúa tôi. <br/>Hằng nương trong Chúa muôn đời, thỏa vui ngọt ngào, <br/>Christ ngày đêm luôn phán êm dịu, <br/>“Quyết ta chẳng xa ngươi.” <br/>Có Chúa bên tôi suốt đời, chiếc đơn đâu nào! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Bình an giống châu ngọc kia, dầu thân vốn đất sét đây, <br/>Lúc tôi đang còn trải qua đời này; <br/>Ngài sắp tái lâm rày mai gọi tôi cất lên đám mây, <br/>Đến nước Cha miền thánh quốc vinh hiển thay! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hằng nương trong Chúa muôn đời, Jê-sus Chúa tôi. <br/>Hằng nương trong Chúa muôn đời, thỏa vui ngọt ngào, <br/>Christ ngày đêm luôn phán êm dịu, <br/>“Quyết ta chẳng xa ngươi.” <br/>Có Chúa bên tôi suốt đời, chiếc đơn đâu nào! </em></dd></dl>

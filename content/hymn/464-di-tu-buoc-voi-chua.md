@@ -1,8 +1,8 @@
 ---
-song_number: 464
 title: 464. Đi Từ Bước Với Chúa
+song-number: 464
 categories: Cầu Nguyện
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Thường nhật tôi với Jê-sus gặp nhau, <br/>Đi mỗi bước không phân trước sau. <br/>Ngày được theo dấu chân vui vẻ bấy! <br/>Qua hết cả khi khu thế đồ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đi từ bước, bước thẳng đi, <br/>Có Chúa nữa, không can chi. <br/>Đi từ bước, Chúa cũng đi, <br/>Cho đến mãi vô tận kỳ. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Mình được đi với Jê-sus, sợ chi, <br/>Chân bước vững, khỏi cơn hiểm nguy; <br/>Ngày một, tôi náu nương trong cánh Chúa, <br/>Nay Chúa dẫn không kinh hãi gì. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đi từ bước, bước thẳng đi, <br/>Có Chúa nữa, không can chi. <br/>Đi từ bước, Chúa cũng đi, <br/>Cho đến mãi vô tận kỳ. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Từ một giây phút Jê-sus cặp theo, <br/>Theo mỗi bước chỗ ngay, khúc co; <br/>Dầu là không cánh, tôi bay bổng tới, <br/>Chân Chúa dẫn đi, thong thả trèo. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đi từ bước, bước thẳng đi, <br/>Có Chúa nữa, không can chi. <br/>Đi từ bước, Chúa cũng đi, <br/>Cho đến mãi vô tận kỳ. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ngày một giây phút, Jê-sus Ngài ôi, <br/>Xin mỗi bước dẫn tôi đến nơi; <br/>Hầu kịp chân Chúa đi theo mãi mãi <br/>Cho hết nẻo mênh mông cõi đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đi từ bước, bước thẳng đi, <br/>Có Chúa nữa, không can chi. <br/>Đi từ bước, Chúa cũng đi, <br/>Cho đến mãi vô tận kỳ. </em></dd></dl>

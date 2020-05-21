@@ -1,8 +1,8 @@
 ---
-song_number: 595
 title: 595. Vinh Diệu Chúa Phục Sinh
+song-number: 595
 categories: Chúa Jêsus Christ
-sub_categories: Phục Sinh
+sub-categories: Phục Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tôn ngợi Chúa Jê-sus, <br/>phục sinh trong khải hoàn. <br/>Sự chết nay bị phá tan, <br/>Chúa thắng hơn đời đời. <br/>Thiên binh khoác áo huy hoàng, <br/>cất đá lăn ngoài mộ. <br/>Gặp màn liệm bọc xác Ngài, <br/>minh chứng đầy vinh quang. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôn ngợi Chúa Jê-sus <br/>phục sinh trong khải hoàn. <br/>Quyền năng Ngài càng trổi cao, <br/>suốt cả cõi trường tồn. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Jê-sus mới sống lại, <br/>chào đón chúng ta liền. <br/>Dịu êm Ngài mừng hỏi ta, <br/>đuổi xua bao sợ phiền. <br/>Dân thánh nay hát vui mừng, <br/>khúc khải ca tuyệt vời. <br/>Từ rày Ngài hiện sống hoài, <br/>đắc thắng quyền ma vương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôn ngợi Chúa Jê-sus <br/>phục sinh trong khải hoàn. <br/>Quyền năng Ngài càng trổi cao, <br/>suốt cả cõi trường tồn. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Con nguyện thôi nghi ngờ <br/>lạy Chúa Vua Trường Tồn. <br/>Ðời con nên vô nghĩa ngay <br/>nếu con không thuộc Ngài. <br/>Xin giúp con thắng vinh diệu, <br/>Chúa yêu con vô cùng. <br/>Dìu cuộc đời hèn nhỏ này, <br/>đưa bước về thiên cung. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôn ngợi Chúa Jê-sus <br/>phục sinh trong khải hoàn. <br/>Quyền năng Ngài càng trổi cao, <br/>suốt cả cõi trường tồn. </em></dd></dl>

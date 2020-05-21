@@ -1,8 +1,8 @@
 ---
-song_number: 829
 title: 829. Chiến Binh Thập Tự
+song-number: 829
 categories: Đời Tín Đồ
-sub_categories: Linh Chiến
+sub-categories: Linh Chiến
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ta cùng hân hoan tiến bước theo Jê-sus. <br/>trên đường thiên cung chiến đấu không sờn nao. <br/>Luôn nhờ Jê-sus danh tướng muôn đạo binh, <br/>bài chiến thắng khải hoàn vui hát vang. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lên đường! lên đường! bao khó nguy coi thường. <br/>Jê-sus, Jê-sus luôn dẫn đưa mọi đường. <br/>Chiến binh thập tự nguyện một lòng tranh đấu; <br/>cờ chiến thắng vinh diệu dâng Jê-sus. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Muôn người đang đau đớn sống trong trần gian <br/>trong xiềng Sa-tan bóng tối vây bọc quanh. <br/>Mau cùng xông ra lính chiến Vua Jê-sus, <br/>truyền rao ơn mua chuộc cho thế nhân. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lên đường! lên đường! bao khó nguy coi thường. <br/>Jê-sus, Jê-sus luôn dẫn đưa mọi đường. <br/>Chiến binh thập tự nguyện một lòng tranh đấu; <br/>cờ chiến thắng vinh diệu dâng Jê-sus. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nương nhờ Jê-sus chiến thắng bao tội ô, <br/>vui mừng hân hoan trổi khúc khải hoàn ca. <br/>Mong đợi ngày mai Jê-sus ban triều thiên, <br/>cùng Chúa sống muôn đời nơi vĩnh yên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lên đường! lên đường! bao khó nguy coi thường. <br/>Jê-sus, Jê-sus luôn dẫn đưa mọi đường. <br/>Chiến binh thập tự nguyện một lòng tranh đấu; <br/>cờ chiến thắng vinh diệu dâng Jê-sus. </em></dd></dl>

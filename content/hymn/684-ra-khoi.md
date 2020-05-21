@@ -1,8 +1,8 @@
 ---
-song_number: 684
 title: 684. Ra Khơi
+song-number: 684
 categories: Đời Tín Đồ
-sub_categories: Nên Thánh
+sub-categories: Nên Thánh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Kìa anh em đang mỏi mê suốt đêm trong bờ, <br/>nào cùng nhau ta ra xa ngoài khơi. <br/>Rồi mau mau quăng lưới nơi nước sâu đang chờ, <br/>nào cùng nhau ta ra giữa biển khơi. <br/>Bao ơn lành đợi chờ nào cùng nhau ra mau, <br/>mau ra khỏi chỗ luống công trong bờ. <br/>Nơi xa thẳm sóng trùng dương man mác sẵn chờ, <br/>kíp ra theo lệnh truyền Chúa ta. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nào ra khơi, chèo ra khơi, <br/>Nào cùng nhau ta ra xa ngoài khơi. <br/>Kìa ơn thương xót đang đợi chờ ngoài xa, <br/>anh em cùng nhau ta hãy chèo ra. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Hồn linh anh em mỏi mê suốt đêm đợi chờ, <br/>Nào cùng nhau mau bơi ra ngoài khơi. <br/>Lòng tin đem giao hết trong tay Cha nhân từ, <br/>nào cùng nhau ta ra giữa biển khơi. <br/>Bao lương thực dồi dào từ trời cao ban cho, <br/>anh em khỏi thiếu thốn chi trong ngày. <br/>Mau vang tiếng khẩn cầu Jê-sus chắc trả lời, <br/>sẽ ban theo nhu cầu chúng ta. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nào ra khơi, chèo ra khơi, <br/>Nào cùng nhau ta ra xa ngoài khơi. <br/>Kìa ơn thương xót đang đợi chờ ngoài xa, <br/>anh em cùng nhau ta hãy chèo ra. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngày nay Jê-sus phán khi chúng ta bơ thờ, <br/>rằng chèo mau mau ra xa ngoài khơi. <br/>Nầy anh em nghe tiếng yêu thương Jê-sus truyền, <br/>nào cùng nhau ta ra giữa biển khơi. <br/>Mau xa lìa bờ này cùng tội ô nhân gian, <br/>nơi không thể giải thoát cho linh hồn. <br/>Nhìn xem Chúa Đấng hằng luôn ban sức mới hoài, <br/>sống vui trong ơn Ngài thỏa thay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nào ra khơi, chèo ra khơi, <br/>Nào cùng nhau ta ra xa ngoài khơi. <br/>Kìa ơn thương xót đang đợi chờ ngoài xa, <br/>anh em cùng nhau ta hãy chèo ra. </em></dd></dl>

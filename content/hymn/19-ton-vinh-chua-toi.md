@@ -1,8 +1,8 @@
 ---
-song_number: 19
 title: 19. Tôn Vinh Chúa Tôi
+song-number: 19
 categories: Thờ Phượng
-sub_categories: Ngợi Khen Jêsus Christ
+sub-categories: Ngợi Khen Jêsus Christ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Khi tôi ngắm xem nơi dòng huyết báu, <br/>Xưa rộng mở tẩy thanh tội dơ, <br/>Tôi xin vâng lời Thần Linh chỉ giáo: <br/>"Muốn chăng lòng trắng trong hiện giờ?" </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôn vinh Chúa tôi! Tôn vinh Chúa tôi! <br/>Bởi tôi chính Chiên Con chịu hình, <br/>Muôn dân khá tôn vinh một Cứu Chúa, <br/>Do huyết Jê-sus gội trắng trong tội tình. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tuy trong lối đi eo hẹp cứ bước, <br/>Muôn điều lý tánh Chúa đập tan; <br/>Bao phương châm, kỳ vọng luôn sở ước, <br/>Dưới chân này kể như tro tàn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôn vinh Chúa tôi! Tôn vinh Chúa tôi! <br/>Bởi tôi chính Chiên Con chịu hình, <br/>Muôn dân khá tôn vinh một Cứu Chúa, <br/>Do huyết Jê-sus gội trắng trong tội tình. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ca khen thánh danh Jê-sus quý hóa! <br/>Vui mừng bấy Chúa tiếp nhận tôi! <br/>Bao nhiêu vi phạm Jê-sus đã xóa, <br/>Rửa tâm hồn giống tuyết sạch ngời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôn vinh Chúa tôi! Tôn vinh Chúa tôi! <br/>Bởi tôi chính Chiên Con chịu hình, <br/>Muôn dân khá tôn vinh một Cứu Chúa, <br/>Do huyết Jê-sus gội trắng trong tội tình. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Vinh thay! Thánh thay! Thiên Phụ đáng kính! <br/>Vinh điệu bấy Jê-sus Đại Nhân! <br/>Vinh quang vô cùng Thần Linh chí thánh! <br/>Cả ba hiệp nhất ấy Chân Thần. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôn vinh Chúa tôi! Tôn vinh Chúa tôi! <br/>Bởi tôi chính Chiên Con chịu hình, <br/>Muôn dân khá tôn vinh một Cứu Chúa, <br/>Do huyết Jê-sus gội trắng trong tội tình. </em></dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 499
 title: 499. Tôi Đến Thập Tự Giá
+song-number: 499
 categories: Lễ Nghi
-sub_categories: Tiệc Thánh
+sub-categories: Tiệc Thánh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Thập tự giá tôi nay đứng bên, <br/>Tôi khôn kể xiết những ơn trên, <br/>Nghèo, đui, rách như tôi khốn thay, <br/>Thật tội tình tôi Chúa đã tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mình tôi hiến nơi chân Chúa Cha, <br/>Chiên Con Chúa ở Gô-gô-tha, <br/>Thập tự giá, vinh thay; thánh thay! <br/>Tội nặng nề, ơn Chúa gánh ngay. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Từ khi thấy hư không của tôi, <br/>Cho nên phải đến chỗ Vua tôi, <br/>Jê-sus phán êm êm với tôi: <br/>“Thật tội tình ngươi đã trắng trong.” </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mình tôi hiến nơi chân Chúa Cha, <br/>Chiên Con Chúa ở Gô-gô-tha, <br/>Thập tự giá, vinh thay; thánh thay! <br/>Tội nặng nề, ơn Chúa gánh ngay. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Này tôi đến đem luôn của tôi, <br/>Bao nhiêu của báu cũng dâng luôn, <br/>Hồn tôi cũng dâng cho Chúa luôn, <br/>Thật trọn đời tôi đến mãi luôn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mình tôi hiến nơi chân Chúa Cha, <br/>Chiên Con Chúa ở Gô-gô-tha, <br/>Thập tự giá, vinh thay; thánh thay! <br/>Tội nặng nề, ơn Chúa gánh ngay. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Nầy tôi đến đi theo Chúa ngay, <br/>Trong nơi có huyết đỏ không phai, <br/>Thờ Vua cách khiêm cung dưới ngai, <br/>Thập tự Ngài tôi quyết đến ngay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mình tôi hiến nơi chân Chúa Cha, <br/>Chiên Con Chúa ở Gô-gô-tha, <br/>Thập tự giá, vinh thay; thánh thay! <br/>Tội nặng nề, ơn Chúa gánh ngay. </em></dd></dl>

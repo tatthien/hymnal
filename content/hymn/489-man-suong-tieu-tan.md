@@ -1,8 +1,8 @@
 ---
-song_number: 489
 title: 489. Màn Sương Tiêu Tan
+song-number: 489
 categories: Chúa Tái Lâm
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Kìa màn sương âm u tiêu tan, <br/>dãy núi non cao kia phô vẻ tươi, <br/>Sông quanh co trong trẻo như pha lê <br/>phản chiếu muôn tia sáng Thái dương! <br/>Ta sực nhớ tiếng Chúa hứa <br/>lúc nhìn bụi nước óng ánh sắc cái mống: <br/>Chính lúc sương âm u tiêu tan, <br/>Thì anh em sẽ biết Chúa rõ hết. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôi sẽ biết, giống Chúa biết tôi. <br/>Nay cô đơn, sẽ có Chúa luôn. <br/>Buổi mai rất sáng láng, rất phước hạnh, <br/>hừng đông hoan hô Jê-sus đến, <br/>Chính lúc sương âm u tiêu tan, <br/>thì anh em sẽ biết Chúa rõ hết. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ngàn lần tôi đau trong tâm linh, <br/>Đuối sức đương khi đi trên nẻo gai, <br/>Thân gian lao trong nơi u minh, <br/>Ruộng xa xăm lo gieo, nước mắt tuôn, <br/>Nhưng lời Chúa phán: "Hãy đến! Hỡi người trung tín!" <br/>Sẽ thưởng cả công khó, <br/>Chính lúc sương âm u tiêu tan, <br/>Thì anh em sẽ biết Chúa rõ hết. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôi sẽ biết, giống Chúa biết tôi. <br/>Nay cô đơn, sẽ có Chúa luôn. <br/>Buổi mai rất sáng láng, rất phước hạnh, <br/>hừng đông hoan hô Jê-sus đến, <br/>Chính lúc sương âm u tiêu tan, <br/>thì anh em sẽ biết Chúa rõ hết. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Quả thật anh em ta hân hoan nhóm <br/>hết chung quanh ngôi vinh quang kia, <br/>Bao vây ta, vui thay, kẻ yêu thương <br/>ta reo lên, ta biết rõ nhau! <br/>Cung đàn thánh thót với khúc hát <br/>trầm bổng khen Jê-sus, Chúa Cứu Thế, <br/>Chính lúc sương âm u tiêu tan, <br/>Thì anh em sẽ biết Chúa rõ hết. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôi sẽ biết, giống Chúa biết tôi. <br/>Nay cô đơn, sẽ có Chúa luôn. <br/>Buổi mai rất sáng láng, rất phước hạnh, <br/>hừng đông hoan hô Jê-sus đến, <br/>Chính lúc sương âm u tiêu tan, <br/>thì anh em sẽ biết Chúa rõ hết. </em></dd></dl>

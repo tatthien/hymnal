@@ -1,8 +1,8 @@
 ---
-song_number: 799
 title: 799. Trọn Đời Ngợi Khen
+song-number: 799
 categories: Đời Tín Đồ
-sub_categories: Yêu Mến Chúa
+sub-categories: Yêu Mến Chúa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Phước Chúa ban thật như mưa lớn <br/>Đến với sa mạc đang khát khao; <br/>Đã bao ngày chờ giọt mưa tươi mát, <br/>Đất thắm tươi thỏa vui lòng chúng con. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ơn yêu thương Chúa vô bờ <br/>mênh mông biển lớn sông dài, <br/>xa hơn tinh tú ngàn mây cao ngất. <br/>Con yêu thương Chúa vô cùng, <br/>xin luôn trung tín vâng lời <br/>Quyết bước với Chúa suốt đời ngợi khen. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tháng năm qua nhờ Cha thăm viếng, <br/>đã dẫn đưa từng mỗi bước đi. <br/>Trên linh trình được Ngài luôn chăm sóc, <br/>giúp chúng con mỗi khi gặp khó khăn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ơn yêu thương Chúa vô bờ <br/>mênh mông biển lớn sông dài, <br/>xa hơn tinh tú ngàn mây cao ngất. <br/>Con yêu thương Chúa vô cùng, <br/>xin luôn trung tín vâng lời <br/>Quyết bước với Chúa suốt đời ngợi khen. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Chúa chăm lo đời con êm ấm, <br/>vẫn thỏa vui ngày đêm hát ca. <br/>Khi thơ dại được dạy khuyên nuôi nấng, <br/>lúc lớn khôn Chúa vẫn còn dắt chăn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ơn yêu thương Chúa vô bờ <br/>mênh mông biển lớn sông dài, <br/>xa hơn tinh tú ngàn mây cao ngất. <br/>Con yêu thương Chúa vô cùng, <br/>xin luôn trung tín vâng lời <br/>Quyết bước với Chúa suốt đời ngợi khen. </em></dd></dl>

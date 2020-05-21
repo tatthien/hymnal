@@ -1,8 +1,8 @@
 ---
-song_number: 8
 title: 8. Ngợi Danh Jêsus Rất Oai Quyền
+song-number: 8
 categories: Thờ Phượng
-sub_categories: Ngợi Khen Jêsus Christ
+sub-categories: Ngợi Khen Jêsus Christ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ngợi danh Jê-sus rất oai quyền thay! <br/>Các thiên thần sấp trước Ngài;c <br/>Cung hiến vương miện tôn Christ lên ngai, <br/>Tung hô danh Chúa quyền oai! <br/>Bao chiến thắng vật đem hiến trước ngai, <br/>Cung hiến vương miện tôn Christ lên ngai, </dd><dt>Câu 2:</dt><dd data-verse="2">Tội nhân yêu Chúa chẳng khi nào phai <br/>Nuốt cay ngậm đắng bao nài; <br/>Bao chiến thắng vật đem hiến trước ngai, <br/>Tung hô danh Chúa quyền oai! <br/>Bao chiến thắng vật đem hiến trước ngai, <br/>Thành kính tôn Chúa muôn loài! </dd><dt>Câu 3:</dt><dd data-verse="3">Phàm ai trong giống A-đam tự lai, <br/>Đã được chuộc bởi ơn Ngài, <br/>Cung kính tôn thờ nghiêng dưới bệ ngai, <br/>Tung hô danh Chúa quyền oai! <br/>Cung kính tôn thờ nghiêng dưới bệ ngai, <br/>Thành kính tôn Chúa muôn loài! </dd><dt>Câu 4:</dt><dd data-verse="4">Mọi dân muôn giống chẳng phân biệt ai, <br/>Sống trên toàn thế gian này, <br/>Xưng Đấng Christ là Vua hiển vinh thay, <br/>Tung hô danh Chúa quyền oai! <br/>Xưng Đấng Christ là Vua hiển vinh thay, <br/>Thành kính tôn Chúa muôn loài! </dd><dt>Câu 5:</dt><dd data-verse="5">Nguyền ta chung các thánh trên trời nay <br/>Kính cung quì dưới chân Ngài; <br/>Ca khúc muôn đời tôn Christ lên ngai, <br/>Tung hô danh Chúa quyền oai! <br/>Ca khúc muôn đời tôn Christ lên ngai, <br/>Thành kính tôn Chúa muôn loài! </dd></dl>

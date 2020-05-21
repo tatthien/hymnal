@@ -1,8 +1,8 @@
 ---
-song_number: 198
 title: 198. Tại Thập Giá Bình Yên
+song-number: 198
 categories: Tin Lành
-sub_categories: Thập Tự Giá
+sub-categories: Thập Tự Giá
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tại thập giá bình yên thỏa lòng, <br/>Hiện tôi coi thế gian hư không; <br/>Lợi danh kể bèo trôi giữa dòng, <br/>Chuyên tâm tìm ơn cứu khoan hồng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đời tôi quyết cậy nương Chúa rày, <br/>Là Chiên Con Gô-gô-tha đây, <br/>Thành tâm cúi tại cây gỗ nguyền, <br/>Ngài chuộc rồi, xin cứu vẹn tuyền. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lòng tôi vẫn hằng mong Chúa rày, <br/>Vì gian ác quản cai trong tôi; <br/>Jê-sus phán lời êm ái này: <br/>“Mọi tội tình ta rửa trong rồi.” </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đời tôi quyết cậy nương Chúa rày, <br/>Là Chiên Con Gô-gô-tha đây, <br/>Thành tâm cúi tại cây gỗ nguyền, <br/>Ngài chuộc rồi, xin cứu vẹn tuyền. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngàn muôn mối nguyện cung hiến Ngài, <br/>Thì giờ hay thiết hữu, châu trân; <br/>Hồn, thân cũng nguyện dâng Chúa hoài, <br/>Mọi sự đều quy hướng Chân Thần. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đời tôi quyết cậy nương Chúa rày, <br/>Là Chiên Con Gô-gô-tha đây, <br/>Thành tâm cúi tại cây gỗ nguyền, <br/>Ngài chuộc rồi, xin cứu vẹn tuyền. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Lời Cha hứa lòng tin vững vàng, <br/>Hiện tôi thấy bửu huyết rất linh; <br/>Phục trên đất phận tôi khốn nàn, <br/>Thập tự cùng Chân Chúa đóng đinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đời tôi quyết cậy nương Chúa rày, <br/>Là Chiên Con Gô-gô-tha đây, <br/>Thành tâm cúi tại cây gỗ nguyền, <br/>Ngài chuộc rồi, xin cứu vẹn tuyền. </em></dd><dt>Câu 5:</dt><dd data-verse="5">Jê-sus sống, hồn tôi dẫy đầy, <br/>Toàn vẹn trong thánh đức Chúa tôi; <br/>Ngài ban sức, hồn, thân, trí này, <br/>Chiên Con được vinh hiển muôn đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đời tôi quyết cậy nương Chúa rày, <br/>Là Chiên Con Gô-gô-tha đây, <br/>Thành tâm cúi tại cây gỗ nguyền, <br/>Ngài chuộc rồi, xin cứu vẹn tuyền. </em></dd></dl>

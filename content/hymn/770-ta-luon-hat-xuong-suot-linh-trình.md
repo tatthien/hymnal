@@ -1,8 +1,8 @@
 ---
-song_number: 770
 title: 770. Ta Luôn Hát Xướng Suốt Linh Trình
+song-number: 770
 categories: Đời Tín Đồ
-sub_categories: Bình An, Vui Vẻ
+sub-categories: Bình An, Vui Vẻ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Mừng vui lên vì suốt đời <br/>ta là cõi vui tưng bừng, <br/>Chúa ở với lòng càng vui mừng. <br/>Dầu ra sao lòng cứ luôn hát <br/>dường cảm thấy khoan khoái, <br/>Ta nên xướng ca luôn đêm ngày. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mừng vui lên đi vì gặp cảnh an nhàn, <br/>Vẫn vui luôn khi ta phải chịu khổ nàn. <br/>Mừng vui lên đi dầu gặp cảnh đau buồn, <br/>Cứ thỏa vui vì Ngài ở với ta luôn. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Mừng vui thay Jê-sus là Đấng <br/>nâng đỡ chúng ta hoài; <br/>Nương dưới cánh toàn năng của Ngài. <br/>Lòng càng vui nên hát <br/>cho những ai thiếu nỗi vui ấy, <br/>Rồi cùng Chúa hưởng phước lâu dài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mừng vui lên đi vì gặp cảnh an nhàn, <br/>Vẫn vui luôn khi ta phải chịu khổ nàn. <br/>Mừng vui lên đi dầu gặp cảnh đau buồn, <br/>Cứ thỏa vui vì Ngài ở với ta luôn. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nào anh em cùng hát lên <br/>khúc ca tán dương Con Trời, <br/>Là Cứu Chúa vì ta xuống đời. <br/>Dầu đi đâu Jê-sus luôn <br/>dắt tay cứ chăm chăm bước; <br/>Ngài đi trước ta trong mọi đường. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mừng vui lên đi vì gặp cảnh an nhàn, <br/>Vẫn vui luôn khi ta phải chịu khổ nàn. <br/>Mừng vui lên đi dầu gặp cảnh đau buồn, <br/>Cứ thỏa vui vì Ngài ở với ta luôn. </em></dd></dl>

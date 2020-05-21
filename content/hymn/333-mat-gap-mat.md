@@ -1,8 +1,8 @@
 ---
-song_number: 333
 title: 333. Mặt Gặp Mặt
+song-number: 333
 categories: Đời Tín Đồ
-sub_categories: Qua Đời Và Sống Đời Đời
+sub-categories: Qua Đời Và Sống Đời Đời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Khi tôi đối mặt cùng Cứu Chúa tôi, <br/>Phút hân hoan kia thuật sao rồi? <br/>Ôi, vui vẻ thay nhìn Chân Chúa kìa, <br/>Jê-sus Christ chết thế tôi kia. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Khi tôi đối mặt cùng Ngài vui bấy, <br/>Xa tít bên kia tinh cầu nầy; <br/>Ôi, tôi đối mặt Ngài đầy vinh hiển, <br/>Mặt gặp mặt hưởng phước vô biên. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tôi xem Chúa tôi dường ngắm bóng nay, <br/>Giữa Chúa tôi một màn đen dày; <br/>Nhưng vui bấy một ngày ơn phước kìa, <br/>Vinh quang Ngài thấy rõ muôn tia. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Khi tôi đối mặt cùng Ngài vui bấy, <br/>Xa tít bên kia tinh cầu nầy; <br/>Ôi, tôi đối mặt Ngài đầy vinh hiển, <br/>Mặt gặp mặt hưởng phước vô biên. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ôi sung sướng thay ngày thấy Chúa tôi, <br/>Lúc đau thương, lo buồn qua rồi; <br/>Khi muôn lối quanh quẹo trang thẳng bằng, <br/>Mọi sự mờ ám rõ vô ngần. <dt>Điệp khúc:</dt><dd data-chorus="1"><em>Khi tôi đối mặt cùng Ngài vui bấy, <br/>Xa tít bên kia tinh cầu nầy; <br/>Ôi, tôi đối mặt Ngài đầy vinh hiển, <br/>Mặt gặp mặt hưởng phước vô biên. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ôi, khi đối mặt Ngài phước biết bao, <br/>Đối mặt Jê-sus tường mực nào; <br/>Ôi, tôi đối mặt cùng Cứu Chúa rày, <br/>Yêu tôi trời bể sánh khôn tày. <dt>Điệp khúc:</dt><dd data-chorus="1"><em>Khi tôi đối mặt cùng Ngài vui bấy, <br/>Xa tít bên kia tinh cầu nầy; <br/>Ôi, tôi đối mặt Ngài đầy vinh hiển, <br/>Mặt gặp mặt hưởng phước vô biên. </em></dd></dl>

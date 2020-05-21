@@ -1,8 +1,8 @@
 ---
-song_number: 827
 title: 827. Nguyện Mãi Tín Trung
+song-number: 827
 categories: Đời Tín Đồ
-sub_categories: Can Đảm, Trung Tín
+sub-categories: Can Đảm, Trung Tín
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Bước theo Chúa hằng ngày tôi nào lo lắng; <br/>Nắng mưa chẳng ngại ngần, khó khăn không màng! <br/>Có đôi lúc buồn phiền ưu sầu vương vấn, <br/>Lướt qua nhẹ nhàng khi Chúa ngự trong lòng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quyết theo Chúa Jê-sus, Đấng tôi kính yêu. <br/>Quyết theo Chúa trọn đời, nguyện luôn tín trung. <br/>Bước theo Chúa từng ngày, tâm hồn thư thái. <br/>Sống vi tươi bình an, thỏa lòng trong Ngài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Dầu như cảnh nghèo nàn không hề nao núng; <br/>Thế gian chỉ tạm thời, có ai sống hoài? <br/>Hiểm nguy chẳng sợ gì khi Ngài thêm sức; <br/>Phó giao cuộc đời cho Chúa đầy năng quyền. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quyết theo Chúa Jê-sus, Đấng tôi kính yêu. <br/>Quyết theo Chúa trọn đời, nguyện luôn tín trung. <br/>Bước theo Chúa từng ngày, tâm hồn thư thái. <br/>Sống vi tươi bình an, thỏa lòng trong Ngài. g </em></dd><dt>Câu 3:</dt><dd data-verse="3">Mỗi khi thấy sờn lòng tôi cầu xin Chúa <br/>Xóa tan hết mệt nhọc đứng lên vững vàng. <br/>Bóng đêm sẽ lùi dần khi bình minh đến; <br/>Chẳng lo sợ gì khi có Ngài đi cùng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quyết theo Chúa Jê-sus, Đấng tôi kính yêu. <br/>Quyết theo Chúa trọn đời, nguyện luôn tín trung. <br/>Bước theo Chúa từng ngày, tâm hồn thư thái. <br/>Sống vi tươi bình an, thỏa lòng trong Ngài. </em></dd></dl>

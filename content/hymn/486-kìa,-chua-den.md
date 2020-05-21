@@ -1,8 +1,8 @@
 ---
-song_number: 486
 title: 486. Kìa, Chúa Đến
+song-number: 486
 categories: Chúa Tái Lâm
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Hằng cầu nguyện, tỉnh thức mở mắt xem, <br/>Bầu trời rung rinh khi Christ giáng lâm. <br/>Hãy chiếu sáng đèn linh, châm dầu thêm, <br/>Sắp sửa rước Vua hiển vinh hiện ra. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa! Chúa đến, phải Jê-sus đến. <br/>Kìa, Chúa đến, vinh hiển oai quyền thay! <br/>Kìa, Chúa đến, cai quản vinh diệu thay! <br/>Chirst chắc đến, phải Jê-sus đến. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Hằng gìn lời Christ đã hứa với ta, <br/>Tội được tha, gia thêm ân tứ lạ. <br/>Áo phiếu trắng trong huyết Chiên, mặc đi, <br/>Kíp tỉnh thức rao giảng Tin Lành ra. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa! Chúa đến, phải Jê-sus đến. <br/>Kìa, Chúa đến, vinh hiển oai quyền thay! <br/>Kìa, Chúa đến, cai quản vinh diệu thay! <br/>Chirst chắc đến, phải Jê-sus đến. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lạy Jê-sus, Chiên Con khiêm tốn kia, <br/>Cao trọng thay, Sư tử của Giu-đa! <br/>Hỡi Đấng Thánh, Vợ luôn đang đợi trông, <br/>Khoác áo trắng vui rước Tân lang ta. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa! Chúa đến, phải Jê-sus đến. <br/>Kìa, Chúa đến, vinh hiển oai quyền thay! <br/>Kìa, Chúa đến, cai quản vinh diệu thay! <br/>Chirst chắc đến, phải Jê-sus đến. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Này người tội, mau đến với Chúa ngay, <br/>Ngài mời anh, thương anh khẩn thiết thay. <br/>Hãy kíp đến, vì khi đời nầy qua, <br/> Ân điển hết, oan uổng cơ hội hay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa! Chúa đến, phải Jê-sus đến. <br/>Kìa, Chúa đến, vinh hiển oai quyền thay! <br/>Kìa, Chúa đến, cai quản vinh diệu thay! <br/>Chirst chắc đến, phải Jê-sus đến. </em></dd></dl>

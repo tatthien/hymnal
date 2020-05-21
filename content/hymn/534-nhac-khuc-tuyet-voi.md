@@ -1,8 +1,8 @@
 ---
-song_number: 534
 title: 534. Nhạc Khúc Tuyệt Vời
+song-number: 534
 categories: Thờ Phượng
-sub_categories: Ngợi Khen Jêsus Christ
+sub-categories: Ngợi Khen Jêsus Christ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tình yêu bao la có chi so kịp Chúa Jê-sus, <br/>xa ngôi cao quý, hy sinh giáng thế làm người. <br/>Vì tình yêu thương Gô-gô-tha Ngài đã xả thân, <br/>Treo trên thập giá, đau thương huyết chan thân Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cất tiếng hát vang, chúc tán tôn vinh Cha nhân từ. <br/>Không chi tuyệt vời bằng nhạc khúc Chúa muôn đời! <br/>Mãi mãi tháng năm không ai so như Cha Thiên Thượng. <br/>Cứu Chúa yêu ôi, trọn đời hát ca danh Ngài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Jê-sus yêu tôi mão gai cam chịu huyết báu rơi. <br/>Treo trên thập giá thân mang dấu đinh khổ hình. <br/>Phục sinh vinh quang, Chúa sẽ trở lại cứu thế nhân. <br/>Tin vui vang khắp nơi nơi đón nghe danh Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cất tiếng hát vang, chúc tán tôn vinh Cha nhân từ. <br/>Không chi tuyệt vời bằng nhạc khúc Chúa muôn đời! <br/>Mãi mãi tháng năm không ai so như Cha Thiên Thượng. <br/>Cứu Chúa yêu ôi, trọn đời hát ca danh Ngài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Cùng nhau hân hoan, chúc tán ca ngợi Chúa Jê-sus, <br/>Vua trên muôn Chúa vinh quang sáng soi rạng ngời. <br/>Cùng tạ ơn Cha Xóa bao ô tội của thế nhân. <br/>Tâm tôi ca xướng chúc tán Chúa luôn tuyệt vời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cất tiếng hát vang, chúc tán tôn vinh Cha nhân từ. <br/>Không chi tuyệt vời bằng nhạc khúc Chúa muôn đời! <br/>Mãi mãi tháng năm không ai so như Cha Thiên Thượng. <br/>Cứu Chúa yêu ôi, trọn đời hát ca danh Ngài. </em></dd></dl>

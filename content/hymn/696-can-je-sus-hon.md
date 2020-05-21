@@ -1,8 +1,8 @@
 ---
-song_number: 696
 title: 696. Cần Jê-Sus Hơn
+song-number: 696
 categories: Đời Tín Đồ
-sub_categories: Nguyện Vọng
+sub-categories: Nguyện Vọng
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Giọt sương mai lóng lánh thắm bông hoa nhuộm nắng hồng. <br/>Ðàn chim non vỗ cánh líu lo ca chào rạng đông, <br/>Ngày xanh vang tiếng hát tràn tuôn sức sống, <br/>chúc nhau câu bình an luôn luôn, <br/>Dẫu thế chúng ta cần có Chúa Jê-sus hơn. <br/>Cần Jê-sus hơn chúng ta luôn cần Chúa. <br/>Cần trong ước mơ, được Ngài dắt đưa; <br/>Cần khi muôn hướng nắng lung linh rực rỡ. <br/>Cần khi bốn phương mịt mù gió mưa. <br/>Ngày xanh qua đi, qua đi theo với dĩ vãng, <br/>mau qua đi theo với dĩ vãng; <br/>Chỉ có danh Chúa Jê-sus muôn đời tươi sáng. <br/>Cần Jê-sus hơn, chúng ta luôn cần Chúa. <br/>Cần Jê-sus hơn, Cần Jê-sus hơn! </dd><dt>Câu 2:</dt><dd data-verse="2">Hạt mưa rơi thánh thót tưới nương khoai bên dốc đồi. <br/>Mặt trời lên chói lói ấm sinh linh ngàn muôn nơi. <br/>Nhìn non sông gấm vóc bừng trong nắng mới, <br/>gió reo vang lời ca chơi vơi, <br/>dẫu thế chúng ta cần có Chúa Jê-sus hơn. <br/>Cần Jê-sus hơn chúng ta luôn cần Chúa, <br/>Cần khi chiếc đơn, buồn lo vấn vương; <br/>Ngài là bạn thân ở bên ta từng phút, <br/>Ngài vui thứ tha mọi gian ác ta. <br/>Ngài ban cho ta, cho ta ơn phước quý báu. <br/>Ban cho ta ơn phước quý báu; <br/>Chính Chúa yêu dấu đem ta lên từ vực sâu. <br/>Cần Jê-sus hơn, chúng ta luôn cần Chúa. <br/>Cần Jê-sus hơn, Cần Jê-sus hơn! </dd></dl>

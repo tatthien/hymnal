@@ -1,8 +1,8 @@
 ---
-song_number: 570
 title: 570. Vòng Tay Tình Yêu
+song-number: 570
 categories: Chúa Jêsus Christ
-sub_categories: Giáng Sinh
+sub-categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Từ nơi thiên cung huy hoàng Jê-sus đến thế gian, <br/>Lướt qua không gian vượt tinh tú cao trên mây ngàn. <br/>Vì tình yêu Jê-sus vui rời xa ngôi báu chí cao, <br/>Ra đời chuồng lừa trống Bết-lê-hem ngày nào. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hát lên, reo lên núi cao sông dài. <br/>Reo lên như gió lướt êm qua thông xanh, <br/>Vì tình yêu quang lâm tạo nên vòng tay thân ái <br/>để con người cùng hát khúc ca mừng hòa bình. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Người ơi ca vang lên mừng tình yêu đến thế gian, <br/>Hãy quên đi bao niềm đau khổ cao như mây ngàn. <br/>Hận thù thôi quên đi, tay vòng tay ta lớn tiếng ca, <br/>Không còn dòng lệ thắm lăn trên mặt mẹ già. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hát lên, reo lên núi cao sông dài. <br/>Reo lên như gió lướt êm qua thông xanh, <br/>Vì tình yêu quang lâm tạo nên vòng tay thân ái <br/>để con người cùng hát khúc ca mừng hòa bình. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Kìa Jê-sus đang trông chờ mong tha thiết đón anh, <br/>Hỡi anh sao anh còn mê mãi công danh không thành. <br/>Kìa vòng tay yêu thương đêm ngày luôn luôn mở đón anh, <br/>Sao còn chần chờ mãi mau quay về cùng Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hát lên, reo lên núi cao sông dài. <br/>Reo lên như gió lướt êm qua thông xanh, <br/>Vì tình yêu quang lâm tạo nên vòng tay thân ái <br/>để con người cùng hát khúc ca mừng hòa bình. </em></dd></dl>

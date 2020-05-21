@@ -1,8 +1,8 @@
 ---
-song_number: 154
 title: 154. Lời Dịu Dàng
+song-number: 154
 categories: Kinh Thánh
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tôi xin anh hãy ca thêm lên đi, <br/>Lời thiêng liêng của sinh mạng; <br/>Cho tôi nghe thấy ý nghĩa tinh vi, <br/>Lời thiêng liêng của sinh mạng. <br/>Lời dịu dàng ban vĩnh sinh, <br/>Hằng giục lòng tin sắt đinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi, lời dịu dàng, <br/>Ôi, lời dịu dàng, <br/>Quý thay lời ban trường sinh! <br/>Ôi, lời dịu dàng, <br/>Ôi, lời dịu dàng, <br/>Quý thay lời ban trường sinh! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Jê-sus ban tứ giúp chúng ta nay, <br/>Lời thiêng liêng của sinh mạng; <br/>Nhân gian ai nấy hãy lắng nghe đây, <br/>Lời thiêng liêng của sinh mạng. <br/>Lời lạ lùng thêm sức ta, <br/>Từ thượng thiên hấp dẫn ta. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi, lời dịu dàng, <br/>Ôi, lời dịu dàng, <br/>Quý thay lời ban trường sinh! <br/>Ôi, lời dịu dàng, <br/>Ôi, lời dịu dàng, <br/>Quý thay lời ban trường sinh! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Tai nghe văng vẳng tiếng phước âm vang, <br/>Lời thiêng liêng của sinh mạng; <br/>Ban ơn tha thứ giúp sống khương an, <br/>Lời thiêng liêng của sinh mạng. <br/>Một Jê-sus Chân Chúa thôi, <br/>Toàn quyền làm nên thánh tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi, lời dịu dàng, <br/>Ôi, lời dịu dàng, <br/>Quý thay lời ban trường sinh! <br/>Ôi, lời dịu dàng, <br/>Ôi, lời dịu dàng, <br/>Quý thay lời ban trường sinh! </em></dd></dl>

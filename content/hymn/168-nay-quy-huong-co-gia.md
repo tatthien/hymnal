@@ -1,8 +1,8 @@
 ---
-song_number: 168
 title: 168. Nay Quy Hướng Cố Gia
+song-number: 168
 categories: Tin Lành
-sub_categories: Sự Ăn Năn, Sự Tha Tội
+sub-categories: Sự Ăn Năn, Sự Tha Tội
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ngày trước cách Cha tôi đã lạc đường, <br/>Nay quy hướng cố gia; <br/>Tội lỗi bước xưa tôi trải dặm trường, <br/>Nay quy hướng cố gia. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hướng cố gia, tôi quay về, <br/>Lòng quyết tách đường mê. <br/>Lạy Chúa hãy giang tay mẫn từ Ngài, <br/>Tôi nay quyết đáo lai. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Từng phí biết bao năm, tháng, ngày, giờ, <br/>Nay quy hướng cố gia; <br/>Tự hối khóc than, đôi mắt mịt mờ, <br/>Nay quy hướng cố gia. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hướng cố gia, tôi quay về, <br/>Lòng quyết tách đường mê. <br/>Lạy Chúa hãy giang tay mẫn từ Ngài, <br/>Tôi nay quyết đáo lai. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Mệt ngất bởi tôi đeo đuổi tội hoài, <br/>Nay quy hướng cố gia; <br/>Cậy ở ái tâm, tin ở lời Ngài, <br/>Nay quy hướng cố gia. </dd><dt>Câu 4:</dt><dd data-verse="4">Hồn rất đắng cay, đau khổ tận lòng, <br/>Nay quy hướng cố gia; <br/>Nguyện bổ sức thêm, hưng khởi nguyện vọng, <br/>Nay quy hướng cố gia. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hướng cố gia, tôi quay về, <br/>Lòng quyết tách đường mê. <br/>Lạy Chúa hãy giang tay mẫn từ Ngài, <br/>Tôi nay quyết đáo lai. </em></dd><dt>Câu 5:</dt><dd data-verse="5">Nguyện khẩn, ước mong luôn của lòng này, <br/>Nay quy hướng cố gia; <br/>Là Chúa chết thay tôi, kẻ tội đầy, <br/>Nay quy hướng cố gia. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hướng cố gia, tôi quay về, <br/>Lòng quyết tách đường mê. <br/>Lạy Chúa hãy giang tay mẫn từ Ngài, <br/>Tôi nay quyết đáo lai. </em></dd><dt>Câu 6:</dt><dd data-verse="6">Cần huyết Jêsus thanh tẩy tội trần, <br/>Nay quy hướng cố gia; <br/>Nguyền phiếu trắng tôi hơn tuyết bội phần, <br/>Nay quy hướng cố gia. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hướng cố gia, tôi quay về, <br/>Lòng quyết tách đường mê. <br/>Lạy Chúa hãy giang tay mẫn từ Ngài, <br/>Tôi nay quyết đáo lai. </em></dd></dl>

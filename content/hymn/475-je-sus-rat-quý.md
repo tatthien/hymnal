@@ -1,8 +1,8 @@
 ---
-song_number: 475
 title: 475. Jê-Sus Rất Quý
+song-number: 475
 categories: Đời Tín Đồ
-sub_categories: Vui Vẻ Vì Được Cứu
+sub-categories: Vui Vẻ Vì Được Cứu
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Dầu ai ham mê giàu sang thế gian, <br/>Biển khổ mơ màng trong giấc trần. <br/>Lòng tôi vẫn xin phần nơi vĩnh sanh, <br/>Đấng Christ tôi là Chúa thật lành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cao sấu thế, quá trời, bể muôn phần, <br/>Rất cảm ơn, lòng nhân của Chúa. <br/>Thật vô cớ sao người ta đóng đinh, <br/>Ấy bởi tôi Ngài phải chịu hình. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Này tôi lãnh riêng phần vinh quý hơn, <br/>Lúc hiểm nguy lòng tôi chẳng sờn. <br/>Dù cơn biển, ba đào nên khiếp kinh, <br/>Có Thánh Linh Ngài bảo hộ mình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cao sấu thế, quá trời, bể muôn phần, <br/>Rất cảm ơn, lòng nhân của Chúa. <br/>Thật vô cớ sao người ta đóng đinh, <br/>Ấy bởi tôi Ngài phải chịu hình. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Trần gian khổ tôi nào lo lắng chi, <br/>Lúc tái lâm, hằng mong đến kỳ. <br/>Lời Chân Chúa khen rằng: tôi tín trung, <br/>Quý báu hơn phù thế vạn trùng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cao sấu thế, quá trời, bể muôn phần, <br/>Rất cảm ơn, lòng nhân của Chúa. <br/>Thật vô cớ sao người ta đóng đinh, <br/>Ấy bởi tôi Ngài phải chịu hình. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Lòng tôi vẫn xin phần nơi Chúa tôi, <br/>Cứ vững tin, Ngài thay chết rồi. <br/>Lời Kinh Thánh lưu truyền đâu có sai, <br/>Hễ thức canh thì chắc gặp Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cao sấu thế, quá trời, bể muôn phần, <br/>Rất cảm ơn, lòng nhân của Chúa. <br/>Thật vô cớ sao người ta đóng đinh, <br/>Ấy bởi tôi Ngài phải chịu hình. </em></dd></dl>

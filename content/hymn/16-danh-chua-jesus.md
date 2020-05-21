@@ -1,8 +1,8 @@
 ---
-song_number: 16
 title: 16. Danh Chúa Jêsus
+song-number: 16
 categories: Thờ Phượng
-sub_categories: Ngợi Khen Jêsus Christ
+sub-categories: Ngợi Khen Jêsus Christ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Danh Chúa Jê-sus thật rất dịu dàng, <br/>Tôi thích hát danh Ngài khắp nhân gian; <br/>Danh ấy khiến tôi tươi vui hoàn toàn, <br/>Diệu vinh thay danh Chúa Jê-sus! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus, có phương danh diệu kỳ! <br/>Jê-sus, mãi không di dịch gì! <br/>Jê-sus, thánh dân vui tụng truyền, <br/>Ngợi danh Jê-sus thiên ức niên. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tôi mến yêu danh Jê-sus trọn đời, <br/>Nhơn Chúa xẻ chia buồn bã trong tôi; <br/>Ngài đuổi lo âu, xua kinh hoàng rồi, <br/>Lòng nguyện yêu danh Chúa Jê-sus! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus, có phương danh diệu kỳ! <br/>Jê-sus, mãi không di dịch gì! <br/>Jê-sus, thánh dân vui tụng truyền, <br/>Ngợi danh Jê-sus thiên ức niên. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Danh Chúa tôi ưa được nghe thường thường, <br/>Tôi náu nương luôn và mãi yêu thương, <br/>Danh ấy lau khô bao nhiêu lụy hường, <br/>Nguyện tôn cao Danh Chúa Jê-sus! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus, có phương danh diệu kỳ! <br/>Jê-sus, mãi không di dịch gì! <br/>Jê-sus, thánh dân vui tụng truyền, <br/>Ngợi danh Jê-sus thiên ức niên. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ngôn ngữ thế gian thuật sao tận tường, <br/>Danh Chúa Jê-sus là Ðấng yêu thương; <br/>Ta khá tôn vinh danh Vua lạ thường; <br/>Hằng tung hô danh Chúa Jê-sus! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Jê-sus, có phương danh diệu kỳ! <br/>Jê-sus, mãi không di dịch gì! <br/>Jê-sus, thánh dân vui tụng truyền, <br/>Ngợi danh Jê-sus thiên ức niên. </em></dd></dl>

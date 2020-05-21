@@ -1,8 +1,8 @@
 ---
-song_number: 2
 title: 2. Nguyện Tụng Mỹ Chúa Linh Năng
+song-number: 2
 categories: Thờ Phượng
-sub_categories: Ngợi Khen Đức Chúa Trời
+sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Thờ lạy Chúa, Đấng linh năng, <br/>Vua vinh diệu tạo vạn vật chúng dân! <br/>Này hồn hỡi, khá tôn ca Ngài, <br/>là nguồn lực lượng, sông cứu ân! <br/>Tôn vinh danh Chúa, <br/>đồng tâm mãi trổi khúc kim cầm, <br/>Cùng ngợi Ba Ngôi nhân ái chí thâm. </dd><dt>Câu 2:</dt><dd data-verse="2">Thờ lạy Chúa, <br/>Đấng đang cai trị vạn vật, <br/>thật khôn ngoan quảng thông; <br/>Ngài dùng cánh chim ưng nâng ngươi, <br/>ban đều cao hơn ngươi ước mong; <br/>Bao nhiêu nhu yếu Ngài <br/>hằng ban cho không diên trì, <br/>Lòng Ngài thật ngươi không thể am tri. </dd><dt>Câu 3:</dt><dd data-verse="3">Thờ lạy Chúa, Đấng luôn đem muôn sự hiệp lại <br/>làm lợi ích ngươi. <br/>Từ từ dẫn dắt ngươi, <br/>ban sinh lực dồi dào <br/>đời ngươi thắm tươi; <br/>Trong cơn nguy biến <br/>Ngài giơ tay che ngươi mọi chiều, <br/>Dường gà mẹ che con khỏi chim diều. </dd><dt>Câu 4:</dt><dd data-verse="4">Thờ lạy Chúa, Đấng ban ngươi <br/>vô luận địa vị nào may mắn luôn, <br/>Hằng ngày cứ điểm trang ngươi <br/>do ơn lành từ trời cao đổ tuôn. <br/>Khi ngươi suy nghĩ <br/>quyền năng Thánh Chúa cao lạ lùng, <br/>Thì lòng ngươi nên vui vẻ vô cùng. </dd><dt>Câu 5:</dt><dd data-verse="5">Thờ lạy Chúa, hỡi cả linh hồn <br/>cùng mọi điều chi trong chính ta, <br/>Nầy toàn thể chúng sinh <br/>mau tung hô thờ phượng Danh Giê-hô-va! <br/>Muôn muôn dân thánh <br/>đồng thanh hô, “A-men” rập ràng, <br/>Thờ lạy Vua muôn vua cách hân hoan. </dd></dl>

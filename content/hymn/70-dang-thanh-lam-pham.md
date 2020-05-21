@@ -1,8 +1,8 @@
 ---
-song_number: 70
 title: 70. Đấng Thánh Lâm Phàm
+song-number: 70
 categories: Chúa Jêsus Christ
-sub_categories: Giáng Sinh
+sub-categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Đêm vắng trời thanh canh khuya sao sáng, <br/>Có tiếng thiên thần báo vang, <br/>Mừng bấy bọn chăn bôn ba đến chỗ, <br/>Thấy Vua sanh nơi máng cỏ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đấng Thánh lâm phàm, giữa đêm vinh hạnh, <br/>Đạo bình an, ân điển thấm khắp chúng sanh, <br/>Bởi thương ta, Christ bỏ ngôi thiên đường, <br/>Màn sương chiếu đất thâu đêm trường. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bác sĩ nhờ ngôi sao Mai soi sáng, <br/>Tiến bước bao nài khốn nan, <br/>Ra mắt Hài Nhi đang nương trong quán, <br/>Kính dâng trân châu chúc tán. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đấng Thánh lâm phàm, giữa đêm vinh hạnh, <br/>Đạo bình an, ân điển thấm khắp chúng sanh, <br/>Bởi thương ta, Christ bỏ ngôi thiên đường, <br/>Màn sương chiếu đất thâu đêm trường. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ôi, cảnh vườn xưa A-đam sa ngã, <br/>Khiến tử tôn phục ác ma; <br/>Máng cỏ hèn nay Jê-sus sinh giáng, <br/>Cứu ta, đưa lên nơi sáng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đấng Thánh lâm phàm, giữa đêm vinh hạnh, <br/>Đạo bình an, ân điển thấm khắp chúng sanh, <br/>Bởi thương ta, Christ bỏ ngôi thiên đường, <br/>Màn sương chiếu đất thâu đêm trường. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Chân Chúa thành nhân ban ơn giải phóng, <br/>Thế giới khỏi vòng tử vong; <br/>Hạnh phước đời ta hân hoan, vui thỏa, <br/>Bởi tin hồng ân vô giá. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đấng Thánh lâm phàm, giữa đêm vinh hạnh, <br/>Đạo bình an, ân điển thấm khắp chúng sanh, <br/>Bởi thương ta, Christ bỏ ngôi thiên đường, <br/>Màn sương chiếu đất thâu đêm trường. </em></dd></dl>

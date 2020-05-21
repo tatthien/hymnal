@@ -1,8 +1,8 @@
 ---
-song_number: 65
 title: 65. Hô-Sa-Na!
+song-number: 65
 categories: Chúa Jêsus Christ
-sub_categories: Giáng Sinh
+sub-categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Hô-sa-na! Đáng kính khen <br/>đại danh Jê-sus chính Chân Thần, <br/>Vì yêu nhân thế hôm nay <br/>bỏ ngai vàng vinh hiển lâm trần; <br/>Ấy chính danh Con độc sinh, <br/>từ trong lòng Cha chí thân, <br/>Hạ sanh đem theo ân điển, <br/>Trùng sinh cho ai tin kính, <br/>Trùng sinh bởi chính Thần Linh. </dd><dt>Câu 2:</dt><dd data-verse="2">Hô-sa-na! Đáng kính khen <br/>Ngài cho ta sống vui đời đời, <br/>Được hân hoan ở tâm linh <br/>bởi ta nhờ danh thánh Con Trời; <br/>Khúc thánh ca nay nguyện tâu, <br/>ngợi khen Thần danh khắp nơi, <br/>Bầy con thân yêu Cha thánh, <br/>Cùng nhau hân hoan ca xướng, <br/>Cùng hoan ca khúc bình khương. </dd><dt>Câu 3:</dt><dd data-verse="3">Hô-sa-na! Đáng kính khen <br/>Bạn Jê-sus, ái tâm rạng lòa, <br/>Ngài vui tha thứ cho ai <br/>ăn năn tội quay bước về nhà; <br/>Chúa tốn khiêm vâng phục Cha, <br/>Ngài vui mang nhân tính ta, <br/>Ngài nguyên Ngôi Hai vinh hiển, <br/>Vì thương ta mang nhân tính, <br/>Tạm che khuất tính thần minh. </dd><dt>Câu 4:</dt><dd data-verse="4">Hô-sa-na! Hãy hát khen <br/>Jê-sus Christ, Đấng rất công bình; <br/>Vì muôn dân Chúa hy sinh <br/>thân vàng đền xong hết tội tình. <br/>Chính Vua trên muôn vì vua <br/>từ nơi vinh hiển giáng sinh, <br/>Ngài đưa ta lên thiên quốc <br/>nhờ huyết linh năng tuôn chảy, <br/>Hô-sa-na! Đáng ngợi thay! </dd><dt>Câu 5:</dt><dd data-verse="5">Hô-sa-na! Hỡi chúng dân <br/>tự do, trung tín vui ca mừng, <br/>Cùng reo vang Hô-sa-na <br/>với tinh thần hăng hái tưng bừng; <br/>Hô-sa-na! Thanh bình ca <br/>hòa vui ngợi khen Thánh Quân, <br/>Nghìn muôn năm ca không dứt, <br/>Hô-sa-na! Vua vinh hiển! <br/>Hô-sa-na! Chúa thượng thiên! </dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 456
 title: 456. Sự Thương Yêu Lạ Lùng
+song-number: 456
 categories: Thờ Phượng
-sub_categories: Ngợi Khen Đức Chúa Trời
+sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Jê-sus người đang ở với tôi, <br/>Tôi nhìn Ngài ngạc nhiên lắm ôi, <br/>Lòng tự nghiệm yêu sao lạ lùng thay! <br/>Không kể đến dối giả của tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Rất mới mẻ thay! rất đến đỗi hay, <br/>Ca thi thiên vui thỏa lắm thay. <br/>Rất mới mẻ thay, rất đến đỗi hay! <br/>Phương pháp cứu rỗi, mãi không tàn phai. </em><dt>Câu 2:</dt><dd data-verse="2">Jê-sus vườn xưa khẩn thiết tha, <br/>Xin nài rằng: “Được nên ý Cha”. <br/>Hình thập tự cam tâm ngại gì đâu, <br/>Thương thiết hữu huyết đổ cứu ta. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Rất mới mẻ thay! rất đến đỗi hay, <br/>Ca thi thiên vui thỏa lắm thay. <br/>Rất mới mẻ thay, rất đến đỗi hay! <br/>Phương pháp cứu rỗi, mãi không tàn phai. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nhơn tôi ngày xưa, khổ Chúa thay, <br/>Trên trời tường tận thiên sứ hay, <br/>Trần tục tội ô, thiên thượng lìa xa, <br/>Lương hữu xuống viếng cảnh khổ ta. <dt>Điệp khúc:</dt><dd data-chorus="1"><em>Rất mới mẻ thay! rất đến đỗi hay, <br/>Ca thi thiên vui thỏa lắm thay. <br/>Rất mới mẻ thay, rất đến đỗi hay! <br/>Phương pháp cứu rỗi, mãi không tàn phai. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Khi nghe kèn vang chốn khoảng không, <br/>Dân Ngài cùng gặp đông quá đông, <br/>Đồng ngợi sự yêu thương lạ lùng thay, <br/>Ai nấy hớn hở hát xướng nay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Rất mới mẻ thay! rất đến đỗi hay, <br/>Ca thi thiên vui thỏa lắm thay. <br/>Rất mới mẻ thay, rất đến đỗi hay! <br/>Phương pháp cứu rỗi, mãi không tàn phai. </em></dd></dl>

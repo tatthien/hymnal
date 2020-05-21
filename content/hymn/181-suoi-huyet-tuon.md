@@ -1,8 +1,8 @@
 ---
-song_number: 181
 title: 181. Suối Huyết Tuôn
+song-number: 181
 categories: Tin Lành
-sub_categories: Huyết Của Christ
+sub-categories: Huyết Của Christ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1"> Kìa, trông suối thiêng huyết báu tuôn đầy, <br/>Từ hông Jêsus phát nguyên, <br/>Tội nhân tắm mình dưới suối huyết này, <br/>Sạch hết mọi gian ác liền, <br/>Sạch hết mọi gian ác liền, <br/>Trắng trong bao nỗi ác khiên; <br/>Tội nhân tắm mình dưới suối huyết này, <br/>Sạch hết mọi gian ác liền. </dd><dt>Câu 2:</dt><dd data-verse="2">Kìa, tên cướp xưa lúc chết phước thay, <br/>Kịp trông hông huyết Ngài đây, <br/>Dầu tôi xấu xa giống kẻ cướp này, <br/>Nhờ huyết được trong trắng ngay, <br/>Nhờ huyết được trong trắng ngay, <br/>Trắng trong không vết mảy may; <br/>Dầu tôi xấu xa giống kẻ cướp này, <br/>Nhờ huyết được trong trắng ngay. </dd><dt>Câu 3:</dt><dd data-verse="3"> Quyền năng huyết Chiên suốt đến muôn đời, <br/>Diệu thay vô đối linh dược, <br/>Tận khi thánh dân Chúa cất lên trời, <br/>Toàn cứu tội khôn nhiễm được, <br/>Toàn cứu tội khôn nhiễm được, <br/>Ác khiên khôn nhiễm gì được; <br/>Tận khi thánh dân Chúa cất lên trời, <br/>Toàn cứu tội khôn nhiễm được. </dd><dt>Câu 4:</dt><dd data-verse="4">Nhờ tin chính tôi thấy huyết láng lai, <br/>Từ hông Jêsus vì tôi, <br/>Đề mục của tôi, ấy ái tâm Ngài, <br/>Vẫn nói tận khi hết đời, <br/>Vẫn nói tận khi hết đời, <br/>Nói luôn cho hết đời tôi; <br/>Đề mục của tôi, ấy ái tâm Ngài, <br/>Vẫn nói tận khi hết đời. </dd><dt>Câu 5:</dt><dd data-verse="5">Rồi khi lưỡi tôi ấp úng, ngập ngừng, <br/>Nghỉ yên trong Chúa rày mai, <br/>Miệng tôi cất cao tiếng hát thanh tân, <br/>Hát khúc quyền năng huyết Ngài, <br/>Hát khúc quyền năng huyết Ngài, <br/>Hát khen ơn cứu Ngài ban; <br/>Miệng tôi cất cao tiếng hát thanh tân, <br/>Hát khúc quyền năng huyết Ngài. </dd></dl>

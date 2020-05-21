@@ -1,8 +1,8 @@
 ---
-song_number: 530
 title: 530. Danh Chúa Diệu Kỳ
+song-number: 530
 categories: Thờ Phượng
-sub_categories: Ngợi Khen Jêsus Christ
+sub-categories: Ngợi Khen Jêsus Christ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Jê-sus, Chúa tôi tuyệt vời. <br/>Jê-sus, danh xưng diệu kỳ. <br/>Jê-sus, Vua trên muôn vua <br/>Đấng tôi kính yêu. <br/>Jê-sus, Đấng tôi thờ phượng. <br/>Jê-sus ban ơn hòa bình. <br/>Jê-sus cho tôi tin yêu thỏa vui theo Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đêm long lanh ánh sao, <br/>lòng lâng lâng bao ước ao, <br/>tìm gặp nguồn vui Chúa ban! <br/>Cúi xuống kính tôn thờ <br/>Đấng Christ Cha nhân từ. <br/>Hát mãi danh Vua Jê-sus. Chúa tôi diệu kỳ. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bao năm bước trên đường đời, <br/>có Chúa luôn đi bên tôi, <br/>dẫn dắt qua bao gian nan, <br/>giúp khi khó khăn. <br/>Đôi khi thấy như sờn lòng, <br/>lắm lúc như trong cô đơn. <br/>Chính Chúa yêu thương chăm nom <br/>đỡ nâng ân cần. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài hằng chăn dắt tôi <br/>bằng yêu thương không tính toan <br/>dìu vào đồng xanh suối trong. <br/>Nước sống chảy tuôn tràn <br/>tưới mát cho tâm hồn, <br/>thỏa mãn trong ơn yêu thương, <br/>Chúa tôi tuyệt vời! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Mãi mãi muốn ca ngợi Ngài, <br/>Cứu Chúa Jêsus yêu thương <br/>cứu giúp nhân gian hư vong khỏi nơi tối tăm. <br/>Jê-sus, danh xưng lạ lùng. <br/>Jê-sus, danh xưng tuyệt vời. <br/>Jê-sus Vua trên muôn vua. <br/>Chúa trên muôn loài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đêm long lanh ánh sao, <br/>lòng lâng lâng bao ước ao, <br/>tìm gặp nguồn vui Chúa ban! <br/>Cúi xuống kính tôn thờ <br/>Đấng Christ Cha nhân từ. <br/>Hát mãi danh Vua Jê-sus. Chúa tôi diệu kỳ. </em></dd></dl>

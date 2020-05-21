@@ -1,8 +1,8 @@
 ---
-song_number: 79
 title: 79. Tình Thương Lớn Lao
+song-number: 79
 categories: Chúa Jêsus Christ
-sub_categories: Bản Tánh, Đời Sống Và Chức Vụ
+sub-categories: Bản Tánh, Đời Sống Và Chức Vụ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tôi nghe lòng mình ngạc nhiên biết bao, <br/>Khi nhận được tình thương lớn lao. <br/>Lạ lùng vì sao Chúa yêu được tôi, <br/>Thương đến kẻ xấu xa ô tội! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa Đấng tuyệt vời, <br/>Chúa chết thay tôi. <br/>Trong tim tôi vang khúc hát vui. <br/>Chúa Đấng tuyệt vời, <br/>Chúa đổ huyết tha tội. <br/>Tình Chúa đã cứu linh hồn tôi! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Trong khu vườn xưa Chúa đã thiết tha: <br/>“Xin mọi sự được theo ý Cha!” <br/>Dòng lệ cạn khô nhưng giọt mồ hôi <br/>Tê tái nhỏ xuống như huyết tươi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa Đấng tuyệt vời, <br/>Chúa chết thay tôi. <br/>Trong tim tôi vang khúc hát vui. <br/>Chúa Đấng tuyệt vời, <br/>Chúa đổ huyết tha tội. <br/>Tình Chúa đã cứu linh hồn tôi! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Bao nhiêu tội tôi cùng muôn nỗi sầu. <br/>Riêng một mình Ngài mang đớn đau, <br/>Chịu nhục hình thay cho mọi tội nhân, <br/>Thương xót xóa hết bao lỗi lầm. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa Đấng tuyệt vời, <br/>Chúa chết thay tôi. <br/>Trong tim tôi vang khúc hát vui. <br/>Chúa Đấng tuyệt vời, <br/>Chúa đổ huyết tha tội. <br/>Tình Chúa đã cứu linh hồn tôi! </em></dd><dt>Câu 4:</dt><dd data-verse="4">Mai đây từ trời Ngài sẽ tái lâm. <br/>Ôi! Một ngày lòng vui chứa chan, <br/>Nhìn mặt Ngài vinh quang thiên đàng soi, <br/>Dân Thánh hát khúc ca muôn đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa Đấng tuyệt vời, <br/>Chúa chết thay tôi. <br/>Trong tim tôi vang khúc hát vui. <br/>Chúa Đấng tuyệt vời, <br/>Chúa đổ huyết tha tội. <br/>Tình Chúa đã cứu linh hồn tôi! </em></dd></dl>

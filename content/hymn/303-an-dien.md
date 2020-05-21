@@ -1,8 +1,8 @@
 ---
-song_number: 303
 title: 303. Ân Điển
+song-number: 303
 categories: Đời Tín Đồ
-sub_categories: Ân Điển
+sub-categories: Ân Điển
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Diệu bấy! Núi ân điển cao, cao vượt trời, <br/>Diệu bấy! Thẳm sâu thay dòng ân điển; <br/>Diệu bấy! Biển ân điển kia rộng tuyệt vời, <br/>Ồ, ân điển trên tôi thật vô biên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Diệu thay! Kỳ bấy! Chúa ban cho tâm hồn tôi bao ân điển; <br/>Diệu thay! Kỳ bấy! Chúa ban ơn cho tôi từ thượng thiên. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Diệu bấy! Tiếng ân điển nghe vui lạ kỳ, <br/>Diệu bấy! Láng lai muôn trùng ân điển; <br/>Diệu bấy! Bởi ân điển đâu công lao gì, <br/>Nhờ ân điển tôi được chuộc, bình yên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Diệu thay! Kỳ bấy! Chúa ban cho tâm hồn tôi bao ân điển; <br/>Diệu thay! Kỳ bấy! Chúa ban ơn cho tôi từ thượng thiên. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Diệu bấy! Bởi ân điển tuôn vui vượt trần, <br/>Diệu bấy! Nếm say bao mùi ân điển; <br/>Diệu bấy! Quả ân điển ban cho vô ngần, <br/>Ồ, ân điển trên tôi thật vô biên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Diệu thay! Kỳ bấy! Chúa ban cho tâm hồn tôi bao ân điển; <br/>Diệu thay! Kỳ bấy! Chúa ban ơn cho tôi từ thượng thiên. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Diệu bấy! Bởi ân điển tôi canh đợi hoài, <br/>Diệu bấy! Mãi tươi vui nhờ ân điển, <br/>Diệu bấy! Bởi ân điển tôi gặp mặt Ngài, <br/>Thật ân điển xui tôi ngợi trường thiên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Diệu thay! Kỳ bấy! Chúa ban cho tâm hồn tôi bao ân điển; <br/>Diệu thay! Kỳ bấy! Chúa ban ơn cho tôi từ thượng thiên. </em></dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 902
 title: 902. Ngày Mai Huy Hoàng
+song-number: 902
 categories: Hợp Ca
-sub_categories: Nam Nữ Ban
+sub-categories: Nam Nữ Ban
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Bên con sông vàng khi nắng mai về, <br/>anh em chúng ta gặp nhau. <br/>Muôn lao khổ của tối tăm nay đã qua, <br/>Thiên môn huy hoàng đang mở toang, <br/>kìa muôn thiên sứ đang chờ ta, <br/>Kết thúc đời lao lung trần gian khổ đau. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lúc ấy ta vui ca vang lừng suy tôn Vua, <br/>Vua muôn đời, hợp cùng muôn dân và muôn thiên sứ, <br/>Chung tiếng ca tôn Vua Jê-sus nay quản cai. <br/>Lúc ấy anh em ta vui mừng nghe Jê-sus gọi tên mình, <br/>Được Ngài ban khen là tôi trung đây, <br/>Mau đến ngay nhận lãnh kim mão huy hoàng. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bên con sông vàng khi nắng mai về, <br/>anh em chúng ta gặp nhau. <br/>Vui thay lúc chấm dứt bao công việc ta, <br/>Muôn dân chung lời ca hát <br/>vang lừng suy tôn Chúa Vua trời cao, <br/>Mãi mãi cùng bên nhau còn đâu cách xa. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lúc ấy ta vui ca vang lừng suy tôn Vua, <br/>Vua muôn đời, hợp cùng muôn dân và muôn thiên sứ, <br/>Chung tiếng ca tôn Vua Jê-sus nay quản cai. <br/>Lúc ấy anh em ta vui mừng nghe Jê-sus gọi tên mình, <br/>Được Ngài ban khen là tôi trung đây, <br/>Mau đến ngay nhận lãnh kim mão huy hoàng. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Bên con sông vàng khi nắng mai về, <br/>anh em chúng ta gặp nhau. <br/>Khi thiên sứ thánh báo tin Vua hồi lai, <br/>Anh em ta cùng tay nắm tay mừng <br/>hân hoan đón Vua bình an, <br/>Hãy sẵn sàng khi nghe kèn vang tiếng xa. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lúc ấy ta vui ca vang lừng suy tôn Vua, <br/>Vua muôn đời, hợp cùng muôn dân và muôn thiên sứ, <br/>Chung tiếng ca tôn Vua Jê-sus nay quản cai. <br/>Lúc ấy anh em ta vui mừng nghe Jê-sus gọi tên mình, <br/>Được Ngài ban khen là tôi trung đây, <br/>Mau đến ngay nhận lãnh kim mão huy hoàng. </em></dd></dl>

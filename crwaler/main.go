@@ -53,10 +53,10 @@ func writeMarkdownFile(fileName string, data Hymn) error {
 	defer f.Close()
 
 	_, _ = f.WriteString("---\n")
-	_, _ = f.WriteString(fmt.Sprintf("song_number: %d\n", data.SongNumber))
 	_, _ = f.WriteString(fmt.Sprintf("title: %d. %s\n", data.SongNumber, capitalize(data.Name)))
+	_, _ = f.WriteString(fmt.Sprintf("song-number: %d\n", data.SongNumber))
 	_, _ = f.WriteString(fmt.Sprintf("categories: %s\n", capitalize(data.Category)))
-	_, _ = f.WriteString(fmt.Sprintf("sub_categories: %s\n", capitalize(data.SubCategory)))
+	_, _ = f.WriteString(fmt.Sprintf("sub-categories: %s\n", capitalize(data.SubCategory)))
 	_, _ = f.WriteString(fmt.Sprintf("draft: %t\n", false))
 	_, _ = f.WriteString("---\n")
 	_, _ = f.WriteString(data.Lyric)

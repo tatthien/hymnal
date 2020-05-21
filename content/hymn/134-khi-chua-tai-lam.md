@@ -1,8 +1,8 @@
 ---
-song_number: 134
 title: 134. Khi Chúa Tái Lâm
+song-number: 134
 categories: Chúa Jêsus Christ
-sub_categories: Tái Lâm
+sub-categories: Tái Lâm
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Giữa thế gian tội ô nầy, mong Christ mau hiện ra; <br/>Thức canh ta đợi mong giờ Christ cỡi mây ngự hạ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Khi Chúa tái lâm thoả lòng bấy, <br/>Bởi Christ hiện ra; <br/>Lên cõi thiên thượng chẳng hề chết. <br/>Lúc Christ hiện ra; <br/>Thức canh trông đợi lên từng mây, <br/>Rước Christ hiện ra; <br/>Hiển vinh tôi còn muôn nghìn thu, <br/>Lúc Christ ngự hạ. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ước nay cây đèn tôi rạng soi, trước Christ hiện ra; <br/>Thỏa thay khi được nghinh phùng Christ cỡi mây ngự hạ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Khi Chúa tái lâm thoả lòng bấy, <br/>Bởi Christ hiện ra; <br/>Lên cõi thiên thượng chẳng hề chết. <br/>Lúc Christ hiện ra; <br/>Thức canh trông đợi lên từng mây, <br/>Rước Christ hiện ra; <br/>Hiển vinh tôi còn muôn nghìn thu, <br/>Lúc Christ ngự hạ. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Chính nay tâm hồn tôi buồn đâu, biết Christ hiện ra; <br/>Thỏa thay tâm nguyện mong Ngài mau cỡi mây ngự hạ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Khi Chúa tái lâm thoả lòng bấy, <br/>Bởi Christ hiện ra; <br/>Lên cõi thiên thượng chẳng hề chết. <br/>Lúc Christ hiện ra; <br/>Thức canh trông đợi lên từng mây, <br/>Rước Christ hiện ra; <br/>Hiển vinh tôi còn muôn nghìn thu, <br/>Lúc Christ ngự hạ. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Hỡi ai nghi ngờ, run sợ, nên biết Christ hiện ra; <br/>Khổ nguy đâu còn trông giờ Christ cỡi mây ngự hạ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Khi Chúa tái lâm thoả lòng bấy, <br/>Bởi Christ hiện ra; <br/>Lên cõi thiên thượng chẳng hề chết. <br/>Lúc Christ hiện ra; <br/>Thức canh trông đợi lên từng mây, <br/>Rước Christ hiện ra; <br/>Hiển vinh tôi còn muôn nghìn thu, <br/>Lúc Christ ngự hạ. </em></dd></dl>

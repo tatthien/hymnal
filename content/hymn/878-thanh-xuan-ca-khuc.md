@@ -1,8 +1,8 @@
 ---
-song_number: 878
 title: 878. Thanh Xuân Ca Khúc
+song-number: 878
 categories: Thanh Niên
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Thanh niên ơi, hát ca <br/>lên cho đời đẹp tươi. <br/>Ô vui thay ta thuộc về <br/>Jê-sus Con Trời. <br/>Trong tâm ta có dương quang <br/>thiên thượng ngời sáng. <br/>Vui mừng thật chứa chan. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đời thanh xuân đẹp như đài hoa! <br/>Đời thanh xuân đẹp như ánh sao, <br/>như phượng hoàng xòe cánh <br/>tung bay khắp ngàn phương trời. <br/>Đời thanh xuân đẹp như bài ca <br/>như hơi gió dưới nắng mai đào. <br/>Ta chân thành quỳ dâng <br/>thân hồn cho Jê-sus đến muôn đời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Thanh niên ơi, tuổi xuân <br/>ta như muôn đài hoa, <br/>Đem tươi vui hy vọng <br/>đi gieo khắp muôn nhà. <br/>Hương thơm ta ấy chính <br/>Jê-sus bạn hiền ái. <br/>Hoa huệ chẳng héo phai. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đời thanh xuân đẹp như đài hoa! <br/>Đời thanh xuân đẹp như ánh sao, <br/>như phượng hoàng xòe cánh <br/>tung bay khắp ngàn phương trời. <br/>Đời thanh xuân đẹp như bài ca <br/>như hơi gió dưới nắng mai đào. <br/>Ta chân thành quỳ dâng <br/>thân hồn cho Jê-sus đến muôn đời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Thanh niên ơi, hát ca <br/>lên cho lòng càng vui, <br/>Tương lai ta huy hoàng <br/>như muôn ánh sao ngời. <br/>Ta đi lên, góp tay <br/>ta xây dựng Hội Thánh <br/>Dưới ngọn cờ vĩnh sanh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Đời thanh xuân đẹp như đài hoa! <br/>Đời thanh xuân đẹp như ánh sao, <br/>như phượng hoàng xòe cánh <br/>tung bay khắp ngàn phương trời. <br/>Đời thanh xuân đẹp như bài ca <br/>như hơi gió dưới nắng mai đào. <br/>Ta chân thành quỳ dâng <br/>thân hồn cho Jê-sus đến muôn đời. </em></dd></dl>

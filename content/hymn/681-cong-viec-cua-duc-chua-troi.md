@@ -1,8 +1,8 @@
 ---
-song_number: 681
 title: 681. Công Việc Của Đức Chúa Trời
+song-number: 681
 categories: Đời Tín Đồ
-sub_categories: Cảm Tạ
+sub-categories: Cảm Tạ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Đồng sâu kia cùng cày xới, <br/>chúng ta đem gieo muôn hạt giống. <br/>Bởi tay Thiên Thượng Chúa chăm nuôi, <br/>Ngài vun tưới luôn nào thôi. <br/>Mùa đông kia khi mưa, tuyết, <br/>mọi hạt giống lớn lên an nhiên. <br/>Khi nắng nóng hay khi gió, <br/>cơn mưa mát dịu kia tràn tuôn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quanh ta luôn tươi tốt, <br/>từ trời cao Chúa đã ban cho. <br/>Ô! Cám ơn Chúa, cám ơn Ngài luôn. <br/>Tình yêu Chúa dư dật thay. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Duy Chúa Đấng tạo trời đất, <br/>Đấng cai trị muôn vật gần xa. <br/>Muôn hoa xinh đẹp Chúa điểm tô, <br/>Ngài khêu sáng sao trời đêm. <br/>Kìa phong ba vâng theo Chúa, <br/>mọi loài điểu thú Chúa dưỡng nuôi. <br/>Con cái Chúa, Ngài nào quên, <br/>luôn ban bánh hằng ngày cho ta. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quanh ta luôn tươi tốt, <br/>từ trời cao Chúa đã ban cho. <br/>Ô! Cám ơn Chúa, cám ơn Ngài luôn. <br/>Tình yêu Chúa dư dật thay. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nào dâng lên lời tụng tán, <br/>cám ơn Cha ta trên trời cao. <br/>Đấng ban mọi điều sáng tươi nay, <br/>mùa gieo giống hy vọng thay. <br/>Rồi vui thay ta thâu trữ, <br/>vật thực, sức khỏe Chúa ban cho. <br/>Ta lớn tiếng dâng lên Chúa, <br/>Cha thương xót hằng chăm nuôi ta. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quanh ta luôn tươi tốt, <br/>từ trời cao Chúa đã ban cho. <br/>Ô! Cám ơn Chúa, cám ơn Ngài luôn. <br/>Tình yêu Chúa dư dật thay. </em></dd></dl>

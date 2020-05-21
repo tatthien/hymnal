@@ -1,8 +1,8 @@
 ---
-song_number: 275
 title: 275. Con Sông Thái An
+song-number: 275
 categories: Đời Tín Đồ
-sub_categories: Bình An Vui Vẻ
+sub-categories: Bình An Vui Vẻ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Sự bình an trong Jê-sus, <br/>Như trên một dòng thu, <br/>Thật là con sông thái an, <br/>Long lanh in trăng vàng; <br/>Sông ai kia hay đón ngăn, <br/>Chảy mãi thêm trong ngần; <br/>Láng nước trông êm đềm thay, <br/>Lớn suốt đêm luôn ngày. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tâm ta nương nơi Chúa Cha, <br/>Hưởng biết bao ơn lành, <br/>Chúa hứa ban cho lòng ta, <br/>Sống thái nhiên an bình. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Đặt mình trong tay Jê-sus, <br/>Tiêu tan mọi sầu u, <br/>Sa-tan không sao dối tôi, <br/>Yêu ma dan xa rồi; <br/>Ta nay không lo lắng chi, <br/>Ắt chẳng hoang mang gì, <br/>Cũng chẳng đau thương sầu bi; <br/>Vững chí muôn muôn thì. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tâm ta nương nơi Chúa Cha, <br/>Hưởng biết bao ơn lành, <br/>Chúa hứa ban cho lòng ta, <br/>Sống thai thái nhiên bình. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Được mừng vui hay bôi rối, <br/>Do Cha đời đời thôi, <br/> Mặt trời yêu thương chiếu rạng , <br/>Lao đao hay an nhàn; <br/>Ta tin Jê-sus mến thương, <br/>Đã gánh vác trăm đường, <br/>Hễ quyết tin theo Ngài luôn; <br/>Chắc sẽ không lo buồn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tâm ta nương nơi Chúa Cha <br/>Hưởng biết bao ơn lành <br/>Chúa hứa ban cho lòng ta <br/>Sống thái nhiên an bình. </em></dd></dl>

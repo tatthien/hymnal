@@ -1,8 +1,8 @@
 ---
-song_number: 748
 title: 748. Đường Đi Có Chúa
+song-number: 748
 categories: Đời Tín Đồ
-sub_categories: Chúa Dẫn Đưa
+sub-categories: Chúa Dẫn Đưa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Đường tôi đi lắm khi nhiều gai góc phủ đầy <br/>và hiểm nguy dường như cuốn chân tôi. <br/>Nguyện cầu nơi Jê-sus liền nghe tiếng đáp lời, <br/>Chúa đưa đường qua khó khăn trong đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nương theo Ngài cứ vững bước tiến tới, <br/>theo gót Ngài cứ vững bước tiến tới. <br/>Nhờ Thiên Chúa giúp sức, tôi tin cậy hoàn toàn; <br/>Thêm năng lực, thêm đức tin theo Ngài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Trần gian mong kéo tôi làm theo ý muốn mình <br/>và đẩy đưa vào phù phiếm chóng qua. <br/>Nhờ ơn Cha xót thương dìu tôi khỏi vũng lầy, <br/>Dắt đưa vào nơi thỏa vui an bình, </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nương theo Ngài cứ vững bước tiến tới, <br/>theo gót Ngài cứ vững bước tiến tới. <br/>Nhờ Thiên Chúa giúp sức, tôi tin cậy hoàn toàn; <br/>Thêm năng lực, thêm đức tin theo Ngài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Đường chông gai Chúa đi hầu soi lối tỏ tường, <br/>Và giúp tôi vượt qua bóng tối tăm <br/>Ngài cầm tay dắt đưa từng giây phút chẳng rời, <br/>Dẫn tôi về bên suối trong êm đềm. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nương theo Ngài cứ vững bước tiến tới, <br/>theo gót Ngài cứ vững bước tiến tới. <br/>Nhờ Thiên Chúa giúp sức, tôi tin cậy hoàn toàn; <br/>Thêm năng lực, thêm đức tin theo Ngài. </em></dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 318
 title: 318. Mùa Gặt
+song-number: 318
 categories: Đời Tín Đồ
-sub_categories: Phục Sự Chúa, Cứu Tội Nhân
+sub-categories: Phục Sự Chúa, Cứu Tội Nhân
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Lúa kia chín khô giăng giăng đồng, <br/>Trùng điệp quanh ta thấy không? <br/>Gọi bạn gặt ra thêm thật đông, <br/>Trước ngày Christ xuống khoảng không. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta ngước xem mùa gặt này, <br/>Kìa, Đạo từng gieo đây xưa nay; <br/>Ta kíp đi, bạn gặt rày, <br/>Vua Jê-sus đang cần thâu xong lúa Ngài ngay; <br/>Không mấy lâu Christ tái lai, <br/>Từ trời Ngài nghinh Tân nương đây, <br/>Thỏa thay! Thỏa thay! Vui bấy! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Hãy nghe tiếng Christ kêu ta rày, <br/>Đừng từ nan, nên đến ngay; <br/>Ngài xưa cam chết cho họ đây, <br/>Tin lành nên rao bữa nay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta ngước xem mùa gặt này, <br/>Kìa, Đạo từng gieo đây xưa nay; <br/>Ta kíp đi, bạn gặt rày, <br/>Vua Jê-sus đang cần thâu xong lúa Ngài ngay; <br/>Không mấy lâu Christ tái lai, <br/>Từ trời Ngài nghinh Tân nương đây, <br/>Thỏa thay! Thỏa thay! Vui bấy! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ít lâu tớ trung ta thỏa lòng, <br/>Được ban kim mão thưởng công, <br/>Giờ Christ quang lâm thâu hoạch xong, <br/>Đem toàn kho lên khoảng không, </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ta ngước xem mùa gặt này, <br/>Kìa, Đạo từng gieo đây xưa nay; <br/>Ta kíp đi, bạn gặt rày, <br/>Vua Jê-sus đang cần thâu xong lúa Ngài ngay; <br/>Không mấy lâu Christ tái lai, <br/>Từ trời Ngài nghinh Tân nương đây, <br/>Thỏa thay! Thỏa thay! Vui bấy! </em></dd></dl>

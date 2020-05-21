@@ -1,8 +1,8 @@
 ---
-song_number: 782
 title: 782. Chúa Lo Cho Ta Chăng
+song-number: 782
 categories: Đời Tín Đồ
-sub_categories: Sự An Ủi
+sub-categories: Sự An Ủi
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Mỗi khi tâm hồn thấy <br/>khổ đau ưu sầu với <br/>bao niềm lo lắng vây quanh. <br/>Mọi điều mơ ước biến, <br/>đời nhọc nhằn khổ não, <br/>Chúa Jê-sus liệu giúp ta không nào? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính Jê-sus sẽ giúp ta thường xuyên; <br/>Thâm tình Chúa xoá mọi phiền ưu. <br/>Hồi đời ta mỏi mê trong đêm dài tăm tối, <br/>Chúa sẽ lo liệu cả mọi điều. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bước ta mịt mù với <br/>biết bao địch thù suốt <br/>đêm ngày sợ hãi lo âu. <br/>Ngày nhạt phai ánh nắng, <br/>đêm trường đầy bóng tối, <br/>Chúa Jê-sus liệu giúp ta không nào? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính Jê-sus sẽ giúp ta thường xuyên; <br/>Thâm tình Chúa xoá mọi phiền ưu. <br/>Hồi đời ta mỏi mê trong đêm dài tăm tối, <br/>Chúa sẽ lo liệu cả mọi điều. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Những khi cuộc đời <br/>thử thách luôn quanh mình, <br/>phí bao lần ra sức luống công. <br/>Đời phiền ưu lớp lớp, <br/>nương nơi nào hỡi Chúa, <br/>Có phải chăng lệ thắm tuôn không ngừng? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính Jê-sus sẽ giúp ta thường xuyên; <br/>Thâm tình Chúa xoá mọi phiền ưu. <br/>Hồi đời ta mỏi mê trong đêm dài tăm tối, <br/>Chúa sẽ lo liệu cả mọi điều. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Lúc tôi giã từ quyết vứt <br/>đi bao điều vấn vương <br/>lòng tôi mãi không thôi. <br/>Mọi niềm đau chiếm hết <br/>tâm linh này muốn vỡ, <br/>Chúa Jê-sus liệu có lưu tâm giùm? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chính Jê-sus sẽ giúp ta thường xuyên; <br/>Thâm tình Chúa xoá mọi phiền ưu. <br/>Hồi đời ta mỏi mê trong đêm dài tăm tối, <br/>Chúa sẽ lo liệu cả mọi điều. </em></dd></dl>

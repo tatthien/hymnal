@@ -1,8 +1,8 @@
 ---
-song_number: 314
 title: 314. Tinh Binh Jêsus Tiến Lên
+song-number: 314
 categories: Đời Tín Đồ
-sub_categories: Linh Chiến
+sub-categories: Linh Chiến
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tinh binh Jê-sus tiến lên! Xung phong vào trận tuyến, <br/>Cờ thập tự Chúa Jê-sus, phất lãnh đạo binh thiêng; <br/>Kìa, Ðại tướng Christ trước ta, thêm can đảm ta tiến; <br/>Nhứt tâm nhìn xem lá cờ, Quyết xông pha trận tiền! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xông lên tinh binh Jê-sus! Ði như xông trận tuyến, <br/>Cờ thập giá luôn phất cao, quyết tiến ra trận tiền. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Như tinh binh anh dũng kia, ta nay Hội Thánh Christ, <br/>Rập chân noi dấu thánh xưa, thẳng tiến cùng nhau đi; <br/>Trong ta chỉ hiệp nhất thân, yêu thương lẫn tâm chí, <br/>Ðức tin, cậy trông, tín điều, Thảy chung nhau một lòng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xông lên tinh binh Jê-sus! Ði như xông trận tuyến, <br/>Cờ thập giá luôn phất cao, quyết tiến ra trận tiền. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Xưa nay bao phen bể dâu, trên muôn nghìn đế quốc, <br/>Mà Hội Thánh Chúa Jê-sus, đứng vững nghìn muôn thu. <br/>Địa ngục dẫu gầm thét vang, không sao thắng Hội Thánh, <br/>Biết bao lời tuyên hứa vàng: Chúa yêu ta trọn thành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xông lên tinh binh Jê-sus! Ði như xông trận tuyến, <br/>Cờ thập giá luôn phất cao, quyết tiến ra trận tiền. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ôi, muôn dân vui tiến mau, tham gia đoàn tranh đấu, <br/>Ðồng thanh ta hát với nhau, khúc khải hoàn hòa tâu; <br/>Tôn vinh, chúc tụng, tán dương, Vua Jê-sus hằng sốngg <br/>Chúng ta cùng thiên sứ thường, hát tôn vinh một lòng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xông lên tinh binh Jê-sus! Ði như xông trận tuyến, <br/>Cờ thập giá luôn phất cao, quyết tiến ra trận tiền. </em></dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 370
 title: 370. Tôi Dầu Nhỏ
+song-number: 370
 categories: Thiếu Nhi
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tôi dầu có bàn tay thật nhỏ, <br/>Cũng vui lòng chịu khó; <br/>Xin dùng để hầu lo việc thánh, <br/>Đúng ý Cha nhơn lành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quyết tâm đem thân mọn nầy, <br/>Nguyền dâng Jê-sus đây. </em></dd><dt>Câu 2:</dt><dd data-verse="2"> Tôi dầu có bàn chơn thật nhỏ, <br/>Quyết đi cùng mọi chỗ; <br/>Mong Ngài dắt dìu tôi càng tới, <br/>Chỗ hiển vinh trên trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quyết tâm đem thân mọn nầy, <br/>Nguyền dâng Jê-sus đây. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Tôi dầu có miệng môi thật nhỏ, <br/>Ước Jê-sus dùng nó; <br/>Đêm ngày giúp vào công việc thánh, <br/>Mãi giảng rao Tin lành. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quyết tâm đem thân mọn nầy, <br/>Nguyền dâng Jê-sus đây. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Tôi dầu có cặp tai thật nhỏ, <br/>Lắng nghe Ngài dạy dỗ, <br/>Để thuật tích Jê-sus từ ái, <br/>Đấng trẻ con yêu hoài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quyết tâm đem thân mọn nầy, <br/>Nguyền dâng Jê-sus đây. </em></dd><dt>Câu 5:</dt><dd data-verse="5">Tôi dầu trí hèn, thân còn nhỏ, <br/>Quyết dâng, không sợ khó; <br/>Mong Ngài đổi thành ra người mới, <br/>Sống giúp Cha muôn đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Quyết tâm đem thân mọn nầy, <br/>Nguyền dâng Jê-sus đây. </em></dd></dl>

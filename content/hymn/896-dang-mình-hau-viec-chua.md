@@ -1,8 +1,8 @@
 ---
-song_number: 896
 title: 896. Dâng Mình Hầu Việc Chúa
+song-number: 896
 categories: Biệt Lễ Ca
-sub_categories: Phong Chức Mục Sư
+sub-categories: Phong Chức Mục Sư
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tâm con vui mừng khi nghe Chúa kêu, <br/>cánh đồng lúa chín đang chờ trông. <br/>Càng giục lòng con mau bước lên đường, <br/>suốt đời theo dấu chân Jê-sus. <br/>Xin theo gương Chúa, Đấng chăn chiên hiền; <br/>luôn biết yêu thương, biết khiêm nhường. <br/>Cho con ân tứ Thánh Linh tuôn tràn; <br/>mang nguồn ánh sáng Chúa vô trần gian. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin dâng cuộc đời lên cho Jê-sus, <br/>Chúa gọi con quyết vâng phục ngay. <br/>Nầy là đặc ân cao quý trong đời, <br/>quyết hầu việc Chúa cách trung thành. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bao nhiêu linh hồn chưa biết đến Cha, <br/>khiến lòng ray rứt không bình an. <br/>Giờ này lòng con xin hiến dâng Ngài; <br/>quyết vì danh Chúa rao Tin Lành. <br/>Mang thập tự giá bước theo Jê-sus, <br/>luôn biết hy sinh, biết thứ tha. <br/>Vui vâng theo Chúa sai đi nơi nào <br/>cho dù bất cứ ở đâu cần con. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin dâng cuộc đời lên cho Jê-sus, <br/>Chúa gọi con quyết vâng phục ngay. <br/>Nầy là đặc ân cao quý trong đời, <br/>quyết hầu việc Chúa cách trung thành. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ra đi chăn bầy vâng theo ý Cha, <br/>hết lòng trung tín không từ nan. <br/>Nguyện được Ngài ban ơn phước dư dật, <br/>dắt nhiều chiên mới đem vô ràn. <br/>Không ham danh tiếng hay mong sang giàu, <br/>vinh quý thế gian sẽ qua đi! <br/>Cho con hăng hái mau đi rao truyền, <br/>đem lời Chúa đến với bao tội nhân. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin dâng cuộc đời lên cho Jê-sus, <br/>Chúa gọi con quyết vâng phục ngay. <br/>Nầy là đặc ân cao quý trong đời, <br/>quyết hầu việc Chúa cách trung thành. </em></dd></dl>

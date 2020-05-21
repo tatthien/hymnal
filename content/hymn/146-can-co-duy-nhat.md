@@ -1,8 +1,8 @@
 ---
-song_number: 146
 title: 146. Căn Cơ Duy Nhất
+song-number: 146
 categories: Hội Thánh
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Căn cơ duy nhất Jê-sus thôi, <br/>Nàng Hội Thánh nương trên Ngài; <br/>Lời thiêng, nước thánh rửa lỗi xưa, <br/>Tân tạo nên trang hiền giai; <br/>Ngài từ thượng thiên xuống kiếm nàng, <br/>Hứa khiến nên tân phụ Ngài, <br/>Hy sinh đem huyết cao mua nàng, <br/>Vì nàng Chúa lâm hình đây. </dd><dt>Câu 2:</dt><dd data-verse="2">Tuy dung thân khắp trong nhân gian, <br/>Hiệp một thánh dân thiên thành, <br/>Này quy tắc cứu rỗi quý nương, <br/>Một Cha, đức tin, trùng sinh; <br/>Nàng ngợi một danh Chúa hiển vinh, <br/>Bánh thánh hưởng chung tiệc linh, <br/>Ngày đêm nôn nả trông mong luôn, <br/>Nguyền đạt mỗi ơn Thần minh. </dd><dt>Câu 3:</dt><dd data-verse="3">Tuy nhân gian chán chê ghen tuông, <br/>Họ làm khổ cho thân nàng, <br/>Vì phe đảng lắm lúc xé tan, <br/>Thêm họa bởi men dị đoan; <br/>Dầu vậy, ngày đêm các thánh luôn, <br/>tỉnh thức khẩn ơn Ngài ban, <br/>đêm kêu than sắp như sương tan <br/>Vừng hồng ló, ca ngợi vang. </dd><dt>Câu 4:</dt><dd data-verse="4">Tuy đương cơn đấu tranh hoang mang, <br/>Đường đời khổ lao thân nàng, <br/>Nàng mong lúc kết liễu chiến đoan, <br/>Qua ngày thiên niên bình an; <br/>Nàng mường tượng đôi mắt sáng choang, <br/>Nóng nảy ngắm trông Hiền Lang, <br/>Rồi khi đắc thắng, trong vinh quang, <br/>Nàng được nghỉ ngơi bình an. </dd><dt>Câu 5:</dt><dd data-verse="5">Tuy thân trên đất đương chơi vơi, <br/>Hội hiệp với Ba Ngôi Trời, <br/>Cùng thông cảm các thánh nghỉ ngơi, <br/>Sớm hôm chén vui đầy vơi, <br/>Ồ, nhìn lên chư thánh thảnh thơi, <br/>Khẩn Chúa xuống ơn nhuần tươi, <br/>Hầu ta như chúng khiêm nhu kia, <br/>Cùng Ngài ở trên trời vui. </dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 235
 title: 235. Ta Theo Ý Chúa Chưa?
+song-number: 235
 categories: Đời Tín Đồ
-sub_categories: Sự Dâng Mình Cho Chúa
+sub-categories: Sự Dâng Mình Cho Chúa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Lạy Chúa, tôi nay thuộc Ngài. Ngài sáng danh muôn đời. <br/>Jê-sus, hỡi Chúa, tôi xin vâng theo luật trời; <br/>Thể phách, tâm linh thuộc Ngài, tôi mến Chúa chẳng phai. <br/>Thuộc trong Chúa thôi, tôi chỉ thuộc Ngài. </dd><dt>Câu 2:</dt><dd data-verse="2">Ngày trước tôi đi lầm lạc vào lối hay nghi ngờ, <br/>Tâm tôi tẻ ngắt, tử vong luôn luôn đợi chờ; <br/>Lúc Chúa đến soi rạng đường tôi, khiến bước thẳng ngay. <br/>Thuộc trong Chúa thôi, tôi chỉ thuộc Ngài. </dd><dt>Câu 3:</dt><dd data-verse="3">Ngày trước tôi luôn phục tùng trần thế,quá đảo điên. <br/>Nhưng nay tôi quyết tôn Jê-sus Vua toàn quyền; <br/>Ách Chúa êm thay, sự bình an Chúa ban lâu dài. <br/>Thuộc trong Chúa thôi, tôi chỉ thuộc Ngài. </dd><dt>Câu 4:</dt><dd data-verse="3">Gặp Chúa tôi vui tìm được đầy dẫy bao nhu cần. <br/>Thiên ân quý ấy bởi đức tin được bội phần; <br/>Dưới cánh Chúa tôi được bình an, chẳng chút lung lay. <br/>Thuộc trong Chúa thôi, tôi chỉ thuộc Ngài. </dd><dt>Câu 5:</dt><dd data-verse="3">Kìa, cuốn thiên thơ người nào được xóa bôi tên tôi. <br/>Không chi xen lấn khiến tôi ly khai luật trời; <br/>Sống, chết chỉ do Ngài nhìn qua quyết hẳn chẳng sai, <br/>Thuộc trong Chúa thôi, tôi chỉ thuộc Ngài. </dd><dt>Câu 6:</dt><dd data-verse="3">Phù thế hôm nay tạm dùng làm chỗ dung thân tôi. <br/>Ôi, Jê-sus Christ! Tôi xin quy phục trọn đời; <br/>Bởi đức yêu thương Ngài mời tôi ở trên thiên đài. <br/>Thuộc trong Chúa thôi, tôi chỉ thuộc Ngài. </dd></dl>

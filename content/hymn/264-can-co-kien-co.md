@@ -1,8 +1,8 @@
 ---
-song_number: 264
 title: 264. Căn Cơ Kiên Cố
+song-number: 264
 categories: Đời Tín Đồ
-sub_categories: Bền Lòng Tin Cậy
+sub-categories: Bền Lòng Tin Cậy
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Căn cớ nào kiên cố bằng nền Chúa xưa đã xây, <br/>Cho môn đồ được lập do đức tin trên lời Thầy; <br/>Lời Chúa đã tuyên hứa há sẽ phán thêm chữ gì, <br/>Cho ai đang núp trong hầm ẩn náu Jêsus Christ? <br/>Cho ai nương thân tại hầm ẩn náu Jêsus Christ. </dd><dt>Câu 2:</dt><dd data-verse="2">“Con ơi, đừng kinh khiếp, vì này có ta ở với, <br/>Ta đây Thiên Phụ con, vui giúp con luôn trọn đời; <br/>Hằng đoái giúp thêm sức, giữ chỗ đứng con vững yên, <br/>Nâng con trên cánh tay mạnh mẽ luôn không đảo điên, <br/>Nâng đỡ con an bàn bằng chính cánh tay toàn quyền.” </dd><dt>Câu 3:</dt><dd data-verse="3">“Khi ta gọi con phải vượt dòng nước thăm thẳm sâu, <br/>Phong ba sầu muộn thật không thế sao con ngập đầu; <br/>Vì chính ta ban phước ở với con trong thử rèn, <br/>Nhân sự đau đớn ta luyện con tiêu bao vết đen, <br/>Nhân khổ đau con chịu, ta phiếu trắng con toàn quyền.” </dd><dt>Câu 4:</dt><dd data-verse="4">“Khi con chịu trong lửa hừng rèn thử, đang khiếp kinh, <br/>Ơn ta dư dật hằng nâng đỡ con được tịnh bình; <br/>Hồn phách vẫn yên ổn, chẳng chút sém trong lửa hồng, <br/>Duy luyện sạch rét ten được nên tinh kim sáng trong, <br/>Duy chỉ thiêu sạch cặn, luyện thét con nên vàng ròng.” </dd><dt>Câu 5:</dt><dd data-verse="5">“Dân ta dầu cao tuổi càng từng trải, thêm hiểu thông, <br/>Tuy sao dời vật đổi ân ái ta luôn mặn nồng; <br/>Dầu tóc trắng như tuyết vẫn ở giữa ơn dắt đem, <br/>Coi như chiên nhỏ ta bồng ẵm trong tay ấm êm, <br/>Coi giống chiên con được sạch cặn, bồng ẵm giữa tay dịu mềm.” </dd><dt>Câu 6:</dt><dd data-verse="6">“Tâm linh nào đã quyết dựa vào cánh tay của ta, <br/>Ta luôn binh vực họ cho khỏi tay quân nghịch tà; <br/>Quyền thế cả âm phủ khủng bố cũng không chuyển dời, <br/>Ta cam đoan chẳng bao giờ quên người hay bỏ rơi, <br/>Ta chẳng xa lìa ngươi, vui bảo đảm đến đời đời.” </dd></dl>

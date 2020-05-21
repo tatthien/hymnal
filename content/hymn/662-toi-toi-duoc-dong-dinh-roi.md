@@ -1,8 +1,8 @@
 ---
-song_number: 662
 title: 662. Tội Tôi Được Đóng Đinh Rồi
+song-number: 662
 categories: Đời Tín Đồ
-sub_categories: Ngợi Khen Vì Được Cứu
+sub-categories: Ngợi Khen Vì Được Cứu
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Có những lúc ngồi suy nghĩ tới ơn Chúa dành cho tôi, <br/>thấy nước mắt trong tim mình hiu hắt rơi. <br/>Chúa đã đến chịu thay tôi bao đớn đau từ xa xôi. <br/>Những yếu đuối trong tôi được Chúa tha rồi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi, ơn sâu dường biển khơi, Chúa gánh hết tội lỗi tôi, <br/>Ban cho tôi đầy lòng bình an tươi mới. <br/>Bao gian ác có trong tôi Jêsus đã đóng đinh rồi; <br/>Chúa đổ huyết để thứ tha mọi tội tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lắm lúc thấy mình sao dối trá, kiêu hãnh và tham lam, <br/>chẳng xứng đáng đưa tay nhận ơn Chúa ban! <br/>Cứu Chúa vẫn đầy kiên nhẫn theo sát tôi, <br/>vì yêu tôi, Chúa lấy hết bao ô tội đóng đinh rồi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi, ơn sâu dường biển khơi, Chúa gánh hết tội lỗi tôi, <br/>Ban cho tôi đầy lòng bình an tươi mới. <br/>Bao gian ác có trong tôi Jêsus đã đóng đinh rồi; <br/>Chúa đổ huyết để thứ tha mọi tội tôi. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nắm chắc lấy bàn tay Cứu Chúa, không phút nào lìa xa, <br/>bước với Chúa trên thiên trình tôi sẽ qua; <br/>Với khúc hát thường trên môi dâng tiếng ca từ tim tôi, <br/>bởi Chúa lấy bao ô tội đóng đinh rồi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ôi, ơn sâu dường biển khơi, Chúa gánh hết tội lỗi tôi, <br/>Ban cho tôi đầy lòng bình an tươi mới. <br/>Bao gian ác có trong tôi Jêsus đã đóng đinh rồi; <br/>Chúa đổ huyết để thứ tha mọi tội tôi. </em></dd></dl>

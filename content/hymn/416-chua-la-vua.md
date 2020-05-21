@@ -1,8 +1,8 @@
 ---
-song_number: 416
 title: 416. Chúa Là Vua
+song-number: 416
 categories: Hợp Ca
-sub_categories: Nam Nữ Ban
+sub-categories: Nam Nữ Ban
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ôi Chúa của chúng ta, chính là Vua muôn vua, <br/>Đất hãy hoan ca một bài ngợi ơn móc mưa; <br/>Sông núi, biển khá tôn Chúa là Đấng quyền oai, <br/>Trời cao kia, khá hát kính khen Vua một bài: <br/>Jê-sus, Vua Thánh độc nhất, quản cai đất, trời, chúng sinh. <br/>Ôi, ca khen uy danh Chúa muôn thu quang vinh, <br/>Quyền năng đắc thắng bất di trên ngôi siêu trác, <br/>Duy Chúa, Cứu Chúa ta, hẳn chẳng có Đấng khác. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Hát chúc tán Chúa, hát kính khen Chúa, <br/>Vua ta duy Chúa, Vua ta duy Chúa! Ha-lê-lu-gia! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ôi, Chúa của chúng ta, chính là Vua linh năng, <br/>Chúa phán một lời lập thành muôn muôn quốc dân; <br/>Do ý chỉ Chúa muôn Chúa, trời đất định yên, <br/>Vâng theo tiếng Chúa phán, sóng gió êm lặng liền, <br/>Ngợi Chúa công nghĩa, toàn thánh, chí nhân dẫy đầy cứu ân, <br/>Vui canh tân muôn muôn ác nhân nên linh nhân, <br/>Lượng nhân ái của Chúa cao sâu khôn mô tả, <br/>Ta vốn đã chết, nay sống hưởng phước quí hóa. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Hát chúc tán Chúa, hát kính khen Chúa <br/>Vua ta duy Chúa, Vua ta duy Chúa! Ha-lê-lu-gia! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ôi, Chúa của chúng ta, chính là Vua duy tôn, <br/>Sống bao lâu ta nguyện làm rạng danh Chúa luôn; <br/>Ca xướng, tán mỹ Vua Thánh, là Đấng thủy chung, <br/>Vui rao khắp ái đức Chúa lớn lao lạ lùng, <br/>Nầy đất nên chúc tụng Chúa, thánh dân hãy cùng tấu ca, <br/>Thân, tâm, linh luôn châu báu vui dâng Vua ta, <br/>Nguyện tin Vua, quyết sống tôn vinh Vua mãi mãi, <br/>Duy hết ý hết sức kính mến Chúa chí ái. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Hát chúc tán Chúa, hát kính khen Chúa <br/>Vua ta duy Chúa, Vua ta duy Chúa! Ha-lê-lu-gia! </em></dd></dl>

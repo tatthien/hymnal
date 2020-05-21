@@ -1,8 +1,8 @@
 ---
-song_number: 73
 title: 73. Nô-Ên Đầu Tiên
+song-number: 73
 categories: Chúa Jêsus Christ
-sub_categories: Giáng Sinh
+sub-categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Nô-ên đầu tiên thiên sứ rao truyền <br/>Cho kẻ chăn nghèo đang thức quanh miền; <br/>Quây quần cùng nhau canh giữ chiên nhà, <br/>Đêm giá canh trường thân phủ sương già. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nô-ên, Nô-ên, Nô-ên, Nô-ên, <br/>Chính đêm sanh Vua Y-sơ-ra-ên! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bỗng một ngôi sao họ thấy xa xa, <br/>Đang chiếu bên trời đông ánh rạng lòa; <br/>Tia hào quang kia soi khắp sơn hà, <br/>không cứ đêm ngày soi sáng muôn nhà. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nô-ên, Nô-ên, Nô-ên, Nô-ên, <br/>Chính đêm sanh Vua Y-sơ-ra-ên! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Cũng nhờ hào quang do chính sao nầy, <br/>Bác sĩ ba người chung đến vui vầy, <br/>Bước lần lần theo sao sáng trên trời, <br/>Môn nả đi tìm Vua mới ra đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nô-ên, Nô-ên, Nô-ên, Nô-ên, <br/>Chính đêm sanh Vua Y-sơ-ra-ên! </em></dd><dt>Câu 4:</dt><dd data-verse="4">Sao lần lần qua tây bắc sáng trưng, <br/>Đến Bết-lê-hem sao bỗng nhiên ngừng, <br/>Nơi này dị tinh đứng mãi không dời, <br/>Chính chỗ Anh Hài Jê-sus ra đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nô-ên, Nô-ên, Nô-ên, Nô-ên, <br/>Chính đêm sanh Vua Y-sơ-ra-ên! </em></dd><dt>Câu 5:</dt><dd data-verse="5">Ba vị cùng vô trong quán vui mừng, <br/>Quỳ xuống khiêm nhường tôn kính Con Thần, <br/>Lễ vật bày ra nơi máng sơ sài: <br/>Vàng, nhũ hương, một dược kính dâng Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nô-ên, Nô-ên, Nô-ên, Nô-ên, <br/>Chính đêm sanh Vua Y-sơ-ra-ên! </em></dd><dt>Câu 6:</dt><dd data-verse="6">Nay mừng Nô-ên ta hát một bài, <br/>Cung kính khen ngợi Chân Chúa thiên đài; <br/>Muôn vật được nên do Chúa phán tuyên, <br/>Tuôn huyết tha tội ơn cứu linh huyền. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nô-ên, Nô-ên, Nô-ên, Nô-ên, <br/>Chính đêm sanh Vua Y-sơ-ra-ên! </em></dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 864
 title: 864. Jêsus Con Đức Chúa Trời
+song-number: 864
 categories: Trọng Trách Hội Thánh
-sub_categories: Truyền Giảng
+sub-categories: Truyền Giảng
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Bạn biết chăng Chúa Jê-sus <br/>Vua tôi là Đấng cứu chuộc, <br/>Jê-sus con Đức Chúa Cha. <br/>Bạn biết chăng Chúa Jê-sus, <br/>Vua tôi là Đấng nhân từ, <br/>Jê-sus con Đức Chúa Trời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa, danh đáng tôn cao <br/>Danh dịu êm ngọt ngào. <br/>Jê-sus con Đức Chúa Cha, <br/>Chúa đã chết thay tôi. <br/>Vui chuộc mua muôn người. <br/>Jê-sus ôi! Chúa muôn đời. ơ </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bạn có nghe tiếng Jê-sus <br/>êm êm gọi ai lạc loài, <br/>Ăn năn tin Chúa bữa nay. <br/>Bạn đến mau với Jê-sus, <br/>Bao ô tội bao u hoài, <br/>Trao ngay trong cánh tay Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa, danh đáng tôn cao <br/>Danh dịu êm ngọt ngào. <br/>Jê-sus con Đức Chúa Cha, <br/>Chúa đã chết thay tôi. <br/>Vui chuộc mua muôn người. <br/>Jê-sus ôi! Chúa muôn đời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Bạn hỡi! Sao mãi phân vân <br/>hôm nay đừng nên ngại ngần, <br/>Mau tin Con Đức Chúa Cha. <br/>Đừng nhờ năm tháng đau thương, <br/>Quên đi ngày qua đoạn trường, <br/>Mau mau xin Chúa vô lòng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa, danh đáng tôn cao <br/>Danh dịu êm ngọt ngào. <br/>Jê-sus con Đức Chúa Cha, <br/>Chúa đã chết thay tôi. <br/>Vui chuộc mua muôn người. <br/>Jê-sus ôi! Chúa muôn đời. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Đời sống trong Chúa yên vui <br/>Jê-sus thường ban nụ cười, <br/>Lau khô bao nước mắt rơi. <br/>Ngài sẽ thêm sức ban ơn, <br/>Đưa ta vượt qua dặm trường. <br/>Luôn luôn đắc thắng vui mừng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Chúa, danh đáng tôn cao <br/>Danh dịu êm ngọt ngào. <br/>Jê-sus con Đức Chúa Cha, <br/>Chúa đã chết thay tôi. <br/>Vui chuộc mua muôn người. <br/>Jê-sus ôi! Chúa muôn đời. </em></dd></dl>

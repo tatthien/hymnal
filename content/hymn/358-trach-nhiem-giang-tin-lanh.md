@@ -1,8 +1,8 @@
 ---
-song_number: 358
 title: 358. Trách Nhiệm Giảng Tin Lành
+song-number: 358
 categories: Trọng Trách Hội Thánh
-sub_categories: Truyền Giáo Khắp Nơi
+sub-categories: Truyền Giáo Khắp Nơi
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ngày Chúa gần lắm, dám hẹn rày mai, <br/>Tôi phải rao giảng, lao khổ nào nại, <br/>Nguyền trải khắp chốn hăng hái; <br/>Quyết chí báo cáo ân điển láng lai, <br/>Mau mau đưa dắt người thế tin Ngài, <br/>Cùng hưởng phước trên lạc đài. </dd><dt>Câu 2:</dt><dd data-verse="2">Vì Chúa từ ái đoái chọn đời tôi, <br/>Tôi phải nôn nả lo cứu người tội, <br/>Dìu dắt chúng thoát tăm tối; <br/>Cứu Chúa giúp sức tôi kẻ cút côi, <br/>Ơn trên mưa móc ngày tháng nhuần gội, <br/>Tôi mãi giảng rao Đạo Trời. </dd><dt>Câu 3:</dt><dd data-verse="3">Thần Chúa hằng cứ thức giục lòng tôi, <br/>Tôi chẳng quên nỗi đau khổ đồng loại, <br/>Dường lửa đốt thúc tôi tới; <br/>Trước vốn yếu đuối, nay hóa nóng sôi, <br/>Nên tôi không thể ngồi ngó người tội, <br/>Chìm nổi khóc than sụt sồi. </dd><dt>Câu 4:</dt><dd data-verse="4">Đường lối dầu lắm núi dựng ngàn quanh, <br/>Tôi mãi dong ruổi bao quản gập ghềnh, <br/>Bằng chẳng, khốn khó khôn lánh; <br/>Khốn khó nếu không đi cứu chúng sanh; <br/>Nay tôi xin quyết cùng Chúa đồng hành, <br/>Hầu cứu vớt bao hồn linh. </dd><dt>Câu 5:</dt><dd data-verse="5">Vì Chúa đà phó chức vụ hòa thân, <br/>Tôi quyết rao giảng đâu dám hẹn lần, <br/>Dầu muốn tránh bước gay cấn; <br/>Chúa cứ phó thác không thể bất tuân; <br/>Nên nay tôi quyết nhờ Chúa vẹn phần, <br/>Vì biết Chúa kêu một lần. </dd><dt>Câu 6:</dt><dd data-verse="6">Nguyền hết lòng quyết hiến trọn đời đây, <br/>Lao khổ bao quản vui trả nợ nầy, <br/>Kìa mũ quý báu vinh bấy; <br/>Chúa đến chắc sẽ ban thưởng phước thay; <br/>Muôn muôn thiên sứ đàn tấu tiệc bầy, <br/>Vui mãi Chúa tôi hiệp vầy. </dd></dl>

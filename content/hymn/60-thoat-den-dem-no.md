@@ -1,8 +1,8 @@
 ---
-song_number: 60
 title: 60. Thoạt Đến Đêm Nọ
+song-number: 60
 categories: Chúa Jêsus Christ
-sub_categories: Giáng Sinh
+sub-categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Thoạt đến xưa lúc yên tịnh đêm nọ, <br/>Rực rỡ thiên sứ giáng lâm. <br/>Dạo khúc trầm bổng giai điệu ly kỳ, <br/>Thần binh ca xướng hòa âm; <br/>Khắp đất bình hòa, người người hạnh phước, <br/>Bởi Vua thiên quốc nhân hòa, <br/>Thật chốn trần bấy giờ tịnh dường nào, <br/>Lặng nghe thiên sứ tụng ca. </dd><dt>Câu 2:</dt><dd data-verse="2">Rợp đất thiên sứ bay liệng nhẹ nhàng, <br/>Rực rỡ giương cánh thái an, <br/>Nhạc thánh kia tiếng còn dội vang rền, <br/>Tận nơi nhân thế sầu than; <br/>Ấy chốn hèn hạ tại miền nhân gian, <br/>Sứ thánh cung kính bay là. <br/>Tại chốn đây tiếng Ba-bên ồn ào. <br/>Họ vui reo tiếng đồng ca. </dd><dt>Câu 3:</dt><dd data-verse="3">Vậy ớ ai gánh ưu lự nặng nề, <br/>Lại nỗi nhân thế mỏng manh, <br/>Lội suối lần dốc, trèo đèo, băng ngàn, <br/>Nhọc công khôn lướt dặm quanh. <br/>Kíp kíp nhìn lại giờ vàng thoi đưa, <br/>Đến ớ ai, hãy mau mà! <br/>Bạn khá dừng bước khổ trình quay đầu <br/>Đặng nghe thiên sứ tụng ca. </dd><dt>Câu 4:</dt><dd data-verse="4">Nghiệm đúng thi bá xưa dự ngôn rồi, <br/>Thật cảnh kia hẳn đến mau; <br/>Lẹ bấy ngày tháng vùn vụt qua kìa, <br/>Độ xuân thiên có chậm đâu; <br/>Lúc ấy thật thạnh thời hoàng kim thay, <br/>Chói lói trên cả muôn loài, <br/>Dậy đất cùng đáp hòa lại rập ràng, <br/>Giọng ca thiên sứ hùng oai. </dd></dl>

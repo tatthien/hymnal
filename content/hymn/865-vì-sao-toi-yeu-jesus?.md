@@ -1,8 +1,8 @@
 ---
-song_number: 865
 title: 865. Vì Sao Tôi Yêu Jêsus?
+song-number: 865
 categories: Trọng Trách Hội Thánh
-sub_categories: Truyền Giảng
+sub-categories: Truyền Giảng
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1"> Bạn hay hỏi tôi rằng: <br/>“Cớ sao yêu mến Jê-sus đêm ngày?” <br/>Tình yêu Chúa rộng lớn hơn trời cao, <br/>Và thẳm sâu đường biển khơi. <br/>Ngài xa cách ngôi trời sáng tươi, <br/>Vào đời tìm tôi trên lối, <br/>Thập hình đớn đau thân Ngài huyết rơi, <br/>Chúa hy sinh chuộc tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Muốn biết sao tôi yêu ngài mãi, <br/>Trọn đời yêu Chúa không phai, <br/>Xin hướng về núi Gô-gô-tha u sầu, <br/>Bạn sẽ biết vì cớ nào! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bạn hay hỏi tôi rằng: <br/>“Cớ sao yêu mến Jê-sus trong đời?” <br/>Bạn ơi! Chúa đổi mới tâm hồn tôi, <br/>Ngày tháng ban niềm thỏa vui. <br/>Nhiều cơn sóng đe dọa cuốn trôi, <br/>Ngài thương dìu tôi đi tới. <br/>Đời này sẽ qua, tôi về nghỉ ngơi <br/>ở nơi thiên đàng xinh tươi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Muốn biết sao tôi yêu ngài mãi, <br/>Trọn đời yêu Chúa không phai, <br/>Xin hướng về núi Gô-gô-tha u sầu, <br/>Bạn sẽ biết vì cớ nào! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Bạn hay hỏi tôi rằng: <br/>“Cớ sao yêu mến Jê-sus chân thành?” <br/>Ngài như khúc nhạc ấm êm hồn tôi, <br/>Sự sáng cho đời sống tôi. <br/>Vì sao Chúa yêu được chính tôi. <br/>Lòng này thật không hiểu nổi. <br/>Một ngày sáng tươi khi gặp Chúa tôi, <br/>sẽ hay muôn điều, bạn ơi! </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Muốn biết sao tôi yêu ngài mãi, <br/>Trọn đời yêu Chúa không phai, <br/>Xin hướng về núi Gô-gô-tha u sầu, <br/>Bạn sẽ biết vì cớ nào! </em></dd></dl>

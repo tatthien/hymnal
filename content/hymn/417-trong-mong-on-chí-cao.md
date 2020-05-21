@@ -1,8 +1,8 @@
 ---
-song_number: 417
 title: 417. Trông Mong Ơn Chí Cao
+song-number: 417
 categories: Hợp Ca
-sub_categories: Nam Nữ Ban
+sub-categories: Nam Nữ Ban
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Đồng thiêng ai kia đang gặt thâu hoa màu, <br/>Ươn yếu thưa thớt đến đâu, <br/>Lại ngay nơi Jê-sus quyền năng nương náu, <br/>Ắt linh lực thêm dồi dào. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa, Chúa hứa giúp sức cho người nào <br/>trông mong ơn chí cao, <br/>Như chim ưng lướt từng mây tung trên không, <br/>Bay cao không mỏi cánh hồng, <br/>Dầu chạy mấy sức vẫn dẻo dai, <br/>Bước luôn không mệt càng hăng hái, <br/>Dầu chạy mấy sức vẫn dẻo dai, <br/>Bước đi, đi luôn chơn mạnh hoài, <br/>Dầu chạy mấy sức kém suy đâu nào, <br/>Bước luôn sức thêm dào. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Dù ta bao phen bị mệt nhọc nao lòng, <br/>Thêm nỗi thân thế long đong, <br/>Đừng quên ta tin Jê-sus Christ đang sống, <br/>Nỗi chi mà như tuyệt vọng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa, Chúa hứa giúp sức cho người nào <br/>trông mong ơn chí cao, <br/>Như chim ưng lước từng mây tung trên không, <br/>Bay cao không mỏi cánh hồng, <br/>Dầu chạy mấy sức vẫn dẻo dai, <br/>Bước luôn không mệt càng hăng hái, <br/>Dầu chạy mấy sức vẫn dẻo dai, <br/>Bước đi, đi luôn chơn mạnh hoài, <br/>Dầu chạy mấy sức kém suy đâu nào, <br/>Bước luôn sức thêm dào. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Mừng lên nay Jê-sus gần bên ta hoài, <br/>Cho đến nhắm mắt tắt hơi, <br/>Nhìn lên nơi cao kia cùng chạy hăng hái, <br/>Chúa ban mọi ơn rộng rời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa, Chúa hứa giúp sức cho người nào <br/>trông mong ơn chí cao, <br/>Như chim ưng lước từng mây tung trên không, <br/>Bay cao không mỏi cánh hồng, <br/>Dầu chạy mấy sức vẫn dẻo dai, <br/>Bước luôn không mệt càng hăng hái, <br/>Dầu chạy mất sức vẫn dẻo dai, <br/>Bước đi, đi luôn chơn mạnh hoài, <br/>Dầu chạy mấy sức kém suy đâu nào, <br/>Bước luôn sức thêm dào. </em></dd></dl>

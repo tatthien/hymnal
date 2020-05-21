@@ -1,8 +1,8 @@
 ---
-song_number: 562
 title: 562. Chuyện Các Mục Đồng
+song-number: 562
 categories: Chúa Jêsus Christ
-sub_categories: Giáng Sinh
+sub-categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Đoàn mục tử trong đêm trường giữ bầy chiên mình, <br/>ngồi chung nhau nơi giữa đồi vắng. <br/>Muôn tinh tú điểm tô cảnh trời huy hoàng, <br/>bầy chiên ngủ yên an bình. <br/>Thoạt nhiên giữa cảnh đêm đang yên tịnh, <br/>bừng lên muôn tia sáng rực rỡ. <br/>Đoàn thiên sứ giáng lâm vinh quang, <br/>đồng ca vang khúc nhạc thánh. <br/>Dịu dàng thay ca khúc mừng Christ giáng thế, <br/>chúc Vua muôn vua lâm trần: </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>"Ô! vinh quang trên nơi cao kia cho Chúa, <br/>đất hưởng thái an muôn đời." </em></dd><dt>Câu 2:</dt><dd data-verse="2">Đừng kinh hãi ta đem cho các ngươi Tin Lành, <br/>mừng vui cho nhân thế hạ đây. <br/>Thành Đa-vít Con Trời giáng trần đêm nầy. <br/>Là Christ, Chúa, Vua muôn đời. <br/>Một con trẻ ngủ yên nơi máng chiên bọc <br/>vuông khăn đơn giữa trời tuyết. <br/>Nào mau đến tiếp nghinh Con Trời <br/>vì ta nên xuống trần thế. <br/>Từ trời cao kia muôn thiên binh <br/>ca hát chúc Vua muôn vua lâm trần: </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>"Ô! vinh quang trên nơi cao kia cho Chúa, <br/>đất hưởng thái an muôn đời." </em></dd><dt>Câu 3:</dt><dd data-verse="3">Nghe tin ấy các mục đồng lên đường đi tìm, <br/>vượt bao gian nguy giữa trời tối. <br/>Lòng nôn nả đi tìm Đấng vừa sinh hạ, <br/>là Chân Chúa nay lâm trần. <br/>Tại nơi máng cỏ chiên ô nhơ kia <br/>Hài nhi Jê-sus yên lành ngủ. <br/>Thật như sứ thiên đã báo tin <br/>Thần nhân nay giáng trần thế. <br/>Họ mừng vui ca vang cùng muôn thiên sứ, <br/>khúc ca chúc tôn Con Trời: </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>"Ô! vinh quang trên nơi cao kia cho Chúa, <br/>đất hưởng thái an muôn đời." </em></dd></dl>

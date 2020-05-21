@@ -1,8 +1,8 @@
 ---
-song_number: 11
 title: 11. Ngợi Khen Cứu Chúa
+song-number: 11
 categories: Thờ Phuợng
-sub_categories: Ngợi Khen Jêsus Christ
+sub-categories: Ngợi Khen Jêsus Christ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ngợi khen Cứu Chúa đã chuộc tôi nay, <br/>Lòng nhân ái Chúa lớn rộng thay! <br/>Từ nơi rủa sả Chúa chuộc tôi ra, <br/>Ngài đau đớn ở Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngợi Khen Chúa, <br/>Ðấng chuộc chính tôi nay, <br/>Hồng huyết lưu ra chuộc tôi đây; <br/>Tại cây gỗ, dấu hiệu Chúa tha tôi. <br/>Nợ xưa trả thảnh thơi trọn đời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lòng ưa kể đến mẫu chuyện yêu đương, <br/>Phận tôi chết Chúa vẫn còn thương; <br/>Ngài ban phép tắc cứu chuộc nhưng không, <br/>Lòng nhân ái ví biển mênh mông. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngợi Khen Chúa, <br/>Ðấng chuộc chính tôi nay, <br/>Hồng huyết lưu ra chuộc tôi đây; <br/>Tại cây gỗ, dấu hiệu Chúa tha tôi. <br/>Nợ xưa trả thảnh thơi trọn đời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lòng ưa tán mỹ Đấng chuộc tôi nay, <br/>Quyền đắc thắng của Chúa lạ thay. <br/>Ngài ban sức chiến thắng quyền âm ti, <br/>Tội khiên chết chóc chẳng sợ chi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngợi Khen Chúa, <br/>Ðấng chuộc chính tôi nay, <br/>Hồng huyết lưu ra chuộc tôi đây; <br/>Tại cây gỗ, dấu hiệu Chúa tha tôi. <br/>Nợ xưa trả thảnh thơi trọn đời. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ngợi khen Cứu Chúa đã chuộc tôi đây, <br/>Lòng nhân ái thánh khiết rộng thay! <br/>Ðược ơn Chúa cải tử hoàn sinh cho. <br/>Ở luôn với Thánh Tử Jê-sus. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngợi Khen Chúa, <br/>Ðấng chuộc chính tôi nay, <br/>Hồng huyết lưu ra chuộc tôi đây; <br/>Tại cây gỗ, dấu hiệu Chúa tha tôi. <br/>Nợ xưa trả thảnh thơi trọn đời. </em></dd></dl>

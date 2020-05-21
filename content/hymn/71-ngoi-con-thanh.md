@@ -1,8 +1,8 @@
 ---
-song_number: 71
 title: 71. Ngợi Con Thánh
+song-number: 71
 categories: Chúa Jêsus Christ
-sub_categories: Giáng Sinh
+sub-categories: Giáng Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1"> Mừng khôn xiết vì Con Thánh mới sinh ra ngày nay, <br/>Thiên sứ hát ngợi khen Cứu Chúa yêu thương lạ thay, <br/>Lìa ngôi báu, Ngài vui sống giữa nhân gian từ đây, <br/>Không ngại đường thập tự sầu cay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngợi Con Thánh! <br/>Ngợi Con Thánh! <br/>Rất diệu vinh! <br/>Rất diệu vinh! <br/>Ngợi Con Thánh! <br/>Ngợi Con Thánh! <br/>Tôn vinh Hài Nhi Christ vừa sinh. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Đời đau đớn, người hư mất, tiếng than van sầu bi, <br/>Cơn sóng ác tội điên đảo cuốn lôi nhân loại đi, <br/>Vì thương xót, Ngài lâm thế cứu muôn dân lầm than, <br/>Cảm lòng Ngài muôn vật lặng an. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngợi Con Thánh! <br/>Ngợi Con Thánh! <br/>Rất diệu vinh! <br/>Rất diệu vinh! <br/>Ngợi Con Thánh! <br/>Ngợi Con Thánh! <br/>Tôn vinh Hài Nhi Christ vừa sinh. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Màn sương ác tội che khuất Chúa Cha không nhìn ra, <br/>Ta nhớ tiếc nhà Cha thống hối bao phen lụy sa, <br/>Kìa, Con Thánh hiện ra chiếu sáng đưa lên lạc cung, <br/>Để Trời, người thuận hòa hiệp chung. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngợi Con Thánh! <br/>Ngợi Con Thánh! <br/>Rất diệu vinh! <br/>Rất diệu vinh! <br/>Ngợi Con Thánh! <br/>Ngợi Con Thánh! <br/>Tôn vinh Hài Nhi Christ vừa sinh. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Nhờ Con xuống đời ta mới thấy ơn ban từ trên, <br/>Nên hãy đến thờ Con chí thánh Em-ma-nu-ên, <br/>Quỳ bên máng cùng tôn kính Chúa Jê-sus vừa sinh, <br/>Xin mời Ngài cai trị hồn linh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngợi Con Thánh! <br/>Ngợi Con Thánh! <br/>Rất diệu vinh! <br/>Rất diệu vinh! <br/>Ngợi Con Thánh! <br/>Ngợi Con Thánh! <br/>Tôn vinh Hài Nhi Christ vừa sinh. </em></dd></dl>

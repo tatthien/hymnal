@@ -1,8 +1,8 @@
 ---
-song_number: 258
 title: 258. Ôi Chúa, Đấng Tôi Cần Luôn
+song-number: 258
 categories: Đời Tín Đồ
-sub_categories: Tỉnh Thức, Cầu Nguyện
+sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ôi Chúa, Đấng tôi cần luôn, <br/>Duy Chúa nhân lành, <br/>Dịu êm bấy duy lời Chúa <br/>Giúp tôi an bình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mỗi phút cần Chúa giúp đỡ tôi, <br/>Nương nhờ cánh Jê-sus hoài, <br/>Xin ban phước cho tôi từng giây, <br/>Tôi đến đây Ngài! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ôi Chúa, Đấng tôi cần luôn, <br/>Xin Chúa luôn gần, <br/>Tà ma hết phương lừa dối <br/>Khi Chúa ở gần. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mỗi phút cần Chúa giúp đỡ tôi, <br/>Nương nhờ cánh Jê-sus hoài, <br/>Xin ban phước cho tôi từng giây <br/>Tôi đến đây Ngài! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ôi Chúa, Đấng tôi cần luôn, <br/>Khi vui hay buồn, <br/>Đời tôi nếu ra ngoài Chúa <br/>Hư hỏng, luông tuồng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mỗi phút cần Chúa giúp đỡ tôi, <br/>Nương nhờ cánh Jê-sus hoài, <br/>Xin ban phước cho tôi từng giây, <br/>Tôi đến đây Ngài! </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ôi Chúa, Đấng tôi cần luôn, <br/>Chân thánh duy Ngài, <br/>Nguyền luôn khiến tôi thuộc Chúa <br/>Hỡi Chúa thiên đài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mỗi phút cần Chúa giúp đỡ tôi, <br/>Nương nhờ cánh Jê-sus hoài, <br/>Xin ban phước cho tôi từng giây, <br/>Tôi đến đây Ngài! </em></dd><dt></dl>

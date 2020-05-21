@@ -1,8 +1,8 @@
 ---
-song_number: 516
 title: 516. Vinh Quang Thuộc Về Đức Chúa Trời
+song-number: 516
 categories: Thờ Phượng
-sub_categories: Ngợi Khen Đức Chúa Trời
+sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ðời đời vinh quang quy thuộc Ðức Chúa Trời tôn thánh, <br/>Ðấng đã vì thế nhân tội lỗi phó Con độc sanh, <br/>Là Thần Nhân Jê-sus vì yêu ta đành chết thế, <br/>Ðể mở toang cửa thiên đàng hầu tiếp rước ta về. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngợi khen Chúa! Ngợi khen Chúa! <br/>tiếng Chúa gọi ôi thiết tha. <br/>Ngợi khen Chúa! Ngợi khen Chúa! <br/>tiếng lòng ta khá vui hoà. <br/>Nào người nặng tội khiên <br/>lòng mong ước được đổi mới. <br/>Hãy đến với Jê-sus <br/>làm hoà với Ðức Chúa Trời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ồ! thật kỳ diệu thay tình yêu cứu chuộc bởi huyết, <br/>Huyết Chúa rửa ác tâm và phiếu trắng trong dường tuyết. <br/>Người tội nào thật tâm cầu ơn cứu chuộc vô đối, <br/>Tức khắc Jê-sus tha tội và cứu sống muôn đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngợi khen Chúa! Ngợi khen Chúa! <br/>tiếng Chúa gọi ôi thiết tha. <br/>Ngợi khen Chúa! Ngợi khen Chúa! <br/>tiếng lòng ta khá vui hoà. <br/>Nào người nặng tội khiên <br/>lòng mong ước được đổi mới. <br/>Hãy đến với Jê-sus <br/>làm hoà với Ðức Chúa Trời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngàn đời lòng ta ca ngợi Jê-sus đầy nhân ái, <br/>Chúa cứu và giúp ta đổi mới sống vui từ nay, <br/>Đời đời cùng muôn dân lòng ta chan hoà vui sướng, <br/>Khi thấy Jê-sus và cùng Ngài sống ở thiên đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngợi khen Chúa! Ngợi khen Chúa! <br/>tiếng Chúa gọi ôi thiết tha. <br/>Ngợi khen Chúa! Ngợi khen Chúa! <br/>tiếng lòng ta khá vui hoà. <br/>Nào người nặng tội khiên <br/>lòng mong ước được đổi mới. <br/>Hãy đến với Jê-sus <br/>làm hoà với Ðức Chúa Trời. </em></dd></dl>

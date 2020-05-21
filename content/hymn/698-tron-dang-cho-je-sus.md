@@ -1,8 +1,8 @@
 ---
-song_number: 698
 title: 698. Trọn Dâng Cho Jê-Sus
+song-number: 698
 categories: Đời Tín Đồ
-sub_categories: Nguyện Vọng
+sub-categories: Nguyện Vọng
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Hằng ngày ta trông mong Ngài, <br/>cầu xin Cha ban ân huệ, <br/>lòng thèm khát an bình đức tin tràn dâng. <br/>Cầu xin Cha nhưng vô vọng, <br/>trời cao kia cao hơn nhiều, <br/>vì lòng tối tăm này vẫn chưa toàn thiêu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mọi điều trong tâm linh <br/>đem đến thiêu nơi chân Ngài chưa? <br/>Lòng ta Vua Jê-sus đang quản cai hay chưa? <br/>Đừng từ nan vâng theo Ngài, <br/>hồn thân linh dâng lên Ngài, <br/>lòng được thái an và đức tin tràn dâng. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Cùng đi với Chúa mỗi ngày, <br/>nhờ ánh sáng của Thánh Kinh, <br/>lòng được thái an và đức tin tràn dâng. <br/>Làm theo ý Cha trên trời, <br/>cùng theo Chúa bước khắp nơi, <br/>bằng lòng chết mỗi ngày xác thân tội ô. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mọi điều trong tâm linh <br/>đem đến thiêu nơi chân Ngài chưa? <br/>Lòng ta Vua Jê-sus đang quản cai hay chưa? <br/>Đừng từ nan vâng theo Ngài, <br/>hồn thân linh dâng lên Ngài, <br/>lòng được thái an và đức tin tràn dâng. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lòng ta dâng lên cho Ngài, <br/>hồn thân ta Chúa quản cai, <br/>rồi hạnh phúc tuôn tràn thỏa vui bình an. <br/>Ồ! Tình yêu ôi sâu rộng, <br/>tình tương thân không chi bằng, <br/>từng ngày sống bên Ngài thắng bao tội ô. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mọi điều trong tâm linh <br/>đem đến thiêu nơi chân Ngài chưa? <br/>Lòng ta Vua Jê-sus đang quản cai hay chưa? <br/>Đừng từ nan vâng theo Ngài, <br/>hồn thân linh dâng lên Ngài, <br/>lòng được thái an và đức tin tràn dâng. </em></dd></dl>

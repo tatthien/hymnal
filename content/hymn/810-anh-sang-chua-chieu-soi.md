@@ -1,8 +1,8 @@
 ---
-song_number: 810
 title: 810. Ánh Sáng Chúa Chiếu Soi
+song-number: 810
 categories: Đời Tín Đồ
-sub_categories: Được Chúa Yêu
+sub-categories: Được Chúa Yêu
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Trong ánh sáng Chúa chiếu soi nơi thập tự kia, <br/>tôi yếu đuối bất năng sao Jê-sus yêu tôi. <br/>Dòng huyết Chúa đã đổ cho tôi nay trọn vẹn. <br/>Kia mão gai sao Ngài chịu thay tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trên ngôi trời cao, Chúa Đấng từ ái <br/>Đã ban Jê-sus đến trong trần gian, nơi tối tăm. <br/>Yêu thương tội nhân, Cứu Chúa từ ái <br/>Gánh thay nhân thế bao nỗi sầu đau và lo buồn. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Trong ánh sáng Chúa chiếu soi nơi thập tự kia, <br/>Ngài biết rõ cớ sao nhân gian quay mặt lại <br/>Tội lỗi, ích kỷ, xấu xa, tham lam đời này <br/>Cha xóa bôi bởi tình yêu lai láng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trên ngôi trời cao, Chúa Đấng từ ái <br/>Đã ban Jê-sus đến trong trần gian, nơi tối tăm. <br/>Yêu thương tội nhân, Cứu Chúa từ ái <br/>Gánh thay nhân thế bao nỗi sầu đau và lo buồn. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Trong ánh sáng Chúa chiếu soi nhân loại hôm nay, <br/>Tôi biết chắc Chúa sẽ đỡ nâng tôi từng ngày. <br/>Ngài thánh khiết chốn hiển vinh, tôi tin trọn đời, <br/>luôn bước đi trong tình yêu cao quý. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trên ngôi trời cao, Chúa Đấng từ ái <br/>Đã ban Jê-sus đến trong trần gian, nơi tối tăm. <br/>Yêu thương tội nhân, Cứu Chúa từ ái <br/>Gánh thay nhân thế bao nỗi sầu đau và lo buồn. </em></dd></dl>

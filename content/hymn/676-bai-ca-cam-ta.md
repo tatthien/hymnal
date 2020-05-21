@@ -1,8 +1,8 @@
 ---
-song_number: 676
 title: 676. Bài Ca Cảm Tạ
+song-number: 676
 categories: Đời Tín Đồ
-sub_categories: Cảm Tạ
+sub-categories: Cảm Tạ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tạ ơn Cha trên thiên đàng <br/>ngời cao chói sáng <br/>về những phước lớn Chúa ban. <br/>Chúng con ghi trong lòng <br/>không dám quên ơn tuôn tràn <br/>do Chúa yêu thương <br/>đêm ngày luôn dắt chăn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bao tâm hồn đang xúc động, <br/>nhớ muôn ơn lành như biển rộng. <br/>Ôi ơn Ngài quá láng lai, <br/>chúng tôi chân thành khắc ghi hoài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tạ ơn Cha yêu thương <br/>vì niềm vui sáng láng <br/>được bước với Chúa tháng năm. <br/>Hưởng bao vinh quang cùng chung <br/>khó khăn nơi dương trần. <br/>Ôi mỗi khi nhớ tới <br/>lệ dâng chứa chan. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bao tâm hồn đang xúc động, <br/>nhớ muôn ơn lành như biển rộng. <br/>Ôi ơn Ngài quá láng lai, <br/>chúng tôi chân thành khắc ghi hoài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Tạ ơn Cha luôn nghe <br/>lời cầu xin sớm tối <br/>Ngài sẵn đáp tiếng chúng tôi. <br/>Cứu qua gian truân <br/>và tha thứ bao nhiêu ô tội, <br/>ơn xót thương không vơi <br/>dù năm tháng trôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bao tâm hồn đang xúc động, <br/>nhớ muôn ơn lành như biển rộng. <br/>Ôi ơn Ngài quá láng lai, <br/>chúng tôi chân thành khắc ghi hoài. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Tạ ơn Cha khi trên đường <br/>chợt vương bóng tối, <br/>lòng vỡ, suối nước mắt rơi. <br/>Dẫu vui tươi hay sầu đau <br/>vẫn luôn tin trong đời <br/>có Chúa yêu thương <br/>không lìa xa chúng tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Bao tâm hồn đang xúc động, <br/>nhớ muôn ơn lành như biển rộng. <br/>Ôi ơn Ngài quá láng lai, <br/>chúng tôi chân thành khắc ghi hoài. </em></dd></dl>

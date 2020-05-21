@@ -1,8 +1,8 @@
 ---
-song_number: 254
 title: 254. Như Phận Tôi, Tuy Hèn Khinh
+song-number: 254
 categories: Đời Tín Đồ
-sub_categories: Tỉnh Thức, Cầu Nguyện
+sub-categories: Tỉnh Thức, Cầu Nguyện
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Tôi nghe nói hạnh phước như mưa dào, <br/>Từ nơi Chúa đổ tuôn dường bao; <br/>Trận mưa thấm nhuần đất đang khô khan, <br/>Nguyện tôi hưởng đôi giọt Ngài ban. <br/>Như phận tôi, tuy hèn khinh, <br/>Nguyện ban ít giọt phước thiên đình. </dd><dt>Câu 2:</dt><dd data-verse="2">Tôi nguyên đứa đầy dẫy tâm ô tội, <br/>Nguyện Cha chớ bỏ tôi mồ côi; <br/>Dầu Cha có quyền bỏ tôi trăm phần, <br/>Nguyện thương xót, giáng cho hồng ân. <br/>Như phận tôi, tuy hèn khinh, <br/>Nguyện thương xót, dội xuống phước lành. </dd><dt>Câu 3:</dt><dd data-verse="3">Lạy Chân Chúa, đừng bỏ tôi cô đơn, <br/>Nguyện khăng khít luôn trong Ngài hơn; <br/>Tôi khao khát Ngài xuống cơn mưa dồi, <br/>Hồi kêu kẻ khác, xin gọi tôi. <br/>Như phận tôi, tuy hèn khinh, <br/>Nguyện nghe Chúa gọi đến tên mình. </dd><dt>Câu 4:</dt><dd data-verse="4">Thần Linh hỡi, đừng lướt qua tôi nay, <br/>Ngài hay chữa kẻ đui nhìn ngay; <br/>Vị minh chứng về Chúa Jê-sus ôi, <br/>Dùng chân lý thuyết phục lòng tôi. <br/>Như phận tôi, tuy hèn khinh, <br/>Nguyện Linh thuyết phục suốt thiên trình. </dd><dt>Câu 5:</dt><dd data-verse="5">Tình yêu Chúa thuần khiết, không sai đi, <br/>Quyền huyết báu muôn năm còn y; <br/>Và ân điển rộng lớn không chi tày, <br/>Nguyện soi rõ trong tôi hiện nay. <br/>Như phận tôi, tuy hèn khinh, <br/>Nguyện soi rõ hạnh phước thiên đình. </dd><dt>Câu 6:</dt><dd data-verse="6">Nguyện Cha đoái người vốn luân vong này, <br/>Rày kết với Jê-sus một dây; <br/>Dòng sông sống tràn chảy luôn đêm ngày, <br/>Nguyện sông ấy chảy vô lòng ngay. <br/>Như phận tôi, tuy hèn khinh, <br/>Nguyện sông sống đầy dẫy tâm tình. </dd></dl>

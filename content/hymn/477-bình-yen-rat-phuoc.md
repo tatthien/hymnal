@@ -1,8 +1,8 @@
 ---
-song_number: 477
 title: 477. Bình Yên Rất Phước
+song-number: 477
 categories: Đời Tín Đồ
-sub_categories: Bình An
+sub-categories: Bình An
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Lòng thật khôn kể phước, phước bởi nay bình yên, <br/>Danh, lợi, quyền, dù ai ruổi bước. <br/>Tôi một lòng hưởng phước xuống ở nơi thượng thiên, <br/>Thiên thượng mừng sinh mạng Chúa biên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa được sinh mạng biên, Sách của Vua thượng thiên, <br/>Đến mãi mãi bình yên hưởng phước, khỏi cưu mang sầu riêng, <br/>ấy bởi Vua thượng thiên, Nắm giữ trong tay không đảo điên. </em></dd><dt>Câu 2:</dt><dd data-verse="2"> Bình tịnh vui vẻ bấy, chốn của Vua đại vinh, <br/>Tôi thật tình nhờ ân điển ấy. <br/>Đêm trọn ngày chỉ thấy phước lẫn khương, thọ, ninh, <br/>Sinh mạng mình vui chịu Thánh Linh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa được sinh mạng biên, Sách của Vua thượng thiên, <br/>Đến mãi mãi bình yên hưởng phước, khỏi cưu mang sầu riêng, <br/>ấy bởi Vua thượng thiên, Nắm giữ trong tay không đảo điên. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Rày được an ủi đến, cứ ở trong lòng tôi, <br/>Cai trị rồi, tình khôn cảm chánh, <br/>Tai họa đều phải tránh, chí vẫn vui hoài thôi; <br/>Không dập dồi sinh mạng của tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa được sinh mạng biên, Sách của Vua thượng thiên, <br/>Đến mãi mãi bình yên hưởng phước, khỏi cưu mang sầu riêng, <br/>ấy bởi Vua thượng thiên, Nắm giữ trong tay không đảo điên. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Bình tịnh nay bởi Chúa đến ở nơi lòng luôn, <br/>Vui hoặc buồn, hèn sang chẳng ngó, <br/>Cơn động trời chuyển gió đứng vững như cù lao <br/>Tay mặt Ngài vâng hộ phủ bao. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa được sinh mạng biên, Sách của Vua thượng thiên, <br/>Đến mãi mãi bình yên hưởng phước, khỏi cưu mang sầu riêng, <br/>ấy bởi Vua thượng thiên, Nắm giữ trong tay không đảo điên. </em></dd></dl>

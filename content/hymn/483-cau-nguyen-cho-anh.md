@@ -1,8 +1,8 @@
 ---
-song_number: 483
 title: 483. Cầu Nguyện Cho Anh
+song-number: 483
 categories: Đời Tín Đồi
-sub_categories: Phục Sự Chúa
+sub-categories: Phục Sự Chúa
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Mỗi ngày, Chân Chúa, tôi khẩn thiết cầu nguyện trên trời, <br/>Một mình Jê-sus rất thương tôi, không bạn nào thương. <br/>Ngài bằng lòng thương xót luôn hết mỗi người thật khiêm nhường, <br/>Tôi trông mong Jê-sus tôi, cũng Cứu Chúa của anh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôi đã khẩn Chúa giúp anh, <br/>Ban cho anh những ơn lành, <br/>Tôi chuyên tâm cầu nguyện luôn, <br/>Khẩn thiết kêu nài Cha thánh. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Kìa thật trên Chúa Cha vẫn đã phù hộ tôi nhiều, <br/>Từ trời Cha phán hứa ơn riêng trông cậy về sau. <br/>Một thì giờ kia chắc tôi với Chúa cùng gặp trên trời, <br/>Tôi xin anh đừng chậm chân, hãy kíp đến với Cha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôi đã khẩn Chúa giúp anh, <br/>Ban cho anh những ơn lành, <br/>Tôi chuyên tâm cầu nguyện luôn, <br/>Khẩn thiết kêu nài Cha thánh. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Kìa bạch y trắng tinh, giống tuyết màu thật xinh kỳ, <br/>Một ngày kia sẽ thấy trên thiên cung mặc đẹp thay. <br/>Diện mạo mình thay đổi ra cách sáng lòa và vinh diệu, <br/>Tôi trông mong hiện thời anh cũng có áo giống tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôi đã khẩn Chúa giúp anh, <br/>Ban cho anh những ơn lành, <br/>Tôi chuyên tâm cầu nguyện luôn, <br/>Khẩn thiết kêu nài Cha thánh. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Một ngày kia, Chúa ban phước lớn Ngài chuộc anh rồi, <br/>Thì thuật cho chúng biết ơn Jê-sus lạ lùng thay! <br/>Cùng cầu nguyện tha thiết xin Cứu Chúa dìu họ lên trời, <br/>Như tôi thay lời cầu xin Chúa Cứu Thế giúp anh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Tôi đã khẩn Chúa giúp anh, <br/>Ban cho anh những ơn lành, <br/>Tôi chuyên tâm cầu nguyện luôn, <br/>Khẩn thiết kêu nài Cha thánh. </em></dd></dl>

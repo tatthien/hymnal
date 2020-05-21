@@ -1,8 +1,8 @@
 ---
-song_number: 511
 title: 511. Bài Ca Vĩnh Cửu
+song-number: 511
 categories: Thờ Phượng
-sub_categories: Ngợi Khen Đức Chúa Trời
+sub-categories: Ngợi Khen Đức Chúa Trời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Nguyền cùng dâng lên Ngài bài thần ca. <br/>Tụng ngợi danh Đấng tạo lập thế giới. <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Khá hát vang lên trên toàn trần gian. <br/>Chúc tán Vua oai quyền đầy vinh hiển. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! Ha-lê-lu-gia! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nguyền tụng mỹ Chúa đời đời quang vinh. <br/>Trị vì nhân thế lòng đầy nhân ái. <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Ái đức yêu thương Ngài còn muôn thu. <br/>Dẫu khắp nhân gian thảy đều tiêu tan. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! Ha-lê-lu-gia! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngài từng trông thấy mọi người trầm luân. <br/>Đầy lòng thương xót định giờ giải phóng. <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Chính Đấng khi xưa tạo dựng nhân thế. <br/>Đoái đến đau thương mọi người trần gian. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! Ha-lê-lu-gia! </em></dd><dt>Câu 4:</dt><dd data-verse="4">Rời trời quang vinh hạ sinh cứu thế. <br/>Chuộc người ra khỏi sầu than tăm tối. <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Khá hát lên vang mọi người trần gian. <br/>Chúc tán Vua vinh diệu đầy tình yêu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Ha-lê-lu-gia! <br/>Ha-lê-lu-gia! Ha-lê-lu-gia! Ha-lê-lu-gia! </em></dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 629
 title: 629. Trở Về
+song-number: 629
 categories: Tin Lành
-sub_categories: Lời Mời
+sub-categories: Lời Mời
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Con bơ vơ bước chân đi giữa sa mạc khô, <br/>lòng buồn mang bao nhiêu đau thương mắt hoen mờ. <br/>Bao nhiêu năm tháng con ơ thờ, con đi xa Chúa nhưng bây giờ, <br/>trở về đây xin Chúa lau khô dòng lệ xưa. <br/>Con xa Ngài đời chợt lênh đênh <br/>như con thuyền lạc loài không bến. <br/>Gió cuốn đưa mịt mù vào đêm, <br/>Run sợ khi trùng dương vang tiếng. <br/>Nhưng hôm nay bước chân con đã quay về đây, <br/>lòng bình an con yên vui trong cánh tay Ngài. <br/>Con không lo gió mưa bên ngoài, <br/>con không than khóc như bao ngày. <br/>Vì lòng con vui sống trong hy vọng từ đây. <br/>Người người ơi, nghe tiếng Jê-sus lần nào chưa? </dd><dt>Câu 2:</dt><dd data-verse="2">Hôm nay tôi hát lên đây khúc ca tình yêu, <br/>gọi người đang đau thương cô đơn bước trong chiều. <br/>Ðang đi trong gió mưa tiêu điều, <br/>tâm tư cay đắng hoang mang nhiều, <br/>trở về đây bên Chúa Jê-sus nhận tình yêu. <br/>Trao cho Ngài mọi điều lo lắng, <br/>nương nơi Ngài đời thật êm ấm. <br/>Chúa sẽ cho lòng tràn bình an, <br/>hy vọng vì ngày mai tươi sáng. <br/>Mau lên đi những ai đang bước chân ngẩn ngơ. <br/>Trở về bên Jê-sus yêu thương chính bây giờ. <br/>Jê-sus đang thiết tha mong chờ. <br/>Ai ơi! xin chớ nên hững hờ. <br/>Người người ơi! Nghe tiếng Jê-sus lần nào chưa? <br/>Trở về đây bên Chúa Jê-sus nhận tình yêu. </dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 579
 title: 579. Chúa Chí Ái
+song-number: 579
 categories: Chúa Jêsus Christ
-sub_categories: Chịu Khổ Và Chết
+sub-categories: Chịu Khổ Và Chết
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ban mai đau thương này, Chúa bước lên đồi. <br/>Lê thân mang roi đòn đến Gô-gô-tha. <br/>Treo thân nơi thập hình mình đầy thương tích. <br/>Ðể cứu mỗi một người khỏi nơi khổ hình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cứu Chúa chí ái ôi! bởi cớ thế nhân này <br/>Treo thân nơi thập hình để cứu rỗi chúng sinh. <br/>Ngài mang đau thương này vì tội nhân hư mất, <br/>Chúa chết cách khổ hình bởi tội lỗi nầy. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Cha ôi! Xin tha họ! Jê-sus kêu cầu. <br/>Ðang khi trên thập hình huyết tuôn chan hòa. <br/>Jê-sus kêu xin vì tội nhân hư mất. <br/>Lúc đang đớn đau, thật chẳng ai sánh Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cứu Chúa chí ái ôi! bởi cớ thế nhân này <br/>Treo thân nơi thập hình để cứu rỗi chúng sinh. <br/>Ngài mang đau thương này vì tội nhân hư mất, <br/>Chúa chết cách khổ hình bởi tội lỗi nầy. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Jê-sus, tôi yêu Ngài! Hát tôn vinh Ngài. <br/>Ðem thân mua tôi, là thiết hữu tôi rày. <br/>Bên kia con sông vàng còn đâu năm tháng. <br/>Ở trên lưỡi tôi lời hát khen chảy tràn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cứu Chúa chí ái ôi! bởi cớ thế nhân này <br/>Treo thân nơi thập hình để cứu rỗi chúng sinh. <br/>Ngài mang đau thương này vì tội nhân hư mất, <br/>Chúa chết cách khổ hình bởi tội lỗi nầy. </em></dd></dl>

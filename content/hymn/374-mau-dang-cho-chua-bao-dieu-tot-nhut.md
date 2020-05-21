@@ -1,8 +1,8 @@
 ---
-song_number: 374
 title: 374. Mau Dâng Cho Chúa Bao Điều Tốt Nhứt
+song-number: 374
 categories: Thanh Niên
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Mau dâng cho Chúa bao điều tốt nhứt, <br/>Thời thanh xuân luôn cả năng lực; <br/>Đem tâm tươi mới luôn bầu máu nóng, <br/>Giảng Tin Lành, chẳng nao lòng. <br/>Jê-sus Christ xưa treo gương lạ lùng, <br/>Rất mực can đảm, rất anh hùng; <br/>Bạn khá dâng tâm yêu thương chẳng phai, <br/>Dâng điều chi tốt nhứt cho Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mau dâng cho Chúa bao điều tốt nhứt, <br/>Thời thanh xuân luôn cả năng lực; <br/>Mang nhung trang cứu rỗi nhờ sức thánh, <br/>Đấu tranh vì lẽ Tin Lành. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Mau dâng cho Chúa bao điều tốt nhứt, <br/>Điều cao hơn hết của tâm lực; <br/>Bao nhiêu công tác, trước vì Chúa Thánh, <br/>Hãy dâng vẹn vẻ trung thành; <br/>Vì nếu anh dâng, ơn Cha trả dồi, <br/>Chúa vì ta phó Con Một rồi; <br/>Lòng biết ơn nên lo phục sự hoài, <br/>Dâng điều chi tốt nhứt cho Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mau dâng cho Chúa bao điều tốt nhứt, <br/>Thời thanh xuân luôn cả năng lực; <br/>Mang nhung trang cứu rỗi nhờ sức thánh, <br/>Đấu tranh vì lẽ Tin Lành. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Mau dâng cho Chúa bao điều tốt nhứt, <br/>Nào chi so nhân ái Chúa được, <br/>Cam tâm xa chốn thiên đàng chói sáng, <br/>Cứu anh Ngài bỏ thân vàng. <br/>Ngài chẳng thở than vui chịu nhục hình, <br/>Để chuộc anh thoát ly tội tình; <br/>Vậy hãy dâng tâm linh thờ Ngài hoài, <br/>Dâng điều chi tốt nhứt cho Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Mau dâng cho Chúa bao điều tốt nhứt, <br/>Thời thanh xuân luôn cả năng lực; <br/>Mang nhung trang cứu rỗi nhờ sức thánh, <br/>Đấu tranh vì lẽ Tin Lành. </em></dd></dl>

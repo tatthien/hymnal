@@ -1,8 +1,8 @@
 ---
-song_number: 208
 title: 208. Ngài Vực Tôi
+song-number: 208
 categories: Đời Tín Đồ
-sub_categories: Vui Vẻ Vì Được Cứu
+sub-categories: Vui Vẻ Vì Được Cứu
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Vì lòng yêu thương, Jê-sus đã đến, <br/>Để đỡ linh hồn của chính tôi lên; <br/>Từ hầm tội dục, nhục ô, hôi thối, <br/>Chúa lấy ơn nâng vực tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài vực tôi thoát khỏi chốn tội tình, <br/>Dùng tay âu yếm cứu vớt thân, linh. <br/>Từ trong hang thẳm lên chốn cao thay, <br/>Đáng ngợi Jê-sus, Đấng vớt tôi rày! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ngài gọi tôi khi lòng chưa nghe thấy, <br/>Trước lúc linh động ở ác tâm đây; <br/>Từ hồi tôi tin lời hứa báu bối, <br/>Chúa thứ tha, nâng vực tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài vực tôi thoát khỏi chốn tội tình, <br/>Dùng tay âu yếm cứu vớt thân, linh. <br/>Từ trong hang thẳm lên chốn cao thay, <br/>Đáng ngợi Jê-sus, Đấng vớt tôi rày! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Kìa, Ngài đưa tay còn vết huyết thấm, <br/>Với trán mang đầy những dấu gai đâm; <br/>Thật vì tôi đây chìm trong tăm tối, <br/>Chúa lấy yêu thương vực tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài vực tôi thoát khỏi chốn tội tình, <br/>Dùng tay âu yếm cứu vớt thân, linh. <br/>Từ trong hang thẳm lên chốn cao thay, <br/>Đáng ngợi Jê-sus, Đấng vớt tôi rày! </em></dd><dt>Câu 4:</dt><dd data-verse="4">Lòng nầy hiện được mừng vui sung sướng, <br/>Sống chốn cao thượng, xuất thế an khương; <br/>Dầu vậy tôi khôn thuật ra manh mối, <br/>Với cách Jê-sus vực tôi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài vực tôi thoát khỏi chốn tội tình, <br/>Dùng tay âu yếm cứu vớt thân, linh. <br/>Từ trong hang thẳm lên chốn cao thay, <br/>Đáng ngợi Jê-sus, Đấng vớt tôi rày! </em></dd></dl>

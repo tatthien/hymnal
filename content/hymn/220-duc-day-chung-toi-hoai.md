@@ -1,8 +1,8 @@
 ---
-song_number: 220
 title: 220. Dức Dấy Chúng Tôi Hoài
+song-number: 220
 categories: Đời Tín Đồ
-sub_categories: Ngợi Khen Vì Được Cứu
+sub-categories: Ngợi Khen Vì Được Cứu
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ngợi khen Cha thiêng liêng, <br/>hằng yêu thương tôi vô biên, <br/>đành ban Jê-sus chết thay, <br/>đã sống sau thăng thiên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Kính khen Jê-sus, <br/>Ha-lê-lu-gia! A-men; Ha-lê-lu-gia! <br/>Kính khen Jê-sus, dức dấy chúng tôi hoài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Ngợi khen Cha cao sang, <br/>từng ban Thánh Linh chân quang, <br/>dạy Jê-sus cho chúng tôi, <br/>đuổi tối tăm tiêu tan. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Kính khen Jê-sus, <br/>Ha-lê-lu-gia! A-men; Ha-lê-lu-gia! <br/>Kính khen Jê-sus, dức dấy chúng tôi hoài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngợi khen Cha cao minh, <br/>về Chiên Con xưa hy sinh. <br/>Từng mang bao gian ác tôi, <br/>phiếu trắng trong tâm linh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Kính khen Jê-sus, <br/>Ha-lê-lu-gia! A-men; Ha-lê-lu-gia! <br/>Kính khen Jê-sus, dức dấy chúng tôi hoài. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Ngợi khen Cha khoan nhân, <br/>chuộc mua tôi nên thiên dân. <br/>Tìm đưa tôi lên hải tân, <br/>dẫn dắt trong linh ân. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Kính khen Jê-sus, <br/>Ha-lê-lu-gia! A-men; Ha-lê-lu-gia! <br/>Kính khen Jê-sus, dức dấy chúng tôi hoài. </em></dd><dt>Câu 5:</dt><dd data-verse="4"> Phục hưng tâm tôi luôn, <br/>cầu Cha ban ơn yêu thương, <br/>hằng nhen tâm tôi cháy thêm, <br/>tỏa ngát bao thiên hương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ha-lê-lu-gia! Kính khen Jê-sus, <br/>Ha-lê-lu-gia! A-men; Ha-lê-lu-gia! <br/>Kính khen Jê-sus, dức dấy chúng tôi hoài. </em></dd></dl>

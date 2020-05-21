@@ -1,8 +1,8 @@
 ---
-song_number: 145
 title: 145. Nền Hội Thánh Trên Bàn Thạch Kiên Cố
+song-number: 145
 categories: Hội Thánh
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Nền Hội Thánh trên Bàn Thạch kiên cố, <br/>Dù cho có khi lầu chuông sập rồi; <br/>Mọi hình thức tuy đều bị xiêu đổ, <br/>Mà chuông vẫn vang rền luôn khuyên mời <br/>Những ai già nua, thanh niên, nhi đồng <br/>Lòng đang đớn đau khiếp kinh, phập phồng, <br/>Nóng nảy mong được nghỉ yên vô cùng </dd><dt>Câu 2:</dt><dd data-verse="2">Đền thờ bởi tay người ta xây cất, <br/>Thần cao khiết trên trời không ngự vào; <br/>Đền Ngài tối linh tuyệt vô trên đất, <br/>Đền hoa mỹ nhân tạo so kịp nào; <br/>Cả khung trời không bao dung được Ngài, <br/>Lạ thay Chúa thích ở trong nhân loại, <br/>Để cất một đền ở thân đây hoài. </dd><dt>Câu 3:</dt><dd data-verse="3">Đền là chúng ta lập nguyên đá sống, <br/>Làm nơi trú cư Ngài trên dương trần; <br/>Ngài chuộc chúng ta bằng huyết bi thống, <br/>Làm con kế nghiệp thừa hưởng linh phần; <br/>Nếu hai người chung nhân danh Jê-sus, <br/>Ngài tất giáng lâm với ơn Thiên Phụ, <br/>Lấy ái tâm làm chiếc khiên hộ phù. </dd><dt>Câu 4:</dt><dd data-verse="4">Đền này chúng ta hiện xây trên đất, <br/>Là nơi nhóm nhau ngợi khen, phụng thờ, <br/>Là nhà Chúa ưa vào ra duy nhất, <br/>Ngài vui bế nâng, bầy con dại khờ; <br/>Biết bao điều hay ta nghe nơi này, <br/>Là nơi kết ước Chúa ta sum vầy, <br/>Khiến chúng ta thừa hưởng phước cao dày. </dd><dt>Câu 5:</dt><dd data-verse="5">Nầy hồ báp-têm dạy ta nên biết, <br/>Một quy tắc ban truyền nên tuân hành; <br/>Kìa, tòa giảng phô bày Christ dâng huyết, <br/>Bàn tiệc thánh liên hiệp ta một nhành; <br/>Ở đây là nơi cao rao Tin Lành, <br/>Ngày qua bữa nay mai Christ chân thành, <br/>Phải Chúa ta đầy hiển vinh thiên thành. </dd></dl>

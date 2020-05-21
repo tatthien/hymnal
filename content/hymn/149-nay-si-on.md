@@ -1,8 +1,8 @@
 ---
-song_number: 149
 title: 149. Nầy Si-Ôn
+song-number: 149
 categories: Hội Thánh
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Nầy Si-ôn, thành Chúa muôn đời ơi! <br/>Biết bao giai thoại về ngươi; <br/>Thật do Chúa thành tín đã dựng xây <br/>Chốn ngươi nên nhà Ngài ngự đây; <br/>Ngươi đứng trên nền Đá sống vô hình, <br/>Quyết không gì làm cho rung rinh, <br/>Vách cứu rỗi bao phủ ngươi muôn thu, <br/>Nhà ngươi mỉm môi cười kẻ thù. </dd><dt>Câu 2:</dt><dd data-verse="2">Kìa, vô số sông sống luôn từ nơi <br/>Suối yêu thương đêm ngày trào sôi, <br/>Làm cho mỗi con cái ngươi bình an, <br/>Hết khát khao, không còn thở than; <br/>Khi đứng bên dòng nước sống tuôn tràn, <br/>Có ai còn buồn lo than van? <br/>Chúa Đấng ban ân điển không thay dời, <br/>Ngài muôn thuở, ơn còn muôn đời. </dd><dt>Câu 3:</dt><dd data-verse="3">Kìa, trên mỗi nhà ở trong thành đây, <br/>Có lửa mây bao bọc lạ thay! <br/>Lòa vinh hiển và chở che bầy con, <br/>Chứng tỏ Giê-hô-va gần luôn; <br/>Giê-hô-va là ánh lửa đêm trường, <br/>Bóng bao trùm ngày ngươi an khương, <br/>Bánh ma-na ban xuống nuôi ngươi hoài, <br/>Hồi ngươi vững tin cầu khẩn Ngài. </dd><dt>Câu 4:</dt><dd data-verse="4">Lạy Giê-hô-va nếu tôi được ơn, <br/>Chép tên tôi dân thành Si-ôn, <br/>Dầu nhân thế nhạo báng, chê cười tôi, <br/>Quyết khoe khoang trong Jê-sus thôi; <br/>Vui thú trên đời chóng phai mau tàn, <br/>Phú vinh dường bèo dạt mây tan; <br/>Các thú vui châu báu muôn năm còn, <br/>Được hưởng chỉ dân thành Si-ôn. </dd></dl>

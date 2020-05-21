@@ -1,8 +1,8 @@
 ---
-song_number: 509
 title: 509. Ngày Giờ Qua
+song-number: 509
 categories: Năm Mới
-sub_categories: 
+sub-categories: 
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Ngày giờ qua, qua, qua <br/>dường như tên bắn chóng quá, <br/>Nước chảy qua, bóng cũ xa. <br/>Kìa một năm qua, đâu còn lưu giây phút nấn ná, <br/>Cảnh cũ qua, hết thảy qua. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa tân xuân đến kia, chim ca hoan nghinh, <br/>Khắp non sông báo tin bình minh. <br/>Cùng nhau ta sống vui trong ơn quang vinh, <br/>Chúc cho nhau khúc ca vĩnh sinh. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Bầu trời đông mông lung <br/>ngày nay đâu có thấy bóng, <br/>Chúa tử vong, hết ruổi dong <br/>Bầu trời xuân mênh mông <br/>nghìn muôn tia lớp, lớp sóng <br/>Phước mãn song, rất thỏa mong. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa tân xuân đến kia, chim ca hoan nghinh, <br/>Khắp non sông báo tin bình minh. <br/>Cùng nhau ta sống vui trong ơn quang vinh, <br/>Chúc cho nhau khúc ca vĩnh sinh. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngày hùng thiêng, non sông hùng thiêng, <br/>vui hát lớn tiếng, <br/>Khắp hải xuyên, hưởng phước thiêng; <br/>Nguyện cùng nhau trên con đường <br/>thiêng năm mới cứ tiến <br/>Bước chẳng nghiêng, đứng vững yên. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa tân xuân đến kia, chim ca hoan nghinh, <br/>Khắp non sông báo tin bình minh. <br/>Cùng nhau ta sống vui trong ơn quang vinh, <br/>Chúc cho nhau khúc ca vĩnh sinh. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Kìa vườn lan tươi xanh, <br/>kìa sương mai chiếu lóng lánh, <br/>Cảnh tú thanh, ánh vĩnh sanh, <br/>Cùng mừng xuân ta vui <br/>hòa thanh ca khúc phước khánh, <br/>Chúa vĩnh sanh, rất sáng danh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Kìa tân xuân đến kia, chim ca hoan nghinh, <br/>Khắp non sông báo tin bình minh. <br/>Cùng nhau ta sống vui trong ơn quang vinh, <br/>Chúc cho nhau khúc ca vĩnh sinh. </em></dd></dl>

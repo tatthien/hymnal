@@ -1,8 +1,8 @@
 ---
-song_number: 281
 title: 281. Christ Rõ Tâm Trạng
+song-number: 281
 categories: Đời Tín Đồ
-sub_categories: Sự An Ủi
+sub-categories: Sự An Ủi
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Hồi cùng cực, cơn phong ba, <br/>Christ rõ tâm trạng, <br/>Phán êm dịu bên tai ta: <br/>“Ngươi khá bình an, <br/>Đừng phàn nàn hay lo âu”; <br/>Đem hết khúc nôi cho Ngài, <br/>Christ chắc cứu không chậm đâu, <br/>Giúp ta được thỏa mãn hoài. </dd><dt>Câu 2:</dt><dd data-verse="2">Hồi cùng đường, khi phân tâm, <br/>Christ biết tinh tường, <br/>Thánh ngôn Ngài là phương châm, <br/>Ta bước bình khương. <br/>Tùy thì giờ ban thêm ơn, <br/>Đưa dắt lối ta không lầm, <br/>Do Đức Thánh Linh dìu chơn, <br/>Chẳng lo hoàn cảnh thăng trầm. </dd><dt>Câu 3:</dt><dd data-verse="3">Gặp hồi người nghịch vu oan, <br/>Christ rất ân cần, <br/>Chớ nên lập mưu báo oán, <br/>Giao Chúa biện phân; <br/>Ngài là trạng sư minh oan, <br/>Không phải ý Cha không sợ, <br/>Ai có thế gây họa đoan, <br/>Christ bảo hộ mỗi một giờ. </dd><dt>Câu 4:</dt><dd data-verse="4">Hồi mình lầm lạc chơi vơi, <br/>Christ biết ngay rồi; <br/>Chúa nghiêm nghị khuyên: <br/>“Con ơi, sao dám phạm tội? <br/>Đừng liều mình, ăn năn ngay, <br/>E nhớp thánh y công bình, <br/>Nên tỉnh thức xưng tội nay, <br/>Có ta biện thế minh tình”. </dd><dt>Câu 5:</dt><dd data-verse="5">Hồi tuyệt vọng, khi băn khoăn, <br/>Christ rõ trăm đường, <br/>Dắt ta bằng tay linh năng, <br/>Nhắc đến tình thương; <br/>Mọi điều hồ nghi tiêu tan, <br/>Vui sống, vững tin, trung thành, <br/>Đi với Chúa vui mừng thay, <br/>Nhắm ngay mục đích tiến hành. </dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 834
 title: 834. Toàn Cầu Phục Hưng
+song-number: 834
 categories: Đời Tín Đồ
-sub_categories: Phục Hưng
+sub-categories: Phục Hưng
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Xin Cha ban cơn mưa phước ơn <br/>Bởi hứa ngôn từ chân kinh. <br/>Xin ban linh trên thân xác đây <br/>Vì hứa ngôn xưa biểu minh. <br/>Xin ban cơn mưa trên chúng tôi <br/>Đến lúc nước chảy ngập đồng. <br/>Cho sa mạc vang tiếng vui ca <br/>Và đồng vắng trổ hoa hồng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nguyện cầu Ngài ban quyền năng. <br/>Nguyện cầu Ngài ban quyền năng. <br/>Hỡi Chúa giáng linh năng trên chúng tôi nay, <br/>ban đầy dẫy đây. Cầu Ngài đổ xuống <br/> như cơn thủy triều tràn dâng ngoài đại dương. <br/>Nguyện ngọn lửa phấn hưng cháy bùng <br/>trong tôi trước đi Ngài ôi! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Xin Cha ban một cơn phấn hưng <br/>Khắp cả trên hoàn cầu đây. <br/>Xin linh năng từ nơi chí cao <br/>tràn xuống trên chúng tôi nay. <br/>Toàn cầu này được mua bởi chính <br/>Huyết quý báu của Con Ngài. <br/>Thoát khỏi quyền ma quỷ lâu nay <br/>Và chiến thắng ác khiên rày. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nguyện cầu Ngài ban quyền năng. <br/>Nguyện cầu Ngài ban quyền năng. <br/>Hỡi Chúa giáng linh năng trên chúng tôi nay, <br/>ban đầy dẫy đây. Cầu Ngài đổ xuống <br/> như cơn thủy triều tràn dâng ngoài đại dương. <br/>Nguyện ngọn lửa phấn hưng cháy bùng <br/>trong tôi trước đi Ngài ôi! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Xin Cha cho nghe tiếng giống như <br/>“Tiếng lướt trên ngọn cây dâu.” <br/>Mang tin vui cho muôn quốc gia <br/>vì thế nhân đang mong chờ. <br/>Đây con thơ đang vang khẩn Cha, <br/>Chúa chí ái, Đấng nhân từ. <br/>Xin năng quyền mau giáng lâm đây <br/>Phục hưng khắp thế gian này. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nguyện cầu Ngài ban quyền năng. <br/>Nguyện cầu Ngài ban quyền năng. <br/>Hỡi Chúa giáng linh năng trên chúng tôi nay, <br/>ban đầy dẫy đây. Cầu Ngài đổ xuống <br/> như cơn thủy triều tràn dâng ngoài đại dương. <br/>Nguyện ngọn lửa phấn hưng cháy bùng <br/>trong tôi trước đi Ngài ôi! </em></dd></dl>

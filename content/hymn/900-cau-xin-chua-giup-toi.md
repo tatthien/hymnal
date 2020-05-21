@@ -1,8 +1,8 @@
 ---
-song_number: 900
 title: 900. Cầu Xin Chúa Giúp Tôi
+song-number: 900
 categories: Hợp Ca
-sub_categories: Nam Ban
+sub-categories: Nam Ban
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Lòng tôi hằng mong hành trang cuộc sống <br/>là tâm trí vui tươi và trắng trong. <br/>Nhìn lên trời xanh niềm tin bừng sáng, <br/>Cầu xin Chúa giúp tôi không hề u buồn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngày Ngài đến sáng ngời trên áng mây cao vời. <br/>Chúa vinh hiển vui mừng thấy tôi tín trung. <br/>Làm xong trọng trách, vượt bao thử thách. <br/>Cầu xin Chúa thấy trong trôi lòng trung thành. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lòng tôi hằng mong dầu khi cùng khốn <br/>càng thêm vững tâm tin cậy Chúa hơn. <br/>Gạt qua một bên lợi danh trần thế. <br/>Cầu xin Chúa giúp tôi không hề nao lòng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngày Ngài đến sáng ngời trên áng mây cao vời. <br/>Chúa vinh hiển vui mừng thấy tôi tín trung. <br/>Làm xong trọng trách, vượt bao thử thách. <br/>Cầu xin Chúa thấy trong trôi lòng trung thành. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Lòng tôi hằng mong giờ êm dịu ấy <br/>khi tôi ném sau lưng mọi đắng cay. <br/>Gần Cha từ ái lòng êm đềm thay. <br/>Cầu xin Chúa giúp tôi không hề xa Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngày Ngài đến sáng ngời trên áng mây cao vời. <br/>Chúa vinh hiển vui mừng thấy tôi tín trung. <br/>Làm xong trọng trách, vượt bao thử thách. <br/>Cầu xin Chúa thấy trong trôi lòng trung thành. </em></dd></dl>

@@ -1,8 +1,8 @@
 ---
-song_number: 111
 title: 111. Ngài Sống
+song-number: 111
 categories: Chúa Jêsus Christ
-sub_categories: Phục Sinh
+sub-categories: Phục Sinh
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1"> Hầu việc Jê-sus Đấng sống nay, ngự trong dương thế rõ ràng, <br/>Lòng biết chắc Chúa sống trăm phần, mặc ai đa nghi vấn nan; <br/>Lời Ngài tôi nghe thỏa thích thay, nhìn tay thương xót rõ ràng, <br/>Ngài hằng gần tôi khi nhu yếu, phỉ phu mọi đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài sống, Ngài sống, Chúa Jê-sus sống hiện rày! <br/>Đi chung trò chuyện suốt lối hẹp hòi, tâm tôi vui mừng thư thái; <br/>Ngài sống, Ngài sống, để ban ơn cứu ta đấy; <br/>Nếu hỏi chứng cứ Chúa sống đâu nào, <br/>Rằng Chúa sống trong lòng này! </em></dd><dt>Câu 2:</dt><dd data-verse="2">Hằng ngày tôi xem thế giới đây, Ngài đang săn sóc mỗi điều, <br/>Lòng quyết chẳng thể thất vọng được, dầu tôi gian nan tỏ xiêu; <br/>Nhìn nhận Jê-sus dẫn dắt tôi, vượt qua cơn sóng gió nhiều, <br/>Hy vọng gặp Jê-sus ta đến, biết đâu mai chiều. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài sống, Ngài sống, Chúa Jê-sus sống hiện rày! <br/>Đi chung trò chuyện suốt lối hẹp hòi, tâm tôi vui mừng thư thái; <br/>Ngài sống, Ngài sống, để ban ơn cứu ta đấy; <br/>Nếu hỏi chứng cứ Chúa sống đâu nào, <br/>Rằng Chúa sống trong lòng này! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Này cùng vui lên giáo hữu ơi, hòa thanh tâu khúc khải hoàn, <br/>Bài Ha-lê-lu-gia muôn đời, Jê-sus Christ Vua hiển vang; <br/>Nguồn cậy trông cho kẻ kiếm nay, hộ phương cho kẻ đã gặp, <br/>Không người nào hiền lành nhân ái, sánh Jê-sus kịp. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài sống, Ngài sống, Chúa Jê-sus sống hiện rày! <br/>Đi chung trò chuyện suốt lối hẹp hòi, tâm tôi vui mừng thư thái; <br/>Ngài sống, Ngài sống, để ban ơn cứu ta đấy; <br/>Nếu hỏi chứng cứ Chúa sống đâu nào, <br/>Rằng Chúa sống trong lòng này! </em></dd></dl>

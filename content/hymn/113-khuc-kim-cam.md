@@ -1,8 +1,8 @@
 ---
-song_number: 113
 title: 113. Khúc Kim Cầm
+song-number: 113
 categories: Chúa Jêsus Christ
-sub_categories: Thăng Thiên
+sub-categories: Thăng Thiên
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Réo rắt bấy khúc kim cầm, <br/>Sứ thánh ca ly kỳ, <br/>Cửa ngọc kia mở toang rồi, <br/>Rước Thánh Vương trị vì. <br/>Kìa, Christ Vua rất hiển vang, <br/>Lòng từ ái chứa chan, <br/>Về trời ca khúc khải hoàn, <br/>Được tiếp lên ngai vàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cứu Chúa đã mãn công rồi. <br/>Chúng tôi vui tôn ngợi; <br/>Ngài hồi loan trên cõi trời, <br/>Thật hiển vinh muôn đời! </em></dd><dt>Câu 2:</dt><dd data-verse="2"> Đấng đã đến cứu muôn người, <br/>Huyết đổ, tim tan tành, <br/>Đấng hiện đương khoác kim miện <br/>Ở bên Cha nhơn lành. <br/>Từ rày còn đâu đớn đau, <br/>Đời đời sống hiển vinh, <br/>Jê-sus Vua vinh hiển kia, <br/>Từ đất lên thiên đình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cứu Chúa đã mãn công rồi. <br/>Chúng tôi vui tôn ngợi; <br/>Ngài hồi loan trên cõi trời, <br/>Thật hiển vinh muôn đời! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Chúa vẫn thế các con Ngài, <br/>Khẩn Chúa Cha đêm ngày, <br/>Giúp bầy chiên những ơn lành, <br/>Đến nơi vinh quang Ngài. <br/>Ngài dự bị thiên quốc cung, <br/>Dành phần kẻ tín trung, <br/>Jê-sus Christ Vua vĩnh tồn, <br/>Ngài mến ta vô cùng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Cứu Chúa đã mãn công rồi. <br/>Chúng tôi vui tôn ngợi; <br/>Ngài hồi loan trên cõi trời, <br/>Thật hiển vinh muôn đời! </em></dd></dl>

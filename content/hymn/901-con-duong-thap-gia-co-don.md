@@ -1,8 +1,8 @@
 ---
-song_number: 901
 title: 901. Con Đường Thập Giá Cô Đơn
+song-number: 901
 categories: Hợp Ca
-sub_categories: Nam Ban
+sub-categories: Nam Ban
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Đường trường gai góc Chúa đi một mình, <br/>Chất ngất trên vai bao nhiêu tội tình. <br/>Vườn xưa xa vắng quân thù vây quanh, <br/>Phút lâm nguy môn đồ xa lánh. <br/>Bầu trời đen tối mây che mịt mờ, <br/>Chúa chết thay tôi ơn sâu nào ngờ. <br/>Chịu bao đau đớn không lời than van, <br/>Trên con đường thập giá gian nan. <br/>Đồi xưa Chúa cam chịu nhục hình, <br/>Chúa yêu thương nhân loại điêu linh. <br/>Đồi Gô-gô-tha chói sáng vinh quang, <br/>Cứu vớt bao linh hồn về thiên đàng. <br/>Bầu trời tăm tối mây vương ngập đồi, <br/>Lúc Chúa hy sinh thay cho loài người. <br/>Tình thương Cứu Chúa không gì cao hơn, <br/>Ôi con đường thập giá cô đơn. </dd><dt>Câu 2:</dt><dd data-verse="2">Đường trường gai góc Chúa đi một mình, <br/>Gánh vác thay cho tôi muôn dân tội tình. <br/>Người chung quanh đứng chê cười xôn xao. <br/>Mũ gai như vương miện đẫm máu. <br/>Rồi khi ngọn giáo đâm bên cạnh sườn, <br/>Huyết thánh tuôn rơi suối thiêng khởi nguồn. <br/>Hồn Ngài giao thác quy về tay Cha, <br/>Con giao hồn trong cánh tay Cha. <br/>Màn che xé đôi trong điện thờ, <br/>Tối tăm vương khung trời ban trưa. <br/>Mà Gô-gô-tha chói sáng vinh quang, <br/>Ánh sáng thiên cung tràn ngập huy hoàng. <br/>Ngày nay theo Chúa đi trên đường trần, <br/>Dẫu lắm gian nan, quyết không ngại ngần. <br/>Lòng yêu mến Chúa suốt đời keo sơn, <br/>Yêu con đường thập giá cô đơn. </dd></dl>

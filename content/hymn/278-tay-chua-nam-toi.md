@@ -1,8 +1,8 @@
 ---
-song_number: 278
 title: 278. Tay Chúa Nắm Tôi
+song-number: 278
 categories: Đời Tín Đồ
-sub_categories: Bình An Vui Vẻ
+sub-categories: Bình An Vui Vẻ
 draft: false
 ---
 <dl><dt>Câu 1:</dt><dd data-verse="1">Êm thay, vui bấy chính chỗ tôi dựa yên, <br/>Không đau thương nữa, chẳng bóng quân thù xen, <br/>Ôi Jê-sus tôi yên tĩnh thỏa nguyện bấy! <br/>Thật nhờ tay Chúa nắm tôi càng chắc đây. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vui thay cho tôi được yên tịnh lạ lùng! <br/>Nương nơi Jê-sus tôi thấy ơn lành đầy lòng, <br/>Nầy, hằng ngày Ngài an ủi, phủ che hồn tôi, <br/>Thật là tay Chúa nắm tôi chặt lắm ôi!. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tôi nghiêng bên Chúa má ướt đôi dòng châu, <br/>Êm êm câu Chúa phán khiến nguôi phiền âu, <br/>Ngài rờ lòng này do cánh tay huyền bí, <br/>Hiện thời còn nắm giữ tôi từng bước đi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vui thay cho tôi được yên tịnh lạ lùng! <br/>Nương nơi Jê-sus tôi thấy ơn lành đầy lòng, <br/>Nầy, hằng ngày Ngài an ủi, phủ che hồn tôi, <br/>Thật là tay Chúa nắm tôi chặt lắm ôi! </em></dd><dt>Câu 3:</dt><dd data-verse="3">Tuy mưa ma gió quỷ bốn bên gào vang, <br/>Nhưng không xâm hãm nổi chỗ tôi bình an, <br/>Bao cơn tai ương tôi chẳng tổn hại chi, <br/>Thật bình yên dưới cánh Jê-sus bất di. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vui thay cho tôi được yên tịnh lạ lùng! <br/>Nương nơi Jê-sus tôi thấy ơn lành đầy lòng, <br/>Nầy, hằng ngày Ngài an ủi, phủ che hồn tôi, <br/>Thật là tay Chúa nắm tôi chặt lắm ôi! </em></dd></dl>
