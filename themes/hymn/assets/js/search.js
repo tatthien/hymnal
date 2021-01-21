@@ -6,7 +6,7 @@ const search = instantsearch({
   indexName: 'prod_HYMN',
   routing: true,
   searchParameters: {
-    hitsPerPage: 8
+    hitsPerPage:4
   },
   searchFunction (helper) {
     if (helper.state.query.trim() !== '') {
